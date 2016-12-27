@@ -131,12 +131,68 @@
 
 
 
-</div> <!--heads ends-->
+
+</div> <!--header ends-->
+
+
+
+
+
 
 
 
 <!--intro-->
-<div class="jumbotron intro" id="banner">
+<div class="intro" id="banner">
+
+    <!--slider-->
+    <div id="myCarousel" class="carousel slide">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for Slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <!-- Set the first background image using inline CSS below. -->
+                <div class="fill" style="background-image:url('image/cs1.jpg');"></div>
+                <div class="carousel-caption">
+                    <h2>Caption 1</h2>
+                </div>
+            </div>
+
+            <div class="item">
+                <!-- Set the second background image using inline CSS below. -->
+                <div class="fill" style="background-image:url('image/cs2.jpg');"></div>
+                <div class="carousel-caption">
+                    <h2>Caption 2</h2>
+                </div>
+            </div>
+
+            <div class="item">
+                <!-- Set the third background image using inline CSS below. -->
+                <div class="fill" style="background-image:url('image/cs3.jpg');"></div>
+                <div class="carousel-caption">
+                    <h2>Caption 3</h2>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="icon-next"></span>
+        </a>
+
+    </div>
+
+    <!--Slider ends-->
+
 </div>
 
 
@@ -433,7 +489,7 @@
 
 <script>
 
-    $(document).ready(function(){
+
 
          $("#a_pwd").click(function(){
              $(".login").addClass("hidden",5000);
@@ -450,8 +506,13 @@
         });
 
 
-    });
 
+
+
+    <!-- Script to Activate the Carousel -->
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
 
 
 </script>
@@ -459,6 +520,12 @@
 
 
 </div>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
+
 
 
 </body>
