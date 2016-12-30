@@ -308,6 +308,9 @@ div.collaborating-transition {
     border: 8px solid #fdfdfd;
 
 
+}
+
+.collaborating img {
 
 }
 
@@ -330,27 +333,31 @@ div.collaborating-transition {
 
 .collaborating .row .col-md-3:nth-child(1){
     background: url("../image/cl-1.png") center center no-repeat;
-    height: 400px;
+    height: inherit;
     background-size: cover;
+    padding-bottom: 60px;
 }
 
 
 .collaborating .row .col-md-3:nth-child(2){
     background: url("../image/cl-2.png") center center no-repeat;
-    height: 400px;
+    height: inherit;
     background-size: cover;
+    padding-bottom: 60px;
 }
 
 .collaborating .row .col-md-3:nth-child(3){
     background: url("../image/cl-3.png") center center no-repeat;
-    height: 400px;
+    height: inherit;
     background-size: cover;
+    padding-bottom: 60px;
 }
 
 .collaborating .row .col-md-3:nth-child(4){
     background: url("../image/cl-4.png") center center no-repeat;
-    height: 400px;
+    height: inherit;
     background-size: cover;
+    padding-bottom: 60px;
 }
 
 .discover h2{
@@ -368,25 +375,26 @@ div.collaborating-transition {
     margin-bottom: 30px;
 }
 
-div.partner {
+div.partner img {
+    margin: 0 auto;
 
 }
 
 div.footer{
     margin-top: 40px;
-    height: 450px;
+    height: 390px;
     background: #2c2c2c;
 }
 
 div#footercontainer {
-    padding-top: 80px;
+    padding-top: 60px;
 }
 
 .footer h3{
     color: #d4d4d4;
     font-size: 14px;
     opacity: 0.6;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .footer form {
@@ -427,7 +435,7 @@ div#footercontainer {
 }
 
 #footertop  {
-    margin-top: 80px;
+    margin-top: 40px;
 }
 
 .footer span {
@@ -438,9 +446,12 @@ div#footercontainer {
 
 
 .footer {
-    padding-bottom: 400px;
+    padding-bottom: 100px;
 }
 
+div.footer {
+    height: initial;
+}
 
 .modal-body input{
     width: 50%;
@@ -502,4 +513,24 @@ div#myModal {
 
 }
 
+@media screen and (max-width: 991px) {
 
+    .collaborating .row .col-md-3 h3 {
+
+        margin-top: 20%;
+        margin-bottom: 10%;
+
+    }
+
+    div.collaborating .row .col-md-3 {
+        width: 50%;
+        margin: 0px auto;
+    }
+
+
+    .header img.img-responsive {
+        display: none;
+    }
+
+
+}
