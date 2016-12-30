@@ -375,6 +375,12 @@ div.collaborating-transition {
     margin-bottom: 30px;
 }
 
+
+#hide-div{
+    opacity: 0;
+    z-index: 300;
+}
+
 div.partner img {
     margin: 0 auto;
 
