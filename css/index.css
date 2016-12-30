@@ -520,9 +520,7 @@ div#myModal {
 }
 
 @media screen and (max-width: 991px) {
-
     .collaborating .row .col-md-3 h3 {
-
         margin-top: 20%;
         margin-bottom: 10%;
 
@@ -532,7 +530,6 @@ div#myModal {
         width: 50%;
         margin: 0px auto;
     }
-
 
     .header img.img-responsive {
         display: none;

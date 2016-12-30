@@ -28,8 +28,9 @@ $('.carousel').carousel({
 <!-- Script to control partner items -->
     $(window).scroll(function(){
         if ($(this).scrollTop() > 3400) {
-            $("#hide-div").delay(100).animate({opacity:'1'},1500);
+            $("#hide-div").delay(100).animate({opacity:'1'},2000);
         }
     });
+
 
 
