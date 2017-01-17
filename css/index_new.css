@@ -1,0 +1,283 @@
+/*Header div*/
+
+
+.header .col-md-4 ul li {
+    display: inline;
+    padding: 5px 10px;
+    border: 2px solid white;
+    margin-right: 5px;
+}
+
+.header ul li a {
+    color: white;
+}
+
+.header .col-md-7 ul li {
+    display: inline;
+    padding: 5px 10px;
+
+    margin-right: 20px;
+    font-size: 15px;
+
+
+
+}
+
+.header .col-md-7 ul {
+    margin-top: 18px;
+    color: white;
+    text-align: center;
+
+}
+
+
+div.header > .row {
+    margin:0
+}
+
+.header .col-md-4 ul {
+    margin-top: 18px;
+    color: white;
+    text-align: end;
+}
+
+.header div.col-md-4 {
+    text-align: end;
+
+}
+
+.header h2 {
+    color:white;
+    margin-top: 12px;
+
+
+}
+
+
+
+
+
+div.header {
+    padding: 0;
+    margin: 0;
+
+}
+
+div.container.header .row {
+    padding:0;
+    margin: 0;
+}
+
+div.header.container {
+
+
+
+}
+
+div.row.navbar-fixed-top {
+    background-color: #2c2c2c;
+    opacity: 0.9;
+    padding: 0 20px;
+}
+
+div.header {
+    background: url("../image/cs2.jpg") center center no-repeat;
+    min-height: 100vh;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+
+}
+
+/*about div*/
+div.about {
+    margin-top: 70px;
+}
+
+.about h5 {
+    color: darkgrey;
+
+}
+
+
+.about h2 {
+    margin-top: 0px;
+}
+
+.about .col-lg-6 h2::after {
+    background: #F2184F;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 60px;
+}
+
+
+
+
+
+.about h4{
+    margin-top: 30px;
+}
+
+.about p{
+    margin-top: 20px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+
+
+.about a:nth-child(5){
+    padding: 15px 30px;
+    background-color: #122b40;
+    color: white;
+
+}
+
+/*program div*/
+div.program.jumbotron {
+    margin-top: 50px;
+}
+
+.program span {
+    color:#F2184F;
+}
+
+.program .container .row h2::after {
+    background: #F2184F;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 60px;
+}
+
+
+img.img-responsive {
+    height: 250px;
+    width: 100%;
+
+}
+
+div.program-pic {
+    margin-top: 20px;
+}
+
+.program-pic .col-md-3 {
+    padding: 30px 10px;
+    background-color: whitesmoke;
+    border:3px solid #e2e2e2;
+
+}
+
+.program-pic h3 {
+    margin: 10px 0;
+}
+
+.program-pic h3::after{
+    background: #F2184F;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 60px;
+    margin: 6px 0;
+}
+
+.program-pic p{
+    font-size: 14px;
+}
+
+.program-pic a{
+    padding: 8px 20px;
+    background-color: #122b40;
+    color:white;
+    border-radius: 5px;
+}
+
+
+/*footer*/
+div.footer {
+    padding-top: 60px;
+    color: white;
+    background-color: #2c2c2c;
+}
+
+.footer a {
+  color: white;
+    text-decoration: none;
+}
+
+
+.footer p {
+    display: inline;
+}
+
+.footer ul {
+    text-decoration: none;
+    list-style-type:none;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+
+}
+
+.footer img {
+
+    height: 60px;
+    width: 140px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+div.footer.container.col-lg-4 {
+    margin-top: 100px;
+}
+
+.footer ul li{
+    line-height: 23px;
+    border-bottom: 1px dashed gray;
+    display: block;
+    text-align: start;
+
+
+}
+
+.footer h4{
+    text-align: center;
+
+}
+.footer.row.col-lg-4 {
+    margin: 30px;
+
+
+}
+
+div.row.subscribe-bar {
+    margin-bottom: 60px;
+}
+
+.footer button{
+    background-color: #ff1657;
+    color: white;
+}
+
+.footer .row {
+    padding-left:50px;
+    padding-right: 50px;
+}
+
+
+div.input-group {
+    padding: 5px 20px;
+}
+
+.footer i{
+    color: #ff1657;
+    font-weight: bold;
+}
