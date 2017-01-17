@@ -30,9 +30,9 @@
                     <li><a href="#"> Home </a></li>
                     <li><a href="#"> Program </a></li>
                     <li><a href="#"> Teacher </a></li>
-                    <li><a href="#"> Career </a></li>
                     <li><a href="#"> About </a></li>
                     <li><a href="#"> Blog </a></li>
+                    <li><a href="#"> Career </a></li>
                     <li><a href="#"> Contact </a></li>
 
                 </ul>
@@ -123,91 +123,44 @@
 
 <!--Testimony-->
 
+
 <!-- Partner -->
 <div class="partner">
+  <div class="container">
+      <div class="row">
+         <div class="col-md-2">
+             <img src="image/p1.png" class="img-responsive img-circle">
 
+         </div>
+          <div class="col-md-2">
+              <img src="image/p2.png" class=" img-responsive img-circle">
+
+          </div>
+          <div class="col-md-2">
+              <img src="image/p3.png" class="img-responsive img-circle">
+
+          </div>
+          <div class="col-md-2">
+              <img src="image/p4.png" class=" img-responsive img-circle">
+
+          </div>
+          <div class="col-md-2">
+              <img src="image/p5.png" class=" img-responsive img-circle">
+
+          </div>
+          <div class="col-md-2">
+              <img src="image/p6.png" class=" img-responsive img-circle">
+
+          </div>
+      </div>
+  </div>
 </div>
+
 
 <!-- Footer -->
-<div class="footer">
-   <div class="container">
-       <div class="row">
-           <div class="col-lg-4">
-               <img src="image/img_placeholder.jpg"  class="img-responsive">
-           </div>
-           <div class="col-lg-4">
-               <h4>Links</h4>
-           </div>
-           <div class="col-lg-4">
-               <h4>Operating Hours</h4>
-           </div>
-       </div>
-       <div class="row ">
-           <div class="col-lg-4 footer-address">
-
-
-               <ul>
-                   <li> <P>222 3rd Street, Suite 3150, Cambridge, MA 02142</P></li>
-                   <li><i class="fa fa-phone" aria-hidden="true"></i>&nbsp<p>&nbsp617-577-7770</p> </li>
-                   <li> <i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp<p>&nbspfdf@giantbug.com</p> </li>
-                   <li> <i class="fa fa-globe" aria-hidden="true"></i>&nbsp<p>&nbsphttp://knovva.com</p></li>
-               </ul>
-
-
-           </div>
-           <div class="col-lg-4 footer-links">
-
-               <ul>
-                   <li><a href="#">Program</a></li>
-                   <li><a href="#">Teacher</a></li>
-                   <li><a href="#">Career</a></li>
-                   <li><a href="#">About</a></li>
-                   <li><a href="#">Blog</a></li>
-                   <li><a href="#">Contact</a></li>
-               </ul>
-
-           </div>
-           <div class="col-lg-4 footer-hours">
-
-               <ul>
-                   <li>Mon - Fri:   6:00am - 10:00pm</li>
-                   <li>Sat - Sun:   Closed</li>
-               </ul>
-           </div>
-       </div>
-       <hr>
-       <div class="row subscribe-bar">
-           <div class="col-lg-3">
-               <label>Call Us Now</label>
-
-           </div>
-           <div class="col-lg-3">
-               <label>Connect With Us</label>
-           </div>
-
-           <div class="col-lg-6">
-
-               <div class="input-group">
-                   <input type="text" class="form-control" placeholder="Your Email">
-                   <span class="input-group-btn">
-                       <button class="btn btn-default" type="button">Subscribe</button>
-                   </span>
-               </div>
-           </div>
-       </div>
-
-       <div class="row">
-           <div class="col-lg-3">
-               <h6>Copyright 2016 </h6>
-           </div>
-           <div class="col-lg-9">
-
-           </div>
-       </div>
-
-   </div>
-
-</div>
+<?php
+include ("footer.php");
+?>
 
 
 
