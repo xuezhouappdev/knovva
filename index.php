@@ -15,71 +15,13 @@
 </head>
 <body>
 
-<!--Header-->
-<div class="header ">
-    <div class="container">
+<?php
+include "header.php";
 
-        <div class="row navbar-fixed-top">
-            <div class="col-md-1">
-                <h2>LOGO</h2>
-            </div>
-
-            <div class="col-md-7">
-                <ul>
-                    <li><a href="#"> Home </a></li>
-                    <li><a href="#"> Program </a></li>
-                    <li><a href="#"> Teacher </a></li>
-                    <li><a href="#"> About </a></li>
-                    <li><a href="#"> Blog </a></li>
-                    <li><a href="#"> Career </a></li>
-                    <li><a href="#"> Contact </a></li>
-
-                </ul>
-            </div>
-
-            <div class="col-md-4">
-                <ul>
-                    <li><a href="#"> APPLY </a></li>
-                    <li><a href="#" id="header-sb"> SUBSCRIBE </a></li>
-                    <li><a href="#"> FAQ </a></li>
-
-                </ul>
-
-
-            </div>
-        </div>
-
-    </div>
-
-</div>
-
-
-<!-- overlay -->
-
-<div class="subscribe-overlay" id="myNav">
-   <div class="container">
-       <div class="row">
-           <a><i class="fa fa-times" id="crosssign" aria-hidden="true"></i></a>
-       </div>
-
-       <div class="row">
-           <div class="sb-input">
+?>
 
 
 
-               <div class="overlay-content">
-                   <div class="input-group middle">
-                       <input type="text" class="form-control" placeholder="Your Email">
-                       <span class="input-group-btn">
-                           <button class="btn btn-default" type="button">Subscribe</button>
-                       </span>
-                   </div>
-               </div>
-           </div>
-       </div>
-
-   </div>
-</div>
 
 <!--ABOUT -->
 <div class="about">
