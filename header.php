@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Knovva Home</title>
+    <title>Knovva Header</title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
@@ -28,7 +28,7 @@ SEPERATELY-->
 
             <div class="col-md-7">
                 <ul>
-                    <li><a href="#"> Home </a></li>
+                    <li><a href="index.php"> Home </a></li>
                     <li><a href="#"> Program </a></li>
                     <li><a href="#"> Teacher </a></li>
                     <li><a href="#"> About </a></li>

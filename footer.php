@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>footer</title>
+    <title>KNOVVA footer</title>
 
 
 
@@ -21,7 +21,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4">
-                <img src="image/img_placeholder.jpg"  class="img-responsive">
+                <img src="image/logo.png"  class="img-responsive">
             </div>
             <div class="col-lg-4">
                 <h4>Links</h4>

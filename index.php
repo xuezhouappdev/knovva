@@ -88,17 +88,78 @@ include "header.php";
 
 </div>
 
-<!--Teacher-->
+
 
 <!--Testimony-->
 <div class="tesimony">
     <div class="container">
         <div class="row">
+            <h5>Happy Students</h5>
+            <h2>TESTIMONIALS</h2>
+        </div>
 
+        <div class="row">
+            <div class="col-md-2">
+                <img src="image/profile-img1.jpg" class="img-circle">
+            </div>
+            <div class="col-md-4">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et </p>
+                <h6><span>Jay Chou.</span><i>&nbspCEO apple Inc</i></h6>
+            </div>
+            <div class="col-md-2">
+                <img src="image/profile-img2.jpg" class="img-circle">
+            </div>
+            <div class="col-md-4">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et </p>
+                <h6><span>Heyden Bea.</span><i>&nbspCTO startbucks Inc</i></h6>
+            </div>
         </div>
     </div>
 </div>
 
+<!--Teacher-->
+<div class="teacher jumbotron">
+    <div class="container">
+        <div class="row">
+            <h2>OUR <span>TEACHERS</span></h2>
+        </div>
+
+
+        <div class="row teacher-pic ">
+            <div class="col-md-3">
+                <img src="image/cl-1.png" class="img-responsive">
+                <h3>Program A</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
+                <a>VIEW DETAILS</a>
+            </div>
+
+            <div class="col-md-3">
+                <img src="image/cl-2.png" class="img-responsive">
+                <h3>Program B</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
+                <a>VIEW DETAILS</a>
+            </div>
+
+            <div class="col-md-3">
+                <img src="image/cl-3.png" class="img-responsive">
+                <h3>Program C</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
+                <a>VIEW DETAILS</a>
+            </div>
+
+            <div class="col-md-3">
+                <img src="image/cl-4.png" class="img-responsive">
+                <h3>Program D</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
+                <a>VIEW DETAILS</a>
+            </div>
+        </div>
+    </div>
+
+
+
+
+</div>
 
 <!-- Partner -->
 <div class="partner">
