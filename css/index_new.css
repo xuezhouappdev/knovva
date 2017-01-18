@@ -13,20 +13,34 @@
 }
 
 .header ul li a:hover {
-    color:  #F2184F;
     text-decoration: none;
-
+    color:#F2184F;
+    font-weight: bold;
 }
 
+.header .col-md-4 ul li:hover {
+    color:white;
+    background: #F2184F;
+    text-decoration: none;
+}
 
-
+.header .col-md-4 ul li a:hover {
+    color:white;
+    background: #F2184F;
+    text-decoration: none;
+    font-weight: normal;
+}
 
 .header .col-md-7 ul li {
     display: inline;
     padding: 5px 10px;
     margin-right: 20px;
     font-size: 15px;
+}
 
+.header.col-md-7 ul li:hover {
+    color:#F2184F;
+    text-decoration: none;
 }
 
 .header .col-md-7 ul {
@@ -73,7 +87,6 @@ div.container.header .row {
 }
 
 div.header.container {
-
 
 
 }
@@ -194,7 +207,9 @@ div.program-pic {
     margin: 6px 0;
 }
 
-.program-pic p{
+
+
+.program.jumbotron p {
     font-size: 14px;
 }
 
@@ -224,6 +239,41 @@ div.partner {
 .partner .row {
     width: 85%;
     margin: 0 auto;
+}
+
+/*Overlay */
+div.subscribe-overlay {
+    width: 100%;
+    z-index: 1032;
+    height: 100vh;
+    background: #2c2c2c;
+    position: absolute;
+    top:0;
+    opacity: 0.9;
+}
+
+div.subscribe-overlay i{
+    color:white;
+    font-size: 25px;
+    margin-top: 20px;
+
+}
+
+div.subscribe-overlay {
+    text-align: right;
+}
+
+div.input-group.middle{
+
+    padding: 25% 25%;
+
+
+}
+
+
+.subscribe-overlay .btn.btn-default{
+    background: #ff1657;
+    color: white;
 }
 
 
