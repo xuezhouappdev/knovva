@@ -1,3 +1,10 @@
+/*General*/
+a,i{
+    cursor: pointer;
+}
+
+
+
 /*!*Header div*!
 
 
@@ -225,6 +232,16 @@ div.program-pic {
     border-radius: 5px;
 }
 
+
+
+
+.program-pic a:hover {
+    background-color: #F2184F;
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+
 div.program.jumbotron {
     margin-bottom: 0;
     padding-bottom: 70px;
@@ -403,6 +420,9 @@ div.teacher-pic {
     margin: 6px 0;
 }
 
+.teacher-pic .img-responsive {
+    padding:10px;
+}
 
 
 .teacher.jumbotron p {
@@ -414,9 +434,35 @@ div.teacher-pic {
     background-color: #122b40;
     color:white;
     border-radius: 5px;
+
+    margin-left: 10px;
+    position: relative;
+    top:-5px;
+}
+
+.teacher-pic a:hover{
+
+    background-color: #F2184F;
+    text-decoration: none;
+    color: whitesmoke;
+
+
+
 }
 
 div.teacher.jumbotron {
     margin-bottom: 0;
     padding-bottom: 70px;
+}
+
+.teacher.jumbotron.teacher-pic h5 span {
+    font-size: 8px;
+}
+
+.teacher-pic i{
+    font-size: 30px;
+    padding: 5px 5px;
+    margin-top: 5px;
+    line-height: 5px;
+
 }

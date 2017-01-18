@@ -127,30 +127,35 @@ include "header.php";
 
         <div class="row teacher-pic ">
             <div class="col-md-3">
-                <img src="image/cl-1.png" class="img-responsive">
-                <h3>Program A</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
+                <img src="image/profile-img1.jpg" class="img-responsive">
+                <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
+
+                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
                 <a>VIEW DETAILS</a>
             </div>
 
             <div class="col-md-3">
-                <img src="image/cl-2.png" class="img-responsive">
-                <h3>Program B</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
+                <img src="image/profile-img1.jpg" class="img-responsive">
+                <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit</p>
+                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
                 <a>VIEW DETAILS</a>
             </div>
 
             <div class="col-md-3">
-                <img src="image/cl-3.png" class="img-responsive">
-                <h3>Program C</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
+                <img src="image/profile-img1.jpg" class="img-responsive">
+                <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
+                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
                 <a>VIEW DETAILS</a>
             </div>
 
             <div class="col-md-3">
-                <img src="image/cl-4.png" class="img-responsive">
-                <h3>Program D</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
+                <img src="image/profile-img1.jpg" class="img-responsive">
+                <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
+                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
                 <a>VIEW DETAILS</a>
             </div>
         </div>
