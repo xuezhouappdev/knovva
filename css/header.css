@@ -1,5 +1,9 @@
 /*Header div*/
 
+div.row.navbar-fixed-top {
+    border-bottom: 3px solid #F2184F;
+}
+
 .header .col-md-4 ul li {
     display: inline;
     padding: 5px 10px;
