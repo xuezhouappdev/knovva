@@ -87,6 +87,11 @@ div.map {
     color: whitesmoke;
     padding: 10px 40px ;
 
+
+}
+
+.map .col-md-12 button:hover{
+    background: #F2184F;
 }
 
 .map input, .map textarea {
