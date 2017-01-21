@@ -1,0 +1,159 @@
+html {
+    width: 100%;
+    overflow-x:hidden;
+}
+
+
+.fa.fa-times {
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+.fa.fa-times:hover {
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    color: #ff1657;
+}
+
+
+a {
+    color: #b6b6b6;
+}
+
+div.form-wrapper {
+    height: 100vh;
+    background: black;
+    opacity: 0.8;
+    color: white;
+}
+
+h5.cross,hr {
+    margin: 5px;
+    color: gray;
+    opacity: 0.6;
+
+}
+
+
+
+/*media*/
+@media only screen and (max-width: 992px) {
+   html,body {
+
+   }
+
+
+
+}
+
+
+
+
+
+/*Form */
+div.form_wrapper.container  {
+    color: white;
+}
+
+
+
+.form_header .col-sm-1 {
+    text-align: end;
+}
+
+
+div.error {
+    color: #ff6b6f;
+}
+
+div.tab-content{
+    margin-top: 20vh;
+}
+
+ul.nav.point {
+    margin-top: 25vh;
+    color:gray;
+
+
+}
+
+div.nav-tabs {
+    border-bottom: none;
+}
+
+
+div.nav.nav-tabs.point {
+    border-bottom: none;
+}
+
+ul#myTab  {
+    border-bottom: none;
+}
+
+.nav-tabs>li>a:hover {
+    background: none;
+    border: transparent;
+    color: #ff1657;
+}
+
+.nav-tabs.red li a:hover {
+    background: none;
+    border: transparent;
+    color: #ff1657;
+}
+
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #ff1657;
+    cursor: default;
+    background-color: transparent;
+    border: none;
+    border-bottom-color: transparent;
+}
+
+
+li.nav-item.active {
+    background-color: transparent;
+}
+
+
+
+.tab-content label {
+    font-size: 50px;
+
+}
+
+/* input */
+
+.tab-content .form-control {
+    height: 40px;
+    border-left: none;
+    border-right:none;
+    border-top:none;
+}
+
+
+/* button */
+
+button.btn-default.btn {
+    background-color: black;
+    border-color: white;
+    padding:8px 40px;
+    color: white;
+    float:END;
+
+
+}
+
+
+div.btn-div {
+    text-align: right;
+}
+
+button.btn-default.btn:hover {
+    background-color: #F2184F;
+
+
+}

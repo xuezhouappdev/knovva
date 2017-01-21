@@ -1,6 +1,6 @@
 <?php
 
-function authenticate() {
+/*function authenticate() {
     if($_SERVER['PHP_AUTH_USER'] !=='admin' && $_SERVER['PHP_AUTH_PW'] !=='admin' ) {
 
         header('WWW-Authenticate: Basic realm="My Realm"');
@@ -11,7 +11,7 @@ function authenticate() {
 
 }
 
-authenticate();
+authenticate();*/
 
 ?>
 
