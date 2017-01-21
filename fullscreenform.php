@@ -14,25 +14,14 @@
 </head>
 <body>
 
-<?php
 
-$tabnum =1;
-$errormsg = "default error";
-
-
-
-?>
-
-<script>
-    var tabnum ="test";
-</script>
 
 
 <div class="form-wrapper">
 
     <div class="row">
         <div class="col-md-12">
-            <h5 class="cross" align="right"><i class="fa fa-times" aria-hidden="true" ></i></h5>
+            <h5 id="cross-btn" align="right"><i class="fa fa-times" aria-hidden="true" ></i></h5>
             <hr>
         </div>
     </div>
@@ -48,7 +37,7 @@ $errormsg = "default error";
                     <h1>Welcome to GiantBug Foundation</h1>
                 </div>
                 <div class="col-md-1">
-                    <h2 id="counter">?/6</h2>
+                    <h2 ><span id="counter"></span>/4</h2>
                 </div>
 
             </div><!--row for form header ends-->
@@ -67,7 +56,7 @@ $errormsg = "default error";
                                     <div class="col-md-10">
                                         <div class="error">
 
-                                            <h5><?php echo $errormsg; ?></h5>
+                                            <h5 class="error-msg"></h5>
                                         </div>
                                     <form>
                                             <div class="form-group">
@@ -96,7 +85,7 @@ $errormsg = "default error";
 
                                 <div class="col-md-10">
                                     <div class="error">
-                                        <h5>ERROR OUTPUT HERE</h5>
+                                        <h5 class="error-msg"></h5>
                                     </div>
 
                                     <form>
@@ -117,7 +106,8 @@ $errormsg = "default error";
                                     </form>
 
                                 </div>
-                            </div>                        </div>
+                            </div>
+                        </div>
 
                         <!--Step2-->
                         <div id="menu2" class="tab-pane fade container" role="tabpanel">
@@ -125,7 +115,7 @@ $errormsg = "default error";
 
                                 <div class="col-md-10">
                                     <div class="error">
-                                        <h5>ERROR OUTPUT HERE</h5>
+                                        <h5 class="error-msg"></h5>
                                     </div>
 
                                     <form>
@@ -155,7 +145,7 @@ $errormsg = "default error";
 
                                 <div class="col-md-10">
                                     <div class="error">
-                                        <h5>ERROR OUTPUT HERE</h5>
+                                        <h5 class="error-msg"></h5>
                                     </div>
 
                                     <form>
@@ -192,16 +182,16 @@ $errormsg = "default error";
                 <div class="col-md-1">
                     <ul class="nav nav-tabs point" id="myTab" role="tablist">
                         <li class="nav-item active">
-                            <a class="nav-link active" data-toggle="tab" href="#home" role="tab" aria-controls="home"><i class="fa fa-circle" aria-hidden="true"></i></a>
+                            <a class="nav-link active" data-toggle="tab" href="#home" role="tab" aria-controls="1"><i class="fa fa-circle" aria-hidden="true"></i></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#menu1" role="tab" aria-controls="menu1"><i class="fa fa-circle" aria-hidden="true"></i></a>
+                            <a class="nav-link" data-toggle="tab" href="#menu1" role="tab" aria-controls="2"><i class="fa fa-circle" aria-hidden="true"></i></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#menu2" role="tab" aria-controls="menu2"><i class="fa fa-circle" aria-hidden="true"></i></a>
+                            <a class="nav-link" data-toggle="tab" href="#menu2" role="tab" aria-controls="3"><i class="fa fa-circle" aria-hidden="true"></i></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#menu3" role="tab" aria-controls="menu3"><i class="fa fa-circle" aria-hidden="true"></i></a>
+                            <a class="nav-link" data-toggle="tab" href="#menu3" role="tab" aria-controls="4"><i class="fa fa-circle" aria-hidden="true"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -223,21 +213,34 @@ $errormsg = "default error";
 
     $(document).ready(function(){
 
+        $("#counter").html(1);
+        $(".error-msg").html("Error Messages display here");
+
         var hash = window.location.hash;
         hash && $('ul.nav a[href="' + hash + '"]').tab('show');
 
-
+            //PREV button
             $(".prev").click(function () {
-                    $('.nav-tabs').find('.active').prev('li').find('a').tab('show');
-
+                if(parseInt($('li.nav-item.active').find('a').attr('aria-controls'))>1) {
+                    $("#counter").html(parseInt($('li.nav-item.active').find('a').attr('aria-controls')) - 1);
+                }
+                $('.nav-tabs').find('.active').prev('li').find('a').tab('show');
             });
 
 
-            //next
-
+            //NEXT BUTTON
             $(".next").click(function () {
+              if(parseInt($('li.nav-item.active').find('a').attr('aria-controls'))<4) {
+                  $("#counter").html(parseInt($('li.nav-item.active').find('a').attr('aria-controls')) + 1);
+              }
                 $('.nav-tabs>.active').next('li').find('a').tab('show');
             });
+
+
+        //jump to index page;
+        $("#cross-btn").click(function(){
+            window.location.href = "index.php";
+        })
 
     });
 

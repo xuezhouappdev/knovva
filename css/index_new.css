@@ -124,6 +124,7 @@ div.header {
 /*about div*/
 div.about {
     margin-top: 70px;
+    position:relative;
 }
 
 .about h5 {

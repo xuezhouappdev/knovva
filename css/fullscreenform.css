@@ -1,19 +1,20 @@
-html {
+.form-wrapper body,html {
     width: 100%;
     overflow-x:hidden;
 }
 
 
+
 .fa.fa-times {
     font-size: 25px;
-    margin: 0;
-    padding: 0;
+    margin: 0px 10px;
+
+
 }
 
 .fa.fa-times:hover {
     font-size: 25px;
-    margin: 0;
-    padding: 0;
+    cursor: pointer;
     color: #ff1657;
 }
 
@@ -24,9 +25,12 @@ a {
 
 div.form-wrapper {
     height: 100vh;
-    background: black;
-    opacity: 0.8;
+    width: 100%;
+    background: #2c2c2c;
+    opacity: 1;
     color: white;
+
+
 }
 
 h5.cross,hr {
@@ -139,7 +143,8 @@ li.nav-item.active {
 
 button.btn-default.btn {
     background-color: black;
-    border-color: white;
+
+
     padding:8px 40px;
     color: white;
     float:END;
