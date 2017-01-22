@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
     <!--font-->
     <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
-    <link rel="stylesheet" href="css/fullscreenform.css">
+    <link rel="stylesheet" href="css/intro.css">
 
 </head>
 <body>
