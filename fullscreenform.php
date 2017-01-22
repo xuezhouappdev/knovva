@@ -19,13 +19,15 @@
 
 <div class="form-wrapper">
 
+
+
     <div class="row">
         <div class="col-md-12">
             <h5 id="cross-btn" align="right"><i class="fa fa-times" aria-hidden="true" ></i></h5>
             <hr>
         </div>
     </div>
-
+        <div class="inner-wrapper">
 
         <div class="container">
 
@@ -37,7 +39,7 @@
                     <h1>Welcome to GiantBug Foundation</h1>
                 </div>
                 <div class="col-md-1">
-                    <h2 ><span id="counter"></span>/4</h2>
+                    <h2 id="counter"></h2>
                 </div>
 
             </div><!--row for form header ends-->
@@ -58,16 +60,19 @@
 
                                             <h5 class="error-msg"></h5>
                                         </div>
-                                    <form>
+
+                                        <form>
                                             <div class="form-group">
                                                 <label for="pc_name">What's your name?</label><!-- PC stands for potential client-->
                                                 <input class="form-control" name="pc_name" >
                                             </div>
+
+
                                         <div class="button-block">
                                             <div class="container">
                                                 <div class="row">
                                                     <div class="col-sm-10 btn-div">
-                                                        <button  class="prev btn-default btn" type="button" >PREV</button>
+                                                        <button  class="prev btn-default btn hidden" type="button" >PREV</button>
                                                         <button  class="next btn-default btn" type="button" >NEXT</button>
                                                     </div>
                                                 </div>
@@ -170,6 +175,37 @@
                             </div>
                         </div>
 
+                        <!--Step4-->
+                        <div id="menu4" class="tab-pane fade container" role="tabpanel">
+                            <div class="row form-body">
+
+                                <div class="col-md-10">
+                                    <div class="error">
+                                        <h5 class="error-msg"></h5>
+                                    </div>
+
+                                    <form>
+                                        <div class="form-group">
+                                            <label for="pc_email">What is your interest?</label><!-- PC stands for potential client-->
+                                            <input class="form-control" name="pc_interest" >
+                                        </div>
+
+                                        <div class="button-block">
+                                            <div class="container">
+                                                <div class="row">
+                                                    <div class="col-sm-10 btn-div">
+                                                        <button  class="prev btn-default btn" type="button">PREV</button>
+                                                        <button  class="next btn-default btn" type="button">NEXT</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+
 
 
                     </div>
@@ -193,9 +229,13 @@
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="tab" href="#menu3" role="tab" aria-controls="4"><i class="fa fa-circle" aria-hidden="true"></i></a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#menu4" role="tab" aria-controls="5"><i class="fa fa-circle" aria-hidden="true"></i></a>
+                        </li>
+
                     </ul>
                 </div>
-
+            </div>
 <script>
 
 </script>
@@ -212,30 +252,57 @@
 
 
     $(document).ready(function(){
+        var inputnum = $("input").length;
 
-        $("#counter").html(1);
-        $(".error-msg").html("Error Messages display here");
 
+
+
+
+        $("#counter").html(1+"/"+inputnum);
+        $(".error-msg").html("");
         var hash = window.location.hash;
         hash && $('ul.nav a[href="' + hash + '"]').tab('show');
 
             //PREV button
             $(".prev").click(function () {
                 if(parseInt($('li.nav-item.active').find('a').attr('aria-controls'))>1) {
-                    $("#counter").html(parseInt($('li.nav-item.active').find('a').attr('aria-controls')) - 1);
+                    $("#counter").html(parseInt($('li.nav-item.active').find('a').attr('aria-controls')) - 1+"/"+inputnum);
                 }
                 $('.nav-tabs').find('.active').prev('li').find('a').tab('show');
             });
 
+            //NEXT BUTTON---------------------------------------------------------------------------------------------------------------------------------------
+            $(".next").click(function (e) {
 
-            //NEXT BUTTON
-            $(".next").click(function () {
-              if(parseInt($('li.nav-item.active').find('a').attr('aria-controls'))<4) {
-                  $("#counter").html(parseInt($('li.nav-item.active').find('a').attr('aria-controls')) + 1);
-              }
-                $('.nav-tabs>.active').next('li').find('a').tab('show');
+                //alert($(this).parents("form").find("input").val());
+
+                if($(this).parents("form").find("input").val()=="" ) {
+                    $(".error-msg").text("Please fill the field before going to the next step");
+                }
+
+                else{
+                    $(".error-msg").text("");
+                    if(parseInt($('.nav-tabs>.active').find('a').attr('aria-controls'))<4) {
+                        $("#counter").html(parseInt($('li.nav-item.active').find('a').attr('aria-controls')) + 1+"/"+inputnum);
+                    }
+                    $('.nav-tabs>.active').next().find('a').tab('show');
+                }
+
+
             });
 
+        //input verification
+
+
+        //disable the a
+        $('a.nav-link').click(function (e) {
+            // custom handling here
+            $(".error-msg").text("");
+            var counter2 = $(this).attr("aria-controls");
+           // alert(counter2);
+            $("#counter").html(parseInt(counter2)+"/"+inputnum);
+
+        });
 
         //jump to index page;
         $("#cross-btn").click(function(){

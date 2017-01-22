@@ -1,22 +1,49 @@
 .form-wrapper body,html {
     width: 100%;
     overflow-x:hidden;
+
 }
 
-
+.inner-wrapper h1 {
+    font-size: 20px;
+}
 
 .fa.fa-times {
-    font-size: 25px;
+    font-size: 35px;
     margin: 0px 10px;
+    color: #ff1657;
+    font-weight: bold;
 
 
 }
 
 .fa.fa-times:hover {
-    font-size: 25px;
+    font-size: 35px;
     cursor: pointer;
-    color: #ff1657;
+    color: #fdfdfd;
 }
+
+
+div.inner-wrapper>.container {
+
+    background: black;
+    opacity: 0.8;
+    margin-top: 15vh;
+    padding-bottom: 20px;
+    box-shadow: 10px 10px 800px #fdfdfd;
+    border-radius: 0px 60px 0px 60px;
+    padding-left: 40px;
+    padding-right:40px;
+
+
+}
+
+
+a.nav-link {
+    padding: 0px;
+    margin: 0px;
+}
+
 
 
 a {
@@ -29,14 +56,18 @@ div.form-wrapper {
     background: #2c2c2c;
     opacity: 1;
     color: white;
+    background: url("../image/wall2.jpg") center center no-repeat;
+    background-size:cover;
+
 
 
 }
 
 h5.cross,hr {
     margin: 5px;
-    color: gray;
-    opacity: 0.6;
+
+    opacity: 1;
+    color: whitesmoke;
 
 }
 
@@ -69,17 +100,28 @@ div.form_wrapper.container  {
 
 
 div.error {
-    color: #ff6b6f;
+    color: #ff454a;
+}
+
+h5.error-msg {
+  font-size: 25px;
 }
 
 div.tab-content{
-    margin-top: 20vh;
+    margin-top: 5vh;
+    padding-bottom: 30px;
+    height: 300px;
 }
 
 ul.nav.point {
-    margin-top: 25vh;
+    margin-top: 10vh;
     color:gray;
+    margin-bottom:30px;
 
+
+}
+
+div.row.form-body{
 
 }
 
@@ -94,7 +136,9 @@ div.nav.nav-tabs.point {
 
 ul#myTab  {
     border-bottom: none;
+    font-size: 20px;
 }
+
 
 .nav-tabs>li>a:hover {
     background: none;
@@ -142,9 +186,9 @@ li.nav-item.active {
 /* button */
 
 button.btn-default.btn {
-    background-color: black;
+    background-color: #ff1657;
 
-
+    border-color: #ff1657;
     padding:8px 40px;
     color: white;
     float:END;
@@ -153,12 +197,17 @@ button.btn-default.btn {
 }
 
 
+div.col-sm-10.btn-div {
+    margin-top: 80px;
+}
+
 div.btn-div {
     text-align: right;
 }
 
 button.btn-default.btn:hover {
-    background-color: #F2184F;
+    background-color: #181818;
 
 
 }
+
