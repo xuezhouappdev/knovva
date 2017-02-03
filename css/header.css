@@ -32,6 +32,7 @@ div.row.navbar-fixed-top {
     background: #F2184F;
     text-decoration: none;
     font-weight: normal;
+
 }
 
 .header .col-md-7 ul li {
@@ -148,4 +149,37 @@ div.input-group.middle{
     color: white;
 }
 
+/* dropdown*/
 
+
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ff3e68;
+    min-width: 260px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    top:28px;
+    left: 10px;
+    z-index: 999;
+    color: whitesmoke;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    text-decoration: none;
+}

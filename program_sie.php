@@ -45,8 +45,8 @@ include "header.php";
                 </div>
                 <div class="container">
                     <div class="activity-title">
-                        <h2>SOCIAL INNOVATION <br>AND ENTREPRENEURSHIP
-                        </h2>
+                        <h1>SOCIAL INNOVATION <br>AND ENTREPRENEURSHIP
+                        </h1>
                         <hr>
                         <h5>For: 9th - 12th graders from around the world  </h5>
                         <h5> Program Dates: December 2017 – July 2018. Registration opening soon.</h5>
