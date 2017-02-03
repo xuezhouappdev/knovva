@@ -29,8 +29,8 @@ SEPERATELY-->
             <div class="col-md-7">
                 <ul>
                     <li><a href="index.php"> Home </a></li>
-                    <li><a href="#"> Program </a></li>
-                    <li><a href="#"> Teacher </a></li>
+                    <li><a href="program_sie.php"> Program </a></li>
+<!--                    <li><a href="#"> Teacher </a></li>-->
                     <li><a href="#"> About </a></li>
                     <li><a href="#"> Blog </a></li>
                     <li><a href="#"> Career </a></li>

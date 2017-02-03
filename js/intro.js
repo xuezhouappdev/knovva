@@ -5,9 +5,6 @@ $(document).ready(function(){
     var inputnum = $("input").length;
 
 
-
-
-
     $("#counter").html(1+"/"+inputnum);
     $(".error-msg").html("");
     var hash = window.location.hash;
@@ -16,6 +13,7 @@ $(document).ready(function(){
     //PREV button
     $(".prev").click(function () {
         if(parseInt($('li.nav-item.active').find('a').attr('aria-controls'))>1) {
+            $(".error-msg").text("");
             $("#counter").html(parseInt($('li.nav-item.active').find('a').attr('aria-controls')) - 1+"/"+inputnum);
         }
         $('.nav-tabs').find('.active').prev('li').find('a').tab('show');
@@ -37,6 +35,7 @@ $(document).ready(function(){
             }
             $('.nav-tabs>.active').next().find('a').tab('show');
         }
+
 
 
     });
