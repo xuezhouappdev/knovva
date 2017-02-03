@@ -51,7 +51,14 @@ div.intro {
 
 .activity-title > h1:nth-child(1) {
     font-size: 50px;
+    text-shadow: 2px 2px 5px #5f5f5f;
 }
+
+.activity-title > h5 {
+
+    text-shadow: 2px 2px 5px #5f5f5f;
+}
+
 
 div.container:nth-child(3) {
     padding: 0 80px;
@@ -66,6 +73,7 @@ div.about {
 
 .about h2 {
     text-align: center;
+    margin-bottom: 40px;
 }
 
 .about p {
@@ -377,6 +385,86 @@ div.timeline {
     }
 }
 
+
+/*Themes **************************************************************************************************************/
+.theme h2{
+
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.theme  h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+.theme h4 {
+
+    display: inline-block;
+    border-left: 2px solid #ff3e68 ;
+
+    padding: 2px 6px;
+    color: #ff3e68;
+}
+
+div.theme {
+    margin-top: 70px;
+}
+
+
+.theme > div:nth-child(1) {
+    padding: 5px 170px;
+}
+
+.theme img {
+    padding: 25px;
+    vertical-align: middle;
+}
+
+
+/* Video case */
+.video h2{
+
+    text-align: center;
+    margin-bottom: 20px;
+
+    color: white;
+
+}
+
+.video h4{
+    color: whitesmoke;
+    padding: 20px 0;
+}
+
+div.video {
+    margin-top: 70px;
+    background: #ff3e68;
+    padding-top: 20px;
+}
+
+.video  h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+
+
 /* Contact **************************************************************************************************************/
 .program-contact button{
     background: #2c2c2c;
@@ -410,7 +498,7 @@ div.program-contact {
 }
 
 .program-contact  > div:nth-child(1) {
-    padding: 5px 170px;
+    padding: 5px 160px;
 }
 
 .program-contact h2 {
@@ -443,7 +531,8 @@ div.program-contact {
 
 .program-contact input:focus{
     border: 2px solid #ff3e68;
-    opacity: 0.5;
+    opacity: 1;
+
 
 }
 

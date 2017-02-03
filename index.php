@@ -75,21 +75,21 @@ include "header.php";
        <div class="row program-pic ">
            <div class="col-md-3">
                <img src="image/cl-1.png" class="img-responsive">
-               <h3>Program A</h3>
+               <h3>Social Innovation and Entrepreneurship</h3>
                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
-               <a>VIEW DETAILS</a>
+               <a href="program_sie.php">VIEW DETAILS</a>
            </div>
 
            <div class="col-md-3">
                <img src="image/cl-2.png" class="img-responsive">
-               <h3>Program B</h3>
+               <h3>Tech-Lab Youth Bootcamp</h3>
                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
                <a>VIEW DETAILS</a>
            </div>
 
            <div class="col-md-3">
                <img src="image/cl-3.png" class="img-responsive">
-               <h3>Program C</h3>
+               <h3>Start-up Youth Bootcamp</h3>
                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
                <a>VIEW DETAILS</a>
            </div>
