@@ -1,9 +1,11 @@
+/*body */
+
 
 
 /*BANNER */
 div.banner {
     background: url("../image/leaf.jpg") center center no-repeat;
-    min-height: 220px;
+    min-height: 200px;
     width: 100%;
     opacity: 0.8;
     background-size: cover;
@@ -14,15 +16,16 @@ div.banner {
 
 .banner h1 {
     position: relative;
-    margin-top: 120px;
+    margin-top: 110px;
     color: #fdfdfd;
 }
 
 
 /* Question section*/
 div.questions {
-    padding: 30px;
-    margin-top: 70px;
+    padding: 100px 0;
+    margin-top: 40px;
+
 }
 
 div#accordion.panel-group {
@@ -41,13 +44,37 @@ div#accordion.panel-group {
 }
 
 
+/*
+div.question-overlay {
+    background: url("../image/cs-5.jpg") center center no-repeat;
+    min-height: 460px;
+    width: 100%;
+    opacity: 0.2;
+    background-size: cover;
+    position: absolute;
+    top:870px;
+}
+*/
 
+
+.arrow-down {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #f3f3f3;
+    position: relative;
+    top:10px;
+    transform: translateX(-50%);
+    left: 50%;
+}
 
 /*footer contact*/
 div.footer-contact{
     text-align: center;
-    padding: 30px;
-    margin-bottom: 15px;
+    padding: 20px 0;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 .footer-contact span {
@@ -59,6 +86,14 @@ div.footer-contact{
 .footer-contact h3 {
     padding: 5px;
     margin: 5px;
+    color: white;
+    font-weight: normal;
 }
+
+
+div.jumbotron {
+    background: #222222;
+}
+
 
 
