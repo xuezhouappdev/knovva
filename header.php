@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
     <!--font-->
     <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Anton|Noto+Sans|Seymour+One" rel="stylesheet">
     <link rel="stylesheet" href="css/header.css">
 
 
@@ -51,9 +52,9 @@ SEPERATELY-->
 
             <div class="col-md-4">
                 <ul>
-                    <li><a href="#"> APPLY </a></li>
+<!--                    <li><a href="#"> APPLY </a></li>-->
                     <li><a href="#" id="header-sb"> SUBSCRIBE </a></li>
-                    <li><a href="#"> FAQ </a></li>
+                    <li><a href="faq.php"> FAQ </a></li>
 
                 </ul>
 

@@ -1,4 +1,12 @@
+/*font*/
+
+
 /*Header div*/
+body {
+    font-family:'Parisienne', sans-serif;
+}
+
+
 
 div.row.navbar-fixed-top {
     border-bottom: 3px solid #F2184F;

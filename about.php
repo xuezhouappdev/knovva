@@ -48,6 +48,11 @@ include "header.php";
 
 <!--Header-about-->
 <div class="header-about">
+    <div class="container">
+        <div class="row">
+            <h1>About</h1>
+        </div>
+    </div>
 
 </div>
 
@@ -86,7 +91,6 @@ include "header.php";
         </div>
     </div>
 </div>
-
 
 
 
@@ -145,50 +149,105 @@ include "header.php";
     </div>
 </div>
 
+
 <!-- Features-->
 <div class="feature">
     <div class="container">
+        <h2>What We Provide</h2>
 
         <div class="row">
-            <div class="col-md-2">
-                <img src="image/about/global.png" class="img img-responsive">
+            <div class="col-md-6">
+                <h4>Featured Program</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
+                <div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Social Innovation and Entrepreneurship</a>
+                            </h4>
+                        </div>
+                        <div id="collapse1" class="panel-collapse collapse in">
+                            <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Tech-Lab Youth Bootcamp</a>
+                            </h4>
+                        </div>
+                        <div id="collapse2" class="panel-collapse collapse">
+                            <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Start-up Youth Bootcamp</a>
+                            </h4>
+                        </div>
+                        <div id="collapse3" class="panel-collapse collapse">
+                            <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-10">
-                <h4>GET GLOBAL</h4>
-                <ul>
-                    <li>Build networks with international students and teachers</li>
-                    <li>Learn how to communicate on a global level</li>
-                </ul>
+
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="image/about/global.png" class="img img-responsive">
+
+                    </div>
+                    <div class="col-md-8">
+                        <h4>GET GLOBAL</h4>
+                        <ul>
+                            <li>Build networks with international students and teachers</li>
+                            <li>Learn how to communicate on a global level</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="image/about/college.png" class="img img-responsive">
+                    </div>
+                    <div class="col-md-8">
+                        <h4>GET READY FOR COLLEGE</h4>
+                        <ul>
+                            <li>Customized based on interests </li>
+                            <li>Strengthen the creative thinking process</li>
+                            <li>Hands-on development</li>
+                            <li>Student to teacher ratio at 6:1</li>
+                        </ul>
+                    </div>
+                </div>
+
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="image/tech/wear.png" class="img img-responsive">
+                    </div>
+                    <div class="col-md-8">
+                        <h4>AND BEYOND</h4>
+                        <ul>
+                            <li>Discover true passion and drive before college </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
+
+
         </div>
 
-        <div class="row">
-            <div class="col-md-2">
-                <img src="image/about/college.png" class="img img-responsive">
-            </div>
-            <div class="col-md-10">
-                <h4>GET READY FOR COLLEGE</h4>
-                <ul>
-                    <li>Customized based on interests </li>
-                    <li>Strengthen the creative thinking process</li>
-                    <li>Hands-on development</li>
-                    <li>Student to teacher ratio at 6:1</li>
-                </ul>
-            </div>
-        </div>
 
 
-        <div class="row">
-            <div class="col-md-2">
-                <img src="image/tech/wear.png" class="img img-responsive">
-            </div>
-            <div class="col-md-10">
-                <h4>AND BEYOND</h4>
-                <ul>
-                    <li>Discover true passion and drive before college </li>
-                </ul>
-            </div>
-        </div>
 
 
 
@@ -200,7 +259,7 @@ include "header.php";
 <div class="benefit">
     <div class="container">
        <div class="row" >
-<!--            <h2 >Additional Benefits</h2>-->
+      <h2 >Additional Benefits</h2>
         </div>
         <div class="row">
             <div class="col-md-3">
