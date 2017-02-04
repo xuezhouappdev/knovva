@@ -40,7 +40,7 @@ include "header.php";
         <div class="carousel-inner">
             <div class="item active">
                 <!-- Set the first background image using inline CSS below. -->
-                <div class="fill" style="background-image:url('image/cs1.jpg');"></div>
+                <div class="fill" style="background-image:url('image/cs-4.jpg');"></div>
                 <div class="carousel-caption">
                 </div>
                 <div class="container">
@@ -58,7 +58,7 @@ include "header.php";
 
             <div class="item">
                 <!-- Set the second background image using inline CSS below. -->
-                <div class="fill" style="background-image:url('image/cs2.jpg');"></div>
+                <div class="fill" style="background-image:url('image/cs1.jpg');"></div>
                 <div class="carousel-caption">
                     <!--<h2>Caption 2</h2>-->
                 </div>
@@ -146,7 +146,7 @@ include "header.php";
 <div class="timeline">
     <div class="container">
         <div class="row">
-            <h2>Schedule</h2>
+            <h2 style="font-size: 30px">Schedule</h2>
 
         </div>
         <ul class="cbp_tmtimeline">

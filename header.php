@@ -29,20 +29,21 @@ SEPERATELY-->
             <div class="col-md-7">
                 <ul>
                     <li><a href="index.php"> Home </a></li>
+                    <li><a href="about.php"> About </a></li>
                     <li class="dropdown">
 
                         <a href="#" class="dropbtn">Program</a>
                         <div class="dropdown-content">
                             <a href="program_sie.php">Social Innovation and Entrepreneurship </a>
                             <a href="program_tech.php">Tech-Lab Youth Bootcamp</a>
-                            <a href="#">Start-up Youth Bootcamp</a>
+                            <a href="program_startup.php">Start-up Youth Bootcamp</a>
                         </div>
 
                     </li>
 <!--                    <li><a href="#"> Teacher </a></li>-->
-                    <li><a href="#"> About </a></li>
-                    <li><a href="#"> Blog </a></li>
-                    <li><a href="#"> Career </a></li>
+
+                    <!--<li><a href="#" class="disabled"> Blog </a></li>-->
+                    <li><a href="#"  class="disabled"> Career </a></li>
                     <li><a href="contact.php"> Contact </a></li>
 
                 </ul>

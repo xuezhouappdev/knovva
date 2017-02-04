@@ -1,0 +1,178 @@
+/* header*/
+div.header-about{
+    background: url("../image/leaf.jpg") center center no-repeat;
+    min-height: 220px;
+    background-size: cover;
+
+    width: 100%;
+    opacity: 0.8;
+}
+
+
+/*intro*/
+div.intro {
+    margin:40px auto;
+}
+
+
+
+div.col-md-8:nth-child(2) > p:nth-child(1) {
+    margin-left: 27px;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+
+.intro >div:nth-child(1){
+    padding:20px 170px;
+}
+
+
+
+/*feature **************************************************************************************************************/
+.feature h2{
+
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.feature  h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+.feature h4 {
+
+    display: inline-block;
+    border-left: 2px solid #ff3e68 ;
+
+    padding: 2px 6px;
+    color: #ff3e68;
+}
+
+div.feature {
+    margin-top: 70px;
+
+    padding: 40px auto;
+
+    background-size: cover;
+    z-index: 999;
+}
+
+
+.feature > div:nth-child(1) {
+    padding: 5px 200px;
+}
+
+.feature img {
+    padding: 5px;
+    vertical-align: middle;
+
+}
+
+.feature >div>div.row {
+    display: table;
+}
+
+
+.feature >div>div.row [class*="col-"] {
+    float:none;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+
+
+/** benifits*/
+.benefit h2{
+
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+
+.benefit  h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+.benefit > div:nth-child(1) {
+    padding: 5px 190px;
+}
+
+
+div.benefit {
+    margin: 50px auto 50px;
+    text-align: center;
+}
+
+.benefit image {
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 0px;
+
+}
+
+.benefit i {
+    color:#ff3e68 ;
+    font-weight: 400;
+}
+
+
+/*counter*/
+div.counter-div {
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+    background: url("../image/wall2.jpg") center center no-repeat;
+    background-size: cover;
+    padding: 20px 0;
+
+
+}
+
+.counter-div i {
+    font-size: 40px;
+
+    color: #ff3e68;
+    position: relative;
+    top:10px;
+
+}
+
+.counter-div span {
+    font-size: 60px;
+    text-shadow: black 5px 5px 3px;
+    padding: 0;
+    margin: 0;
+}
+
+
+.counter-div >div:nth-child(1){
+    padding: 5px 190px;
+}
+
+.counter-div h5{
+    text-shadow: black 5px 5px 5px;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    bottom:10px;
+}
+

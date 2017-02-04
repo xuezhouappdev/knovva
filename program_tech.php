@@ -40,7 +40,7 @@ include "header.php";
         <div class="carousel-inner">
             <div class="item active">
                 <!-- Set the first background image using inline CSS below. -->
-                <div class="fill" style="background-image:url('image/cs3.jpg');"></div>
+                <div class="fill" style="background-image:url('image/cs-5.jpg');"></div>
                 <div class="carousel-caption">
                 </div>
                 <div class="container">

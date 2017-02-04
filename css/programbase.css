@@ -34,7 +34,7 @@ a.left.carousel-control:hover,a.right.carousel-control:hover{
 
 
 div.intro {
-    height: 90vh;
+    height: 76vh;
     background-size: cover;
     z-index: 99999999;
     margin-top: 50px;
@@ -50,7 +50,7 @@ div.intro {
 }
 
 .activity-title  h1:nth-child(1) {
-    font-size: 40px;
+    font-size: 50px;
     text-shadow: 2px 2px 5px #5f5f5f;
 }
 
@@ -152,12 +152,14 @@ div.skills {
 /*Timeline*************************************************************************************************************/
 
 .timeline > div:nth-child(1) {
-    padding: 5px 170px;
+    padding: 5px 220px;
 }
 
 .timeline h2{
     text-align: center;
     margin-bottom: 20px;
+    font-size: 18px;
+
 }
 
 .timeline > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1):after{
@@ -235,14 +237,15 @@ div.timeline {
 /* Right content */
 .cbp_tmtimeline > li .cbp_tmlabel {
     margin: 0 0 15px 25%;
-    background:  #ff3e68;
+    background: #3a3a3a;
     color: #fff;
-    padding: 2em;
-    font-size: 1.2em;
+    padding: 1.2em;
+    font-size: 1em;
     font-weight: 300;
-    line-height: 1.4;
+    line-height: 1.2;
     position: relative;
     border-radius: 5px;
+    opacity: 0.9;
 }
 
 .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
@@ -278,7 +281,7 @@ div.timeline {
     width: 0;
     position: absolute;
     pointer-events: none;
-    border-right-color:  #ff3e68;
+    border-right-color:  #3a3a3a;
     border-width: 10px;
     top: 10px;
 }
@@ -446,7 +449,7 @@ div.theme {
 }
 
 div.video {
-    margin-top: 70px;
+    margin-top: 40px;
     background: #ff3e68;
     padding-top: 20px;
 }
@@ -550,4 +553,151 @@ div.program-contact {
 .program-contact select {
     width: 100%;
     color: gray;
+}
+
+
+/* Activity Panel*/
+
+div.activitypanel {
+  margin-top: 00px;
+
+}
+
+
+.activitypanel h2{
+
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.activitypanel h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+.panel-body > p:nth-child(1) {
+    margin-top: 20px;
+}
+
+
+.activitypanel> div:nth-child(1) {
+    padding: 0px 60px;
+}
+
+.panel-body > div:nth-child(5) {
+    text-align: center;
+}
+
+.panel-body > div:nth-child(6) {
+    margin-bottom: 20px;
+}
+
+
+
+
+body > div.activitypanel > div > div.row > div > div.panel-heading {
+    color: #fff;
+    background-color: #3a3a3a;
+    border-color: #3a3a3a;
+    text-align: center;
+}
+
+
+div.panel.panel-primary {
+    border: 1px dashed #3a3a3a;
+    box-shadow: 5px 5px 5px gray;
+
+}
+
+.panel-body > div:nth-child(5) > div:nth-child(1) >h5:nth-child(1) {
+    color:#ff3e68 ;
+}
+
+.panel-body > div:nth-child(5) > div:nth-child(2) > h5:nth-child(1) {
+    color:#ff3e68 ;
+}
+
+
+
+/** benifits*/
+.benefit h2{
+
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+
+.benefit  h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+.benefit > div:nth-child(1) {
+    padding: 5px 190px;
+}
+
+
+div.benefit {
+    margin: 50px auto 50px;
+    text-align: center;
+}
+
+.benefit image {
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 0px;
+
+}
+
+.benefit i {
+    color:#ff3e68 ;
+    font-weight: 400;
+}
+
+
+/* program map section*/
+div.program-map {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.program-map h2{
+
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+
+.program-map  h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+#pro-map1,#pro-map2 {
+    height: 250px;
+    width: 80%;
+   margin: 10px auto;
+    padding: 50px;
 }
