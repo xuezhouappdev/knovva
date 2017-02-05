@@ -23,8 +23,8 @@ div.banner {
 
 /* Question section*/
 div.questions {
-    padding: 100px 0;
-    margin-top: 40px;
+    padding: 90px 0;
+    margin-top: 0px;
 
 }
 
@@ -42,6 +42,9 @@ div#accordion.panel-group {
 .questions i {
     color:#ff3e68;
 }
+
+
+
 
 
 /*

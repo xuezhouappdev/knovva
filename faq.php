@@ -39,13 +39,13 @@ include "header.php";
         <div class="panel-group" id="accordion">
             <!--Q1-->
             <div class="panel panel-default">
-                <div class="panel-heading">
+                <div class="panel-heading" >
                     <h4 class="panel-title">
                         <i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Question1. The content for question?</a>
                     </h4>
                 </div>
-                <div id="collapse1" class="panel-collapse collapse in">
+                <div id="collapse1" class="panel-collapse collapse">
                     <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
@@ -166,7 +166,25 @@ include "header.php";
 </div>
 
 
+<script>
+    $(document).ready(function(){
 
+
+        $(".questions a").click(function(){
+            //alert("TEt");
+            $(this).css("text-decoration","none");
+            $(".panel-heading").css({"background":"white","color":"black"});
+            $(".panel-heading i").removeClass("fa-minus-circle").addClass("fa-plus-circle").css("color","#ff3e68");
+
+            $(this).parent().parent().css({"background":"#ff3e68","color":"white"});
+            $(this).prev().addClass("fa-minus-circle").removeClass("fa-plus-circle").css("color","white");
+
+
+        })
+
+
+    })
+</script>
 
 
 
