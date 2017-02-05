@@ -167,10 +167,10 @@ include "header.php";
 
 
 <script>
-    $(document).ready(function(){
+  /*  $(document).ready(function(){
 
 
-        $(".questions a").click(function(){
+        $(".panel.panel-default a").click(function(){
             //alert("TEt");
             $(this).css("text-decoration","none");
             $(".panel-heading").css({"background":"white","color":"black"});
@@ -183,13 +183,16 @@ include "header.php";
         })
 
 
-    })
+    })*/
 </script>
+
+
 
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
+<script src="js/accordian.js"></script>
 
 
 
