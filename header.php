@@ -44,7 +44,7 @@ SEPERATELY-->
 <!--                    <li><a href="#"> Teacher </a></li>-->
 
                     <!--<li><a href="#" class="disabled"> Blog </a></li>-->
-                    <li><a href="#"  class="disabled"> Career </a></li>
+                    <li><a href="career.php"> Career </a></li>
                     <li><a href="contact.php"> Contact </a></li>
 
                 </ul>
@@ -100,7 +100,7 @@ SEPERATELY-->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
-<script src="js/index.js"></script>
+<!--<script src="js/index.js"></script>-->
 <script src="js/index-subscription.js"></script>
 
 </body>
