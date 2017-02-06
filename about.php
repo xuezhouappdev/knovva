@@ -255,6 +255,57 @@ include "header.php";
 </div>
 
 
+
+<!--Teacher-->
+<div class="teacher jumbotron">
+    <div class="container">
+        <div class="row">
+            <h2>OUR <span>TEACHERS</span></h2>
+        </div>
+
+
+        <div class="row teacher-pic ">
+            <div class="col-md-3">
+                <img src="image/profile-img1.jpg" class="img-responsive">
+                <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
+
+                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
+                <a>VIEW DETAILS</a>
+            </div>
+
+            <div class="col-md-3">
+                <img src="image/profile-img1.jpg" class="img-responsive">
+                <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit</p>
+                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
+                <a>VIEW DETAILS</a>
+            </div>
+
+            <div class="col-md-3">
+                <img src="image/profile-img1.jpg" class="img-responsive">
+                <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
+                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
+                <a>VIEW DETAILS</a>
+            </div>
+
+            <div class="col-md-3">
+                <img src="image/profile-img1.jpg" class="img-responsive">
+                <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
+                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
+                <a>VIEW DETAILS</a>
+            </div>
+        </div>
+    </div>
+
+
+
+
+</div>
+
+
 <!--Benifits -->
 <div class="benefit">
     <div class="container">

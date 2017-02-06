@@ -46,12 +46,14 @@
             <div class="col-lg-4 footer-links">
 
                 <ul>
-                    <li><a href="#">Program</a></li>
-                    <li><a href="#">Teacher</a></li>
+                   <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About</a></li>
+                   <!-- <li><a href="#">Teacher</a></li>-->
                     <li><a href="#">Career</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Blog</a></li>
-                    <li><a href="#">Contact</a></li>
+
+                   <!-- <li><a href="#">Blog</a></li>-->
+                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="faq.php">FAQ</a></li>
                 </ul>
 
             </div>

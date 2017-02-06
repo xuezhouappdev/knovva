@@ -151,7 +151,7 @@ div.col-md-6:nth-child(2) > div:nth-child(1) {
 
 
 div.benefit {
-    margin: 50px auto 50px;
+    margin: 0px auto 50px;
     text-align: center;
 }
 
@@ -209,3 +209,106 @@ div.counter-div {
     bottom:10px;
 }
 
+
+/*Teachers*/
+
+.teacher h2{
+    text-align: center;
+}
+
+
+div.teacher.jumbotron {
+    margin-top: 50px;
+    padding:40px;
+    background: white;
+}
+
+.teacher span {
+    color:#F2184F;
+}
+
+.teacher .container .row h2::after {
+    background: #F2184F;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 60px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+
+
+div.teacher-pic {
+    margin-top: 20px;
+}
+
+.teacher-pic .col-md-3 {
+    padding: 30px 10px;
+    background-color: whitesmoke;
+    border:3px solid #e2e2e2;
+
+}
+
+.teacher-pic h3 {
+    margin: 10px 0;
+}
+
+.teacher-pic h3::after{
+    background: #F2184F;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 60px;
+    margin: 6px 0;
+}
+
+.teacher-pic .img-responsive {
+    padding:10px;
+}
+
+
+.teacher.jumbotron p {
+    font-size: 14px;
+}
+
+.teacher-pic a{
+    padding: 8px 20px;
+    background-color: #122b40;
+    color:white;
+    border-radius: 5px;
+
+    margin-left: 10px;
+    position: relative;
+    top:-5px;
+}
+
+.teacher-pic a:hover{
+
+    background-color: #F2184F;
+    text-decoration: none;
+    color: whitesmoke;
+
+
+
+}
+
+div.teacher.jumbotron {
+    margin-bottom: 0;
+    padding-bottom: 70px;
+}
+
+.teacher.jumbotron.teacher-pic h5 span {
+    font-size: 8px;
+}
+
+.teacher-pic i{
+    font-size: 30px;
+    padding: 5px 5px;
+    margin-top: 5px;
+    line-height: 5px;
+
+}
