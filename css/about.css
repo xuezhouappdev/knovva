@@ -12,9 +12,11 @@ div.header-about{
 
 .header-about h1 {
     position: relative;
-    margin-top: 100px;
+    margin-top: 110px;
 
     color: #fdfdfd;
+    border-left: 3px solid #f3f3f3;
+    padding-left: 7px;
 }
 
 

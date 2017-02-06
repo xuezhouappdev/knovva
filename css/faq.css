@@ -14,10 +14,12 @@ div.banner {
 }
 
 
-.banner h1 {
+.banner h2 {
     position: relative;
-    margin-top: 110px;
+    margin-top: 115px;
     color: #fdfdfd;
+    border-left: 3px solid #f3f3f3;
+    padding-left: 5px;
 }
 
 

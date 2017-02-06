@@ -26,7 +26,7 @@ include "header.php";
 <div class="banner">
     <div class="container">
         <div class="row">
-            <h1>FAQ</h1>
+            <h2>Frequently Asked Questions</h2>
         </div>
     </div>
 </div>
