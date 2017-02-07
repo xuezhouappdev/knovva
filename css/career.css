@@ -227,6 +227,13 @@ div.panel.panel-danger {
 
 }
 
+.panel-body>div>div.modal-dialog h5 {
+
+    color: #ff6b6f;
+
+
+}
+
 
 .panel-body>div>div.modal-dialog form a {
     background: #3a3a3a;
