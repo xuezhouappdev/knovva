@@ -115,10 +115,11 @@ include "header.php";
 
 
 <!--DPT-->
+
 <div class="dpt">
     <div class="container">
         <div class="row">
-            <h3>Our Departments</h3>
+            <h2>Our Departments</h2>
         </div>
         <div class="row"">
             <div class="col-md-3">
@@ -132,6 +133,8 @@ include "header.php";
 
             </div>
             <div class="col-md-3">
+                <i class="fa fa-phone" aria-hidden="true"></i>
+
                 <h3>BD</h3>
                 <h5>Digital Marketing Specialist</h5>
                 <h5>SEO Specialist</h5>
@@ -139,6 +142,8 @@ include "header.php";
                 <a>Read More</a>
             </div>
             <div class="col-md-3">
+                <i class="fa fa-university" aria-hidden="true"></i>
+
                 <h3>FINANCE</h3>
                 <h5>Digital Marketing Specialist</h5>
                 <h5>SEO Specialist</h5>
@@ -147,6 +152,8 @@ include "header.php";
             </div>
 
             <div class="col-md-3">
+                <i class="fa fa-users" aria-hidden="true"></i>
+
                 <h3>PAID INTERNS</h3>
                 <h5>Digital Marketing Specialist</h5>
                 <h5>SEO Specialist</h5>
@@ -158,6 +165,52 @@ include "header.php";
     </div>
 </div>
 
+
+<!--position -->
+<div class="position">
+    <div class="container">
+        <h2>Featured Positions</h2>
+        <div class="panel-group">
+
+
+            <div class="panel panel-danger">
+                <div class="panel-heading">MARKETING</div>
+                <div class="panel-body">
+                  <h5>Digital Marketing Specialist – Mandarin Speaker</h5>
+                    <h5>SEO Specialist</h5>
+                    <h5>Marketing Analyst</h5>
+
+
+
+
+                </div>
+            </div>
+
+            <div class="panel panel-danger">
+                <div class="panel-heading">Business Development/Public Relations</div>
+                <div class="panel-body">
+                    <h5>Business Development/Public Relations</h5>
+                </div>
+            </div>
+
+            <div class="panel panel-danger">
+                <div class="panel-heading">FINANCE</div>
+                <div class="panel-body">
+                    <h5>Finance Manager</h5>
+                </div>
+            </div>
+
+            <div class="panel panel-danger">
+                <div class="panel-heading">PAID INTERNS</div>
+                <div class="panel-body">
+                    <h5>Web Developer Intern (full-time)</h5>
+                    <h5>Social Media Operation Intern</h5>
+                    <h5>Curriculum Specialist Intern (p/t 15-20hrs/wk))</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div class="arrow-down">
 
@@ -184,43 +237,42 @@ include "header.php";
 
 
 <script>
-    /*  $(document).ready(function(){
 
 
-     $(".panel.panel-default a").click(function(){
-     //alert("TEt");
-     $(this).css("text-decoration","none");
-     $(".panel-heading").css({"background":"white","color":"black"});
-     $(".panel-heading i").removeClass("fa-minus-circle").addClass("fa-plus-circle").css("color","#ff3e68");
+    $(document).ready(function(){
 
-     $(this).parent().parent().css({"background":"#ff3e68","color":"white"});
-     $(this).prev().addClass("fa-minus-circle").removeClass("fa-plus-circle").css("color","white");
+        $(".careerslider ul li").click(function(){
+            $(".careerslider ul li").removeClass("active");
+            $(this).addClass("active");
+        });
 
 
-     })
 
 
-     })*/
-</script>
 
 
-<script>
-    <!-- Script to activate the carousel -->
-    $('.carousel').carousel({
-        interval: false; //changes the speed
     })
 
 
-
+  
 
 
 </script>
+
+
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
 <script src="js/accordian.js"></script>
 
+
+
+<script>
+
+
+
+</script>
 
 
 </body>

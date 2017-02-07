@@ -6,6 +6,9 @@ body {
     font-family:'Parisienne', sans-serif;
 }
 
+a:hover {
+    cursor: pointer;
+}
 
 
 div.row.navbar-fixed-top {
