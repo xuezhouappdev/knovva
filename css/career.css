@@ -205,7 +205,39 @@ div.panel.panel-danger {
     color: #ff6b6f;
 }
 
-/*question */
+
+/*modal */
+
+.panel-body>div>div.modal-dialog {
+    width:80%;
+}
+
+
+.panel-body>div>div.modal-dialog form {
+    padding:10px 80px;
+}
+
+.panel-body>div>div.modal-dialog a {
+    background: #ff6b6f;
+    color: white;
+    padding: 8px 30px;
+    margin-top: 40px;
+    text-align: center;
+    border-radius: 0;
+
+}
+
+
+.panel-body>div>div.modal-dialog form a {
+    background: #3a3a3a;
+    color: white;
+    padding: 8px 30px;
+    margin-top: 20px;
+
+    border-radius: 0;
+}
+
+    /*question */
 
 .arrow-down {
     width: 0;
@@ -218,6 +250,8 @@ div.panel.panel-danger {
     transform: translateX(-50%);
     left: 50%;
 }
+
+
 
 
 
