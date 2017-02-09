@@ -79,19 +79,25 @@ include "header.php";
            </div>
 
            <div class="col-lg-6">
-                <form>
+                <form method="POST" action="controller/sendemail.php" role="form">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p><?php $errormsg ="";
+                                echo $errormsg; ?></p>
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label for="firstname">First Name*</label>
-                                <input type="text" class="form-control" name="fn"  placeholder="First Name">
+                                <input type="text" class="form-control" name="contact_fn"  placeholder="First Name" required>
 
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label for="lastname">Last Name*</label>
-                                <input type="text" class="form-control" name="ln"  placeholder="Last Name">
+                                <input type="text" class="form-control" name="contact_ln"  placeholder="Last Name" required>
 
                             </div>
                         </div>
@@ -101,24 +107,25 @@ include "header.php";
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label for="email">Email*</label>
-                                <input type="email" class="form-control" name="email" placeholder="Email">
+                                <input type="email" class="form-control" name="contact_email" placeholder="Email" required>
 
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label for="phone">Phone</label>
-                                <input type="tel" class="form-control" name="phone"  placeholder="Phone">
+                                <input type="tel" class="form-control" name="contact_phone"  placeholder="Phone" required>
 
                             </div>
                         </div>
                     </div>
+
 
                     <div class="row">
                         <div class="col-md-12">
                             <div class="form-group">
                                 <label for="message">Message</label>
-                                <textarea class="form-control" rows="11"></textarea>
+                                <textarea class="form-control" rows="11" name="contact_textarea" required></textarea>
                             </div>
                         </div>
                     </div>
@@ -126,8 +133,8 @@ include "header.php";
                     <div class="row">
                         <div class="col-md-12">
 
-                            <button type="reset" class="btn btn-default">RESET</button>
-                            <button type="submit" class="btn btn-default">SEND</button>
+
+                            <button type="submit" name="submit" class="btn btn-default">SEND</button>
                         </div>
                     </div>
 
