@@ -6,10 +6,15 @@ $(document).ready(function(){
     $("#myNav").hide();
     $("#crosssign").click(function(){
         $("#myNav").fadeOut(200);
+        $("#noti").text("");
 
     });
     $("#header-sb").click(function(){
         $("#myNav").fadeIn(200);
+        $("#noti").text("");
     })
+
+
+
 
 });

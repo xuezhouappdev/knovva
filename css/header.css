@@ -3,7 +3,7 @@
 
 /*Header div*/
 body {
-    font-family:'Parisienne', sans-serif;
+
 }
 
 a:hover {
@@ -157,7 +157,9 @@ div.subscribe-overlay {
 
 div.input-group.middle{
 
-    padding: 40vh 25%;
+    padding: 40vh 0;
+    margin: 0 auto;
+    width: 40%;
 
 
 }

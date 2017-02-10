@@ -76,13 +76,18 @@
             </div>
 
             <div class="col-lg-6">
-
+                <form method="post" action="controller/subscribe2.php" id="footer_subscribeform">
+                    <h5 id="footernoti" style="margin-left: 20px;color: red"></h5>
                 <div class="input-group">
-                    <input type="text" class="form-control" placeholder="Your Email">
-                   <span class="input-group-btn">
-                       <button class="btn btn-default" type="button">Subscribe</button>
-                   </span>
+
+
+                    <input type="email" class="form-control" placeholder="Your Email" required name="footer_email">
+                       <span class="input-group-btn">
+                           <button class="btn btn-default" type="submit" id="footerbtn" name="submit">Subscribe</button>
+                       </span>
+               <script src="js/footersubscribe.js"></script>
                 </div>
+                </form>
             </div>
         </div>
 
@@ -100,7 +105,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
 
-<script src="js/index-subscription.js"></script>
+
 
 </body>
 </html>

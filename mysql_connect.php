@@ -28,5 +28,13 @@ if ($conn->connect_error) {
 
 //echo "Connected successfully!";
 if($conn) {
-    echo "Connected successfully!";
+    //echo "Connected successfully!";
+}
+
+
+function test_input($data) {
+    $data = trim($data);
+    $data = stripslashes($data);
+    $data = htmlspecialchars($data);
+    return $data;
 }

@@ -11,6 +11,9 @@
     <link href="https://fonts.googleapis.com/css?family=Anton|Noto+Sans|Seymour+One" rel="stylesheet">
     <link rel="stylesheet" href="css/header.css">
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
+
 
 
 </head>
@@ -80,12 +83,26 @@ SEPERATELY-->
 
 
                 <div class="overlay-content">
-                    <div class="input-group middle">
-                        <input type="text" class="form-control" placeholder="Your Email">
-                       <span class="input-group-btn">
-                           <button class="btn btn-default" type="button">Subscribe</button>
-                       </span>
-                    </div>
+
+                    <form  method="post" id="header_subscribeform">
+
+                           <div class="input-group middle">
+                               <div class="row" style="text-align: left">
+                                   <h5 id="noti" style="color: white"></h5>
+                               </div>
+
+                               <div class="row" style="display: inherit">
+                                   <input type="email" class="form-control" placeholder="Your Email" required name="header_email">
+                                   <span class="input-group-btn">
+                                    <button class="btn btn-default" type="submit" id="subscribbtn" name="submit" >Subscribe</button>
+                                   </span>
+                               </div>
+
+                               <script src="js/header-subscribe.js"></script>
+                           </div>
+                    </form>
+
+
                 </div>
             </div>
         </div>

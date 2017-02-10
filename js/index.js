@@ -14,6 +14,7 @@ $("#a_newusr").click(function(){
 });
 
 $(".close").click(function(){
+
     location.reload();
 });
 
