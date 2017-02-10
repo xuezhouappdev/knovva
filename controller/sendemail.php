@@ -6,12 +6,27 @@
  * Time: 1:13 PM
  */
 
-if(isset($_POST['submit'])) {
-  $contact_fn = $_POST['contact_fn'];
-  $contact_ln = $_POST['contact_ln'];
-  $contact_email = $_POST['contact_email'];
-  $contact_phone = $_POST['contact_phone'];
-  $contact_textarea = $_POST['contact_textarea'];
+
+function test_input($data) {
+  $data = trim($data);
+  $data = stripslashes($data);
+  $data = htmlspecialchars($data);
+  return $data;
+}
+
+
+
+
+
+
+
+
+if(isset($_POST['contact_fn'])) {
+  $contact_fn = test_input($_POST['contact_fn']);
+  $contact_ln = test_input($_POST['contact_ln']);
+  $contact_email = test_input($_POST['contact_email']);
+  $contact_phone = test_input($_POST['contact_phone']);
+  $contact_textarea = test_input($_POST['contact_textarea']);
 
 
   $from = $contact_email;
@@ -44,7 +59,7 @@ if(isset($_POST['submit'])) {
   $message .= '<td>'.$contact_phone.'</td></tr></table>';
 
   $message .= '<br /><br />';
-  $message .= '<table>';
+  $message .= '<table style="width: 80%">';
   $message .= '<tr><th>Message</th><tr>';
   $message .= '<tr><td>'.$contact_textarea.'</td></tr></table>';
 
@@ -59,26 +74,17 @@ if(isset($_POST['submit'])) {
 
 
 
-
-
-
-
-//echo $message;
-
-
-
-
-  //send
-  $send = mail($to,$subject,$message,$headers);
-  if($send) {
-    echo '<br>';
-    echo 'Thank you and we will be ith you soon';
-  } else {
-    echo 'error';
-  }
-
+}else {
+  echo "the post is not set up";
 }
 
 
 
-
+//send
+$send = mail($to,$subject,$message,$headers);
+if($send) {
+  echo '<br>';
+  echo 'Thank you and we will be with you soon';
+} else {
+  echo 'error';
+}

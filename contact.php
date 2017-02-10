@@ -74,16 +74,16 @@ include "header.php";
 
        <div class="row">
            <div class="col-lg-6">
-               <div id="map"></div>
+               <div id="map" style="top:25px;"></div>
                <script src="js/contact-map.js"></script>
            </div>
 
            <div class="col-lg-6">
-                <form method="POST" action="controller/sendemail.php" role="form">
+                <form method="POST" action="controller/sendemail.php"  id="contactemailform">
                     <div class="row">
                         <div class="col-md-12">
-                            <p><?php $errormsg ="";
-                                echo $errormsg; ?></p>
+                            <h5 id="error" style="color:red;">
+                            </h5>
                         </div>
                     </div>
                     <div class="row">
@@ -134,7 +134,7 @@ include "header.php";
                         <div class="col-md-12">
 
 
-                            <button type="submit" name="submit" class="btn btn-default">SEND</button>
+                            <button type="submit" name="submit" id="contact-submit-btn" class="btn btn-default">SEND</button>
                         </div>
                     </div>
 
@@ -153,6 +153,10 @@ include "header.php";
 </div>
 
 
+
+<script src="js/contactemail.js">
+
+</script>
 <script  async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCQxsMEH4W7YqPRe5bi5mgNas9MVYCB8a0&callback=initMap"
        >
 </script>
