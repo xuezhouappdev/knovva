@@ -7,12 +7,12 @@
  */
 
 
-include_once "../mysql_connect.php";
+ include_once "../mysql_connect.php";
+ $email=$_POST['header_email'];
+
+if(isset($_POST['header_email']) && (!filter_var($email, FILTER_VALIDATE_EMAIL) === false ))  {
 
 
-if(isset($_POST['header_email']) && $_POST['header_email']!=='') {
-
-    $email=$_POST['header_email'];
     //echo $email;
 
 
@@ -46,9 +46,12 @@ if(isset($_POST['header_email']) && $_POST['header_email']!=='') {
 
 
 
+
+
+
 }
 else {
-    echo "Please enter your email";
+    echo "Please enter a valid email address";
 }
 
 

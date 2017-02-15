@@ -14,6 +14,13 @@
 
     <!-- Program -->
     <link rel="stylesheet" href="css/programbase.css">
+    <link rel="stylesheet" href="dist/sweetalert.css">
+
+    <!-- sweet alert-->
+    <script src="dist/sweetalert.min.js"></script>
+
+
+
 </head>
 
 
@@ -220,75 +227,61 @@ include "header.php";
             <h2>Free Registration</h2>
         </div>
 
-        <form>
+        <form method="POST" action="controller/controller_program_sie.php" id="form_sie">
+            <div id="sie_noti" style="color:white; text-align: left;margin: 10px 0">
+                 testestest
+            </div>
             <div class="row">
                 <div class="col-md-6">
                     <div class="form-group">
-
-                        <input type="text" class="form-control" name="name"  placeholder="Name">
-
+                        <input type="text" class="form-control" name="sie_name"  placeholder="Name">
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-group">
-
                         <select class="form-control">
                             <option value="0" class="active" selected>Choose Your Program</option>
                             <option value="" >Social Innovation and Entrepreneurship</option>
                             <option value="">Tech-Lab Youth Bootcamp</option>
                             <option value="">Start-up Youth Bootcamp</option>
-                            <option value="">Modal G20</option>
                         </select>
-
                     </div>
                 </div>
             </div>
-
             <div class="row">
                 <div class="col-md-6">
                     <div class="form-group">
-
-                        <input type="email" class="form-control" name="email" placeholder="Email">
-
+                        <input type="email" class="form-control" name="sie_email" placeholder="Email">
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-group">
-
-                        <input type="tel" class="form-control" name="phone"  placeholder="Phone">
-
+                        <input type="tel" class="form-control" name="sie_phone"  placeholder="Phone">
                     </div>
                 </div>
             </div>
-
             <div class="row">
                 <div class="col-md-12">
                     <div class="form-group">
-
-                        <textarea class="form-control" rows="11" placeholder="Please enter your questions here"></textarea>
+                        <textarea class="form-control" rows="11" name="sie_textarea" placeholder="Please enter your questions here"></textarea>
                     </div>
                 </div>
             </div>
-
             <div class="row">
                 <div class="col-md-12">
-
                     <button type="reset" class="btn btn-default">RESET</button>
-                    <button type="submit" class="btn btn-default">SEND</button>
+                    <button type="submit" class="btn btn-default" id="sie_program_btn">SEND</button>
                 </div>
             </div>
 
         </form>
-
+        <script src="js/program_sie.js"></script>
 
 
 
 <!--        <button class="btn btn-default">Contact</button>-->
     </div>
 </div>
-
-
-
 
 
 
@@ -304,6 +297,16 @@ include "header.php";
 
 
 
+
+
+<!--<script>
+    swal({
+        title: "Error!",
+        text: "Here's my error message!",
+        type: "error",
+        confirmButtonText: "Cool"
+    });
+</script>-->
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>

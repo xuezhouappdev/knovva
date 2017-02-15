@@ -81,7 +81,7 @@
                 <div class="input-group">
 
 
-                    <input type="email" class="form-control" placeholder="Your Email" required name="footer_email">
+                    <input type="email" class="form-control" placeholder="Your Email" name="footer_email">
                        <span class="input-group-btn">
                            <button class="btn btn-default" type="submit" id="footerbtn" name="submit">Subscribe</button>
                        </span>

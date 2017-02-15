@@ -225,7 +225,6 @@ include "header.php";
                             <option value="" >Social Innovation and Entrepreneurship</option>
                             <option value="" selected>Tech-Lab Youth Bootcamp</option>
                             <option value="">Start-up Youth Bootcamp</option>
-                            <option value="">Modal G20</option>
                         </select>
 
                     </div>

@@ -92,7 +92,7 @@ SEPERATELY-->
                                </div>
 
                                <div class="row" style="display: inherit">
-                                   <input type="email" class="form-control" placeholder="Your Email" required name="header_email">
+                                   <input type="email" class="form-control" placeholder="Your Email" name="header_email">
                                    <span class="input-group-btn">
                                     <button class="btn btn-default" type="submit" id="subscribbtn" name="submit" >Subscribe</button>
                                    </span>

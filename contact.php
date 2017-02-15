@@ -79,7 +79,7 @@ include "header.php";
            </div>
 
            <div class="col-lg-6">
-                <form method="POST" action="controller/sendemail.php"  id="contactemailform">
+                <form method="POST" action=""  id="contactemailform">
                     <div class="row">
                         <div class="col-md-12">
                             <h5 id="error" style="color:red;">
@@ -90,14 +90,14 @@ include "header.php";
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label for="firstname">First Name*</label>
-                                <input type="text" class="form-control" name="contact_fn"  placeholder="First Name" required>
+                                <input type="text" class="form-control" name="contact_fn"  placeholder="First Name" >
 
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label for="lastname">Last Name*</label>
-                                <input type="text" class="form-control" name="contact_ln"  placeholder="Last Name" required>
+                                <input type="text" class="form-control" name="contact_ln"  placeholder="Last Name" >
 
                             </div>
                         </div>
@@ -107,14 +107,14 @@ include "header.php";
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label for="email">Email*</label>
-                                <input type="email" class="form-control" name="contact_email" placeholder="Email" required>
+                                <input type="email" class="form-control" name="contact_email" placeholder="Email" >
 
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label for="phone">Phone</label>
-                                <input type="tel" class="form-control" name="contact_phone"  placeholder="Phone" required>
+                                <input type="number" class="form-control" name="contact_phone"  placeholder="Phone" >
 
                             </div>
                         </div>
@@ -125,7 +125,7 @@ include "header.php";
                         <div class="col-md-12">
                             <div class="form-group">
                                 <label for="message">Message</label>
-                                <textarea class="form-control" rows="11" name="contact_textarea" required></textarea>
+                                <textarea class="form-control" rows="11" name="contact_textarea" ></textarea>
                             </div>
                         </div>
                     </div>
