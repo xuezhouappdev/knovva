@@ -229,7 +229,7 @@ include "header.php";
 
         <form method="POST" action="controller/controller_program_sie.php" id="form_sie">
             <div id="sie_noti" style="color:white; text-align: left;margin: 10px 0">
-                 testestest
+
             </div>
             <div class="row">
                 <div class="col-md-6">
@@ -240,10 +240,7 @@ include "header.php";
                 <div class="col-md-6">
                     <div class="form-group">
                         <select class="form-control">
-                            <option value="0" class="active" selected>Choose Your Program</option>
                             <option value="" >Social Innovation and Entrepreneurship</option>
-                            <option value="">Tech-Lab Youth Bootcamp</option>
-                            <option value="">Start-up Youth Bootcamp</option>
                         </select>
                     </div>
                 </div>

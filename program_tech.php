@@ -208,12 +208,16 @@ include "header.php";
             <h2>Free Registration</h2>
         </div>
 
-        <form>
+        <form method="post" id="form_tech">
+            <div id="tech_noti" style="color:white; text-align: left;margin: 10px 0">
+
+            </div>
+
             <div class="row">
                 <div class="col-md-6">
                     <div class="form-group">
 
-                        <input type="text" class="form-control" name="name"  placeholder="Name">
+                        <input type="text" class="form-control" name="tech_name"  placeholder="Name">
 
                     </div>
                 </div>
@@ -221,10 +225,10 @@ include "header.php";
                     <div class="form-group">
 
                         <select class="form-control">
-                            <option value="0" >Choose Your Program</option>
-                            <option value="" >Social Innovation and Entrepreneurship</option>
+
+
                             <option value="" selected>Tech-Lab Youth Bootcamp</option>
-                            <option value="">Start-up Youth Bootcamp</option>
+
                         </select>
 
                     </div>
@@ -235,14 +239,14 @@ include "header.php";
                 <div class="col-md-6">
                     <div class="form-group">
 
-                        <input type="email" class="form-control" name="email" placeholder="Email">
+                        <input type="email" class="form-control" name="tech_email" placeholder="Email">
 
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-group">
 
-                        <input type="tel" class="form-control" name="phone"  placeholder="Phone">
+                        <input type="tel" class="form-control" name="tech_phone"  placeholder="Phone">
 
                     </div>
                 </div>
@@ -252,7 +256,7 @@ include "header.php";
                 <div class="col-md-12">
                     <div class="form-group">
 
-                        <textarea class="form-control" rows="11" placeholder="Please enter your questions here"></textarea>
+                        <textarea class="form-control" rows="11" placeholder="Please enter your questions here" name="tech_textarea"></textarea>
                     </div>
                 </div>
             </div>
@@ -261,9 +265,11 @@ include "header.php";
                 <div class="col-md-12">
 
                     <button type="reset" class="btn btn-default">RESET</button>
-                    <button type="submit" class="btn btn-default">SEND</button>
+                    <button type="submit" class="btn btn-default" id="tech_program_btn">SEND</button>
                 </div>
             </div>
+
+            <script src="js/program_tech.js"></script>
 
         </form>
 

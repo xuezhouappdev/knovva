@@ -29,7 +29,7 @@ include_once "../mysql_connect.php";
   }
    else {
       $sql_sie_app = "INSERT INTO Client (ClientName, ClientPhone, ClientEmail, InterestedProgram,Isregistered)
-VALUES ('".$sie_name."','".$sie_phone."','".$sie_phone."','1','0')";
+VALUES ('".$sie_name."','".$sie_phone."','".$sie_email."','1','0')";
 
 
      //the record is input successfully.

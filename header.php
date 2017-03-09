@@ -27,7 +27,7 @@ SEPERATELY-->
 
         <div class="row navbar-fixed-top">
             <div class="col-md-1">
-                <h2>LOGO</h2>
+                <img src="image/logo-trim.png" class="img-responsive" style="margin-top: 16px;margin-left: 16px">
             </div>
 
             <div class="col-md-7">
@@ -46,7 +46,7 @@ SEPERATELY-->
                     </li>
 <!--                    <li><a href="#"> Teacher </a></li>-->
 
-                    <!--<li><a href="#" class="disabled"> Blog </a></li>-->
+                    <li><a href="gallery.php" class="disabled"> Gallery </a></li>
                     <li><a href="career.php"> Career </a></li>
                     <li><a href="contact.php"> Contact </a></li>
 

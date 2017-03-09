@@ -266,7 +266,7 @@ include "header.php";
 
         <div class="row teacher-pic ">
             <div class="col-md-3">
-                <img src="image/profile-img1.jpg" class="img-responsive">
+                <img src="image/teachers/Abby.jpg" class="img-responsive">
                 <h5>Frist Name Last Name<span> -Teacher</span></h5>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
 
@@ -275,7 +275,7 @@ include "header.php";
             </div>
 
             <div class="col-md-3">
-                <img src="image/profile-img1.jpg" class="img-responsive">
+                <img src="image/teachers/pat.jpg" class="img-responsive">
                 <h5>Frist Name Last Name<span> -Teacher</span></h5>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit</p>
                 <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
@@ -283,7 +283,7 @@ include "header.php";
             </div>
 
             <div class="col-md-3">
-                <img src="image/profile-img1.jpg" class="img-responsive">
+                <img src="image/teachers/Ross.jpg" class="img-responsive">
                 <h5>Frist Name Last Name<span> -Teacher</span></h5>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
                 <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
@@ -291,7 +291,7 @@ include "header.php";
             </div>
 
             <div class="col-md-3">
-                <img src="image/profile-img1.jpg" class="img-responsive">
+                <img src="image/teachers/Muhammet_Bas.png" class="img-responsive">
                 <h5>Frist Name Last Name<span> -Teacher</span></h5>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
                 <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
