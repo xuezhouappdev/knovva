@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/Knovvalogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/logo-trim.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/controller_program_startup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/controller_program_tech.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/program_startup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/program_tech.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/knovva.iml" afterPath="$PROJECT_DIR$/.idea/knovva.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controller/controller_program_sie.php" afterPath="$PROJECT_DIR$/controller/controller_program_sie.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index_new.css" afterPath="$PROJECT_DIR$/css/index_new.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program_sie.php" afterPath="$PROJECT_DIR$/program_sie.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program_startup.php" afterPath="$PROJECT_DIR$/program_startup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program_tech.php" afterPath="$PROJECT_DIR$/program_tech.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -453,7 +436,7 @@
       <workItem from="1488810546505" duration="5581000" />
       <workItem from="1488896574184" duration="661000" />
       <workItem from="1489007100697" duration="173000" />
-      <workItem from="1489069721077" duration="1682000" />
+      <workItem from="1489069721077" duration="1758000" />
     </task>
     <task id="LOCAL-00001" summary="activate the slider function (html, css, javascript), updated the slider picture 1">
       <created>1482872731497</created>
@@ -742,11 +725,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487178441658</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="added images to the about the home page">
+      <created>1489076565075</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1489076565075</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8097000" />
+    <option name="totallyTimeSpent" value="8173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="52" y="50" width="1074" height="692" extended-state="0" />
@@ -757,6 +747,7 @@
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14666666" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24919094" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -766,7 +757,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14666666" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -813,7 +803,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added teachers" />
     <MESSAGE value="added contact" />
     <MESSAGE value="added contact color" />
     <MESSAGE value="added data capture form" />
@@ -838,7 +827,8 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/xuezhouappdev/knovva&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;" />
     <MESSAGE value="added email list page" />
     <MESSAGE value="added SIE program backend" />
-    <option name="LAST_COMMIT_MESSAGE" value="added SIE program backend" />
+    <MESSAGE value="added images to the about the home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="added images to the about the home page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
