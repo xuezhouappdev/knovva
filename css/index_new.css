@@ -468,3 +468,9 @@ div.teacher.jumbotron {
     line-height: 5px;
 
 }
+
+
+/*post*/
+.post .img-responsive {
+    padding: 5px;
+}

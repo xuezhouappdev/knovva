@@ -47,7 +47,7 @@ include "header.php";
         <div class="carousel-inner">
             <div class="item active">
                 <!-- Set the first background image using inline CSS below. -->
-                <div class="fill" style="background-image:url('image/cs-4.jpg');"></div>
+                <div class="fill" style="background-image:url('image/home/SIE_1.jpg');"></div>
                 <div class="carousel-caption">
                 </div>
                 <div class="container">
@@ -65,7 +65,7 @@ include "header.php";
 
             <div class="item">
                 <!-- Set the second background image using inline CSS below. -->
-                <div class="fill" style="background-image:url('image/cs1.jpg');"></div>
+                <div class="fill" style="background-image:url('image/home/SIE_2.jpg');"></div>
                 <div class="carousel-caption">
                     <!--<h2>Caption 2</h2>-->
                 </div>

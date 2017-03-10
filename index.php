@@ -96,7 +96,7 @@ include "header.php";
 
            <div class="col-md-3">
                <img src="image/cl-4.png" class="img-responsive">
-               <h3>Program D</h3>
+               <h3>Coming <br> Soon</h3>
                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
                <a>VIEW DETAILS</a>
            </div>
@@ -144,47 +144,194 @@ include "header.php";
             <h2>OUR <span>TEACHERS</span></h2>
         </div>
 
+        <div id="myCarousel" class="carousel slide">
+            <div class="carousel-inner">
+                <div class="item active">
+                    <div class="row teacher-pic ">
+                <div class="col-md-3">
+                    <img src="image/teachers/Abby.jpg" class="img-responsive">
+                    <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
 
-        <div class="row teacher-pic ">
-            <div class="col-md-3">
-                <img src="image/teachers/Abby.jpg" class="img-responsive">
-                <h5>Frist Name Last Name<span> -Teacher</span></h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
+                    <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
+                    <a>VIEW DETAILS</a>
+                </div>
 
-                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
-                <a>VIEW DETAILS</a>
+                <div class="col-md-3">
+                    <img src="image/teachers/pat.jpg" class="img-responsive">
+                    <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit</p>
+                    <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
+                    <a>VIEW DETAILS</a>
+                </div>
+
+                <div class="col-md-3">
+                    <img src="image/teachers/Ross.jpg" class="img-responsive">
+                    <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
+                    <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
+                    <a>VIEW DETAILS</a>
+                </div>
+
+                <div class="col-md-3">
+                    <img src="image/teachers/Muhammet_Bas.png" class="img-responsive">
+                    <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
+                    <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
+                    <a>VIEW DETAILS</a>
+                </div>
+            </div>
+                </div>
+
+                <div class="item">
+                    <div class="row teacher-pic ">
+                        <div class="col-md-3">
+                            <img src="image/teachers/pat.jpg" class="img-responsive">
+                            <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
+
+                            <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
+                            <a>VIEW DETAILS</a>
+                        </div>
+
+                        <div class="col-md-3">
+                            <img src="image/teachers/pat.jpg" class="img-responsive">
+                            <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit</p>
+                            <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
+                            <a>VIEW DETAILS</a>
+                        </div>
+
+                        <div class="col-md-3">
+                            <img src="image/teachers/pat.jpg" class="img-responsive">
+                            <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
+                            <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
+                            <a>VIEW DETAILS</a>
+                        </div>
+
+                        <div class="col-md-3">
+                            <img src="image/teachers/pat.jpg" class="img-responsive">
+                            <h5>Frist Name Last Name<span> -Teacher</span></h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
+                            <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
+                            <a>VIEW DETAILS</a>
+                        </div>
+                    </div>
+                </div>
             </div>
 
-            <div class="col-md-3">
-                <img src="image/teachers/pat.jpg" class="img-responsive">
-                <h5>Frist Name Last Name<span> -Teacher</span></h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit</p>
-                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
-                <a>VIEW DETAILS</a>
-            </div>
-
-            <div class="col-md-3">
-                <img src="image/teachers/Ross.jpg" class="img-responsive">
-                <h5>Frist Name Last Name<span> -Teacher</span></h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
-                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
-                <a>VIEW DETAILS</a>
-            </div>
-
-            <div class="col-md-3">
-                <img src="image/teachers/Muhammet_Bas.png" class="img-responsive">
-                <h5>Frist Name Last Name<span> -Teacher</span></h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
-                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
-                <a>VIEW DETAILS</a>
-            </div>
         </div>
+
+
+
+
+
+
     </div>
 
 
 
 
 </div>
+
+
+
+
+<!-- POST -->
+<div class="post">
+    <div class="container">
+        <div class="row">
+            <h2>Recent News</h2>
+        </div>
+
+        <!--slider-->
+        <div id="myCarousel" class="carousel slide">
+            <!-- Wrapper for Slides -->
+            <div class="carousel-inner">
+
+                <div class="item active">
+                    <!-- Set the first background image using inline CSS below. -->
+
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <img class="img-responsive" src="http://placehold.it/350x150">
+                                <p><a href="#">1</a></p>
+                            </div>
+                            <div class="col-md-3">
+                                <img class="img-responsive" src="http://placehold.it/350x150">
+                                <p><a href="#">1</a></p>
+                            </div>
+                            <div class="col-md-3">
+                                <img class="img-responsive" src="http://placehold.it/350x150">
+                                <p><a href="#">1</a></p>
+                            </div>
+                            <div class="col-md-3">
+                                <img class="img-responsive" src="http://placehold.it/350x150">
+                                <p><a href="#">1</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <!-- Set the second background image using inline CSS below. -->
+                    <div class="container">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <img class="img-responsive" src="http://placehold.it/350x150">
+                                    <p><a href="#">2</a></p>
+                                </div>
+                                <div class="col-md-3">
+                                    <img class="img-responsive" src="http://placehold.it/350x150">
+                                    <p><a href="#">2</a></p>
+                                </div>
+                                <div class="col-md-3">
+                                    <img class="img-responsive" src="http://placehold.it/350x150">
+                                    <p><a href="#">2</a></p>
+                                </div>
+                                <div class="col-md-3">
+                                    <img class="img-responsive" src="http://placehold.it/350x150">
+                                    <p><a href="#">2</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <!-- Set the third background image using inline CSS below. -->
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <img class="img-responsive" src="http://placehold.it/350x150">
+                                <p><a href="#">3</a></p>
+                            </div>
+                            <div class="col-md-3">
+                                <img class="img-responsive" src="http://placehold.it/350x150">
+                                <p><a href="#">3</a></p>
+                            </div>
+                            <div class="col-md-3">
+                                <img class="img-responsive" src="http://placehold.it/350x150">
+                                <p><a href="#">3</a></p>
+                            </div>
+                            <div class="col-md-3">
+                                <img class="img-responsive" src="http://placehold.it/350x150">
+                                <p><a href="#">3</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
 
 <!-- Partner -->
 <div class="partner">
