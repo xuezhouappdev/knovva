@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -412,7 +411,7 @@
       <workItem from="1489069721077" duration="7426000" />
       <workItem from="1489155293540" duration="184000" />
       <workItem from="1489547639424" duration="722000" />
-      <workItem from="1490019552575" duration="1209000" />
+      <workItem from="1490019552575" duration="1729000" />
     </task>
     <task id="LOCAL-00001" summary="activate the slider function (html, css, javascript), updated the slider picture 1">
       <created>1482872731497</created>
@@ -729,11 +728,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490019679176</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="updated dummy blog">
+      <created>1490072121693</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1490072121693</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15956000" />
+    <option name="totallyTimeSpent" value="16476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="49" width="1228" height="691" extended-state="0" />
