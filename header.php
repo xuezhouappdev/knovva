@@ -48,7 +48,7 @@ SEPERATELY-->
 
                     <li><a href="gallery.php" class="disabled"> Gallery </a></li>
                     <li><a href="career.php"> Career </a></li>
-                    <li><a href="http://echochow.com/project/knovva/blog/"> Blog </a></li>
+                    <li><a href="http://echochow.com/project/knovva/blog/" target="_blank"> Blog </a></li>
                     <li><a href="contact.php"> Contact </a></li>
 
                 </ul>
