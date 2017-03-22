@@ -3,10 +3,19 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="e8dc5daa-b9c2-41c5-935c-b06052b55f68" name="ehost" url="http://echochow.com">
-        <fileTransfer host="echochow.com" port="21" password="dfd0dfd2df9bdf93df93df9adf9bdf93dfd0dfd2dfcb" username="admin@echochow.com">
+        <fileTransfer host="echochow.com" port="21" username="admin@echochow.com" password="dfd0dfd2df9bdf93df93df9adf9bdf93dfd0dfd2dfcb">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="86d35506-f059-4f72-8fe8-622b8f01ae13" name="knovvatesting" url="http://knovvatesting.com">
+        <fileTransfer host="knovvatesting.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>

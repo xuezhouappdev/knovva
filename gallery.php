@@ -19,6 +19,23 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
     <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
 
+    <script src="js/instafeed.min.js"></script>
+
+
+
+    <script type="text/javascript">
+        var userFeed = new Instafeed({
+            get: 'user',
+            userId: '183917197',
+            accessToken: '183917197.0ffac1c.3010c29623f143ae979a1b38fe5583d9',
+            template: '<div class="col-lg-4"><img class="img img-responsive"  src="{{image}}" style="padding:20px;"/></div>',
+            limit: '9',
+            resolution: "low_resolution"
+        });
+        userFeed.run();
+    </script>
+
+
 
 
 
@@ -35,6 +52,10 @@ include "header.php";
 
 
 
+
+
+
+
 <!--Header-about-->
 <div class="header-about">
     <div class="container">
@@ -47,18 +68,21 @@ include "header.php";
 
 
 <!-- Insta feed-->
+<div class="insbody" style="margin: 100px auto">
+    <div class="container">
 
 
+        <div id="instafeed">
 
+        </div>
 
-
-
-
-<div class="footer-wrapper">
-    <?php
-    include ("footer.php");
-    ?>
+    </div>
 </div>
+
+
+
+
+
 
 
 

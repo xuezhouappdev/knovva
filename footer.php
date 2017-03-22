@@ -60,7 +60,7 @@
             <div class="col-lg-4 footer-hours">
 
                 <ul>
-                    <li>Mon - Fri:   6:00am - 10:00pm</li>
+                    <li>Mon - Fri:   9:00am - 5:00pm</li>
                     <li>Sat - Sun:   Closed</li>
                 </ul>
             </div>
