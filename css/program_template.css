@@ -1,0 +1,230 @@
+
+body, html {
+    height: 100%;
+}
+
+
+.section {
+    margin-bottom: 88px;
+}
+
+a, a:hover{
+    text-decoration: none;
+}
+
+
+/*into*/
+div.intro {
+    height: 400px;
+    background-size: cover;
+
+    margin-top: 50px;
+    background:url('../image/program/Landscape.jpg');
+    width: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+
+}
+
+
+
+.intro-text {
+    text-align: center;
+    position: relative;
+    top:140px;
+    color: white;
+
+
+}
+
+.intro-text h1{
+    font-size: 56px;
+}
+
+.intro-text a {
+    font-size: 16px;
+    color: white;
+    background-color: #F2184F;
+    padding: 8px 24px;
+    top: 32px;
+    position: relative;
+    transition: 2s ease;
+
+}
+
+.intro-text a:hover {
+    font-size: 16px;
+    color: white;
+    background-color: #656968;
+    padding: 8px 24px;
+    text-decoration: none;
+    position: relative;
+    cursor: pointer;
+
+}
+
+/*about*/
+.about a {
+
+
+    background-color: #f2184f;
+    padding: 8px 24px;
+    color: white;
+
+   text-align: center;
+
+    text-decoration: none;
+    align-self: center;
+    right: 0;
+}
+
+/*features*/
+.features {
+    text-align: center;
+    background: rgba(154, 160, 158, 0.15);
+    padding: 40px;
+}
+
+.features i {
+    font-size: 48px;
+
+
+    padding: 20px;
+
+}
+
+.section h2 {
+    margin-bottom: 64px;
+}
+
+
+/*teacher*/
+div.teacher h2 {
+
+    text-align: center;
+}
+
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 8px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.29);
+}
+
+/* Add some padding inside the card container */
+.teacher.section.container.row:nth-child(2) {
+    padding: 500px;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #F2184F;
+    overflow: hidden;
+    width: 65%;
+    height: 0;
+    transition: .5s ease;
+    margin: 0 auto;
+}
+
+.text {
+    white-space: nowrap;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    overflow: hidden;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+.card:hover .overlay {
+    height: 77%;
+    padding: 20px;
+    cursor: pointer;
+}
+
+/*review*/
+.testmonial {
+    text-align: center;
+    background:rgba(154, 160, 158, 0.15);
+    padding: 40px;
+    margin-bottom: 0;
+
+}
+
+.testmonial.container {
+    padding: 0 24px;
+}
+
+.testmonial img {
+    width: 80%;
+    margin: 0 auto;
+
+
+}
+
+.testmonial p {
+    text-align: left;
+}
+
+
+
+/*cta*/
+.calltoaction {
+    text-align: center;
+    padding: 64px;
+    background: #F2184F;
+    margin-bottom: 0;
+    padding-bottom: 88px;
+}
+
+
+.calltoaction h2{
+    color: white;
+    margin-bottom: 16px;
+}
+
+.calltoaction p{
+    color: white;
+}
+
+.calltoaction a {
+    font-size: 16px;
+    color: #F2184F;
+    background-color: #f0f9f6;
+    padding: 8px 24px;
+    top: 32px;
+    position: relative;
+    transition: 0.5s linear;
+    margin-bottom: 64px;
+    text-decoration: none;
+}
+
+.calltoaction a:hover {
+    font-size: 16px;
+    color: white;
+    background-color: #656968;
+    padding: 8px 24px;
+    text-decoration: none;
+    position: relative;
+    cursor: pointer;
+
+}
+

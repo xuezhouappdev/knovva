@@ -28,8 +28,8 @@
             get: 'user',
             userId: '183917197',
             accessToken: '183917197.0ffac1c.3010c29623f143ae979a1b38fe5583d9',
-            template: '<div class="col-lg-4"><img class="img img-responsive"  src="{{image}}" style="padding:20px;"/></div>',
-            limit: '9',
+            template: '<div class="col-md-3"><a href="{{link}}"><img class="img img-responsive"  src="{{image}}" style="padding:10px;"/></a></div>',
+            limit: '16',
             resolution: "low_resolution"
         });
         userFeed.run();
@@ -70,13 +70,23 @@ include "header.php";
 <!-- Insta feed-->
 <div class="insbody" style="margin: 100px auto">
     <div class="container">
+        <div class="row">
+            <div id="instafeed">
 
-
-        <div id="instafeed">
-
+            </div>
         </div>
 
+
+
+
     </div>
+</div>
+
+
+<div class="footer-wrapper">
+    <?php
+    include ("footer.php");
+    ?>
 </div>
 
 
