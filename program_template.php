@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Program - SIE
+    <title>Individual Program Sample Page
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -32,7 +32,12 @@ include "header.php";
 <body>
 
 <!--CS-->
-<div class="intro section" id="banner">
+<div class="intro section" id="banner" style="background:url('image/program/Landscape.jpg'); background-size: cover;width: 100%;
+    background-position: bottom;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+
+    -o-background-size: cover;">
   <div class="container">
    <div class="row">
 
@@ -50,7 +55,13 @@ include "header.php";
 
 <!--ABOUT -->
 <div class="about section">
-    <div class="container">
+    <div class="container" >
+        <ul class="breadcrumb">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="programs.php">Program</a></li>
+            <li><a href="#">Understanding the Landscape of Study </a></li>
+        </ul>
+
         <div class="row">
             <div class="col-md-7">
                 <h4>Introduction to Higher Education Learning in the U.S: Understanding the Landscape of Study (Summer 2017)</h4>
@@ -63,7 +74,38 @@ include "header.php";
                 <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Business Tracks</P>
                 <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>
                 <P><i>Each week will include two one-hour lectures, preliminary readings & video, and discussion board.</i> </P>
-                <div > <a>VIEW AGENDA</a></div>
+              <a data-toggle="modal" data-target="#myModal" >VIEW AGENDA</a></div>
+
+
+            <!-- Modal -->
+            <div id="myModal" class="modal fade" role="dialog" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog">
+
+                    <!-- agender content-->
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">AGENDA</h4>
+                        </div>
+                        <div class="modal-body">
+                            <ul class="agenda">
+                                <li><b>Week 1: </b><br>The College Landscape: Understanding the Types of Universities Out There</li>
+                                <li><b>Week 2: </b><br>Business Tracks</li>
+                                <li><b>Week 3: </b><br>Social Science Tracks</li>
+                                <li><b>Week 4: </b><br>Humanities & Arts Tracks</li>
+                                <li><b>Week 5: </b><br>Engineering Tracks</li>
+                                <li><b>Week 6: </b><br>Math & Computer Science Tracks</li>
+                                <li><b>Week 7: </b><br>Science Tracks</li>
+                            </ul>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
 
 
             </div>

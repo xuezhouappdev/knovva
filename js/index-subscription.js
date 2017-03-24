@@ -4,7 +4,7 @@
 $(document).ready(function(){
     //This is to control the appearance and disappearance of the subscription page
     $("#myNav").hide();
-    $("#crosssign").click(function(){
+    /*$("#crosssign").click(function(){
         $("#myNav").fadeOut(200);
         $("#noti").text("");
 
@@ -12,7 +12,9 @@ $(document).ready(function(){
     $("#header-sb").click(function(){
         $("#myNav").fadeIn(200);
         $("#noti").text("");
-    })
+    })*/
+
+
 
 
 });

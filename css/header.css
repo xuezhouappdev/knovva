@@ -30,6 +30,8 @@ div.row.navbar-fixed-top {
     color: white;
 }
 
+.headeractive { background-color:#F2184F }
+
 .header ul li a:hover {
     text-decoration: none;
     color:#F2184F;
@@ -50,7 +52,7 @@ div.row.navbar-fixed-top {
 
 }
 
-.header .col-md-7 ul li {
+.header .col-md-11 ul li {
     display: inline;
     padding: 20px 10px;
     margin-right: 20px;
@@ -59,12 +61,12 @@ div.row.navbar-fixed-top {
 
 }
 
-.header.col-md-7 ul li:hover {
+.header.col-md-11 ul li:hover {
     color:#F2184F;
     text-decoration: none;
 }
 
-.header .col-md-7 ul {
+.header .col-md-11 ul {
 
     color: white;
     text-align: center;
@@ -94,6 +96,10 @@ div.header > .row {
     margin-top: 12px;
 }
 
+
+.header .icon {
+    display: none;
+}
 
 
 
@@ -204,3 +210,21 @@ li.dropdown {
     display: block;
     text-decoration: none;
 }
+
+
+
+/*Media */
+    @media screen and (max-width: 990px) {
+        #logo {
+            width: 12%;
+        }
+
+        .header .container .col-md-11 ul li a.icon {
+            float: right;
+            display: block;
+        }
+
+        .header .col-md-11 ul {
+            display: none;
+        }
+    }

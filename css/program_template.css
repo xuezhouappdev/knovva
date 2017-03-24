@@ -1,11 +1,14 @@
 
 body, html {
     height: 100%;
+    background-color: transparent;
+
 }
 
 
+
 .section {
-    margin-bottom: 88px;
+    margin-bottom: 96px;
 }
 
 a, a:hover{
@@ -15,17 +18,18 @@ a, a:hover{
 
 /*into*/
 div.intro {
-    height: 400px;
+    height: 450px;
     background-size: cover;
 
     margin-top: 50px;
-    background:url('../image/program/Landscape.jpg');
+
     width: 100%;
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    margin-bottom: 40px
 
 
 }
@@ -68,18 +72,62 @@ div.intro {
 }
 
 /*about*/
-.about a {
-
-
+.about .col-md-5 a {
     background-color: #f2184f;
     padding: 8px 24px;
     color: white;
-
-   text-align: center;
+    font-size: 14px;
+    text-align: center;
 
     text-decoration: none;
     align-self: center;
     right: 0;
+    transition: 0.5s linear;
+}
+
+.about .col-md-5 a:hover {
+    background-color: #9aa09e;
+    padding: 8px 24px;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+
+    text-decoration: none;
+    align-self: center;
+    right: 0;
+}
+
+
+.about ul{
+     margin-top: 0;
+     padding: 0;
+     background-color: transparent;
+ }
+
+.about ul li a{
+    color:  #F2184F;
+    font-weight: 500;
+}
+
+.about .agenda li{
+    list-style: none;
+
+}
+
+
+.modal-backdrop {
+    background-color: red; !important;
+}
+
+.modal-content {
+    border-radius: 0;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none;
+    min-height: 100%;
+    padding: 100px 0;
+    text-align:justify;
 }
 
 /*features*/
@@ -164,8 +212,9 @@ div.teacher h2 {
 .testmonial {
     text-align: center;
     background:rgba(154, 160, 158, 0.15);
-    padding: 40px;
+    padding: 56px;
     margin-bottom: 0;
+
 
 }
 
@@ -192,7 +241,7 @@ div.teacher h2 {
     padding: 64px;
     background: #F2184F;
     margin-bottom: 0;
-    padding-bottom: 88px;
+    padding-bottom: 96px;
 }
 
 
