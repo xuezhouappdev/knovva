@@ -13,7 +13,7 @@
     <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
 
     <!-- Program base CSS-->
-    <link rel="stylesheet" href="css/about.css">
+    <link rel="stylesheet" href="css/about-old.css">
 
     <!-- Jquery-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>

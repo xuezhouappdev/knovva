@@ -46,57 +46,327 @@ include "header.php";
 
 
 
-<!--Header-about-->
-<div class="header-about">
+<!--introtext-->
+<div class="header-about section">
     <div class="container">
-        <div class="row">
-            <h1>About</h1>
-        </div>
+        <h1>We envision a world where anyone, anywhere can transform their life by accessing the world’s best learning experience.</h1>
     </div>
-
 </div>
 
 
-<div class="intro">
+<!-- who we are -->
+<div class="whoweare section">
     <div class="container">
         <div class="row">
-            <div class="col-md-4">
-                <h3>Who We Are</h3>
+            <div class="col-md-6 ">
+               <h3>Who We Are</h3>
+                <p>Knovva Academy Inc. is an international education company headquartered in
+                    Cambridge, Massachusetts. KA was founded by a group of friends, who came together from the industries of education, community development, television production and public policy, with the common purpose of supporting young people in their pursuit of personal, professional and academic meaning.
+                </p>
             </div>
-            <div class="col-md-8">
-                <p>
-                    Knovva Academy is a cross-cultural education company located in Cambridge, Massachusetts that specializes in providing top-quality project-based immersive learning experiences in STEAM (science, technology, engineering, arts, mathematics) subjects to aspiring students all around the world.
-
-                    Academia – Face-to-face with the best professors to prepare for higher education.
-
-                    Diversity – Cross-cultural interaction with international peers to nurture global vision.
-
-                    Experience – Hands-on project development to cultivate problem-solving skills.
-
-                    Community – Life-long friends and mentors to pave future career paths.</p>
+            <div class="col-md-6 ">
+                <img class="img img-responsive" src="http://placehold.it/600x400">
             </div>
+        </div>
+    </div>
+</div>
 
-            <div class="col-md-4">
+
+<!-- what we do -->
+<div class="whatwedo section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 ">
+                <img class="img img-responsive" src="http://placehold.it/600x400">
+
+            </div>
+            <div class="col-md-6 ">
+                <h3>What We Do</h3>
+                <p>Catering to students from around the world, Knovva Academy utilizes online and in-person learning to challenge students’ expectations about learning; we strive to provoke our students to ask, think and learn content largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more, to help students uncover their own passions and their
+                    own directions.
+
+                </p>
+                <a href="programs.php">Our Programs</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- what we value -->
+<div class="whatwevalue section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 ">
                 <h3>What We Value</h3>
+                <p>Knovva Academy is moved by the possibility of readying the next generation of
+                    young people to be engaged learners pursuant of their own passions. Knovva
+                    Academy believes that by crossing boundaries of nation, culture and discipline, young people will increase their capacities to engage with real-world challenges and ready themselves to be proactive thinkers and doers in the twenty-first century.
+                </p>
             </div>
-            <div class="col-md-8">
-                <ul>
-                    <li><span>Academia - </span>Face-to-face with the best professors to prepare for higher education.</li>
-                    <li><span>Diversity – </span>Cross-cultural interaction with international peers to nurture global vision.</li>
-                    <li><span>Experience –</span>Hands-on project development to cultivate problem-solving skills.</li>
-                    <li><span>Community</span>Life-long friends and mentors to pave future career paths.
-                    </li>
-                </ul>
+            <div class="col-md-6 ">
+                <img class="img img-responsive" src="http://placehold.it/600x400">
             </div>
         </div>
     </div>
 </div>
 
+
+<!-- Benifits -->
+<div class="benifit section">
+    <div class="container">
+        <h2>In Knovva, you have access to:</h2>
+        <div class="row">
+              <div class="col-md-2">
+                  <i class="fa fa-address-book-o" aria-hidden="true"></i>
+              </div>
+
+
+              <div class="col-md-4">
+                  <h4>BENEFIT 1</h4>
+                  <P>from our dedicated community of Course Mentors and our knowledgeable Learner Support team.</P>
+              </div>
+
+             <div class="col-md-2">
+                 <i class="fa fa-address-book-o" aria-hidden="true"></i>
+                </div>
+
+
+                <div class="col-md-4">
+                    <h4>BENEFIT 1</h4>
+                    <p>from our dedicated community of Course Mentors and our knowledgeable Learner Support team.</p>
+                </div>
+
+
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <i class="fa fa-address-book-o" aria-hidden="true"></i>
+            </div>
+
+
+            <div class="col-md-4">
+                <h4>BENEFIT 1</h4>
+                <P>from our dedicated community of Course Mentors and our knowledgeable Learner Support team.</P>
+            </div>
+
+            <div class="col-md-2">
+                <i class="fa fa-address-book-o" aria-hidden="true"></i>
+            </div>
+
+
+            <div class="col-md-4">
+                <h4>BENEFIT 1</h4>
+                <p>from our dedicated community of Course Mentors and our knowledgeable Learner Support team.</p>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+<!-- our story -->
+<div class="ourstory section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 ">
+                <img class="img img-responsive" src="http://placehold.it/600x400">
+
+            </div>
+            <div class="col-md-6 ">
+                <h3>Our Story</h3>
+                <p>Catering to students from around the world, Knovva Academy utilizes online and in-person learning to challenge students’ expectations about learning; we strive to provoke our students to ask, think and learn content largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more, to help students uncover their own passions and their
+                    own directions.
+
+                </p>
+                <a href="programs.php">Our Programs</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- teacher -->
+<div class="teacher section">
+    <div class="container">
+
+        <h2>TEACHERS</h2>
+
+
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="card"  >
+                    <img src="image/teachers/Abby.jpg" class="img-responsive "alt="Avatar" >
+                    <div class="overlay">
+                        <div class="text">BIO</div>
+                    </div>
+                    <h4><b>John Doe</b></h4>
+                    <p>Architect & Engineer</p>
+
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="card" >
+                    <img src="image/teachers/pat.jpg" class="img-responsive " alt="Avatar"  >
+                    <div class="overlay">
+                        <div class="text">BIO</div>
+                    </div>
+                    <h4><b>John Doe</b></h4>
+                    <p>Architect & Engineer</p>
+
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="card" >
+                    <img src="image/teachers/Ross.jpg" class="img-responsive " alt="Avatar"  >
+
+                    <div class="overlay">
+                        <div class="text">BIO</div>
+                    </div>
+
+                    <h4><b>John Doe</b></h4>
+                    <p>Architect & Engineer</p>
+
+
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Testimonial -->
+<div class="testimonial section">
+
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <img src="http://placehold.it/400x400" class="img img-responsive " alt="Chania">
+
+                        </div>
+
+                        <div class="col-md-7">
+                            <h4>Review Contents</h4>
+                            <p>Name</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="item">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <img src="http://placehold.it/400x400" class="img img-responsive" alt="Chania">
+
+                        </div>
+
+                        <div class="col-md-7">
+                            <h4>Review Contents</h4>
+                            <p>dsdsdsdsdsd</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <img src="http://placehold.it/400x400" class="img img-responsive" alt="Chania">
+
+                        </div>
+
+                        <div class="col-md-7">
+                            <h4>Review Contents</h4>
+                            <p>dsdsdsdsdsd</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <img src="http://placehold.it/400x400" class="img img-responsive" alt="Chania">
+
+                        </div>
+
+                        <div class="col-md-7">
+                            <h4>Review Contents</h4>
+                            <p>dsdsdsdsdsd</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+</div>
+
+<!--bythenumbers -->
+<div class="number section">
+<!--    <h2>By the Numbers</h2>-->
+    <div class="container">
+      <div class="row jsfade">
+          <div class="col-sm-3">
+                <h1>24</h1>
+                <h4>LEARNERS</h4>
+          </div>
+          <div class="col-sm-3">
+              <h1>24</h1>
+              <h4>LEARNERS</h4>
+          </div>
+          <div class="col-sm-3">
+              <h1>24</h1>
+              <h4>LEARNERS</h4>
+          </div>
+          <div class="col-sm-3">
+              <h1>24</h1>
+              <h4>LEARNERS</h4>
+          </div>
+      </div>
+
+        <div class="row">
+         <a href="programs.php">Find A Program</a>
+        </div>
+    </div>
+
+
+</div>
 
 
 
 <!--Counter-->
-<div class="counter-div">
+<!--<div class="counter-div">
     <div class="container">
         <div class="row">
             <div class="col-md-3">
@@ -147,198 +417,12 @@ include "header.php";
             </div>
         </div>
     </div>
-</div>
-
-
-<!-- Features-->
-<div class="feature">
-    <div class="container">
-        <h2>What We Provide</h2>
-
-        <div class="row">
-            <div class="col-md-6">
-                <h4>Featured Program</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
-                <div class="panel-group" id="accordion">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Social Innovation and Entrepreneurship</a>
-                            </h4>
-                        </div>
-                        <div id="collapse1" class="panel-collapse collapse in">
-                            <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
-                        </div>
-                    </div>
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Tech-Lab Youth Bootcamp</a>
-                            </h4>
-                        </div>
-                        <div id="collapse2" class="panel-collapse collapse">
-                            <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
-                        </div>
-                    </div>
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Start-up Youth Bootcamp</a>
-                            </h4>
-                        </div>
-                        <div id="collapse3" class="panel-collapse collapse">
-                            <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-6">
-                <div class="row">
-                    <div class="col-md-4">
-                        <img src="image/about/global.png" class="img img-responsive">
-
-                    </div>
-                    <div class="col-md-8">
-                        <h4>GET GLOBAL</h4>
-                        <ul>
-                            <li>Build networks with international students and teachers</li>
-                            <li>Learn how to communicate on a global level</li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-md-4">
-                        <img src="image/about/college.png" class="img img-responsive">
-                    </div>
-                    <div class="col-md-8">
-                        <h4>GET READY FOR COLLEGE</h4>
-                        <ul>
-                            <li>Customized based on interests </li>
-                            <li>Strengthen the creative thinking process</li>
-                            <li>Hands-on development</li>
-                            <li>Student to teacher ratio at 6:1</li>
-                        </ul>
-                    </div>
-                </div>
-
-
-                <div class="row">
-                    <div class="col-md-4">
-                        <img src="image/tech/wear.png" class="img img-responsive">
-                    </div>
-                    <div class="col-md-8">
-                        <h4>AND BEYOND</h4>
-                        <ul>
-                            <li>Discover true passion and drive before college </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-
-        </div>
+</div>-->
 
 
 
 
 
-
-    </div>
-</div>
-
-
-
-<!--Teacher-->
-<div class="teacher jumbotron">
-    <div class="container">
-        <div class="row">
-            <h2>OUR <span>TEACHERS</span></h2>
-        </div>
-
-
-        <div class="row teacher-pic ">
-            <div class="col-md-3">
-                <img src="image/teachers/Abby.jpg" class="img-responsive">
-                <h5>Frist Name Last Name<span> -Teacher</span></h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
-
-                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
-                <a>VIEW DETAILS</a>
-            </div>
-
-            <div class="col-md-3">
-                <img src="image/teachers/pat.jpg" class="img-responsive">
-                <h5>Frist Name Last Name<span> -Teacher</span></h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit</p>
-                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
-                <a>VIEW DETAILS</a>
-            </div>
-
-            <div class="col-md-3">
-                <img src="image/teachers/Ross.jpg" class="img-responsive">
-                <h5>Frist Name Last Name<span> -Teacher</span></h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
-                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
-                <a>VIEW DETAILS</a>
-            </div>
-
-            <div class="col-md-3">
-                <img src="image/teachers/Muhammet_Bas.png" class="img-responsive">
-                <h5>Frist Name Last Name<span> -Teacher</span></h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit </p>
-                <i class="fa fa-facebook-square" aria-hidden="true"></i><i class="fa fa-twitter-square" aria-hidden="true"></i><i class="fa fa-google-plus-square" aria-hidden="true"></i>
-                <a>VIEW DETAILS</a>
-            </div>
-        </div>
-    </div>
-
-
-
-
-</div>
-
-
-<!--Benifits -->
-<div class="benefit">
-    <div class="container">
-       <div class="row" >
-      <h2 >Additional Benefits</h2>
-        </div>
-        <div class="row">
-            <div class="col-md-3">
-                <img src="image/start-up/fun.png" class="img img-responsive">
-                <p><i>Fun</i></p>
-                <h5>All Activities and Meals Included</h5>
-            </div>
-
-            <div class="col-md-3">
-                <img src="image/start-up/philan.png" class="img img-responsive">
-                <p><i>Philanthropy</i></p>
-                <h5>Community Service-give back and boost your resume.
-                </h5>
-            </div>
-            <div class="col-md-3">
-                <img src="image/start-up/prize.png" class="img img-responsive">
-                <p><i>Prizes</i></p>
-                <h5>Best start-up idea wins $1000</h5>
-            </div>
-
-            <div class="col-md-3">
-                <img src="image/start-up/oppo.png" class="img img-responsive">
-                <p><i>Opportunity</i></p>
-                <h5>Opportunities to meet with real investors.</h5>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 
@@ -357,7 +441,22 @@ include "header.php";
 
 
 
+<!-- control appearance -->
+<script>
 
+    var jsfade = $('.jsfade');
+    $(window).on('scroll',function(){
+        var st = $(this).scrollTop();
+        jsfade.css({
+            'opacity': (st-2000)/1850
+
+        })
+
+    });
+
+
+
+</script>
 
 
 

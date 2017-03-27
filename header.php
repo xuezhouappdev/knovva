@@ -22,24 +22,28 @@
 SEPERATELY-->
 
 <!--Header-->
-<div class="header ">
+<div class="header">
     <div class="container">
 
-        <div class="row navbar-fixed-top">
-            <div class="row">
-            <div class="col-md-1">
-                <img id="logo" src="image/logo-trim.png" class="img-responsive img"  height="10%" style="margin-top: 16px;margin-left: 16px">
-            </div>
+        <div class="navbar-fixed-top">
+          <div class="row">
 
-            <div class="col-md-11">
-                <ul>
+
+
+              <a href="index.php"><img id="logo" src="image/logo-trim.png" class="img-responsive img" ></a>
+
+
+
+
+
+                <ul id="menuitem" >
                     <li><a href="index.php"> Home </a></li>
                     <li><a href="about.php"> About </a></li>
-                    <li class="dropdown">
 
+                    <li class="dropdown"> <!--programdropdown -->
                         <a class="dropbtn" href="programs.php">Programs</a>
-                        <div class="dropdown-content">
 
+                        <div class="dropdown-content"><!--programdropdown content -->
                             <a href="program_template.php">Understanding the Landscape of Study</a>
                             <a href="program-socialmedia.php">U.S. Social Media Use and Electronic Correspondence</a>
                             <a href="program-harrypotter.php">The Harry Potter Reading Group (Summer 2017) </a>
@@ -47,27 +51,24 @@ SEPERATELY-->
                             <a href="program-sie.php">Social Innovation and Entrepreneurship </a>
                             <a href="program-gai.php">Global Affairs Institute </a>
                             <a href="program-aer.php">Applied Engineering & Robotics</a>
-
-
-
-
                         </div>
 
                     </li>
 <!--                    <li><a href="#"> Teacher </a></li>-->
 
-                    <li><a href="gallery.php" class="disabled"> Gallery </a></li>
-                    <li><a href="career.php"> Career </a></li>
-                    <li><a href="blog/" target="_blank"> Blog </a></li>
+                   <!-- <li><a href="gallery.php" class="disabled"> Gallery </a></li>-->
+                  <!--  <li><a href="career.php"> Career </a></li>-->
+<!--                    <li><a href="blog/" target="_blank"> Blog </a></li>-->
                     <li><a href="contact.php"> Contact </a></li>
-                    <li><a href="faq.php"> FAQ </a></li>
+                 <!--   <li><a href="faq.php"> FAQ </a></li>-->
+                   <!-- <li> <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a></li>-->
 
 
                 </ul>
-                <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a></li>
-            </div>
 
-            </div>
+
+          </div>
+
         </div>
 
     </div>

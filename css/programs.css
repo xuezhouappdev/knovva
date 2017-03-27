@@ -47,6 +47,20 @@ div.intro {
     font-size: 56px;
 }
 
+
+
+.intro-text h1:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+
 .intro-text a {
     font-size: 16px;
     color: white;
@@ -71,12 +85,25 @@ div.intro {
 
 
 /*onsite*/
-
 .onsite_p h2 {
     text-align: center;
     padding: 32px;
     margin-bottom: 40px;
 }
+
+
+.onsite_p h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 4px;
+    left: 15px;
+    width: 70px;
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+
 .card_p {
     /* Add shadows to create the "card" effect */
 
@@ -127,6 +154,19 @@ div.intro {
 }
 
 .online_p .row {
-    margin: 0px 0 48px;
+    margin: 0px 0 16px;
+}
+
+
+
+.online_p h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 4px;
+    left: 15px;
+    width: 70px;
+    text-align: center;
+    margin: 10px auto 10px;
 }
 

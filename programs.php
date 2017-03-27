@@ -104,7 +104,7 @@ include "header.php";
         </div>
 
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/Landscape.jpg" alt="Avatar" style="width:100%">
                     <h4><b>Understanding the Landscape of Study</b></h4>
@@ -140,7 +140,7 @@ include "header.php";
         </div>
 
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/creativity.jpg" alt="Avatar" style="width:100%">
                     <h4><b>The Innovation Reading Group: Creativity and Change in the New Millennium (Fall 2017)</b></h4>

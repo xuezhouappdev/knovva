@@ -121,35 +121,35 @@ include "header.php";
         </div>
 
         <div class="row">
-            <div class="col-lg-3">
+            <div class="col-sm-3">
                 <i class="fa fa-globe" aria-hidden="true"></i>
                 <h5>FEATURE</h5>
             </div>
-            <div class="col-lg-3">
+            <div class="col-sm-3">
                 <i class="fa fa-globe" aria-hidden="true"></i>
                 <h5>FEATURE</h5>
             </div>
-            <div class="col-lg-3">
+            <div class="col-sm-3">
                 <i class="fa fa-globe" aria-hidden="true"></i>
                 <h5>FEATURE</h5>
             </div>
-            <div class="col-lg-3">
+            <div class="col-sm-3">
                 <i class="fa fa-globe" aria-hidden="true"></i>
                 <h5>FEATURE</h5>
             </div>
-            <div class="col-lg-3">
+            <div class="col-sm-3">
                 <i class="fa fa-globe" aria-hidden="true"></i>
                 <h5>FEATURE</h5>
             </div>
-            <div class="col-lg-3">
+            <div class="col-sm-3">
                 <i class="fa fa-globe" aria-hidden="true"></i>
                 <h5>FEATURE</h5>
             </div>
-            <div class="col-lg-3">
+            <div class="col-sm-3">
                 <i class="fa fa-globe" aria-hidden="true"></i>
                 <h5>FEATURE</h5>
             </div>
-            <div class="col-lg-3">
+            <div class="col-sm-3">
                 <i class="fa fa-globe" aria-hidden="true"></i>
                 <h5>FEATURE</h5>
             </div>
