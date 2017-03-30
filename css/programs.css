@@ -1,17 +1,41 @@
 body, html {
     height: 100%;
     background-color: transparent;
+    position: relative;
+
 
 }
 
 .section {
-    margin-top: 80px;
-    margin-bottom: 80px;
+    margin-top: 72px;
+    margin-bottom: 40px;
 }
 
 a, a:hover{
     text-decoration: none;
 }
+
+
+/*BANNER */
+div.banner {
+    background: url("../image/leaf.jpg") center center no-repeat;
+    min-height: 200px;
+    width: 100%;
+    opacity: 0.8;
+    background-size: cover;
+
+
+}
+
+
+.banner h1 {
+    position: relative;
+    margin-top: 110px;
+    color: #fdfdfd;
+    border-left: 3px solid #f3f3f3;
+    padding-left: 7px;
+}
+
 
 
 /*into*/
@@ -84,11 +108,14 @@ div.intro {
 }
 
 
+
+
 /*onsite*/
 .onsite_p h2 {
     text-align: center;
-    padding: 32px;
-    margin-bottom: 40px;
+    padding: 8px 32px 32px;
+    margin-bottom: 24px;
+
 }
 
 
@@ -107,9 +134,10 @@ div.intro {
 .card_p {
     /* Add shadows to create the "card" effect */
 
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     text-align: center;
+    margin-bottom: 4px;
 
 
 }
@@ -125,6 +153,7 @@ div.intro {
      display: inline-block;
      margin-bottom: 24px;
      color: white;
+    margin-top: 16px;
 
  }
 
@@ -139,18 +168,56 @@ div.intro {
 
 
 .card_p p {
-    padding: 8px;
+    padding: 0px;
+    margin-bottom: 0;
+
 
 
 }
+
+.card_p p span{
+    font-weight: 600;
+    font-style: italic;
+
+
+
+}
+
+
+/*yearlong*/
+.yearlong_p h2 {
+    text-align: center;
+    padding: 8px 32px 32px;
+    margin-bottom: 24px;
+}
+
+.yearlong_p .row {
+    margin: 0px 0 16px;
+}
+
+
+
+.yearlong_p h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 4px;
+    left: 15px;
+    width: 70px;
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+
+
 
 
 
 /*online*/
 .online_p h2 {
     text-align: center;
-    padding: 32px;
-    margin-bottom: 40px;
+    padding: 8px 32px 32px;
+    margin-bottom: 24px;
 }
 
 .online_p .row {
@@ -169,4 +236,6 @@ div.intro {
     text-align: center;
     margin: 10px auto 10px;
 }
+
+
 

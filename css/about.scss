@@ -21,6 +21,23 @@ $stripbackground: rgba(128, 128, 128, 0.25);
   margin: 96px 0;
 }
 
+.banner {
+  background: url("../image/leaf.jpg") center center no-repeat;
+  min-height: 200px;
+  width: 100%;
+  opacity: 0.8;
+  background-size: cover;
+
+  h1 {
+    position: relative;
+    margin-top: 110px;
+    color: #fdfdfd;
+    border-left: 3px solid #f3f3f3;
+    padding-left: 7px;
+  }
+}
+
+
 .header-about  {
 
     .container {
@@ -91,6 +108,8 @@ $stripbackground: rgba(128, 128, 128, 0.25);
 }
 
 .testimonial{
+
+
   h2 {
     text-align: center;
     margin-bottom: 64px;
@@ -114,15 +133,20 @@ $stripbackground: rgba(128, 128, 128, 0.25);
 
 
          [class*="col-"] {
-           padding: 32px;
+           padding: 16px;
 
+
+         }
+
+         .col-md-5 img{
+           margin: 0 auto;
 
          }
 
 
          h4 {
 
-           padding-top: 64px;
+           padding-top: 32px;
          }
 
 
@@ -249,7 +273,7 @@ $stripbackground: rgba(128, 128, 128, 0.25);
 
     .row:nth-child(2) {
 
-      margin: 96px auto 8px;
+      margin: 96px auto 0px;
       a {
 
 

@@ -43,7 +43,7 @@ include "header.php";
 
             <div class="intro-text">
                 <h1>Creativity and Change in the New Millennium (Fall 2017)</h1>
-                <a>ENROLL NOW</a>
+                <a href="applicationform.php">ENROLL NOW</a>
             </div>
         </div>
 
@@ -57,7 +57,7 @@ include "header.php";
 <div class="about section">
     <div class="container" >
         <ul class="breadcrumb">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index_2.php">Home</a></li>
             <li><a href="programs.php">Program</a></li>
             <li><a href="#">Creativity and Change in the New Millennium</a></li>
         </ul>
@@ -73,10 +73,11 @@ include "header.php";
             </div>
             <div class="col-md-5" style="position: relative;top:24px">
 
-                <p><b><i class="fa fa-calendar-o" aria-hidden="true"> </i>&nbsp;&nbsp;TIME: </b>The College Landscape: Understanding the Types of Universities Out There</p>
+                <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;TARGETED STUDENTS: </b>International Students, grade 10-12 </p>
+                <p><b><i class="fa fa-calendar-o" aria-hidden="true"> </i>&nbsp;&nbsp;TIME: </b>Fall 2017</p>
                 <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Business Tracks</P>
                 <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>
-                <P><i>Each week will include two one-hour lectures, preliminary readings & video, and discussion board.</i> </P>
+                <P></P>
                 <a data-toggle="modal" data-target="#myModal" >VIEW AGENDA</a></div>
 
 
@@ -243,9 +244,9 @@ include "header.php";
 <div class="calltoaction section">
     <div class="container">
         <div class="row">
-            <h2>READY TO TAKE YOUR SYLLABUS ABROAD?</h2>
+            <h2>Start learning with Knovva Academy.</h2>
             <p><i>We’ll help you every step of the way.</i></p>
-            <a>ENROLL NOW</a>
+            <a href="applicationform.php">ENROLL NOW</a>
         </div>
     </div>
 </div>

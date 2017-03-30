@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Individual Program Sample Page
+    <title>Understanding the Landscape of Study
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -33,7 +33,7 @@ include "header.php";
 
 <!--CS-->
 <div class="intro section" id="banner" style="background:url('image/program/Landscape.jpg'); background-size: cover;width: 100%;
-    background-position: bottom;
+    background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
 
@@ -43,7 +43,7 @@ include "header.php";
 
        <div class="intro-text">
            <h1>Understanding the Landscape of Study</h1>
-           <a>ENROLL NOW</a>
+           <a href="applicationform.php">ENROLL NOW</a>
        </div>
    </div>
 
@@ -57,7 +57,7 @@ include "header.php";
 <div class="about section">
     <div class="container" >
         <ul class="breadcrumb">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index_2.php">Home</a></li>
             <li><a href="programs.php">Program</a></li>
             <li><a href="#">Understanding the Landscape of Study </a></li>
         </ul>
@@ -242,7 +242,7 @@ include "header.php";
         <div class="row">
              <h2>READY TO TAKE YOUR SYLLABUS ABROAD?</h2>
              <p><i>We’ll help you every step of the way.</i></p>
-              <a>ENROLL NOW</a>
+              <a href="applicationform.php">ENROLL NOW</a>
         </div>
     </div>
 </div>

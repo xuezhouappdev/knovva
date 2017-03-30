@@ -40,18 +40,20 @@ include "header.php";
            <div class="col-sm-4">
                <i class="fa fa-phone" aria-hidden="true"></i>
                <h3>Call US</h3>
-               <h4>617-577-7770</h4>
+               <h4><a href="callto:6175777770">617-577-7770</a></h4>
+
+
            </div>
 
             <div class="col-sm-4">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <h3>Address</h3>
-                <h4>222 3rd Street, Suite 3150, Cambridge, MA 02142</h4>
+                <h4><a href="https://www.google.com/maps/place/222+Third+St,+Cambridge,+MA+02142/@42.367156,-71.0823859,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370bb6afb650b:0x7bf7a9af0f3613cd!8m2!3d42.3671521!4d-71.0801972" target="_blank">222 3rd Street, Suite 3150, Cambridge, MA 02142</a></h4>
             </div>
             <div class="col-sm-4">
                 <i class="fa fa-envelope-o" aria-hidden="true"></i>
                 <h3>Email</h3>
-                <h4>fdf@giantbug.com</h4>
+                <h4><a href="mailto:fdf@giantbug.com">fdf@giantbug.com</a></h4>
             </div>
         </div>
     </div>

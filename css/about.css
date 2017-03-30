@@ -1,12 +1,25 @@
 .section {
   margin: 96px 0; }
 
+.banner {
+  background: url("../image/leaf.jpg") center center no-repeat;
+  min-height: 200px;
+  width: 100%;
+  opacity: 0.8;
+  background-size: cover; }
+  .banner h1 {
+    position: relative;
+    margin-top: 110px;
+    color: #fdfdfd;
+    border-left: 3px solid #f3f3f3;
+    padding-left: 7px; }
+
 .header-about .container {
   padding: 0 14%; }
-.header-about .container h1 {
-  font-size: 30px;
-  text-align: center;
-  color: #f54874; }
+  .header-about .container h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #f54874; }
 
 .whatwedo .container p {
   padding-bottom: 32px; }
@@ -16,23 +29,23 @@
   color: white;
   transition: 1s ease-in-out;
   margin-top: 64px; }
-.whatwedo .container a:hover {
-  background: #f2184f;
-  color: white; }
+  .whatwedo .container a:hover {
+    background: #f2184f;
+    color: white; }
 
 .benifit .container h2 {
   margin-bottom: 64px;
   text-align: center; }
 .benifit .container .row {
   margin-bottom: 32px; }
-.benifit .container .row .col-md-2 {
-  display: table; }
-.benifit .container .row .col-md-2 i {
-  display: table-cell;
-  font-size: 64px;
-  color: #f54874;
-  text-align: center;
-  vertical-align: middle; }
+  .benifit .container .row .col-md-2 {
+    display: table; }
+    .benifit .container .row .col-md-2 i {
+      display: table-cell;
+      font-size: 64px;
+      color: #f54874;
+      text-align: center;
+      vertical-align: middle; }
 
 .testimonial h2 {
   text-align: center;
@@ -40,15 +53,17 @@
 .testimonial #myCarousel {
   background: #f66086;
   color: white; }
-.testimonial #myCarousel .carousel-inner .container {
-  padding: 0px 80px; }
-.testimonial #myCarousel .carousel-inner .container img {
-  border-radius: 50%;
-  padding: 24px; }
-.testimonial #myCarousel .carousel-inner .container [class*="col-"] {
-  padding: 32px; }
-.testimonial #myCarousel .carousel-inner .container h4 {
-  padding-top: 64px; }
+  .testimonial #myCarousel .carousel-inner .container {
+    padding: 0px 80px; }
+    .testimonial #myCarousel .carousel-inner .container img {
+      border-radius: 50%;
+      padding: 24px; }
+    .testimonial #myCarousel .carousel-inner .container [class*="col-"] {
+      padding: 16px; }
+    .testimonial #myCarousel .carousel-inner .container .col-md-5 img {
+      margin: 0 auto; }
+    .testimonial #myCarousel .carousel-inner .container h4 {
+      padding-top: 32px; }
 
 .ourstory .container p {
   padding-bottom: 32px; }
@@ -58,9 +73,9 @@
   color: white;
   transition: 1s ease-in-out;
   margin-top: 64px; }
-.ourstory .container a:hover {
-  background: #f2184f;
-  color: white; }
+  .ourstory .container a:hover {
+    background: #f2184f;
+    color: white; }
 
 .teacher .container h2 {
   text-align: center;
@@ -72,58 +87,58 @@
   margin: 0 auto;
   text-align: center;
   padding: 8px; }
-.teacher .container .card .overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  background-color: #f54874;
-  overflow: hidden;
-  width: 65%;
-  height: 0;
-  transition: .5s ease;
-  margin: 0 auto; }
-.teacher .container .card .overlay .text {
-  white-space: nowrap;
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  overflow: hidden;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%); }
-.teacher .container .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.29);
-  cursor: pointer; }
-.teacher .container .card:hover .overlay {
-  height: 77%;
-  padding: 20px;
-  cursor: pointer; }
+  .teacher .container .card .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #f54874;
+    overflow: hidden;
+    width: 65%;
+    height: 0;
+    transition: .5s ease;
+    margin: 0 auto; }
+    .teacher .container .card .overlay .text {
+      white-space: nowrap;
+      color: white;
+      font-size: 20px;
+      position: absolute;
+      overflow: hidden;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%); }
+  .teacher .container .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.29);
+    cursor: pointer; }
+  .teacher .container .card:hover .overlay {
+    height: 77%;
+    padding: 20px;
+    cursor: pointer; }
 
 .number h2 {
   text-align: center;
   margin-bottom: 64px; }
 .number .container {
   text-align: center; }
-.number .container .row:nth-child(1) {
-  padding: 0 56px; }
-.number .container .row:nth-child(1) h1 {
-  font-size: 64px;
-  text-align: center; }
-.number .container .row:nth-child(1) h4 {
-  text-align: center;
-  color: #f54874; }
-.number .container .row:nth-child(2) {
-  margin: 96px auto 8px; }
-.number .container .row:nth-child(2) a {
-  background: #f54874;
-  padding: 8px 24px;
-  color: white;
-  transition: 1s ease-in-out;
-  margin-top: 64px; }
-.number .container .row:nth-child(2) a:hover {
-  background: #f2184f;
-  color: white; }
+  .number .container .row:nth-child(1) {
+    padding: 0 56px; }
+    .number .container .row:nth-child(1) h1 {
+      font-size: 64px;
+      text-align: center; }
+    .number .container .row:nth-child(1) h4 {
+      text-align: center;
+      color: #f54874; }
+  .number .container .row:nth-child(2) {
+    margin: 96px auto 0px; }
+    .number .container .row:nth-child(2) a {
+      background: #f54874;
+      padding: 8px 24px;
+      color: white;
+      transition: 1s ease-in-out;
+      margin-top: 64px; }
+      .number .container .row:nth-child(2) a:hover {
+        background: #f2184f;
+        color: white; }
 
 /*# sourceMappingURL=about.css.map */

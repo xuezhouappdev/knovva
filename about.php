@@ -43,13 +43,23 @@ include "header.php";
 
 <body>
 
+<!-- Banner-->
+<div class="banner">
+    <div class="container">
+        <div class="row">
+            <h1>About</h1>
+        </div>
+    </div>
+</div>
+
+
 
 
 
 <!--introtext-->
 <div class="header-about section">
     <div class="container">
-        <h1>We envision a world where anyone, anywhere can transform their life by accessing the world’s best learning experience.</h1>
+        <h1>Discover the possibilities with Knovva Academy</h1>
     </div>
 </div>
 
@@ -62,6 +72,8 @@ include "header.php";
                <h3>Who We Are</h3>
                 <p>Knovva Academy Inc. is an international education company headquartered in
                     Cambridge, Massachusetts. KA was founded by a group of friends, who came together from the industries of education, community development, television production and public policy, with the common purpose of supporting young people in their pursuit of personal, professional and academic meaning.
+                    <br><br>
+                    Catering to students from around the world, Knovva Academy utilizes online and in-person learning to challenge students’ expectations about learning; we strive to provoke our students to ask, think and learn content largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more, to help students uncover their own passions and their own directions.
                 </p>
             </div>
             <div class="col-md-6 ">
@@ -123,7 +135,7 @@ include "header.php";
 
               <div class="col-md-4">
                   <h4>BENEFIT 1</h4>
-                  <P>from our dedicated community of Course Mentors and our knowledgeable Learner Support team.</P>
+                  <P>Pursue what you love</P>
               </div>
 
              <div class="col-md-2">
@@ -133,7 +145,7 @@ include "header.php";
 
                 <div class="col-md-4">
                     <h4>BENEFIT 1</h4>
-                    <p>from our dedicated community of Course Mentors and our knowledgeable Learner Support team.</p>
+                    <p>Develop skills for the twenty-first century</p>
                 </div>
 
 
@@ -146,7 +158,7 @@ include "header.php";
 
             <div class="col-md-4">
                 <h4>BENEFIT 1</h4>
-                <P>from our dedicated community of Course Mentors and our knowledgeable Learner Support team.</P>
+                <P>Become a global citizen</P>
             </div>
 
             <div class="col-md-2">
@@ -156,7 +168,7 @@ include "header.php";
 
             <div class="col-md-4">
                 <h4>BENEFIT 1</h4>
-                <p>from our dedicated community of Course Mentors and our knowledgeable Learner Support team.</p>
+                <p>Build friendships that will last a lifetime</p>
             </div>
 
 
@@ -174,9 +186,10 @@ include "header.php";
 
             </div>
             <div class="col-md-6 ">
-                <h3>Our Story</h3>
-                <p>Catering to students from around the world, Knovva Academy utilizes online and in-person learning to challenge students’ expectations about learning; we strive to provoke our students to ask, think and learn content largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more, to help students uncover their own passions and their
-                    own directions.
+                <h3>Our Team</h3>
+                <p>Our team has strong personal, professional and academic experience in the field of education in North and South America, in the Middle East, in West Africa and South East Asia. In addition, we partner with educational graduate schools and Boston-based educational organizations to support the development and enrichment of our programs with state-of-the-art and research-informed programming. Our rich experience and strategic partnerships have been foundational for our team's ability to build successful programs for our students around the world.
+
+
 
                 </p>
                 <a href="programs.php">Our Programs</a>
@@ -258,7 +271,7 @@ include "header.php";
                 <div class="container">
                     <div class="row">
                         <div class="col-md-5">
-                            <img src="http://placehold.it/400x400" class="img img-responsive " alt="Chania">
+                            <img src="http://placehold.it/200x200" class="img img-responsive " alt="Chania">
 
                         </div>
 
@@ -275,7 +288,7 @@ include "header.php";
                 <div class="container">
                     <div class="row">
                         <div class="col-md-5">
-                            <img src="http://placehold.it/400x400" class="img img-responsive" alt="Chania">
+                            <img src="http://placehold.it/200x200" class="img img-responsive" alt="Chania">
 
                         </div>
 
@@ -291,7 +304,7 @@ include "header.php";
                 <div class="container">
                     <div class="row">
                         <div class="col-md-5">
-                            <img src="http://placehold.it/400x400" class="img img-responsive" alt="Chania">
+                            <img src="http://placehold.it/200x200" class="img img-responsive" alt="Chania">
 
                         </div>
 
@@ -307,7 +320,7 @@ include "header.php";
                 <div class="container">
                     <div class="row">
                         <div class="col-md-5">
-                            <img src="http://placehold.it/400x400" class="img img-responsive" alt="Chania">
+                            <img src="http://placehold.it/200x200" class="img img-responsive" alt="Chania">
 
                         </div>
 

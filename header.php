@@ -14,8 +14,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
     <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
 
-
-
+    
 </head>
 <body>
 <!--NOTE! THIS IS FOR RESUING ON THE PAGES NOT INCLUDING INDEX PAGE, INDEX PAGE HAS A FULL-WIDTH BACKGROUND, WHICH SHOULD BE DEALT WITH
@@ -30,14 +29,14 @@ SEPERATELY-->
 
 
 
-              <a href="index.php"><img id="logo" src="image/logo-trim.png" class="img-responsive img" ></a>
+              <a href="index_2.php"><img id="logo" src="image/logo-trim.png" class="img-responsive img" ></a>
 
 
 
 
 
                 <ul id="menuitem" >
-                    <li><a href="index.php"> Home </a></li>
+                    <li><a href="index_2.php"> Home </a></li>
                     <li><a href="about.php"> About </a></li>
 
                     <li class="dropdown"> <!--programdropdown -->
@@ -59,7 +58,9 @@ SEPERATELY-->
                    <!-- <li><a href="gallery.php" class="disabled"> Gallery </a></li>-->
                   <!--  <li><a href="career.php"> Career </a></li>-->
 <!--                    <li><a href="blog/" target="_blank"> Blog </a></li>-->
+
                     <li><a href="contact.php"> Contact </a></li>
+                    <li><a href="applicationform.php" style="border: solid 2px #f0f9f6;padding: 3px 12px 5px">Apply</a></li>
                  <!--   <li><a href="faq.php"> FAQ </a></li>-->
                    <!-- <li> <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a></li>-->
 

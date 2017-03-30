@@ -46,7 +46,7 @@
             <div class="col-lg-4 footer-links">
 
                 <ul>
-                   <li><a href="index.php">Home</a></li>
+                   <li><a href="index_2.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
                    <!-- <li><a href="#">Teacher</a></li>-->
                     <li><a href="career.php">Career</a></li>

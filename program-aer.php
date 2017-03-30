@@ -43,7 +43,7 @@ include "header.php";
 
             <div class="intro-text">
                 <h1>Applied Engineering & Robotics </h1>
-                <a>ENROLL NOW</a>
+                <a href="applicationform.php">ENROLL NOW</a>
             </div>
         </div>
 
@@ -57,7 +57,7 @@ include "header.php";
 <div class="about section">
     <div class="container">
         <ul class="breadcrumb">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index_2.php">Home</a></li>
             <li><a href="programs.php">Program</a></li>
             <li><a href="#">Applied Engineering & Robotics</a></li>
         </ul>
@@ -239,9 +239,9 @@ include "header.php";
 <div class="calltoaction section">
     <div class="container">
         <div class="row">
-            <h2>READY TO TAKE YOUR SYLLABUS ABROAD?</h2>
+            <h2>Start learning with Knovva Academy.</h2>
             <p><i>We’ll help you every step of the way.</i></p>
-            <a>ENROLL NOW</a>
+            <a href="applicationform.php">ENROLL NOW</a>
         </div>
     </div>
 </div>
