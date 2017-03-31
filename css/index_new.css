@@ -306,6 +306,7 @@ div.program.jumbotron {
 div.programnew.jumbotron {
     margin-top: 40px;
     padding-top: 16px;
+    background: white;
 }
 
 
@@ -319,7 +320,7 @@ div.programnew.jumbotron {
 }
 
 .programnew h2 {
-    margin-bottom: 32px;
+    margin-bottom: 40px;
     text-align: center;
 }
 
@@ -344,21 +345,23 @@ div.programnew.jumbotron {
 
 
 
-.programnew .col-sm-4 div.card {
+.programnew .col-sm-5 div.card {
     text-align: center;
-    padding: 8px;
+    padding: 18px;
     background-color: rgba(128, 128, 128, 0.25);
     transition: 0.5s ease-in-out;
     box-shadow: 5px 5px 5px rgba(240, 249, 246, 0.35);
+    color: white;
+    margin-bottom: 8px;
 }
 
-.programnew .col-sm-4 div.card:hover {
+.programnew .col-sm-5 div.card:hover {
     box-shadow: 5px 5px 5px gray;
     cursor: pointer;
 }
 
 
-.programnew .col-sm-4 .card a {
+.programnew .col-sm-5 .card a {
 
     padding: 8px 32px;
     background-color: #F2184F;
@@ -366,6 +369,12 @@ div.programnew.jumbotron {
     text-align: center;
     display: inline-block;
     margin-bottom: 32px;
+
+}
+
+.programnew .col-sm-5 .card p {
+
+   color: whitesmoke;
 
 }
 

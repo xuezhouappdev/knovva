@@ -1,6 +1,6 @@
 <?php
 
-/*function authenticate() {
+function authenticate() {
     if($_SERVER['PHP_AUTH_USER'] !=='admin' && $_SERVER['PHP_AUTH_PW'] !=='22233150' ) {
 
         header('WWW-Authenticate: Basic realm="Only for internal use"');
@@ -11,7 +11,7 @@
 
 }
 
-authenticate();*/
+authenticate();
 
 ?>
 
@@ -278,7 +278,7 @@ include "header.php";
         </div>
 
         <div class="row">
-            <div class="col-sm-4">
+            <div class="col-sm-5 col-sm-offset-1">
                 <div class="card" style='background: url("image/home/home_brand1.jpg") '>
 
                     <h3>Summer Programs</h3>
@@ -287,11 +287,12 @@ include "header.php";
 
                     <div class="btnwrapper" >
                         <br>
+                        <br>
                         <a href="programs.php">Read More</a>
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-5 ">
                 <div class="card" style='background: url("image/home/home_brand3.jpg") center center no-repeat '>
 
                     <h3>Online Programs</h3>
@@ -302,17 +303,19 @@ include "header.php";
                         <a href="programs.php#onlineprogram">Read More</a>
                     </div>
                 </div>
-            </div> <div class="col-sm-4">
-                <div class="card" style='background: url("image/home/home_brand6.jpg") center right no-repeat'>
-
-                    <h3>Year Long Program</h3>
-                    <p>Knovva Academy provides a variety of interactive online and blended year-long courses and programs to maximize your learning, motivation and direction in your fields of interest.</p>
-                    <div class="btnwrapper">
-                        <br><br>
-                        <a href="programs.php#yearlongprogram">Read More</a>
-                    </div>
-                </div>
             </div>
+<!--            -->
+<!--            <div class="col-sm-4">-->
+<!--                <div class="card" style='background: url("image/home/home_brand6.jpg") center right no-repeat'>-->
+<!---->
+<!--                    <h3>Blended Learning</h3>-->
+<!--                    <p>Knovva Academy provides a variety of interactive online and blended year-long courses and programs to maximize your learning, motivation and direction in your fields of interest.</p>-->
+<!--                    <div class="btnwrapper">-->
+<!--                        <br><br>-->
+<!--                        <a href="programs.php#yearlongprogram">Read More</a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
 
         </div>
     </div>
@@ -361,40 +364,40 @@ include "header.php";
 </div>
 
 <!--Testimony-->
-<div class="tesimony">
-    <div class="container">
-        <div class="row">
-            <h5>Happy Students</h5>
-            <h2>CUSTOMER STORIES</h2>
-        </div>
-
-        <div class="row">
-            <div class="col-md-3">
-               <a href="#"><img class="img img-responsive" src="http://placehold.it/350x500"></a>
-                <h5><span>Title</span>&nbsp; Lorem ipsum dolor sit amet, elit Lorem ipsum dolor sit amet, elit</h5>
-            </div>
-
-            <div class="col-md-3">
-                <a href="#"><img class="img img-responsive" src="http://placehold.it/350x500"></a>
-                <h5><span>Title</span> &nbsp; Lorem ipsum dolor sit amet, elit Lorem ipsum dolor sit amet, elit</h5>
-            </div>
-
-            <div class="col-md-3">
-                <a href="#"><img class="img img-responsive" src="http://placehold.it/350x500"></a>
-                <h5><span>Title</span> &nbsp; Lorem ipsum dolor sit amet, elit Lorem ipsum dolor sit amet, elit</h5>
-
-            </div>
-
-            <div class="col-md-3">
-                <a href="#"><img class="img img-responsive" src="http://placehold.it/350x500"></a>
-                <h5><span>Title</span> &nbsp; Lorem ipsum dolor sit amet,  elit Lorem ipsum dolor sit amet, elit</h5>
-            </div>
-
-        </div>
-
-
-    </div>
-</div>
+<!--<div class="tesimony">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <h5>Happy Students</h5>-->
+<!--            <h2>CUSTOMER STORIES</h2>-->
+<!--        </div>-->
+<!---->
+<!--        <div class="row">-->
+<!--            <div class="col-md-3">-->
+<!--               <a href="#"><img class="img img-responsive" src="http://placehold.it/350x500"></a>-->
+<!--                <h5><span>Title</span>&nbsp; Lorem ipsum dolor sit amet, elit Lorem ipsum dolor sit amet, elit</h5>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="col-md-3">-->
+<!--                <a href="#"><img class="img img-responsive" src="http://placehold.it/350x500"></a>-->
+<!--                <h5><span>Title</span> &nbsp; Lorem ipsum dolor sit amet, elit Lorem ipsum dolor sit amet, elit</h5>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="col-md-3">-->
+<!--                <a href="#"><img class="img img-responsive" src="http://placehold.it/350x500"></a>-->
+<!--                <h5><span>Title</span> &nbsp; Lorem ipsum dolor sit amet, elit Lorem ipsum dolor sit amet, elit</h5>-->
+<!---->
+<!--            </div>-->
+<!---->
+<!--            <div class="col-md-3">-->
+<!--                <a href="#"><img class="img img-responsive" src="http://placehold.it/350x500"></a>-->
+<!--                <h5><span>Title</span> &nbsp; Lorem ipsum dolor sit amet,  elit Lorem ipsum dolor sit amet, elit</h5>-->
+<!--            </div>-->
+<!---->
+<!--        </div>-->
+<!---->
+<!---->
+<!--    </div>-->
+<!--</div>-->
 
 
 

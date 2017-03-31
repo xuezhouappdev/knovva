@@ -10,8 +10,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="86d35506-f059-4f72-8fe8-622b8f01ae13" name="knovvatesting" url="http://knovvatesting.com">
-        <fileTransfer host="knovvatesting.com" port="21">
+      <webServer id="86d35506-f059-4f72-8fe8-622b8f01ae13" name="knovva.com" url="http://knovva.com">
+        <fileTransfer host="knovva.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

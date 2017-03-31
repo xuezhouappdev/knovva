@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" uploadOnCheckin="86d35506-f059-4f72-8fe8-622b8f01ae13">
+  <component name="PublishConfigData" serverName="knovva.com" uploadOnCheckin="86d35506-f059-4f72-8fe8-622b8f01ae13">
     <serverData>
       <paths name="ehost">
         <serverdata>
@@ -9,7 +9,7 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="knovvatesting">
+      <paths name="knovva.com">
         <serverdata>
           <mappings>
             <mapping deploy="knovva" local="$PROJECT_DIR$" web="/" />
