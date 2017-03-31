@@ -35,10 +35,10 @@
 
 
                 <ul>
-                    <li> <P>222 3rd Street, Suite 3150, Cambridge, MA 02142</P></li>
-                    <li><i class="fa fa-phone" aria-hidden="true"></i>&nbsp<p>&nbsp617-577-7770</p> </li>
-                    <li> <i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp<p>&nbspfdf@giantbug.com</p> </li>
-                    <li> <i class="fa fa-globe" aria-hidden="true"></i>&nbsp<p>&nbsphttp://knovva.com</p></li>
+                    <li> <P><a href="https://www.google.com/maps/place/222+Third+St,+Cambridge,+MA+02142/@42.367156,-71.0823859,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370bb6afb650b:0x7bf7a9af0f3613cd!8m2!3d42.3671521!4d-71.0801972" target="_blank">222 3rd Street, Suite 3150, Cambridge, MA 02142</a></P></li>
+                    <li><i class="fa fa-phone" aria-hidden="true"></i>&nbsp<p><a href="callto:6175777770">&nbsp617-577-7770</a></p> </li>
+                    <li> <i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp<p><a href="mailto:fdf@giantbug.com">&nbspfdf@giantbug.com</a></p> </li>
+
                 </ul>
 
 
@@ -53,7 +53,7 @@
 
                    <!-- <li><a href="#">Blog</a></li>-->
                     <li><a href="contact.php">Contact</a></li>
-                    <li><a href="faq.php">FAQ</a></li>
+<!--                    <li><a href="faq.php">FAQ</a></li>-->
                 </ul>
 
             </div>

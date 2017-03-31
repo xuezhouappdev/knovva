@@ -132,6 +132,7 @@ div.row.navbar-fixed-top {
     display: inline-block;
     margin-top: 32px;
     transition: 0.4s linear;
+    box-shadow: 5px 5px 8px black;
 }
 
 #myCarousel > div > div > div > a:hover {
@@ -395,11 +396,13 @@ div.programnew.jumbotron {
     display: inline-block;
     margin-bottom: 32px;
 
+
 }
 
 .programnew .col-sm-5 .card p {
 
    color: whitesmoke;
+    text-shadow: 6px 6px 10px black;
 
 }
 
@@ -450,12 +453,18 @@ div.benefit {
 
 .benefit .container .row:nth-child(2) .card img{
      margin: 0 auto 18px;
-     padding: 16px;
+     padding: 24px 96px ;
 
  }
 
 .benefit .container .row:nth-child(2) .card p{
     font-size: 14px;
+
+}
+
+.benefit .container .row:nth-child(2) .card h4{
+    color: #F2184F;
+
 }
 
 

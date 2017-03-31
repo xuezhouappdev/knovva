@@ -280,7 +280,7 @@ include "header.php";
 
         <div class="row">
             <div class="col-sm-5 col-sm-offset-1">
-                <div class="card" style='background: url("image/home/home_brand1.jpg") '>
+                <div class="card" style='background: url("image/home/home-program1.jpg") center center no-repeat ;background-size: cover; '>
 
                     <h3>Summer Programs</h3>
                     <p>Knovva Academy provides a variety of two-week long programs in the summer, where you will be able to master new skills, make new friends, create memorable memories, and explore the beautiful city of Boston.
@@ -294,7 +294,7 @@ include "header.php";
                 </div>
             </div>
             <div class="col-sm-5 ">
-                <div class="card" style='background: url("image/home/home_brand3.jpg") center center no-repeat '>
+                <div class="card" style='background: url("image/home/home-program2.jpg") center center no-repeat;background-size: cover; '>
 
                     <h3>Online Programs</h3>
                     <p>Knovva Academy provides a variety of interactive online courses that introduce topics outside of the school curriculum and connects you with other students around the world.
@@ -331,32 +331,36 @@ include "header.php";
         </div>
 
         <div class="row">
+
             <div class="col-sm-4">
                 <div class="card">
-                    <img class="img img-responsive img-circle" src="http://placehold.it/200x200" >
+                    <img class="img img-responsive " src="image/home/home-benefit2.png">
+                    <h4><b>Innovative and Interactive Courses</b></h4>
+                    <p>Pursue what you love and choose from a variety of fun and engaging courses. Learn beyond the school curriculum and discover new ideas and concepts and develop skills for the twenty-first century. (all developed by Harvard alumni(?))
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="card">
+                    <img class="img img-responsive " src="image/home/home-benefit.png" >
                         <h4><b>International Student Base</b></h4>
                         <p>You will be able to meet many students coming from all over the world, including many parts of North America, South America, and Asia. This is your chance to become a global citizen and build friendships that will last a lifetime.
                         </p>
                 </div>
             </div>
 
+
+
             <div class="col-sm-4" >
                 <div class="card">
-                    <img class="img img-responsive img-circle" src="http://placehold.it/200x200" >
+                    <img class="img img-responsive " src="image/home/home-benifit3.png" >
                     <h4><b>Customer Care</b></h4>
                     <p>We ensure a safespace for your ideas and always provide attentive assistance with students and parents, before, throughout, and after our programs.
                     </p>
                 </div>
             </div>
 
-            <div class="col-sm-4">
-                <div class="card">
-                    <img class="img img-responsive img-circle" src="http://placehold.it/200x200">
-                    <h4><b>Innovative and Interactive Courses</b></h4>
-                    <p>Pursue what you love and choose from a variety of fun and engaging courses. Learn beyond the school curriculum and discover new ideas and concepts and develop skills for the twenty-first century. (all developed by Harvard alumni(?))
-                    </p>
-                </div>
-            </div>
+
 
 
         </div>
