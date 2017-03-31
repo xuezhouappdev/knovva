@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/bb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cl-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cl-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cl-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cl-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cloud.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cs-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cs-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cs1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cs2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cs3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/dpt.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/img_placeholder.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/intro-image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/iphone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/learning.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/logo_placeholder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/p1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/p2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/p3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/p4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/p5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/p6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/performing-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/profile-img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/profile-img2.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/comingsoon.jpg" afterPath="$PROJECT_DIR$/image/comingsoon.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/skyatlas2.jpg" afterPath="$PROJECT_DIR$/image/skyatlas2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webServers.xml" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index_new.css" afterPath="$PROJECT_DIR$/css/index_new.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index_2.php" afterPath="$PROJECT_DIR$/index_2.php" />
@@ -78,102 +49,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index_2.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index_2.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index_2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="283" column="26" lean-forward="true" selection-start-line="283" selection-start-column="26" selection-end-line="283" selection-end-column="26" />
+            <state relative-caret-position="242">
+              <caret line="57" column="40" lean-forward="false" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
               <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1490931532000" expanded="false" signature="2089:2360" ph="..." />
-                <marker date="1490931532000" expanded="false" signature="2413:2644" ph="..." />
-                <marker date="1490931532000" expanded="false" signature="2675:2690" ph="..." />
-                <marker date="1490931532000" expanded="false" signature="2811:3082" ph="..." />
-                <marker date="1490931532000" expanded="false" signature="3135:3366" ph="..." />
-                <marker date="1490931532000" expanded="false" signature="3397:3412" ph="..." />
-                <marker date="1490931532000" expanded="false" signature="10807:11411" ph="..." />
-                <marker date="1490931532000" expanded="false" signature="11520:11588" ph="..." />
-                <marker date="1490931532000" expanded="false" signature="12206:13972" ph="..." />
+                <marker date="1490933517000" expanded="false" signature="2154:2425" ph="..." />
+                <marker date="1490933517000" expanded="false" signature="2478:2709" ph="..." />
+                <marker date="1490933517000" expanded="false" signature="2740:2755" ph="..." />
+                <marker date="1490933517000" expanded="false" signature="2876:3147" ph="..." />
+                <marker date="1490933517000" expanded="false" signature="3200:3431" ph="..." />
+                <marker date="1490933517000" expanded="false" signature="3462:3477" ph="..." />
+                <marker date="1490933517000" expanded="false" signature="10872:11476" ph="..." />
+                <marker date="1490933517000" expanded="false" signature="11585:11653" ph="..." />
+                <marker date="1490933517000" expanded="false" signature="12271:14037" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program_template.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/program_template.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="49" column="27" lean-forward="false" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="322" column="65" lean-forward="false" selection-start-line="322" selection-start-column="65" selection-end-line="322" selection-end-column="65" />
-              <folding>
-                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index_new.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index_new.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/index_new.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="164" column="23" lean-forward="false" selection-start-line="164" selection-start-column="23" selection-end-line="164" selection-end-column="23" />
               <folding>
-                <element signature="e#43#1316#0" expanded="false" />
-                <element signature="e#5600#5634#0" expanded="false" />
-                <element signature="e#5650#5691#0" expanded="false" />
-                <element signature="e#5709#5748#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1692">
-              <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contactemail.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/contactemail.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sendemail.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controller/sendemail.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding>
-                <marker date="1487022141000" expanded="true" signature="1804:1814" ph="..." />
+                <element signature="e#83#1356#0" expanded="false" />
+                <element signature="e#5957#5991#0" expanded="false" />
+                <element signature="e#6007#6048#0" expanded="false" />
+                <element signature="e#6066#6105#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -284,8 +194,8 @@
         <option value="$PROJECT_DIR$/programs.php" />
         <option value="$PROJECT_DIR$/css/programs.css" />
         <option value="$PROJECT_DIR$/css/program_template.css" />
-        <option value="$PROJECT_DIR$/css/index_new.css" />
         <option value="$PROJECT_DIR$/index_2.php" />
+        <option value="$PROJECT_DIR$/css/index_new.css" />
       </list>
     </option>
   </component>
@@ -478,14 +388,7 @@
       <workItem from="1490622345299" duration="12232000" />
       <workItem from="1490706360970" duration="30208000" />
       <workItem from="1490833735337" duration="308000" />
-      <workItem from="1490881794664" duration="14256000" />
-    </task>
-    <task id="LOCAL-00004" summary="added animation and scroll function to partner div">
-      <created>1483068005370</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1483068005370</updated>
+      <workItem from="1490881794664" duration="15274000" />
     </task>
     <task id="LOCAL-00005" summary="changed the animation speed">
       <created>1483068349697</created>
@@ -823,17 +726,24 @@
       <option name="project" value="LOCAL" />
       <updated>1490893690110</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="updaed a lot">
+      <created>1490932486895</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1490932486897</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146841000" />
+    <option name="totallyTimeSpent" value="147859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="74" width="1280" height="624" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19902913" sideWeight="0.7904328" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19902913" sideWeight="0.7904328" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1330,40 +1240,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index_new.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
-          <folding>
-            <element signature="e#43#1316#0" expanded="false" />
-            <element signature="e#5600#5634#0" expanded="false" />
-            <element signature="e#5650#5691#0" expanded="false" />
-            <element signature="e#5709#5748#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index_2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="283" column="26" lean-forward="true" selection-start-line="283" selection-start-column="26" selection-end-line="283" selection-end-column="26" />
+        <state relative-caret-position="242">
+          <caret line="57" column="40" lean-forward="false" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
           <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1490931532000" expanded="false" signature="2089:2360" ph="..." />
-            <marker date="1490931532000" expanded="false" signature="2413:2644" ph="..." />
-            <marker date="1490931532000" expanded="false" signature="2675:2690" ph="..." />
-            <marker date="1490931532000" expanded="false" signature="2811:3082" ph="..." />
-            <marker date="1490931532000" expanded="false" signature="3135:3366" ph="..." />
-            <marker date="1490931532000" expanded="false" signature="3397:3412" ph="..." />
-            <marker date="1490931532000" expanded="false" signature="10807:11411" ph="..." />
-            <marker date="1490931532000" expanded="false" signature="11520:11588" ph="..." />
-            <marker date="1490931532000" expanded="false" signature="12206:13972" ph="..." />
+            <marker date="1490933517000" expanded="false" signature="2154:2425" ph="..." />
+            <marker date="1490933517000" expanded="false" signature="2478:2709" ph="..." />
+            <marker date="1490933517000" expanded="false" signature="2740:2755" ph="..." />
+            <marker date="1490933517000" expanded="false" signature="2876:3147" ph="..." />
+            <marker date="1490933517000" expanded="false" signature="3200:3431" ph="..." />
+            <marker date="1490933517000" expanded="false" signature="3462:3477" ph="..." />
+            <marker date="1490933517000" expanded="false" signature="10872:11476" ph="..." />
+            <marker date="1490933517000" expanded="false" signature="11585:11653" ph="..." />
+            <marker date="1490933517000" expanded="false" signature="12271:14037" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index_new.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="164" column="23" lean-forward="false" selection-start-line="164" selection-start-column="23" selection-end-line="164" selection-end-column="23" />
+          <folding>
+            <element signature="e#83#1356#0" expanded="false" />
+            <element signature="e#5957#5991#0" expanded="false" />
+            <element signature="e#6007#6048#0" expanded="false" />
+            <element signature="e#6066#6105#0" expanded="false" />
           </folding>
         </state>
       </provider>

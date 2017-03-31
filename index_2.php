@@ -73,6 +73,7 @@ include "header.php";
 
 ' >
                 <h1 style="font-size:32px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 40px">Connect to The World,<br>Connect to Your Future.</h1>
+                <a href="programs.php">Discover Our Programs</a>
             </div>
 
         </div>

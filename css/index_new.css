@@ -3,6 +3,10 @@ a,i{
     cursor: pointer;
 }
 
+a:hover {
+    text-decoration: none;
+}
+
 
 
 /*!*Header div*!
@@ -117,9 +121,28 @@ div.row.navbar-fixed-top {
     color: white;
 }
 
-slidertextwrapper h1 {
+.slidertextwrapper h1 {
     font-size:60px;
 }
+
+#myCarousel > div > div > div > a {
+    padding: 8px 32px;
+    background-color: #f2184f;
+    color: white;
+    display: inline-block;
+    margin-top: 32px;
+    transition: 0.4s linear;
+}
+
+#myCarousel > div > div > div > a:hover {
+
+    background-color: #6C4A98;
+    color: white;
+    text-decoration: none;
+
+}
+
+
 
 
 /*about div*/
@@ -139,7 +162,7 @@ div.about {
 }
 
 .about .col-lg-6 h2::after {
-    background: #F2184F;
+    background: #6C4A98;
     display: block;
     content: "";
     height: 2px;
@@ -285,6 +308,8 @@ div.program.jumbotron {
     background-color: #F2184F;
     text-decoration: none;
     color: whitesmoke;
+
+
 
 }
 
