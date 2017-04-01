@@ -43,13 +43,16 @@ SEPERATELY-->
                         <a class="dropbtn" href="programs.php">Programs</a>
 
                         <div class="dropdown-content"><!--programdropdown content -->
+                            <a href="program-sie.php">Social Innovation and Entrepreneurship </a>
+                            <a href="program-gai.php">Global Affairs Institute </a>
+                            <a href="program-aer.php">Applied Engineering & Robotics</a>
                             <a href="program_template.php">Understanding the Landscape of Study</a>
                             <a href="program-socialmedia.php">U.S. Social Media Use and Electronic Correspondence</a>
                             <a href="program-harrypotter.php">The Harry Potter Reading Group (Summer 2017) </a>
                             <a href="program-irg.php">The Innovation Reading Group: Creativity and Change in the New Millennium (Fall 2017)</a>
-                            <a href="program-sie.php">Social Innovation and Entrepreneurship </a>
-                            <a href="program-gai.php">Global Affairs Institute </a>
-                            <a href="program-aer.php">Applied Engineering & Robotics</a>
+
+
+
                         </div>
 
                     </li>
@@ -142,7 +145,7 @@ SEPERATELY-->
 
             if(url === (this.href)) {
 
-                $(this).css({"color":"#F2184F ","font-weight":"bold"});
+                $(this).css({"color":"#F2184F ","font-weight":"500"});
             }
         });
     });

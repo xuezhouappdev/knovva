@@ -21,7 +21,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4">
-                <img src="image/logo.png"  class="img-responsive">
+                <img src="image/logo-trim.png"  class="img-responsive">
             </div>
             <div class="col-lg-4">
                 <h4>Links</h4>
@@ -35,9 +35,9 @@
 
 
                 <ul>
-                    <li> <P><a href="https://www.google.com/maps/place/222+Third+St,+Cambridge,+MA+02142/@42.367156,-71.0823859,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370bb6afb650b:0x7bf7a9af0f3613cd!8m2!3d42.3671521!4d-71.0801972" target="_blank">222 3rd Street, Suite 3150, Cambridge, MA 02142</a></P></li>
+                    <li><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp <P><a href="https://www.google.com/maps/place/222+Third+St,+Cambridge,+MA+02142/@42.367156,-71.0823859,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370bb6afb650b:0x7bf7a9af0f3613cd!8m2!3d42.3671521!4d-71.0801972" target="_blank">222 3rd Street, Suite 3150, Cambridge, MA 02142</a></P></li>
                     <li><i class="fa fa-phone" aria-hidden="true"></i>&nbsp<p><a href="callto:6175777770">&nbsp617-577-7770</a></p> </li>
-                    <li> <i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp<p><a href="mailto:fdf@giantbug.com">&nbspfdf@giantbug.com</a></p> </li>
+                    <li> <i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp<p><a href="mailto:info@knovva.com">&nbsp;info@knovva.com</a></p> </li>
 
                 </ul>
 
@@ -67,13 +67,22 @@
         </div>
         <hr>
         <div class="row subscribe-bar">
-            <div class="col-lg-3">
-                <label>Call Us Now</label>
+            <div class="col-lg-6" style="text-align: center">
+
+                <br>
+
+                <a href="https://www.facebook.com/pg/Knovva/about/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+                <a href="https://twitter.com/giantbugedu"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                <a href="https://www.youtube.com/channel/UCeUrQBjcMg6PjFcLqow7e6Qt"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+                <a href="https://twitter.com/giantbugedu"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+
+
+
+
+
 
             </div>
-            <div class="col-lg-3">
-                <label>Connect With Us</label>
-            </div>
+
 
             <div class="col-lg-6">
                 <form method="post" action="controller/subscribe2.php" id="footer_subscribeform">
@@ -94,7 +103,7 @@
         <div class="row">
 
             <div class="col-lg-12">
-                <h6>2016 Knovva Academy </h6>
+                <h6>2017 Knovva Academy </h6>
             </div>
         </div>
 

@@ -14,8 +14,8 @@ a:hover {
 /*Header div*/
 
 .header #logo {
-    margin: 14px  14px 12px;
-    height: 24px;
+    margin: 10px  12px 10px;
+    height: 36px;
     display: inline;
 }
 
@@ -24,11 +24,13 @@ a:hover {
 .header ul li a:hover {
     text-decoration: none;
     color:#F2184F;
-    font-weight: bold;
+    font-weight: 500;
+
 }
 
 .header ul li a {
     color: white;
+    font-weight: 500;
 }
 
 

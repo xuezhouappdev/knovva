@@ -280,6 +280,7 @@ include "header.php";
 
         <div class="row">
             <div class="col-sm-5 col-sm-offset-1">
+
                 <div class="card" style='background: url("image/home/home-program1.jpg") center center no-repeat ;background-size: cover; '>
 
                     <h3>Summer Programs</h3>
@@ -293,6 +294,8 @@ include "header.php";
                     </div>
                 </div>
             </div>
+
+
             <div class="col-sm-5 ">
                 <div class="card" style='background: url("image/home/home-program2.jpg") center center no-repeat;background-size: cover; '>
 
@@ -334,15 +337,15 @@ include "header.php";
 
             <div class="col-sm-4">
                 <div class="card">
-                    <img class="img img-responsive " src="image/home/home-benefit2.png">
+                    <img class="img img-responsive " src="image/home/home-benefit.png">
                     <h4><b>Innovative and Interactive Courses</b></h4>
-                    <p>Pursue what you love and choose from a variety of fun and engaging courses. Learn beyond the school curriculum and discover new ideas and concepts and develop skills for the twenty-first century. (all developed by Harvard alumni(?))
+                    <p>Pursue what you love and choose from a variety of fun and engaging courses. Learn beyond the school curriculum and discover new ideas and concepts and develop skills for the twenty-first century.
                     </p>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="card">
-                    <img class="img img-responsive " src="image/home/home-benefit.png" >
+                    <img class="img img-responsive " src="image/home/home-benefit2.png" >
                         <h4><b>International Student Base</b></h4>
                         <p>You will be able to meet many students coming from all over the world, including many parts of North America, South America, and Asia. This is your chance to become a global citizen and build friendships that will last a lifetime.
                         </p>

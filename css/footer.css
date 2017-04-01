@@ -86,8 +86,19 @@ div.input-group {
     font-weight: bold;
 }
 
+
+
+.footer .subscribe-bar .col-lg-6 i.fa {
+    font-size: 24px;
+    padding:2px;
+    margin-left: 24px;
+}
+
+
+
 .footer h6 {
     text-align: center;
     opacity: 0.6;
     margin-bottom: 20px;
 }
+

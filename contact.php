@@ -34,54 +34,15 @@ include "header.php";
 
 <!-- contact-->
 
-<div class="contact-info">
-    <div class="container">
-        <div class="row">
-           <div class="col-sm-4">
-               <i class="fa fa-phone" aria-hidden="true"></i>
-               <h3>Call US</h3>
-               <h4><a href="callto:6175777770">617-577-7770</a></h4>
-
-
-           </div>
-
-            <div class="col-sm-4">
-                <i class="fa fa-map-marker" aria-hidden="true"></i>
-                <h3>Address</h3>
-                <h4><a href="https://www.google.com/maps/place/222+Third+St,+Cambridge,+MA+02142/@42.367156,-71.0823859,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370bb6afb650b:0x7bf7a9af0f3613cd!8m2!3d42.3671521!4d-71.0801972" target="_blank">222 3rd Street, Suite 3150, Cambridge, MA 02142</a></h4>
-            </div>
-            <div class="col-sm-4">
-                <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                <h3>Email</h3>
-                <h4><a href="mailto:fdf@giantbug.com">fdf@giantbug.com</a></h4>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
-
 <div class="map">
-   <div class="container">
-       <div class="row map-title">
-           <div class="col-sm-6">
-               <h3>Find Our Location</h3>
-           </div>
-           <div class="col-sm-6">
-               <h3>Interested in us?</h3>
-           </div>
-       </div>
+    <div class="container">
 
 
-       <div class="row">
-           <div class="col-sm-6">
-               <div id="map" style="top:25px;"></div>
-               <script src="js/contact-map.js"></script>
-           </div>
 
-           <div class="col-sm-6">
-                <form method="POST" action=""  id="contactemailform">
+        <div class="row">
+
+            <div class="col-sm-7" >
+                <form method="POST" action=""  id="contactemailform" style="border-right: 2px solid  rgba(146,146,146,0.1);padding-right: 24px">
                     <div class="row">
                         <div class="col-sm-12">
                             <h5 id="error" style="color:red;">
@@ -140,12 +101,53 @@ include "header.php";
                         </div>
                     </div>
 
-               </form>
-           </div>
-       </div>
-       </div>
-   </div>
+                </form>
+            </div>
+            <div class="col-sm-5">
+               <h5>  <i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp <a href="https://www.google.com/maps/place/222+Third+St,+Cambridge,+MA+02142/@42.367156,-71.0823859,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370bb6afb650b:0x7bf7a9af0f3613cd!8m2!3d42.3671521!4d-71.0801972" target="_blank">222 3rd Street, Suite 3150, Cambridge, MA 02142</a></h5>
+                <h5><i class="fa fa-phone" aria-hidden="true"></i>&nbsp <a href="callto:6175777770">&nbsp617-577-7770</a></h5>
+               <h5> <i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp<a href="mailto:info@knovva.com">&nbsp;info@knovva.com</a></h5>
+
+                <div id="map" style="top:25px;"></div>
+
+                <script src="js/contact-map.js"></script>
+            </div>
+
+
+        </div>
+    </div>
 </div>
+</div>
+
+
+<!--<div class="contact-info">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--           <div class="col-sm-4">-->
+<!--               <i class="fa fa-phone" aria-hidden="true"></i>-->
+<!--               <h3>Call US</h3>-->
+<!--               <h4><a href="callto:6175777770">617-577-7770</a></h4>-->
+<!---->
+<!---->
+<!--           </div>-->
+<!---->
+<!--            <div class="col-sm-4">-->
+<!--                <i class="fa fa-map-marker" aria-hidden="true"></i>-->
+<!--                <h3>Address</h3>-->
+<!--                <h4><a href="https://www.google.com/maps/place/222+Third+St,+Cambridge,+MA+02142/@42.367156,-71.0823859,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370bb6afb650b:0x7bf7a9af0f3613cd!8m2!3d42.3671521!4d-71.0801972" target="_blank">222 3rd Street, Suite 3150, Cambridge, MA 02142</a></h4>-->
+<!--            </div>-->
+<!--            <div class="col-sm-4">-->
+<!--                <i class="fa fa-envelope-o" aria-hidden="true"></i>-->
+<!--                <h3>Email</h3>-->
+<!--                <h4><a href="mailto:fdf@giantbug.com">fdf@giantbug.com</a></h4>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
+
+
+
+
 
 
 <div class="footer-wrapper">

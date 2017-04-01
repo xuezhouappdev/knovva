@@ -39,9 +39,10 @@ div.contact-info {
     font-weight: 100;
 }
 
-.contact-info i {
-    font-size: 60px;
-}
+a:hover { text-decoration: none;
+ }
+
+
 
 
 div.contact-info .row {
@@ -59,17 +60,17 @@ div.contact-info.containter.row:nth-child(1){
 
 /* map div */
 #map {
-    height: 440px;
+    height: 300px;
     width: 100%;
+
 }
 
 
-div.row.map-title {
-    margin: 40px auto;
-}
+
 
 div.map {
     margin-bottom: 100px;
+    margin-top: 64px;
 }
 
 
@@ -110,5 +111,31 @@ div.map {
 
 .contact-info h4 a {
     color: white;
+}
+
+.col-sm-5 {
+    margin-top: 32px;
+}
+
+#contact-submit-btn {
+
+
+    cursor: pointer;
+    padding: 8px 32px;
+    transition: 0.4s linear;
+    background: #f2184f;
+    color: white;
+    float: right;
+    border-radius: 0; box-shadow: none;
+    border-color:transparent;
+
+}
+
+#contact-submit-btn:hover {
+     text-decoration: none;
+     background:#6c4a98;
+
+
+
 }
 

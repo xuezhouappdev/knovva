@@ -55,7 +55,7 @@ include "header.php";
         </ul>-->
 
         <div class="row">
-            <h2 style="text-transform: uppercase">Summer Programs in Boston (Summer 2017)</h2>
+            <h2 >Summer Programs</h2>
         </div>
 
         <div class="row">
@@ -64,10 +64,12 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/sie.jpg" alt="Avatar" style="width:100%">
                     <h4><b>Social Impact and Entrepreneurship</b></h4>
-                    <p><span>Subject: &nbsp;</span>Business</p>
-                    <p><span>Location: &nbsp;</span>Cambridge, MA| Nanjing, China
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>Subject: &nbsp;</span>Business</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, Massachusetts
                     </p>
-                    <p><span>Duration: &nbsp;</span></p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
+                        <span>Duration: &nbsp;</span>Two Weeks</p>
                     <a href="program-sie.php" class="button_p">Read More</a>
 
 
@@ -82,9 +84,12 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/global.jpg" alt="Avatar" style="width:100%">
                     <h4><b>Global Affairs Institute</b></h4>
-                    <p><span>Subject: &nbsp;</span>Political Science</p>
-                    <p><span>Location: &nbsp;</span>Cambridge, Massachusetts</p>
-                    <p><span>Duration: &nbsp;</span>Two Weeks Half Full</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, Massachusetts
+                    </p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
+                        <span>Duration: &nbsp;</span>Two Weeks</p>
                     <a href="program-gai.php" class="button_p">Read More</a>
                 </div>
             </div>
@@ -93,9 +98,12 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/rob.jpg" alt="Avatar" style="width:100%">
                     <h4><b>Applied Engineering & Robotics</b></h4>
-                    <p><span>Subject: &nbsp;</span>Engineering</p>
-                    <p><span>Location: &nbsp;</span>Cambridge, Massachusetts</p>
-                    <p><span>Duration: &nbsp;</span>Two Weeks Half Full</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Engineering</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, Massachusetts
+                    </p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
+                        <span>Duration: &nbsp;</span>Two Weeks</p>
                     <a href="program-aer.php" class="button_p">Read More</a>
                 </div>
             </div>
@@ -121,7 +129,7 @@ include "header.php";
          </ul>-->
 
         <div class="row">
-            <h2>ONLINE PROGRAMS</h2>
+            <h2>Online Programs</h2>
         </div>
 
         <div class="row">
@@ -129,9 +137,11 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/Landscape.jpg" alt="Avatar" style="width:100%">
                     <h4><b>Understanding the Landscape of Study</b></h4>
-                    <p><span>Subject: &nbsp;</span>American Culture</p>
-                    <p><span>Location: &nbsp;</span>Online</p>
-                    <p><span>Duration: &nbsp;</span></p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>American Culture</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 weeks</p>
+                    <br>
                     <a href="program_template.php" class="button_p">Read More</a>
 
 
@@ -143,9 +153,11 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/social.jpg" alt="Avatar" style="width:100%">
                     <h4><b>U.S. Social Media Use and Electronic Correspondence</b></h4>
-                    <p><span>Subject: &nbsp;</span>American Culture</p>
-                    <p><span>Location: &nbsp;</span>Online</p>
-                    <p><span>Duration: &nbsp;</span></p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>American Culture</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>3 weeks</p>
+
                     <a href="program-socialmedia.php" class="button_p">Read More</a>
                 </div>
             </div>
@@ -154,9 +166,11 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/hary.jpg" alt="Avatar" style="width:100%">
                     <h4><b>The Harry Potter Reading Group</b></h4>
-                    <p><span>Subject: &nbsp;</span></p>
-                    <p><span>Location: &nbsp;</span></p>
-                    <p><span>Duration: &nbsp;</span></p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span></p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span></p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>Coming Soon</p>
+                    <br>
                     <a href="program-harrypotter.php" class="button_p">Read More</a>
                 </div>
             </div>
@@ -167,10 +181,12 @@ include "header.php";
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/creativity.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>The Innovation Reading Group: Creativity and Change in the New Millennium (Fall 2017)</b></h4>
-                    <p><span>Subject: &nbsp;</span>Literature</p>
-                    <p><span>Location: &nbsp;</span>Online</p>
-                    <p><span>Duration: &nbsp;</span></p>
+                    <h4><b>The Innovation Reading Group: Creativity and Change in the New Millennium</b></h4>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Literature</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>Coming Soon</p>
+
                     <a href="program-irg.php" class="button_p">Read More</a>
 
 
