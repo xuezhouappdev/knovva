@@ -5,37 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/about/about-ourteam.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/about/about-whatwedo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/about/about-whatwevalue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/about/about-whoweare.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/home/home-benefit1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/teachers/chunxiao.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/teachers/neil.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index_new.scss" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/test.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/about/beyond.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/about/book.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/about/college.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/about/global.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/home/home-benefit.png" afterPath="$PROJECT_DIR$/image/home/home-benefit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/home/home-benefit2.png" afterPath="$PROJECT_DIR$/image/home/home-benefit2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/home/home-benifit3.png" afterPath="$PROJECT_DIR$/image/home/home-benifit3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/program/Landscape.jpg" afterPath="$PROJECT_DIR$/image/program/Landscape.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/program/rob.jpg" afterPath="$PROJECT_DIR$/image/program/rob.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/home/home-program1.jpg" afterPath="$PROJECT_DIR$/image/home/home-program1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/home/home-program2.jpg" afterPath="$PROJECT_DIR$/image/home/home-program2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/about.css" afterPath="$PROJECT_DIR$/css/about.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/about.scss" afterPath="$PROJECT_DIR$/css/about.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/contact.css" afterPath="$PROJECT_DIR$/css/contact.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/footer.css" afterPath="$PROJECT_DIR$/css/footer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/header.css" afterPath="$PROJECT_DIR$/css/header.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index_new.css" afterPath="$PROJECT_DIR$/css/index_new.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index_2.php" afterPath="$PROJECT_DIR$/index_2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programs.php" afterPath="$PROJECT_DIR$/programs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index_new.scss" afterPath="$PROJECT_DIR$/css/index_new.scss" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -82,12 +56,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/contact.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="41" column="7" lean-forward="false" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_new.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/index_new.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+              <folding>
+                <element signature="e#438#965#0" expanded="false" />
+                <element signature="e#2836#3555#0" expanded="false" />
+                <element signature="e#3562#3929#0" expanded="false" />
+                <element signature="e#4511#4533#0" expanded="false" />
+                <element signature="e#4568#5228#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,8 +146,8 @@
       <find>teacher</find>
       <find>programnew</find>
       <find>a</find>
-      <find>contact-submit-btn</find>
       <find>btn</find>
+      <find>contact-submit-btn</find>
     </findStrings>
     <replaceStrings>
       <replace>sm</replace>
@@ -219,7 +209,6 @@
         <option value="$PROJECT_DIR$/css/index_new.css2.css" />
         <option value="$PROJECT_DIR$/css/index_new.css" />
         <option value="$PROJECT_DIR$/css/footer.css" />
-        <option value="$PROJECT_DIR$/css/index_new.scss" />
         <option value="$PROJECT_DIR$/index_2.php" />
         <option value="$PROJECT_DIR$/about.php" />
         <option value="$PROJECT_DIR$/css/about.scss" />
@@ -227,6 +216,7 @@
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/css/contact.css" />
+        <option value="$PROJECT_DIR$/css/index_new.scss" />
       </list>
     </option>
   </component>
@@ -307,20 +297,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="about" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -452,14 +428,7 @@
       <workItem from="1490622345299" duration="12232000" />
       <workItem from="1490706360970" duration="30208000" />
       <workItem from="1490833735337" duration="308000" />
-      <workItem from="1490881794664" duration="44625000" />
-    </task>
-    <task id="LOCAL-00008" summary="separate the footer from index page. changed to php">
-      <created>1484688967151</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1484688967151</updated>
+      <workItem from="1490881794664" duration="45338000" />
     </task>
     <task id="LOCAL-00009" summary="added overlay to indexpage (subscription) .separte js file.">
       <created>1484704347204</created>
@@ -797,17 +766,24 @@
       <option name="project" value="LOCAL" />
       <updated>1490968488678</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="update a lot">
+      <created>1491023486315</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1491023486316</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177210000" />
+    <option name="totallyTimeSpent" value="177923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="134" width="1144" height="531" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22363636" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22363636" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -868,7 +844,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added faq page" />
     <MESSAGE value="added triangle" />
     <MESSAGE value="fixed faq Jquery" />
     <MESSAGE value="seperated js from php" />
@@ -893,7 +868,8 @@
     <MESSAGE value="updaed a lot" />
     <MESSAGE value="added btn  on home" />
     <MESSAGE value="home page updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="home page updated" />
+    <MESSAGE value="update a lot" />
+    <option name="LAST_COMMIT_MESSAGE" value="update a lot" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1259,20 +1235,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index_new.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <element signature="e#438#965#0" expanded="false" />
-            <element signature="e#2834#3553#0" expanded="false" />
-            <element signature="e#3560#3927#0" expanded="false" />
-            <element signature="e#4509#4531#0" expanded="false" />
-            <element signature="e#4566#5226#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programs.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1347,6 +1309,20 @@
         <state relative-caret-position="105">
           <caret line="41" column="7" lean-forward="false" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index_new.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding>
+            <element signature="e#438#965#0" expanded="false" />
+            <element signature="e#2836#3555#0" expanded="false" />
+            <element signature="e#3562#3929#0" expanded="false" />
+            <element signature="e#4511#4533#0" expanded="false" />
+            <element signature="e#4568#5228#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
