@@ -78,7 +78,7 @@ div.programnew.jumbotron {
     margin-bottom: 8px;
     box-shadow: none; }
     .programnew .container .row .col-sm-5 .card:hover {
-      box-shadow: 3px 3px 18px #000000;
+      box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
       cursor: pointer; }
     .programnew .container .row .col-sm-5 .card img {
       filter: blur(5px); }
