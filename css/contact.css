@@ -139,3 +139,15 @@ div.map {
 
 }
 
+
+
+
+body > div.map > div > div > div.col-sm-5 > h5 > a {
+    color: #121212;
+
+}
+
+body > div.map > div > div > div.col-sm-5 > h5 > i {
+    color: #f2184f;
+    font-size: 16px;
+}

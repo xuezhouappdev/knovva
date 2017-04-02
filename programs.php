@@ -63,7 +63,8 @@ include "header.php";
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/sie.jpg" alt="Avatar" style="width:100%">
-                    <h4 style="position: absolute;top:-7px"><span class="label label-primary" style="background: #3f8021;padding: 6px 16px;border-radius: 0">HYBRID</span></h4>
+                    <h4 style="position: absolute;top:-7px"  id="hbr-btn"><span class="label label-primary" style="background: #3f8021;padding: 6px 16px;border-radius: 0;font-style:italic">HYBRID</span></h4></h4>
+
                     <h4><b>Social Impact and Entrepreneurship</b></h4>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>Subject: &nbsp;</span>Business</p>
@@ -75,8 +76,20 @@ include "header.php";
 
                     <script>
                         $(document).ready(function(){
-                            $('[data-toggle="popover"]').popover();
+
+                            $("#hbr-btn").hover(function(){
+
+                                $("#hbd-div").css("opacity", "1");
+                            }, function(){
+                                $("#hbd-div").css("opacity", "0");
+                            });
+
+
                         });
+
+
+
+
                     </script>
 
                 </div>

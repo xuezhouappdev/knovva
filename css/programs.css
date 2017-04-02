@@ -238,4 +238,15 @@ div.intro {
 }
 
 
+div.tooltip.tooltip-inner {
+    background-color:red;
+    width: 800px;
+}
+
+.tooltip.tooltip-arrow {
+    border-top-color: red;
+}
+
+
+
 
