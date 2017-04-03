@@ -43,6 +43,7 @@
 
 
             </div>
+
             <div class="col-lg-4 footer-links">
 
                 <ul>
@@ -67,14 +68,14 @@
         </div>
         <hr>
         <div class="row subscribe-bar">
-            <div class="col-lg-6" style="text-align: center">
+            <div class="col-lg-12" style="text-align: center">
 
                 <br>
 
-                <a href="https://www.facebook.com/pg/Knovva/about/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
-                <a href="https://twitter.com/giantbugedu"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                <a href="https://www.youtube.com/channel/UCeUrQBjcMg6PjFcLqow7e6Qt"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
-                <a href="https://twitter.com/giantbugedu"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 
 
 
@@ -84,20 +85,20 @@
             </div>
 
 
-            <div class="col-lg-6">
-                <form method="post" action="controller/subscribe2.php" id="footer_subscribeform">
-                    <h5 id="footernoti" style="margin-left: 20px;color: red"></h5>
-                <div class="input-group">
-
-
-                    <input type="email" class="form-control" placeholder="Your Email" name="footer_email">
-                       <span class="input-group-btn">
-                           <button class="btn btn-default" type="submit" id="footerbtn" name="submit">Subscribe</button>
-                       </span>
-               <script src="js/footersubscribe.js"></script>
-                </div>
-                </form>
-            </div>
+<!--            <div class="col-lg-6">-->
+<!--                <form method="post" action="controller/subscribe2.php" id="footer_subscribeform">-->
+<!--                    <h5 id="footernoti" style="margin-left: 20px;color: red"></h5>-->
+<!--                <div class="input-group">-->
+<!---->
+<!---->
+<!--                    <input type="email" class="form-control" placeholder="Your Email" name="footer_email">-->
+<!--                       <span class="input-group-btn">-->
+<!--                           <button class="btn btn-default" type="submit" id="footerbtn" name="submit">Subscribe</button>-->
+<!--                       </span>-->
+<!--               <script src="js/footersubscribe.js"></script>-->
+<!--                </div>-->
+<!--                </form>-->
+<!--            </div>-->
         </div>
 
         <div class="row">

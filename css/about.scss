@@ -186,30 +186,25 @@ $stripbackground: rgba(128, 128, 128, 0.25);
 
     .carousel-inner {
        .container {
-         padding: 0px 80px;
 
-         img {
-           border-radius: 50%;
-           padding: 24px;
-         }
+         padding: 48px 88px;
+         text-align: center;
+
 
 
 
          [class*="col-"] {
-           padding: 16px;
+           padding: 24px;
 
 
          }
 
-         .col-md-5 img{
-           margin: 0 auto;
 
-         }
 
 
          h4 {
 
-           padding-top: 32px;
+           padding:32px 16px;
          }
 
 
@@ -375,9 +370,9 @@ $stripbackground: rgba(128, 128, 128, 0.25);
 
     .row {
 
-      img {
+      .img-responsive {
       margin: 0 auto;
-      padding: 8px;
+      padding: 32px;
     }
 
       text-align: center;

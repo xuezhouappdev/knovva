@@ -76,10 +76,12 @@ include "header.php";
 
 
 
-                <p><b><i class="fa fa-calendar-o" aria-hidden="true"> </i>&nbsp;&nbsp;TIME: </b>The College Landscape: Understanding the Types of Universities Out There</p>
-                <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Business Tracks</P>
-                <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>
-                <P><i>Each week will include two one-hour lectures, preliminary readings & video, and discussion board.</i> </P>
+                        <p><b><i class="fa fa-calendar-o " aria-hidden="true"> </i>&nbsp;&nbsp;TIME: </b>2017</p>
+                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;AGE: </b>Year 14 -18</p>
+
+                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>Political Science</p>
+
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston MA</P>
                 <a data-toggle="modal" data-target="#myModal" > >> VIEW AGENDA</a>
                     </div>
                 </div>

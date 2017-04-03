@@ -430,74 +430,74 @@ include "header.php";
                     <div class="container">
                         <div class="row">
                             <div class="col-md-3">
-                                <img class="img-responsive" src="http://placehold.it/350x200">
-                                <p><a href="#">1</a></p>
+                                <img class="img-responsive img img-thumbnail" src="image/post/cambridge.jpg">
+                                <p><a href="http://finance.yahoo.com/news/cambridge-education-foundation-attracts-big-120100747.html">Cambridge Education Foundation Attracts Big Names and International Students</a></p>
                             </div>
                             <div class="col-md-3">
-                                <img class="img-responsive" src="http://placehold.it/350x200">
-                                <p><a href="#">1</a></p>
+                                <img class="img-responsive img img-thumbnail" src="image/post/fenway.jpg">
+                                <p><a href="http://www.fenwayhs.org/2017/02/28/fenway-students-at-2017-model-g20-summit/">Fenway Students at 2017 Model G20 Summit</a></p>
                             </div>
                             <div class="col-md-3">
-                                <img class="img-responsive" src="http://placehold.it/350x200">
-                                <p><a href="#">1</a></p>
+                                <img class="img-responsive img img-thumbnail" src="image/post/5g20.jpg">
+                                <p><a href="http://www.bls.org/apps/news/show_news.jsp?REC_ID=442233&id=10">Five Students Participate in Model G20 Summit</a></p>
                             </div>
                             <div class="col-md-3">
-                                <img class="img-responsive" src="http://placehold.it/350x200">
-                                <p><a href="#">1</a></p>
+                                <img class="img-responsive img img-thumbnail" src="image/post/triptochina.jpg">
+                                <p><a href="http://www.modelg20.org/single-post/2016/12/12/Our-Inspiration-Trip-to-China">Our Inspirational Trip to China</a></p>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="item">
-                    <!-- Set the second background image using inline CSS below. -->
-                    <div class="container">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <img class="img-responsive" src="http://placehold.it/350x200">
-                                    <p><a href="#">2</a></p>
-                                </div>
-                                <div class="col-md-3">
-                                    <img class="img-responsive" src="http://placehold.it/350x200">
-                                    <p><a href="#">2</a></p>
-                                </div>
-                                <div class="col-md-3">
-                                    <img class="img-responsive" src="http://placehold.it/350x200">
-                                    <p><a href="#">2</a></p>
-                                </div>
-                                <div class="col-md-3">
-                                    <img class="img-responsive" src="http://placehold.it/350x200">
-                                    <p><a href="#">2</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+<!--                <div class="item">-->
+<!--                    <!-- Set the second background image using inline CSS below. -->
+<!--                    <div class="container">-->
+<!--                        <div class="container">-->
+<!--                            <div class="row">-->
+<!--                                <div class="col-md-3">-->
+<!--                                    <img class="img-responsive" src="http://placehold.it/350x200">-->
+<!--                                    <p><a href="#">2</a></p>-->
+<!--                                </div>-->
+<!--                                <div class="col-md-3">-->
+<!--                                    <img class="img-responsive" src="http://placehold.it/350x200">-->
+<!--                                    <p><a href="#">2</a></p>-->
+<!--                                </div>-->
+<!--                                <div class="col-md-3">-->
+<!--                                    <img class="img-responsive" src="http://placehold.it/350x200">-->
+<!--                                    <p><a href="#">2</a></p>-->
+<!--                                </div>-->
+<!--                                <div class="col-md-3">-->
+<!--                                    <img class="img-responsive" src="http://placehold.it/350x200">-->
+<!--                                    <p><a href="#">2</a></p>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
 
-                <div class="item">
-                    <!-- Set the third background image using inline CSS below. -->
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-3">
-                                <img class="img-responsive" src="http://placehold.it/350x200">
-                                <p><a href="#">3</a></p>
-                            </div>
-                            <div class="col-md-3">
-                                <img class="img-responsive" src="http://placehold.it/350x200">
-                                <p><a href="#">3</a></p>
-                            </div>
-                            <div class="col-md-3">
-                                <img class="img-responsive" src="http://placehold.it/350x200">
-                                <p><a href="#">3</a></p>
-                            </div>
-                            <div class="col-md-3">
-                                <img class="img-responsive" src="http://placehold.it/350x200">
-                                <p><a href="#">3</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+<!--                <div class="item">-->
+<!--                    <!-- Set the third background image using inline CSS below. -->
+<!--                    <div class="container">-->
+<!--                        <div class="row">-->
+<!--                            <div class="col-md-3">-->
+<!--                                <img class="img-responsive" src="http://placehold.it/350x200">-->
+<!--                                <p><a href="#">3</a></p>-->
+<!--                            </div>-->
+<!--                            <div class="col-md-3">-->
+<!--                                <img class="img-responsive" src="http://placehold.it/350x200">-->
+<!--                                <p><a href="#">3</a></p>-->
+<!--                            </div>-->
+<!--                            <div class="col-md-3">-->
+<!--                                <img class="img-responsive" src="http://placehold.it/350x200">-->
+<!--                                <p><a href="#">3</a></p>-->
+<!--                            </div>-->
+<!--                            <div class="col-md-3">-->
+<!--                                <img class="img-responsive" src="http://placehold.it/350x200">-->
+<!--                                <p><a href="#">3</a></p>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
 
             </div>
 

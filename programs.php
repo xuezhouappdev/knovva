@@ -63,16 +63,16 @@ include "header.php";
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/sie.jpg" alt="Avatar" style="width:100%">
-                    <h4 style="position: absolute;top:-7px"  id="hbr-btn"><span class="label label-primary" style="background: #3f8021;padding: 6px 16px;border-radius: 0;font-style:italic">HYBRID</span></h4></h4>
+                    <h4 style="position: absolute;top:-7px;left:-9px"  id="hbr-btn"><span class="label label-primary" style="background: #3f8021;padding: 6px 16px;border-radius: 0;font-style:italic">HYBRID</span></h4></h4>
 
                     <h4><b>Social Impact and Entrepreneurship</b></h4>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>Subject: &nbsp;</span>Business</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, Massachusetts
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
                     </p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
                         <span>Duration: &nbsp;</span>Two Weeks</p>
-                    <a href="program-sie.php" class="button_p">Read More</a>
+                    <h5 style="text-align: center"><a href="program-sie.php" class="button_p">Read More</a></h5>
 
                     <script>
                         $(document).ready(function(){
@@ -105,11 +105,11 @@ include "header.php";
                     <h4><b>Global Affairs Institute</b></h4>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, Massachusetts
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
                     </p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
                         <span>Duration: &nbsp;</span>Two Weeks</p>
-                    <a href="program-gai.php" class="button_p">Read More</a>
+                    <h5 style="text-align: center"> <a href="program-gai.php" class="button_p">Read More</a></h5>
                 </div>
             </div>
 
@@ -119,11 +119,11 @@ include "header.php";
                     <h4><b>Applied Engineering & Robotics</b></h4>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Engineering</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, Massachusetts
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
                     </p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
                         <span>Duration: &nbsp;</span>Two Weeks</p>
-                    <a href="program-aer.php" class="button_p">Read More</a>
+                    <h5 style="text-align: center"><a href="program-aer.php" class="button_p">Read More</a></h5>
                 </div>
             </div>
 
@@ -160,8 +160,8 @@ include "header.php";
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>American Culture</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 weeks</p>
-                    <br>
-                    <a href="program_template.php" class="button_p">Read More</a>
+
+                    <h5 style="text-align: center"><a href="program_template.php" class="button_p">Read More</a></h5>
 
 
                 </div>
@@ -177,7 +177,7 @@ include "header.php";
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>3 weeks</p>
 
-                    <a href="program-socialmedia.php" class="button_p">Read More</a>
+                    <h5 style="text-align: center"><a href="program-socialmedia.php" class="button_p">Read More</a></h5>
                 </div>
             </div>
 
@@ -186,11 +186,11 @@ include "header.php";
                     <img src="image/program/hary.jpg" alt="Avatar" style="width:100%">
                     <h4><b>The Harry Potter Reading Group</b></h4>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span></p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span></p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Literature</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>Coming Soon</p>
                     <br>
-                    <a href="program-harrypotter.php" class="button_p">Read More</a>
+                    <h5 style="text-align: center"><a href="program-harrypotter.php" class="button_p">Read More</a></h5>
                 </div>
             </div>
 
@@ -206,7 +206,7 @@ include "header.php";
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>Coming Soon</p>
 
-                    <a href="program-irg.php" class="button_p">Read More</a>
+                    <h5 style="text-align: center"><a href="program-irg.php" class="button_p "  >Read More</a></h5>
 
 
                 </div>

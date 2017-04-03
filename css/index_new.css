@@ -146,17 +146,22 @@ div.programnew.jumbotron {
   .post h2 {
     margin: 72px auto 32px;
     text-align: center; }
-  .post span {
-    color: #f2184f; }
-  .post h2::after {
-    background: #f2184f;
-    display: block;
-    content: "";
-    height: 2px;
-    left: 15px;
-    width: 60px;
-    margin: 16px auto 32px;
-    text-align: center; }
+    .post h2::after {
+      background: #f2184f;
+      display: block;
+      content: "";
+      height: 2px;
+      left: 15px;
+      width: 60px;
+      margin: 16px auto 32px;
+      text-align: center; }
+    .post h2 span {
+      color: #f2184f; }
+  .post p a {
+    color: #0f0f0f; }
+    .post p a:hover {
+      color: #f2184f;
+      text-decoration: none; }
 
 .calltoaction {
   text-align: center;

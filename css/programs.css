@@ -136,7 +136,7 @@ div.intro {
 
     box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    text-align: center;
+    text-align: left;
     margin-bottom: 4px;
 
 
@@ -156,6 +156,7 @@ div.intro {
     margin-top: 16px;
     transition: 1s ease-in-out;
 
+
  }
 
 .card_p:hover a {
@@ -170,6 +171,7 @@ div.intro {
 .card_p p {
     padding: 0px;
     margin-bottom: 0;
+    margin-left: 24px;
 
 
 
@@ -178,6 +180,14 @@ div.intro {
 .card_p p span{
     font-weight: 600;
     font-style: italic;
+
+
+
+}
+
+.card_p h4{
+    margin-left: 24px;
+    margin-right: 24px;
 
 
 

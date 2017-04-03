@@ -33,8 +33,8 @@ div.footer {
 
 .footer img {
 
-    height: 60px;
-    width: 140px;
+    height: 55px;
+    width: auto;
     padding-bottom: 10px;
     padding-left: 10px;
 }
@@ -88,7 +88,7 @@ div.input-group {
 
 
 
-.footer .subscribe-bar .col-lg-6 i.fa {
+.footer .subscribe-bar .col-lg-12 i.fa {
     font-size: 24px;
     padding:2px;
     margin-left: 24px;

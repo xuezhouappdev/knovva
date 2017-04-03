@@ -235,6 +235,8 @@ div {
     }
   }
 }
+
+
 .post {
   text-align: center;
   .img-responsive {
@@ -244,21 +246,44 @@ div {
   h2 {
     margin: 72px auto 32px;
     text-align: center;
+
+    &::after{
+      background: $primary;
+      display: block;
+      content: "";
+      height: 2px;
+      left: 15px;
+      width: 60px;
+      margin: 16px auto 32px;
+      text-align: center;
+    }
+
+    span {
+      color: $primary;
+    }
+
   }
-  span {
-    color: $primary;
+
+  p {
+    a {
+      color: #0f0f0f;
+
+      &:hover {
+        color:$primary;
+        text-decoration: none;
+      }
+    }
+
+
+
   }
-  h2::after {
-    background: $primary;
-    display: block;
-    content: "";
-    height: 2px;
-    left: 15px;
-    width: 60px;
-    margin: 16px auto 32px;
-    text-align: center;
-  }
+
+
+
+
 }
+
+
 .calltoaction {
   text-align: center;
   background: $primary;

@@ -293,15 +293,12 @@ include "header.php";
             <div class="item active">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-5">
-                            <img src="http://placehold.it/200x200" class="img img-responsive " alt="Chania">
 
-                        </div>
+                            <h4>"Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better."
+                            </h4><br>
+                            <p>Student from Boston Latin Academy
+                            </p>
 
-                        <div class="col-md-7">
-                            <h4>Review Contents</h4>
-                            <p>Name</p>
-                        </div>
                     </div>
                 </div>
 
@@ -310,15 +307,13 @@ include "header.php";
             <div class="item">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-5">
-                            <img src="http://placehold.it/200x200" class="img img-responsive" alt="Chania">
 
-                        </div>
 
-                        <div class="col-md-7">
-                            <h4>Review Contents</h4>
-                            <p>dsdsdsdsdsd</p>
-                        </div>
+
+                        <h4>"They made learning fun and exciting! Knovva Academy showed something different, a different style of learning and discovering new concepts."</h4><br>
+                            <p>Student from Fenway High School
+                            </p>
+
                     </div>
                 </div>
             </div>
@@ -326,15 +321,12 @@ include "header.php";
             <div class="item">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-5">
-                            <img src="http://placehold.it/200x200" class="img img-responsive" alt="Chania">
 
-                        </div>
 
-                        <div class="col-md-7">
-                            <h4>Review Contents</h4>
-                            <p>dsdsdsdsdsd</p>
-                        </div>
+
+                            <h4>"I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy." </h4><br>
+                            <p>Student from Liuzhou High School</p>
+
                     </div>
                 </div>
             </div>
@@ -342,18 +334,16 @@ include "header.php";
             <div class="item">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-5">
-                            <img src="http://placehold.it/200x200" class="img img-responsive" alt="Chania">
 
-                        </div>
 
-                        <div class="col-md-7">
-                            <h4>Review Contents</h4>
-                            <p>dsdsdsdsdsd</p>
-                        </div>
+                            <h4>"I’m always trying to find programs to improve myself because I want to make an impact to the world or the people around me. At Knovva Academy, I got to develop new practical skills, build connection with different cultures, and understand the responsibility of being a global citizen. Thank you everyone." </h4>
+                            <p>Student from Dalian No. 24 High School</p>
+
                     </div>
                 </div>
             </div>
+
+
         </div>
 
         <!-- Left and right controls -->
@@ -405,16 +395,17 @@ include "header.php";
         <h2>PARTNERS</h2>
            <div class="row">
                <div class="col-sm-3">
-                   <img src="http://www.placehold.it/200X200" class="img img-responsive">
+                   <img src="image/partner/p-bps.png" class="img img-responsive">
                </div>
                <div class="col-sm-3">
-                   <img src="http://www.placehold.it/200X200" class="img img-responsive">
+                   <img src="image/partner/p-nuvu.jpg" class="img img-responsive">
                </div>
                <div class="col-sm-3">
-                   <img src="http://www.placehold.it/200X200" class="img img-responsive">
+                   <img src="image/partner/p-huceic.png" class="img img-responsive">
                </div>
+
                <div class="col-sm-3">
-                   <img src="http://www.placehold.it/200X200" class="img img-responsive">
+                   <img src="image/partner/rola.jpg" class="img img-responsive">
                </div>
            </div>
     <hr>

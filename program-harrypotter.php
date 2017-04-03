@@ -73,13 +73,12 @@ include "header.php";
                     <div class="panel-heading">Facts</div>
                     <div class="panel-body">
 
-                <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;TARGETED STUDENTS: </b>International Students, grade 10-12 </p>
-                <p><b><i class="fa fa-calendar-o" aria-hidden="true"></i>&nbsp;LAUNCH TIME: </b>Fall 2017 </p>
+                        <p><b><i class="fa fa-calendar-o " aria-hidden="true"> </i>&nbsp;&nbsp;TIME: </b>2017</p>
+                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;AGE: </b>Year 14 -18</p>
 
+                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>Literature</p>
 
-                <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Business Tracks</P>
-                <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>
-                <P><i>Each week will include two one-hour lectures, preliminary readings & video, and discussion board.</i> </P>
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Online</P>
                 <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>
 
                     </div>
