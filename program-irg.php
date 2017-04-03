@@ -71,14 +71,21 @@ include "header.php";
                     This group will explore scientific progress, philosophy, literature, and more to develop a sophisticated notion of how innovation can be used, nurtured and applied to their respective sectors of studies and work. Designed for students with intermediate to advanced English skills, learning will be segmented and differentiated reading assignments will be offered for different levels of language learning. [About]
                 </p>
             </div>
-            <div class="col-md-5" style="position: relative;top:24px">
+            <div class="col-md-5" >
+
+                <div class="panel panel-primary" style="position: relative;top:48px">
+                    <div class="panel-heading">Facts</div>
+                    <div class="panel-body">
 
                 <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;TARGETED STUDENTS: </b>International Students, grade 10-12 </p>
                 <p><b><i class="fa fa-calendar-o" aria-hidden="true"> </i>&nbsp;&nbsp;TIME: </b>Fall 2017</p>
                 <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Business Tracks</P>
                 <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>
                 <P></P>
-                <a data-toggle="modal" data-target="#myModal" >VIEW AGENDA</a></div>
+                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>
+                    </div>
+                </div>
+            </div>
 
 
             <!-- Modal -->
@@ -126,118 +133,46 @@ include "header.php";
 
         <div class="row">
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-deepen.png" class="img img-responsive">
+                <h4><Span>Deepen</Span>&nbsp;your English reading abilities
+
+
+                </h4>
             </div>
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-polish.png" class="img img-responsive">
+                <h4><Span>Polish</Span>&nbsp;your analytical skills
+
+
+
+
+                </h4>
             </div>
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-learn.png" class="img img-responsive">
+                <h4><Span>Learn</Span>&nbsp;about innovation across sectors
+
+
+
+
+                </h4>
             </div>
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-apply.png" class="img img-responsive">
+                <h4><Span>Apply</Span>&nbsp;theories, trends and concepts of innovation into your own projects and work
+
+
+
+
+                </h4>
             </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
+
+
         </div>
     </div>
 </div>
 
-<!-- TEACHER-->
-<div class="teacher section">
-    <div class="container">
-        <div class="row">
-            <h2>TEACHERS</h2>
-        </div>
 
-        <div class="row">
-            <div class="col-sm-4">
-                <div class="card"  >
-                    <img src="image/teachers/Abby.jpg" class="img-responsive "alt="Avatar" >
-                    <div class="overlay">
-                        <div class="text">BIO</div>
-                    </div>
-                    <h4><b>John Doe</b></h4>
-                    <p>Architect & Engineer</p>
-
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="card" >
-                    <img src="image/teachers/pat.jpg" class="img-responsive " alt="Avatar"  >
-                    <div class="overlay">
-                        <div class="text">BIO</div>
-                    </div>
-                    <h4><b>John Doe</b></h4>
-                    <p>Architect & Engineer</p>
-
-                </div>
-            </div>
-
-            <div class="col-sm-4">
-                <div class="card" >
-                    <img src="image/teachers/Ross.jpg" class="img-responsive " alt="Avatar"  >
-
-                    <div class="overlay">
-                        <div class="text">BIO</div>
-                    </div>
-
-                    <h4><b>John Doe</b></h4>
-                    <p>Architect & Engineer</p>
-
-
-
-
-                </div>
-
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- TESTMONIAL-->
-<div class="testmonial section">
-    <div class="container">
-        <div class="row">
-            <h2>WHAT OTHER STUDENTS SAY</h2>
-        </div>
-
-        <div class="row">
-            <div class="col-md-2">
-                <img src="image/profile-img1.jpg" class="img-circle img-responsive">
-            </div>
-            <div class="col-md-4">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et </p>
-                <h6><span>- Jay Chou.</span><i>&nbspCEO apple Inc</i></h6>
-            </div>
-            <div class="col-md-2">
-                <img src="image/profile-img2.jpg" class="img-circle img-responsive">
-            </div>
-            <div class="col-md-4">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et </p>
-                <h6><span>- Heyden Bea.</span><i>&nbspCTO startbucks Inc</i></h6>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 <!-- CTA-->

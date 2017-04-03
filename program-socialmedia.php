@@ -68,13 +68,18 @@ include "header.php";
                 <hr>
                 <p>This three week mini-course is designed to be a practical primer in the art of electronic correspondence in the United States. Do you know that most Americans have never used WeChat before? Ever wonder how your peers or colleagues communicate via twitter, facebook, or text message? Or do you know how different an email should be written than a text? Understanding these different social media tools and how best to use them will help strengthen interpersonal and professional relationships in the United States. This learning will be both theoretical and practical, and will facilitate student life in the United States.</p>
             </div>
-            <div class="col-md-5" style="position: relative;top:24px">
+            <div class="col-md-5" >
+                <div class="panel panel-primary" style="position: relative;top:48px">
+                    <div class="panel-heading">Facts</div>
+                    <div class="panel-body">
 
                 <p><b><i class="fa fa-calendar-o" aria-hidden="true"> </i>&nbsp;&nbsp;TIME: </b>The College Landscape: Understanding the Types of Universities Out There</p>
                 <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Business Tracks</P>
                 <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>
                 <P><i>Each week will include two one-hour lectures, preliminary readings & video, and discussion board.</i> </P>
-                <a data-toggle="modal" data-target="#myModal" >VIEW AGENDA</a></div>
+                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a></div>
+                </div>
+            </div>
 
 
             <!-- Modal -->
@@ -119,118 +124,45 @@ include "header.php";
 
         <div class="row">
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-deepen.png" class="img img-responsive">
+                <h4><Span>Familiarize </Span>&nbsp;yourself with social media tools common in the US
+
+
+                </h4>
             </div>
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-understand.png" class="img img-responsive">
+                <h4><Span>Understand </Span>&nbsp; how to use social media channels both socially and professionally
+
+
+
+                </h4>
             </div>
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-gain.png" class="img img-responsive">
+                <h4><Span>Gain</Span>&nbsp;practical experience in real-life-communications
+
+
+
+
+                </h4>
             </div>
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-discover.png" class="img img-responsive">
+                <h4><Span>Discover</Span>&nbsp;your interests, passions and the possibilities that lay before you
+
+
+                </h4>
             </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
+
+
         </div>
     </div>
 </div>
 
-<!-- TEACHER-->
-<div class="teacher section">
-    <div class="container">
-        <div class="row">
-            <h2>TEACHERS</h2>
-        </div>
-
-        <div class="row">
-            <div class="col-sm-4">
-                <div class="card"  >
-                    <img src="image/teachers/Abby.jpg" class="img-responsive "alt="Avatar" >
-                    <div class="overlay">
-                        <div class="text">BIO</div>
-                    </div>
-                    <h4><b>John Doe</b></h4>
-                    <p>Architect & Engineer</p>
-
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="card" >
-                    <img src="image/teachers/pat.jpg" class="img-responsive " alt="Avatar"  >
-                    <div class="overlay">
-                        <div class="text">BIO</div>
-                    </div>
-                    <h4><b>John Doe</b></h4>
-                    <p>Architect & Engineer</p>
-
-                </div>
-            </div>
-
-            <div class="col-sm-4">
-                <div class="card" >
-                    <img src="image/teachers/Ross.jpg" class="img-responsive " alt="Avatar"  >
-
-                    <div class="overlay">
-                        <div class="text">BIO</div>
-                    </div>
-
-                    <h4><b>John Doe</b></h4>
-                    <p>Architect & Engineer</p>
 
 
 
-
-                </div>
-
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- TESTMONIAL-->
-<div class="testmonial section">
-    <div class="container">
-        <div class="row">
-            <h2>WHAT OTHER STUDENTS SAY</h2>
-        </div>
-
-        <div class="row">
-            <div class="col-md-2">
-                <img src="image/profile-img1.jpg" class="img-circle img-responsive">
-            </div>
-            <div class="col-md-4">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et </p>
-                <h6><span>- Jay Chou.</span><i>&nbspCEO apple Inc</i></h6>
-            </div>
-            <div class="col-md-2">
-                <img src="image/profile-img2.jpg" class="img-circle img-responsive">
-            </div>
-            <div class="col-md-4">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et </p>
-                <h6><span>- Heyden Bea.</span><i>&nbspCTO startbucks Inc</i></h6>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 <!-- CTA-->

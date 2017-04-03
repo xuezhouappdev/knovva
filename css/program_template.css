@@ -64,7 +64,7 @@ div.intro {
 .intro-text a:hover {
     font-size: 16px;
     color: white;
-    background-color: #656968;
+    background-color: #6c4a98;
     padding: 8px 24px;
     text-decoration: none;
     position: relative;
@@ -74,9 +74,9 @@ div.intro {
 
 /*about*/
 .about .col-md-5 a {
-    background-color: #f2184f;
+
     padding: 8px 24px;
-    color: white;
+    color: #f2184f;
     font-size: 14px;
     text-align: center;
 
@@ -87,9 +87,9 @@ div.intro {
 }
 
 .about .col-md-5 a:hover {
-    background-color: #9aa09e;
+
     padding: 8px 24px;
-    color: white;
+    color: #6c4a98;
     font-size: 14px;
     text-align: center;
 
@@ -115,6 +115,13 @@ div.intro {
 
 }
 
+.about .col-md-7 p {
+    font-size: 16px;
+    text-align: justify;
+}
+
+
+
 
 .modal-backdrop {
     background-color: red;
@@ -130,6 +137,7 @@ div.intro {
     padding: 100px 0;
     text-align:justify;
 }
+
 
 /*features*/
 .features {
@@ -149,6 +157,24 @@ div.intro {
 .section h2 {
     margin-bottom: 64px;
 }
+
+.features.section span {
+    color: #F2184F;
+    font-weight: 600;
+}
+
+.features .img.img-responsive {
+    margin: 0 auto 16px;
+    padding: 32px 64px;
+}
+
+.features .row:nth-child(2) {
+    padding:8px 40px;
+}
+
+
+
+
 
 
 /*teacher*/
@@ -273,7 +299,7 @@ div.teacher h2 {
 .calltoaction a:hover {
     font-size: 16px;
     color: white;
-    background-color: #656968;
+    background-color: #6c4a98;
     padding: 8px 24px;
     text-decoration: none;
     position: relative;
@@ -288,6 +314,21 @@ div.teacher h2 {
     width: 600px;
 
 }
+
+
+body > div.about.section > div > div > div.col-md-5 > div > div.panel-heading {
+    color: #fff;
+    background-color: #f2184f;
+    border-color: #f2184f;
+}
+
+
+body > div.about.section > div > div > div.col-md-5 > div {
+
+    border: 1px solid #f2184f;
+}
+
+
 
 
 

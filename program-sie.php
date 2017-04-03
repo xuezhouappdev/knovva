@@ -81,7 +81,7 @@ include "header.php";
             </div>
             <div class="col-md-5" >
 
-                <div class="panel panel-primary">
+                <div class="panel panel-primary" style="position: relative;top:48px">
                     <div class="panel-heading">Facts</div>
                     <div class="panel-body">
 
@@ -89,7 +89,8 @@ include "header.php";
                         <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Business Tracks</P>
                         <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>
                         <P><i>Each week will include two one-hour lectures, preliminary readings & video, and discussion board.</i> </P>
-                        <a data-toggle="modal" data-target="#myModal" >VIEW AGENDA</a></div>
+                        <a data-toggle="modal" data-target="#myModal" >>> VIEW AGENDA</a>
+                    </div>
 
 
                 </div>
@@ -141,37 +142,30 @@ include "header.php";
 
         <div class="row">
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-understand.png" class="img img-responsive">
+                <h4><Span>Understand</Span>&nbsp;social and environmental challenges around the world
+                </h4>
             </div>
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-connect.png" class="img img-responsive">
+                <h4><Span>Connect</Span>&nbsp;with a peer network passionate about making a difference
+
+                </h4>
             </div>
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-strength.png" class="img img-responsive">
+                <h4><Span>Strengthen</Span>&nbsp;your ability to work collaboratively on a long-term project
+
+                </h4>
             </div>
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-explore.png" class="img img-responsive">
+                <h4><Span>Explore</Span>&nbsp;how you can affect a pressing contemporary challenge
+
+                </h4>
             </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
+
+
         </div>
     </div>
 </div>

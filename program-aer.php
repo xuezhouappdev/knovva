@@ -70,14 +70,20 @@ include "header.php";
 
                     <br><br>Optional complementary online learning is available post-launch to help students continue to grow their projects and explore models of using their technologies to make an impact.</p>
             </div>
-            <div class="col-md-5" style="position: relative;top:24px">
+            <div class="col-md-5" >
+                <div class="panel panel-primary" style="position: relative;top:48px">
+                    <div class="panel-heading">Facts</div>
+                    <div class="panel-body">
 
-                <p><b><i class="fa fa-calendar-o" aria-hidden="true"> </i>&nbsp;&nbsp;TIME: </b>The College Landscape: Understanding the Types of Universities Out There</p>
+
+                    <p><b><i class="fa fa-calendar-o" aria-hidden="true"> </i>&nbsp;&nbsp;TIME: </b>The College Landscape: Understanding the Types of Universities Out There</p>
                 <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Business Tracks</P>
                 <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>
                 <P><i>Each week will include two one-hour lectures, preliminary readings & video, and discussion board.</i> </P>
-                <a data-toggle="modal" data-target="#myModal" >VIEW AGENDA</a></div>
-
+                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>
+                    </div>
+                </div>
+            </div>
 
             <!-- Modal -->
             <div id="myModal" class="modal fade" role="dialog" tabindex="-1" aria-hidden="true">
@@ -121,118 +127,40 @@ include "header.php";
 
         <div class="row">
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-explore.png" class="img img-responsive">
+                <h4><Span>Explore</Span>&nbsp;first-hand the principles of engineering and robotics
+
+                </h4>
             </div>
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-connect.png" class="img img-responsive">
+                <h4><Span>Connect </Span>&nbsp; with a peer network passionate about creative construction
+
+
+
+                </h4>
             </div>
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-learn.png" class="img img-responsive">
+                <h4><Span>Learn</Span>&nbsp;practical soft-skills that facilitate the process of engineering
+
+
+                </h4>
             </div>
             <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
+                <img src="image/icon/icon-build.png" class="img img-responsive">
+                <h4><Span>Build</Span>&nbsp;something! And have fun while you do it
+
+
+                </h4>
             </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
-            <div class="col-sm-3">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-                <h5>FEATURE</h5>
-            </div>
+
+
         </div>
     </div>
 </div>
 
-<!-- TEACHER-->
-<div class="teacher section">
-    <div class="container">
-        <div class="row">
-            <h2>TEACHERS</h2>
-        </div>
 
-        <div class="row">
-            <div class="col-sm-4">
-                <div class="card"  >
-                    <img src="image/teachers/Abby.jpg" class="img-responsive "alt="Avatar" >
-                    <div class="overlay">
-                        <div class="text">BIO</div>
-                    </div>
-                    <h4><b>John Doe</b></h4>
-                    <p>Architect & Engineer</p>
-
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="card" >
-                    <img src="image/teachers/pat.jpg" class="img-responsive " alt="Avatar"  >
-                    <div class="overlay">
-                        <div class="text">BIO</div>
-                    </div>
-                    <h4><b>John Doe</b></h4>
-                    <p>Architect & Engineer</p>
-
-                </div>
-            </div>
-
-            <div class="col-sm-4">
-                <div class="card" >
-                    <img src="image/teachers/Ross.jpg" class="img-responsive " alt="Avatar"  >
-
-                    <div class="overlay">
-                        <div class="text">BIO</div>
-                    </div>
-
-                    <h4><b>John Doe</b></h4>
-                    <p>Architect & Engineer</p>
-
-
-
-
-                </div>
-
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- TESTMONIAL-->
-<div class="testmonial section">
-    <div class="container">
-        <div class="row">
-            <h2>WHAT OTHER STUDENTS SAY</h2>
-        </div>
-
-        <div class="row">
-            <div class="col-md-2">
-                <img src="image/profile-img1.jpg" class="img-circle img-responsive">
-            </div>
-            <div class="col-md-4">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et </p>
-                <h6><span>- Jay Chou.</span><i>&nbspCEO apple Inc</i></h6>
-            </div>
-            <div class="col-md-2">
-                <img src="image/profile-img2.jpg" class="img-circle img-responsive">
-            </div>
-            <div class="col-md-4">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et </p>
-                <h6><span>- Heyden Bea.</span><i>&nbspCTO startbucks Inc</i></h6>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 <!-- CTA-->
