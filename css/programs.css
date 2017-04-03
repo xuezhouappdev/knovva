@@ -159,7 +159,7 @@ div.intro {
 
  }
 
-.card_p:hover a {
+.card_p a:hover {
     background:#6c4a98;
     display: inline-block;
     color: white;
@@ -191,6 +191,13 @@ div.intro {
 
 
 
+}
+
+
+
+#hbr-btn:hover {
+    cursor: pointer;
+    background: #538044;
 }
 
 
