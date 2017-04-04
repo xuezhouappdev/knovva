@@ -6,15 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/footer.css" afterPath="$PROJECT_DIR$/css/footer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/programs.css" afterPath="$PROJECT_DIR$/css/programs.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-aer.php" afterPath="$PROJECT_DIR$/program-aer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-gai.php" afterPath="$PROJECT_DIR$/program-gai.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-sie.php" afterPath="$PROJECT_DIR$/program-sie.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-socialmedia.php" afterPath="$PROJECT_DIR$/program-socialmedia.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program_template.php" afterPath="$PROJECT_DIR$/program_template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-harrypotter.php" afterPath="$PROJECT_DIR$/program-harrypotter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-irg.php" afterPath="$PROJECT_DIR$/program-irg.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programs.php" afterPath="$PROJECT_DIR$/programs.php" />
     </list>
     <ignored path="knovva.iws" />
@@ -47,8 +41,8 @@
       <file leaf-file-name="programs.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state relative-caret-position="181">
+              <caret line="90" column="27" lean-forward="true" selection-start-line="90" selection-start-column="27" selection-end-line="90" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -58,27 +52,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program-irg.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/program-irg.php">
+      <file leaf-file-name="program_sie.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program_sie.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="86" column="85" lean-forward="false" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="85" />
+            <state relative-caret-position="226">
+              <caret line="278" column="47" lean-forward="false" selection-start-line="278" selection-start-column="47" selection-end-line="278" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/footer.php">
+      <file leaf-file-name="program-irg.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program-irg.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="88" column="25" lean-forward="true" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
-              <folding>
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="241">
+              <caret line="162" column="49" lean-forward="false" selection-start-line="162" selection-start-column="49" selection-end-line="162" selection-end-column="49" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -89,18 +78,6 @@
             <state relative-caret-position="60">
               <caret line="80" column="115" lean-forward="false" selection-start-line="80" selection-start-column="115" selection-end-line="80" selection-end-column="115" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="programs.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/programs.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="194" column="0" lean-forward="true" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
-              <folding>
-                <element signature="e#1680#1846#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -125,31 +102,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program-gai.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/program-gai.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="83" column="115" lean-forward="false" selection-start-line="83" selection-start-column="115" selection-end-line="83" selection-end-column="115" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="program-harrypotter.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="program-harrypotter.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/program-harrypotter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="98" column="44" lean-forward="false" selection-start-line="98" selection-start-column="42" selection-end-line="98" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="program-aer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/program-aer.php">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="211">
-              <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+              <caret line="158" column="49" lean-forward="false" selection-start-line="158" selection-start-column="49" selection-end-line="158" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -168,7 +125,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>@</find>
       <find>tea</find>
       <find>active</find>
       <find>what we value</find>
@@ -198,6 +154,7 @@
       <find>BOS</find>
       <find>BOSTON</find>
       <find>btn</find>
+      <find>read</find>
     </findStrings>
     <replaceStrings>
       <replace>sm</replace>
@@ -255,18 +212,18 @@
         <option value="$PROJECT_DIR$/index_2.php" />
         <option value="$PROJECT_DIR$/css/about.scss" />
         <option value="$PROJECT_DIR$/css/index_new.scss" />
-        <option value="$PROJECT_DIR$/program-harrypotter.php" />
-        <option value="$PROJECT_DIR$/program-irg.php" />
         <option value="$PROJECT_DIR$/about.php" />
-        <option value="$PROJECT_DIR$/css/footer.css" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/program-aer.php" />
         <option value="$PROJECT_DIR$/program-gai.php" />
         <option value="$PROJECT_DIR$/program-sie.php" />
         <option value="$PROJECT_DIR$/program-socialmedia.php" />
         <option value="$PROJECT_DIR$/program_template.php" />
-        <option value="$PROJECT_DIR$/programs.php" />
         <option value="$PROJECT_DIR$/css/programs.css" />
+        <option value="$PROJECT_DIR$/css/footer.css" />
+        <option value="$PROJECT_DIR$/programs.php" />
+        <option value="$PROJECT_DIR$/program-irg.php" />
+        <option value="$PROJECT_DIR$/program-harrypotter.php" />
       </list>
     </option>
   </component>
@@ -327,7 +284,25 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="knovva" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="knovva" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icon" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -463,14 +438,7 @@
       <workItem from="1490833735337" duration="308000" />
       <workItem from="1490881794664" duration="49625000" />
       <workItem from="1491174601517" duration="2488000" />
-      <workItem from="1491228325855" duration="20548000" />
-    </task>
-    <task id="LOCAL-00016" summary="added data capture form">
-      <created>1485038800267</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1485038800267</updated>
+      <workItem from="1491228325855" duration="21344000" />
     </task>
     <task id="LOCAL-00017" summary="refined form">
       <created>1485055701638</created>
@@ -808,11 +776,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491264839001</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="update a lot">
+      <created>1491276894861</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1491276894862</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205246000" />
+    <option name="totallyTimeSpent" value="206042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="84" y="102" width="1144" height="531" extended-state="0" />
@@ -911,7 +886,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/image/about/college.png" />
     <entry file="file://$PROJECT_DIR$/css/about-old.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
@@ -1122,14 +1096,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program_sie.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2685">
-          <caret line="282" column="0" lean-forward="false" selection-start-line="282" selection-start-column="0" selection-end-line="282" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/about.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
@@ -1204,14 +1170,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/footer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="93" column="22" lean-forward="true" selection-start-line="93" selection-start-column="22" selection-end-line="93" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
@@ -1241,22 +1199,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program-harrypotter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="98" column="44" lean-forward="false" selection-start-line="98" selection-start-column="42" selection-end-line="98" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program-irg.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="86" column="85" lean-forward="false" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/program-sie.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1281,10 +1223,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/programs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="194" column="0" lean-forward="true" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+          <folding>
+            <element signature="e#1680#1846#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program_sie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="278" column="47" lean-forward="false" selection-start-line="278" selection-start-column="47" selection-end-line="278" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/icon/icon-connect.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/programs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        <state relative-caret-position="181">
+          <caret line="90" column="27" lean-forward="true" selection-start-line="90" selection-start-column="27" selection-end-line="90" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1293,13 +1266,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/programs.css">
+    <entry file="file://$PROJECT_DIR$/program-irg.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="194" column="0" lean-forward="true" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
-          <folding>
-            <element signature="e#1680#1846#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="241">
+          <caret line="162" column="49" lean-forward="false" selection-start-line="162" selection-start-column="49" selection-end-line="162" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-harrypotter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="158" column="49" lean-forward="false" selection-start-line="158" selection-start-column="49" selection-end-line="158" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>

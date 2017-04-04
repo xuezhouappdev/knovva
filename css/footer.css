@@ -88,7 +88,7 @@ div.input-group {
 
 
 
-body > div.footer > div > div:nth-child(2) > div.col-lg-4.footer-hours > div > a > i{
+div.footer > div > div:nth-child(2) > div.col-lg-4.footer-hours > div > a > i{
     font-size: 24px;
     padding:2px;
     margin-left: 24px;

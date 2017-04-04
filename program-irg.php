@@ -160,7 +160,7 @@ include "header.php";
                 </h4>
             </div>
             <div class="col-sm-3">
-                <img src="image/icon/icon-read.png" class="img img-responsive">
+                <img src="image/icon/icon-connect.png" class="img img-responsive">
                 <h4><Span>Read</Span>&nbsp;with a community of students, passionate about reading and innovating
 
 

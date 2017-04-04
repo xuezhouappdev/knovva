@@ -82,7 +82,7 @@ include "header.php";
 
                             $("#hbr-btn").hover(function(){
 
-                                $(".sie-overlay").css("opacity", "1");
+                                $(".sie-overlay").css("opacity", "0.8");
                             }, function(){
                                 $(".sie-overlay").css("opacity", "0");
                             });
