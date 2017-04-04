@@ -64,7 +64,7 @@ include "header.php";
 
         <div class="row">
             <div class="col-md-7">
-                <h4>Introduction to Higher Education Learning in the U.S: Understanding the Landscape of Study (Summer 2017)</h4>
+                <h4>Introduction to Higher Education Learning in the U.S: Understanding the Landscape of Study </h4>
                 <hr>
                 <p>This 7-week course is designed to help prospective international students understand the landscape of college learning in the U.S. Many colleges have thousands of course offerings and dozens of majors and academic concentrations; navigating this diversity to select a professional or academic trajectory can be challenging. This interactive Online Course is designed to help students understand the variety of Majors and Minors and college learning environments to ready students to make wise, practical and deliberate steps in their academic career.</p>
             </div>

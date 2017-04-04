@@ -64,7 +64,7 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/sie.jpg" alt="Avatar" style="width:100%" class="img img-responsive">
                     <div class="sie-overlay" style="position: absolute;top:64px;left:0;padding:16px;background: #F2184F;transition: 0.5s linear;opacity:0;margin:0 15px">
-                          <p style="text-align: justify;color:white;margin-left:0">Knovva Academy provides a variety of interactive online and blended year-long courses and programs to maximize your learning, motivation and direction in your fields of interest.</p>
+                          <p style="text-align: justify;color:white;margin-left:0">This course is also available for blended learning. It includes a combination of interactive online and blended year-long courses.</p>
                     </div>
                     <h4 style="position: absolute;top:-7px;left:-9px"  id="hbr-btn"><span class="label label-primary" style="background: #3f8021;padding: 6px 16px;border-radius: 0;font-style:italic">BLENDED LEARNING</span></h4></h4>
 

@@ -91,7 +91,7 @@ include "header.php";
                         <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>Business</p>
 
                         <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston MA</P>
-                        <a data-toggle="modal" data-target="#myModal" >>> VIEW AGENDA</a>
+<!--                        <a data-toggle="modal" data-target="#myModal" >>> VIEW AGENDA</a>-->
                     </div>
 
 
@@ -161,8 +161,9 @@ include "header.php";
                 </h4>
             </div>
             <div class="col-sm-3">
-                <img src="image/icon/icon-explore.png" class="img img-responsive">
-                <h4><Span>Explore</Span>&nbsp;how you can affect a pressing contemporary challenge
+                <img src="image/icon/icon-experience.png" class="img img-responsive">
+                <h4><Span>Experience</Span>&nbsp;formative time in the two important hubs of Cambridge, MA, USA and Nanjing, Jiangsu, China
+
 
                 </h4>
             </div>

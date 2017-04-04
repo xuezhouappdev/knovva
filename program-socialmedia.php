@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title> U.S. Social Media Use and Electronic Correspondence (Summer 2017)
+    <title> U.S. Social Media Use and Electronic Correspondence
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -42,7 +42,7 @@ include "header.php";
         <div class="row">
 
             <div class="intro-text">
-                <h1>U.S. Social Media Use and Electronic Correspondence (Summer 2017)</h1>
+                <h1>U.S. Social Media Use and Electronic Correspondence</h1>
                 <a href="applicationform.php">ENROLL NOW</a>
             </div>
         </div>
@@ -59,12 +59,12 @@ include "header.php";
         <ul class="breadcrumb">
             <li><a href="index_2.php">Home</a></li>
             <li><a href="programs.php">Program</a></li>
-            <li><a href="#">U.S. Social Media Use and Electronic Correspondence (Summer 2017)</a></li>
+            <li><a href="#">U.S. Social Media Use and Electronic Correspondence </a></li>
         </ul>
 
         <div class="row">
             <div class="col-md-7">
-                <h4>U.S. Social Media Use and Electronic Correspondence (Summer 2017)</h4>
+                <h4>U.S. Social Media Use and Electronic Correspondence </h4>
                 <hr>
                 <p>This three week mini-course is designed to be a practical primer in the art of electronic correspondence in the United States. Do you know that most Americans have never used WeChat before? Ever wonder how your peers or colleagues communicate via twitter, facebook, or text message? Or do you know how different an email should be written than a text? Understanding these different social media tools and how best to use them will help strengthen interpersonal and professional relationships in the United States. This learning will be both theoretical and practical, and will facilitate student life in the United States.</p>
             </div>
@@ -79,7 +79,8 @@ include "header.php";
                         <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>American Culture</p>
 
                         <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston MA</P>
-                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a></div>
+               <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>
+                    </div>
                 </div>
             </div>
 

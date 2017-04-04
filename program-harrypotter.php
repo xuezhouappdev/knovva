@@ -42,7 +42,7 @@ include "header.php";
         <div class="row">
 
             <div class="intro-text">
-                <h1>The Harry Potter Reading Group (Summer 2017)</h1>
+                <h1>The Harry Potter Reading Group</h1>
                 <a href="applicationform.php">ENROLL NOW</a>
             </div>
         </div>
@@ -59,12 +59,12 @@ include "header.php";
         <ul class="breadcrumb">
             <li><a href="index_2.php">Home</a></li>
             <li><a href="programs.php">Program</a></li>
-            <li><a href="#">The Harry Potter Reading Group (Summer 2017)</a></li>
+            <li><a href="#">The Harry Potter Reading Group</a></li>
         </ul>
 
         <div class="row">
             <div class="col-md-7">
-                <h4>The Harry Potter Reading Group (Summer 2017)</h4>
+                <h4>The Harry Potter Reading Group </h4>
                 <hr>
                 <p>The Harry Potter Reading Group is an online reading group for high school students interested in engaging in the Harry Potter novel series together under academic and literary guidance. Students will  explore relevant history and literature to enhance their creative and analytical thinking and familiarity with the imaginative and cultural constructions that led to its creation. Through reading, multimedia, and discussion participants will learn about literary analysis and delve into the themes and ideas of this well-loved series.<br><br>Students will spend twelve weeks reading Harry Potter and the Sorcerer’s Stone.  Designed for students of intermediate to advanced English skills, additional reading will be available for advanced students to engage in critical scholarship on Rowling’s writing and in the fantastical series of the Harry Potter. </p>
             </div>
@@ -79,7 +79,7 @@ include "header.php";
                         <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>Literature</p>
 
                         <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Online</P>
-                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>
+<!--                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>-->
 
                     </div>
                 </div>
@@ -156,8 +156,9 @@ include "header.php";
                 </h4>
             </div>
             <div class="col-sm-3">
-                <img src="image/icon/icon-explore.png" class="img img-responsive">
-                <h4><Span>Explore</Span>&nbsp;the impact of Harry Potter on the world
+                <img src="image/icon/icon-read.png" class="img img-responsive">
+                <h4><Span>Read</Span>&nbsp with a community of students, passionate about reading and Harry Potter
+
 
 
 

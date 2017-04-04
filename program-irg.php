@@ -42,7 +42,7 @@ include "header.php";
         <div class="row">
 
             <div class="intro-text">
-                <h1>Creativity and Change in the New Millennium (Fall 2017)</h1>
+                <h1>Creativity and Change in the New Millennium </h1>
                 <a href="applicationform.php">ENROLL NOW</a>
             </div>
         </div>
@@ -64,7 +64,7 @@ include "header.php";
 
         <div class="row">
             <div class="col-md-7">
-                <h4>The Innovation Reading Group: Creativity and Change in the New Millennium (Fall 2017)</h4>
+                <h4>The Innovation Reading Group: Creativity and Change in the New Millennium</h4>
                 <hr>
                 <p>One of the new demands of the twenty-first century is growing an ability to adapt and make-new in the quickly changing world. In this reading group, students explore the meaning of innovation: what does it mean to innovate across sectors: in technology, business, or in the home? What did it mean in the information age? What could it mean as artificial intelligence makes a greater presence in our technology landscape?
                     <br><br>
@@ -84,7 +84,7 @@ include "header.php";
                         <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>Literature</p>
 
                         <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Online</P>
-                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>
+<!--                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>-->
                     </div>
                 </div>
             </div>
@@ -151,15 +151,6 @@ include "header.php";
                 </h4>
             </div>
             <div class="col-sm-3">
-                <img src="image/icon/icon-learn.png" class="img img-responsive">
-                <h4><Span>Learn</Span>&nbsp;about innovation across sectors
-
-
-
-
-                </h4>
-            </div>
-            <div class="col-sm-3">
                 <img src="image/icon/icon-apply.png" class="img img-responsive">
                 <h4><Span>Apply</Span>&nbsp;theories, trends and concepts of innovation into your own projects and work
 
@@ -168,6 +159,17 @@ include "header.php";
 
                 </h4>
             </div>
+            <div class="col-sm-3">
+                <img src="image/icon/icon-read.png" class="img img-responsive">
+                <h4><Span>Read</Span>&nbsp;with a community of students, passionate about reading and innovating
+
+
+
+
+
+                </h4>
+            </div>
+
 
 
         </div>

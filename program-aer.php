@@ -84,7 +84,7 @@ include "header.php";
                 <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston MA</P>
 <!--                <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>-->
 <!--                <P><i>Each week will include two one-hour lectures, preliminary readings & video, and discussion board.</i> </P>-->
-                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>
+<!--                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>-->
                     </div>
                 </div>
             </div>

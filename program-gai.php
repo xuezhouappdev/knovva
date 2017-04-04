@@ -82,7 +82,7 @@ include "header.php";
                         <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>Political Science</p>
 
                         <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston MA</P>
-                <a data-toggle="modal" data-target="#myModal" > >> VIEW AGENDA</a>
+<!--                <a data-toggle="modal" data-target="#myModal" > >> VIEW AGENDA</a>-->
                     </div>
                 </div>
 
@@ -149,8 +149,9 @@ include "header.php";
                 </h4>
             </div>
             <div class="col-sm-3">
-                <img src="image/icon/icon-practice.png" class="img img-responsive">
-                <h4><Span>Practice</Span>&nbsp;the art of politics
+                <img src="image/icon/icon-explore.png" class="img img-responsive">
+                <h4><Span>Explore</Span>&nbsp;the rich history and politics of the city of Boston, MA
+
 
 
                 </h4>
