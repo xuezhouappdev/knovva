@@ -64,42 +64,27 @@
                     <li>Mon - Fri:   9:00am - 5:00pm</li>
                     <li>Sat - Sun:   Closed</li>
                 </ul>
+
+                <div class="col-lg-12 social" style="text-align: center">
+
+                    <br>
+
+                    <a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+
+
+
+
+
+
+                </div>
+
             </div>
         </div>
         <hr>
-        <div class="row subscribe-bar">
-            <div class="col-lg-12" style="text-align: center">
 
-                <br>
-
-                <a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
-                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                <a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
-                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-
-
-
-
-
-
-            </div>
-
-
-<!--            <div class="col-lg-6">-->
-<!--                <form method="post" action="controller/subscribe2.php" id="footer_subscribeform">-->
-<!--                    <h5 id="footernoti" style="margin-left: 20px;color: red"></h5>-->
-<!--                <div class="input-group">-->
-<!---->
-<!---->
-<!--                    <input type="email" class="form-control" placeholder="Your Email" name="footer_email">-->
-<!--                       <span class="input-group-btn">-->
-<!--                           <button class="btn btn-default" type="submit" id="footerbtn" name="submit">Subscribe</button>-->
-<!--                       </span>-->
-<!--               <script src="js/footersubscribe.js"></script>-->
-<!--                </div>-->
-<!--                </form>-->
-<!--            </div>-->
-        </div>
 
         <div class="row">
 

@@ -245,7 +245,7 @@ include "header.php";
                 <div class="card" >
                     <img src="image/teachers/neil.jpg" class="img-responsive " alt="Avatar"  >
                     <div class="overlay">
-                        <div class="text"><h5>Neilson is a Boston native that graduated with honors from the Sawyer Busines school at Suffolk University, majored in global businessand management. He is also a certified ESL (English as Second Language) instructor.</h5>
+                        <div class="text"><h5>Neilson is a Boston native that graduated with honors from the Sawyer Business School at Suffolk University, majored in global businessand management. He is also a certified ESL (English as Second Language) instructor.</h5>
                         </div>
                     </div>
                     <h4><b>Neilson Lam</b></h4>

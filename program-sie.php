@@ -90,7 +90,7 @@ include "header.php";
 
                         <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>Business</p>
 
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston MA</P>
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston, MA</P>
 <!--                        <a data-toggle="modal" data-target="#myModal" >>> VIEW AGENDA</a>-->
                     </div>
 
