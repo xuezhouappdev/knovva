@@ -141,15 +141,15 @@ div.programnew.jumbotron {
 .testimonial h2 {
   text-align: center;
   margin-bottom: 64px; }
-.testimonial #myCarousel {
-  background: #f66086;
+.testimonial #myCarousel2 {
+  background: #f2184f;
   color: white; }
-  .testimonial #myCarousel .carousel-inner .container {
+  .testimonial #myCarousel2 .carousel-inner .container {
     padding: 48px 88px;
     text-align: center; }
-    .testimonial #myCarousel .carousel-inner .container [class*="col-"] {
+    .testimonial #myCarousel2 .carousel-inner .container [class*="col-"] {
       padding: 24px; }
-    .testimonial #myCarousel .carousel-inner .container h4 {
+    .testimonial #myCarousel2 .carousel-inner .container h4 {
       padding: 32px 16px; }
 
 .post {

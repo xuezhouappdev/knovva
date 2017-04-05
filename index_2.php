@@ -23,11 +23,26 @@ authenticate();
     <meta charset="UTF-8">
     <title>Knovva Home</title>
 
+
+    <!-- CS -->
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" href="css/index_new.css">
+
+
+
+
+    <!-- Jquery-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
+
+
     <!--font-->
     <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
-    <link rel="stylesheet" href="css/index_new.css">
+
+
+
+
 
 
 
@@ -43,15 +58,16 @@ include "header.php";
 
 
 <!-- top slider -->
+<!-- top slider -->
 <div id="myCarousel" class="carousel slide home-slider" data-ride="carousel">
     <!-- Indicators -->
-  <!--  <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
+    <!--  <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
 
-    </ol>
--->
+      </ol>
+  -->
     <!-- Wrapper for slides -->
     <div class="carousel-inner home-slider" role="listbox">
 
@@ -72,8 +88,8 @@ include "header.php";
                     color: white;
 
 ' >
-                <h1 style="font-size:32px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 40px">Connect To The World,<br>Connect To Your Future.</h1>
-                <a href="programs.php">DISCOVER OUR PROGRAMS</a>
+                <h1 style="font-size:56px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 72px">胸有丘壑万千<br>眼有星辰大海</h1>
+                <a href="programs.php">学术项目</a>
             </div>
 
         </div>
@@ -163,112 +179,8 @@ include "header.php";
 </div>
 
 
-<!--Program , hiden now-->
-<div class="program jumbotron" style="display: none">
 
-    <div class="container">
-
-       <div class="row">
-           <h2>OUR <span>PROGRAMS</span></h2>
-       </div>
-
-
-       <div id="myCarousel" class="carousel slide">
-
-           <!-- Wrapper for Slides -->
-           <div class="carousel-inner">
-
-               <div class="item active">
-                   <!-- Set the first background image using inline CSS below. -->
-
-                   <div class="container">
-                       <div class="row">
-                           <div class="col-md-3">
-                               <div class="card">
-                               <img class="img-responsive" src="http://placehold.it/350x200">
-                               <p><a href="program-sie.php">Social Impact and Entrepreneurship</a></p>
-                               </div>
-                           </div>
-                           <div class="col-md-3">
-                               <div class="card">
-                                   <img class="img-responsive" src="http://placehold.it/350x200">
-                                   <p><a href="program-gai.php">Global Affairs Institute</a></p>
-                               </div>
-                           </div>
-                           <div class="col-md-3">
-                               <div class="card">
-                                   <img class="img-responsive" src="http://placehold.it/350x200">
-                                   <p><a href="program-aer.php">Applied Engineering & Robotics</a></p>
-                               </div>
-                           </div>
-                           <div class="col-md-3">
-                               <div class="card">
-                                   <img class="img-responsive" src="http://placehold.it/350x200">
-                                   <p><a href="program_template.php">Understanding the Landscape of Study</a></p>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-               </div>
-
-               <div class="item">
-                   <!-- Set the second background image using inline CSS below. -->
-                   <div class="container">
-                       <div class="container">
-                           <div class="row">
-                               <div class="col-md-3">
-                                   <div class="card">
-                                       <img class="img-responsive" src="http://placehold.it/350x200">
-                                       <p><a href="program_sie.php">U.S. Social Media Use and Electronic Correspondence</a></p>
-                                   </div>
-                               </div>
-                               <div class="col-md-3">
-                                   <div class="card">
-                                       <img class="img-responsive" src="http://placehold.it/350x200">
-                                       <p><a href="program-harrypotter.php">The Harry Potter Reading Group</a></p>
-                                   </div>
-                               </div>
-                               <div class="col-md-3">
-                                   <div class="card">
-                                       <img class="img-responsive" src="http://placehold.it/350x200">
-                                       <p><a href="program-irg.php">The Innovation Reading Group: Creativity and Change in the New Millennium (Fall 2017)</a></p>
-                                   </div>
-                               </div>
-                               <div class="col-md-3">
-                                   <div class="card">
-                                       <img class="img-responsive" src="http://placehold.it/350x200">
-                                       <p><a href="">Webniar</a></p>
-                                   </div>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-               </div>
-
-
-
-           </div>
-
-           <!-- Left and right controls -->
-           <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-               <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-               <span class="sr-only">Previous</span>
-           </a>
-
-           <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-               <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-               <span class="sr-only">Next</span>
-           </a>
-
-       </div>
-   </div>
-
-
-
-
-</div>
-
-<!--  program new -->
+<!--  program -->
 <div class="programnew jumbotron">
     <div class="container">
 
@@ -371,54 +283,17 @@ include "header.php";
     </div>
 </div>
 
-<!--Testimony-->
-<!--<div class="tesimony">-->
-<!--    <div class="container">-->
-<!--        <div class="row">-->
-<!--            <h5>Happy Students</h5>-->
-<!--            <h2>CUSTOMER STORIES</h2>-->
-<!--        </div>-->
-<!---->
-<!--        <div class="row">-->
-<!--            <div class="col-md-3">-->
-<!--               <a href="#"><img class="img img-responsive" src="http://placehold.it/350x500"></a>-->
-<!--                <h5><span>Title</span>&nbsp; Lorem ipsum dolor sit amet, elit Lorem ipsum dolor sit amet, elit</h5>-->
-<!--            </div>-->
-<!---->
-<!--            <div class="col-md-3">-->
-<!--                <a href="#"><img class="img img-responsive" src="http://placehold.it/350x500"></a>-->
-<!--                <h5><span>Title</span> &nbsp; Lorem ipsum dolor sit amet, elit Lorem ipsum dolor sit amet, elit</h5>-->
-<!--            </div>-->
-<!---->
-<!--            <div class="col-md-3">-->
-<!--                <a href="#"><img class="img img-responsive" src="http://placehold.it/350x500"></a>-->
-<!--                <h5><span>Title</span> &nbsp; Lorem ipsum dolor sit amet, elit Lorem ipsum dolor sit amet, elit</h5>-->
-<!---->
-<!--            </div>-->
-<!---->
-<!--            <div class="col-md-3">-->
-<!--                <a href="#"><img class="img img-responsive" src="http://placehold.it/350x500"></a>-->
-<!--                <h5><span>Title</span> &nbsp; Lorem ipsum dolor sit amet,  elit Lorem ipsum dolor sit amet, elit</h5>-->
-<!--            </div>-->
-<!---->
-<!--        </div>-->
-<!---->
-<!---->
-<!--    </div>-->
-<!--</div>-->
-
 
 
 <div class="testimonial section">
 
-
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <div id="myCarousel2" class="carousel slide home-slider" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
-            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-            <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
-            <li data-target="#myCarousel" data-slide-to="3"></li>
+            <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel2" data-slide-to="1"></li>
+            <li data-target="#myCarousel2" data-slide-to="2"></li>
+            <li data-target="#myCarousel2" data-slide-to="3"></li>
         </ol>
 
         <!-- Wrapper for slides -->
@@ -480,11 +355,11 @@ include "header.php";
         </div>
 
         <!-- Left and right controls -->
-        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <a class="left carousel-control" href="#myCarousel2" role="button" data-slide="prev">
             <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
         </a>
-        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <a class="right carousel-control" href="#myCarousel2" role="button" data-slide="next">
             <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
         </a>
@@ -588,6 +463,8 @@ include "header.php";
 </div>
 
 
+
+
 <!-- CTA-->
 <div class="calltoaction section">
     <div class="container">
@@ -598,6 +475,8 @@ include "header.php";
         </div>
     </div>
 </div>
+
+
 
 
 <!-- Partner -->
@@ -638,11 +517,6 @@ include "header.php";
 include ("footer.php");
 ?>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-<script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
-<!--This is for old version-->
-<script src="js/index.js"></script>
-<script src="js/index-subscription.js"></script>
 
 
 
