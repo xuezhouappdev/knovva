@@ -2,13 +2,6 @@
 <project version="4">
   <component name="PublishConfigData" serverName="localhost" uploadOnCheckin="86d35506-f059-4f72-8fe8-622b8f01ae13">
     <serverData>
-      <paths name="ehost">
-        <serverdata>
-          <mappings>
-            <mapping deploy="project/knovva" local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="knovva.com">
         <serverdata>
           <mappings>

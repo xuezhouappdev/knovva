@@ -309,7 +309,7 @@ include "header.php";
                 <div class="container">
                     <div class="row">
 
-                        <h4>"Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better." - Student from Boston Latin Academy
+                        <h4>"Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better." - Student from Boston Latin School
                         </h4><br>
 
                     </div>
