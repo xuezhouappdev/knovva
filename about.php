@@ -101,7 +101,7 @@ include "header.php";
         <div class="row">
             <div class="col-md-6 ">
                 <h3>What We Value</h3>
-                <p>We maintain attentive relationships with our students and parents, during and throughout our programs. We utilize in-person informational sessions, phone calls, digital media and webinars to build a peer community of students and parents. Our dynamic team of native Mandarin, Spanish and English speakers has allowed for easy communication and clarity of cultural expectations. KA has received high praise from parents who have felt deeply involved in their students’ participation in our programs
+                <p>We maintain attentive relationships with our students and parents, during and throughout our programs. We utilize in-person informational sessions, phone calls, digital media and webinars to build a peer community of students and parents. Our dynamic team of native Mandarin, Spanish and English speakers has allowed for easy communication and clarity of cultural expectations. KA has received high praise from parents who have felt deeply involved in their students’ participation in our programs.
 
                 </p>
             </div>

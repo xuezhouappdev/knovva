@@ -76,12 +76,15 @@ include "header.php";
                     <div class="panel-body">
 
 
-                    <p><b><i class="fa fa-calendar-o " aria-hidden="true"> </i>&nbsp;&nbsp;TIME: </b>2017</p>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;AGE: </b>Year 14 -18</p>
 
-                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>Literature</p>
 
-                <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston, MA</P>
+
+                        <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;SUBJECT: </b>Engineering</p>
+
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston, MA</P>
+                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;&nbsp;AGE: </b>Year 14 -18</p>
+                        <p><b><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;TIME: </b>July - August</p>
+                        <p><b><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;&nbsp;DURATION: </b>3 Weeks</p>
 <!--                <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>-->
 <!--                <P><i>Each week will include two one-hour lectures, preliminary readings & video, and discussion board.</i> </P>-->
 <!--                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>-->

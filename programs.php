@@ -69,12 +69,13 @@ include "header.php";
                     <h4 style="position: absolute;top:-7px;left:-9px"  id="hbr-btn"><span class="label label-primary" style="background: #f2184f;padding: 6px 16px;border-radius: 0;font-style:italic">BLENDED LEARNING</span></h4></h4>
 
                     <h4><b>Social Impact and Entrepreneurship</b></h4>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>Subject: &nbsp;</span>Business</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
                     </p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
-                        <span>Duration: &nbsp;</span>Two Weeks</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>2 Weeks</p>
                     <h5 style="text-align: center"><a href="program-sie.php" class="button_p">Read More</a></h5>
 
                     <script>
@@ -106,12 +107,15 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/global.jpg" alt="Avatar" style="width:100%">
                     <h4><b>Global Affairs Institute</b></h4>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
                     </p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+
+
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
-                        <span>Duration: &nbsp;</span>Two Weeks</p>
+                        <span>Duration: &nbsp;</span>2 Weeks</p>
                     <h5 style="text-align: center"> <a href="program-gai.php" class="button_p">Read More</a></h5>
                 </div>
             </div>
@@ -120,12 +124,16 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/rob.jpg" alt="Avatar" style="width:100%">
                     <h4><b>Applied Engineering & Robotics</b></h4>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Engineering</p>
+
+
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
                     </p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
-                        <span>Duration: &nbsp;</span>Two Weeks</p>
+                        <span>Duration: &nbsp;</span>2 Weeks</p>
                     <h5 style="text-align: center"><a href="program-aer.php" class="button_p">Read More</a></h5>
                 </div>
             </div>
@@ -159,10 +167,12 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/Landscape.jpg" alt="Avatar" style="width:100%">
                     <h4><b>Understanding the Landscape of Study</b></h4>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>American Culture</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 weeks</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 Weeks</p>
 
                     <h5 style="text-align: center"><a href="program_template.php" class="button_p">Read More</a></h5>
 
@@ -175,10 +185,12 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/social.jpg" alt="Avatar" style="width:100%">
                     <h4><b>U.S. Social Media Use and Electronic Correspondence</b></h4>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>American Culture</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>3 weeks</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>3 Weeks</p>
 
                     <h5 style="text-align: center"><a href="program-socialmedia.php" class="button_p">Read More</a></h5>
                 </div>
@@ -188,10 +200,11 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/hary.jpg" alt="Avatar" style="width:100%">
                     <h4><b>The Harry Potter Reading Group</b></h4>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Literature</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>Coming Soon</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>September - November</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 Weeks</p>
                     <br>
                     <h5 style="text-align: center"><a href="program-harrypotter.php" class="button_p">Read More</a></h5>
                 </div>
@@ -204,10 +217,15 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/creativity.jpg" alt="Avatar" style="width:100%">
                     <h4><b>The Innovation Reading Group: Creativity and Change in the New Millennium</b></h4>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Literature</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>Coming Soon</p>
+
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+
+
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>September - November</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 Weeks</p>
 
                     <h5 style="text-align: center"><a href="program-irg.php" class="button_p "  >Read More</a></h5>
 

@@ -69,7 +69,7 @@ div.programnew.jumbotron {
       width: 60px;
       margin: 16px auto 32px;
       text-align: center; }
-  .programnew .container .row .col-sm-5 .card {
+  .programnew .container .row .col-md-5 .card {
     text-align: center;
     padding: 18px;
     background-color: rgba(128, 128, 128, 0.25);
@@ -77,12 +77,12 @@ div.programnew.jumbotron {
     color: #fff;
     margin-bottom: 8px;
     box-shadow: none; }
-    .programnew .container .row .col-sm-5 .card:hover {
+    .programnew .container .row .col-md-5 .card:hover {
       box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
       cursor: pointer; }
-    .programnew .container .row .col-sm-5 .card img {
+    .programnew .container .row .col-md-5 .card img {
       filter: blur(5px); }
-    .programnew .container .row .col-sm-5 .card a {
+    .programnew .container .row .col-md-5 .card a {
       padding: 8px 32px;
       background-color: #f2184f;
       color: #fff;
@@ -96,10 +96,10 @@ div.programnew.jumbotron {
       background: #f2184f;
       color: #fff;
       box-shadow: 4px 4px 8px rgba(128, 128, 128, 0.25); }
-      .programnew .container .row .col-sm-5 .card a:hover {
+      .programnew .container .row .col-md-5 .card a:hover {
         text-decoration: none;
         background: #6c4a98; }
-    .programnew .container .row .col-sm-5 .card p {
+    .programnew .container .row .col-md-5 .card p {
       color: #fff;
       text-shadow: 4px 4px 16px #000000;
       font-size: 16px;

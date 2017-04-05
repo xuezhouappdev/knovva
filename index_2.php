@@ -279,7 +279,7 @@ include "header.php";
         </div>
 
         <div class="row">
-            <div class="col-sm-5 col-sm-offset-1">
+            <div class="col-md-5 col-md-offset-1">
 
                 <div class="card" style='background: url("image/home/home-program1.jpg") center center no-repeat ;background-size: cover; '>
 
@@ -296,7 +296,7 @@ include "header.php";
             </div>
 
 
-            <div class="col-sm-5 ">
+            <div class="col-md-5 ">
                 <div class="card" style='background: url("image/home/home-program2.jpg") center center no-repeat;background-size: cover; '>
 
                     <h3>Online Programs</h3>

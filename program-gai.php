@@ -76,12 +76,11 @@ include "header.php";
 
 
 
-                        <p><b><i class="fa fa-calendar-o " aria-hidden="true"> </i>&nbsp;&nbsp;TIME: </b>2017</p>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;AGE: </b>Year 14 -18</p>
-
                         <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>Political Science</p>
-
                         <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston, MA</P>
+                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;AGE: </b>Year 14 -18</p>
+                        <p><b><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;TIME: </b>July - August</p>
+                        <p><b><i class="fa fa-clock-o" aria-hidden="true"> </i>&nbsp;&nbsp;DURATION: </b>3 Weeks</p>
 <!--                <a data-toggle="modal" data-target="#myModal" > >> VIEW AGENDA</a>-->
                     </div>
                 </div>
