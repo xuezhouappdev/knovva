@@ -58,18 +58,20 @@ include "header.php";
 
 
 <!-- top slider -->
-<!-- top slider -->
 <div id="myCarousel" class="carousel slide home-slider" data-ride="carousel">
-    <!-- Indicators -->
-    <!--  <ol class="carousel-indicators">
-          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-          <li data-target="#myCarousel" data-slide-to="1"></li>
-          <li data-target="#myCarousel" data-slide-to="2"></li>
 
-      </ol>
-  -->
+
     <!-- Wrapper for slides -->
     <div class="carousel-inner home-slider" role="listbox">
+
+        <!-- Indicators -->
+        <!--  <ol class="carousel-indicators">
+              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+              <li data-target="#myCarousel" data-slide-to="1"></li>
+              <li data-target="#myCarousel" data-slide-to="2"></li>
+
+          </ol>
+      -->
 
         <div class="item active" style='
         background: url("image/skyatlas2.jpg") center center no-repeat;
@@ -88,55 +90,58 @@ include "header.php";
                     color: white;
 
 ' >
-                <h1 style="font-size:56px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 72px">胸有丘壑万千<br>眼有星辰大海</h1>
-                <a href="programs.php">学术项目</a>
+
+                <h1 style="font-size:32px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 40px">Connect To The World,<br>Connect To Your Future.</h1>
+                <a href="programs.php">DISCOVER OUR PROGRAMS</a>
             </div>
 
         </div>
 
         <!--<div class="item" style='
-        background: url("image/home/home_brand4.jpg") center center no-repeat;
-        min-height: 100vh;
-        width: 100%;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;'>
-            <div class="slidertextwrapper" style='
-                    text-align: center;
-                    position: absolute;
-                    top: 50%;
-                    left: 50%;
-                    transform: translate(-50%, -50%);
-                    color: white;
+       background: url("image/home/home_brand4.jpg") center center no-repeat;
+       min-height: 100vh;
+       width: 100%;
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       background-size: cover;
+       -o-background-size: cover;'>
+           <div class="slidertextwrapper" style='
+                   text-align: center;
+                   position: absolute;
+                   top: 50%;
+                   left: 50%;
+                   transform: translate(-50%, -50%);
+                   color: white;
 
 ' >
-                <h1 style="font-size:50px;">Connect to the World, Connect to Your Future</h1>
-            </div>
+               <h1 style="font-size:50px;">Connect to the World, Connect to Your Future</h1>
+           </div>
 
-        </div>
+       </div>
 
-        <div class="item" style='
-        background: url("image/home/home_brand3.jpg") center center no-repeat;
-        min-height: 100vh;
-        width: 100%;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;'>
-            <div class="slidertextwrapper" style='
-                    text-align: center;
-                    position: absolute;
-                    top: 50%;
-                    left: 50%;
-                    transform: translate(-50%, -50%);
-                    color: white;
+       <div class="item" style='
+       background: url("image/home/home_brand3.jpg") center center no-repeat;
+       min-height: 100vh;
+       width: 100%;
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       background-size: cover;
+       -o-background-size: cover;'>
+           <div class="slidertextwrapper" style='
+                   text-align: center;
+                   position: absolute;
+                   top: 50%;
+                   left: 50%;
+                   transform: translate(-50%, -50%);
+                   color: white;
 
 ' >
-                <h1 style="font-size:50px;">Connect to the World, Connect to Your Future</h1>
-            </div>
+               <h1 style="font-size:50px;">Connect to the World, Connect to Your Future</h1>
+           </div>
 
-        </div>-->
+       </div>-->
+
+
 
 
     </div>
@@ -150,6 +155,8 @@ include "header.php";
         <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
     </a>-->
+
+
 
 </div>
 
