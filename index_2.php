@@ -72,7 +72,7 @@ include "header.php";
                     color: white;
 
 ' >
-                <h1 style="font-size:32px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 40px">Connect to The World,<br>Connect to Your Future.</h1>
+                <h1 style="font-size:32px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 40px">Connect To The World,<br>Connect To Your Future.</h1>
                 <a href="programs.php">DISCOVER OUR PROGRAMS</a>
             </div>
 
@@ -147,9 +147,7 @@ include "header.php";
               <h5 style="opacity: 0">ALL   ABOUT</h5>
               <h2>Discover the Possibilities with Knovva Academy</h2>
 <!--                <h4>Lorem ipsum dolor sit amet soluta saepe odit error, maxime praesentium sunt udiandae!</h4>-->
-                <p>Knovva Academy is moved by the possibility of readying the next generation of
-                    young people to be engaged learners pursuant of their own passions. Knovva
-                    Academy believes that by crossing boundaries of nation, culture and discipline, young people will increase their capacities to engage with real-world challenges and ready themselves to be proactive thinkers and doers in the twenty-first century.
+                <p>Knovva Academy is inspired by the opportunity to prepare the next generation of young people to becoming engaged learners who pursue their own passions. Knovva Academy believes that by crossing boundaries of national, cultural, and disciplinary boundaries, young people will increase their capacities to engage with real-world challenges, and ready themselves to be proactive thinkers and doers in the twenty-first century.
 
                 </p>
                 <a href="about.php">DISCOVER MORE</a>
@@ -284,7 +282,7 @@ include "header.php";
                 <div class="card" style='background: url("image/home/home-program1.jpg") center center no-repeat ;background-size: cover; '>
 
                     <h3>Summer Programs</h3>
-                    <p>Knovva Academy provides a variety of two-week long programs in the summer, where you will be able to master new skills, make new friends, create memorable memories, and explore the beautiful city of Boston.
+                    <p>Knovva Academy provides a variety of two-week long programs in the summer, where you will be able to master new skills, make new friends, create lasting memories, and explore the beautiful city of Boston.
                     </p>
 
                     <div class="btnwrapper" >
@@ -339,7 +337,8 @@ include "header.php";
                 <div class="card">
                     <img class="img img-responsive " src="image/home/home-benefit.png">
                     <h4><b>Innovative and Interactive Courses</b></h4>
-                    <p>Pursue what you love and choose from a variety of fun and engaging courses. Learn beyond the school curriculum and discover new ideas and concepts and develop skills for the twenty-first century.
+                    <p>You will be able to meet many students from all over the world, including many parts of North America, South America, and Asia. This is your chance to become a global citizen and build friendships that will last a lifetime.
+
                     </p>
                 </div>
             </div>
@@ -347,7 +346,8 @@ include "header.php";
                 <div class="card">
                     <img class="img img-responsive " src="image/home/home-benefit2.png" >
                         <h4><b>International Student Base</b></h4>
-                        <p>You will be able to meet many students coming from all over the world, including many parts of North America, South America, and Asia. This is your chance to become a global citizen and build friendships that will last a lifetime.
+                        <p>We ensure a safespace for your ideas and always provide attentive assistance for students and parents, before, throughout, and after our programs.
+
                         </p>
                 </div>
             </div>

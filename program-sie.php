@@ -66,18 +66,9 @@ include "header.php";
             <div class="col-md-7">
                 <h4>Social Impact and Entrepreneurship</h4>
                 <hr>
-                <p>Social Impact and Entrepreneurship is a year-round program designed to help 9th - 12th
-                    graders from around the world develop a deeper understanding of international social issues
-                    and students’ own capacities to make meaningful impact. SIE will run in three parts in the
-                    summer, winter and spring.
-                    <br><br>
-                    In a two-week summer session, in Cambridge, MA, students will participate in a practicum to
-                    learn the fundamentals of social impact and entrepreneurship that can be directed to a social or environmental challenge of their interest. Students will form teams, study a pressing
-                    challenge, and begin the process of programmatic launch. During the winter session, students
-                    will spend a week in Nanjing, China for a culturally immersive experience and case-study,
-                    taking field trips with regional experts to learn about the social and environmental reality of
-                    the region. After the trip, online courses will be offered to explore social
-                    Entrepreneurship and innovation around the world. Students will collaborate through digital technologies for a final project release in the Spring of 2018. </p>
+                <p>Social Impact and Entrepreneurship is a year-round program designed to help 9th - 12th graders from around the world develop a deeper understanding of international social issues, and will suggest students’ own capacities to make a meaningful impact on the world. SIE will run in three parts in the summer, winter, and spring.<br><br>
+
+                    In a two-week summer session, in Cambridge, MA, students will participate in a practicum to learn the fundamentals of social impact and entrepreneurship that can be directed to a social or environmental challenge of their interest. Students will form teams, study a pressing challenge, and begin the process of launching a program. During the winter session, students will spend a week in Nanjing, China for a culturally immersive experience as well as a case-study. This program will also feature field trips with regional experts to learn about the social and environmental reality of the region. After the trip, online courses will be offered to explore social Entrepreneurship and innovation around the world. Students will collaborate through digital technologies for a final project release in the Spring of 2018.</p>
             </div>
             <div class="col-md-5" >
 

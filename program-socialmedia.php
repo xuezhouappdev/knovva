@@ -66,7 +66,7 @@ include "header.php";
             <div class="col-md-7">
                 <h4>U.S. Social Media Use and Electronic Correspondence </h4>
                 <hr>
-                <p>This three week mini-course is designed to be a practical primer in the art of electronic correspondence in the United States. Do you know that most Americans have never used WeChat before? Ever wonder how your peers or colleagues communicate via twitter, facebook, or text message? Or do you know how different an email should be written than a text? Understanding these different social media tools and how best to use them will help strengthen interpersonal and professional relationships in the United States. This learning will be both theoretical and practical, and will facilitate student life in the United States.</p>
+                <p>This three week mini-course is a practical primer in the art of electronic correspondence in the United States. Do you know that most Americans have never used WeChat before? Ever wonder how your peers or colleagues communicate via twitter, facebook, or text message? Or, do you know the different ways an email should be written than a text? Understanding these different social media tools, and how best to use them will help you strengthen interpersonal and professional relationships in the United States. This learning will be both theoretical and practical, and will facilitate student life in the United States.</p>
             </div>
             <div class="col-md-5" >
                 <div class="panel panel-primary" style="position: relative;top:48px">
@@ -155,8 +155,8 @@ include "header.php";
                 </h4>
             </div>
             <div class="col-sm-3">
-                <img src="image/icon/icon-discover.png" class="img img-responsive">
-                <h4><Span>Discover</Span>&nbsp;your interests, passions and the possibilities that lay before you
+                <img src="image/icon/icon-connect.png" class="img img-responsive">
+                <h4><Span>Connect</Span>&nbsp;with a peer network passionate about creative construction
 
 
                 </h4>

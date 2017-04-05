@@ -66,9 +66,10 @@ include "header.php";
             <div class="col-md-7">
                 <h4>The Innovation Reading Group: Creativity and Change in the New Millennium</h4>
                 <hr>
-                <p>One of the new demands of the twenty-first century is growing an ability to adapt and make-new in the quickly changing world. In this reading group, students explore the meaning of innovation: what does it mean to innovate across sectors: in technology, business, or in the home? What did it mean in the information age? What could it mean as artificial intelligence makes a greater presence in our technology landscape?
+                <p>One of the new demands of the twenty-first century is growing an ability to adapt and make-new in the quickly changing world. In this reading group, students explore the meaning of innovation: what does it mean to innovate across sectors: in technology, business, or in the home? What did it mean in the information age? What could it mean as artificial intelligence expands its presence in our technology landscape?
                     <br><br>
-                    This group will explore scientific progress, philosophy, literature, and more to develop a sophisticated notion of how innovation can be used, nurtured and applied to their respective sectors of studies and work. Designed for students with intermediate to advanced English skills, learning will be segmented and differentiated reading assignments will be offered for different levels of language learning. [About]
+
+                    This group will explore scientific progress, philosophy, literature, and more to develop a sophisticated notion of how innovation can be used, nurtured, and applied to their respective sectors of studies and work. Designed for students with intermediate to advanced English skills, learning will be segmented, and differentiated reading assignments will be offered for different levels of language learning.
                 </p>
             </div>
             <div class="col-md-5" >

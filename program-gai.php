@@ -66,7 +66,9 @@ include "header.php";
             <div class="col-md-7">
                 <h4>Global Affairs Institute </h4>
                 <hr>
-                <p>Knovva Academy’s Global Affairs Institute is a two-week summer initiative for a cohort of international high school students seeking to learn the in-depth nature of Global Affairs and International Politics. Students will learn from top scholars from MIT and Harvard to understand the people, histories, cultures and politics that shape the current international landscape. We want to help students understand the underlying nature of the political world, to propel them forward in their own intellectual and professional careers in the field of global politics, and embolden them to be leaders in the contemporary international landscape.<br><br>Complementary online learning offerings will be available after the summer program ends to explore and support efforts to make impact impact around the globe.</p>
+                <p>Knovva Academy’s Global Affairs Institute is a two-week summer initiative for a cohort of international high school students seeking to learn about the depths of Global Affairs and International Politics. Students will learn from top MIT and Harvard scholars to understand the people, histories, cultures, and politics that shape the current international landscape. We want to help students understand the underlying nature of the political world, and to propel them forward in their own intellectual and professional careers. This program will inject students into the field of global politics, and embolden them to be leaders in any international environment.<br><br>
+
+                    Complementary online learning will be available after the summer program ends in order to continue exploring and supporting efforts to make an impact around the globe.</p>
             </div>
             <div class="col-md-5" >
 
@@ -136,7 +138,7 @@ include "header.php";
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-connect.png" class="img img-responsive">
-                <h4><Span>Connect</Span>&nbsp;with a peer network passionate about making a difference through government
+                <h4><Span>Connect</Span>&nbsp;with a peer network that is passionate about making a difference through government
 
 
                 </h4>

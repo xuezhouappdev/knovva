@@ -66,9 +66,9 @@ include "header.php";
             <div class="col-md-7">
                 <h4>Applied Engineering & Robotics</h4>
                 <hr>
-                <p>The Applied Engineering & Robotics program begins with two-weeks of in-person learning for an elite cohort of international students to learn with top thinkers from MIT and/or Harvard for a fun a challenging immersive experience in robotics and engineering. This program offers half-day learning laboratory and mentorship, and afternoon classes on product design, engineering design, and project management, and in addition to travel and exploration of the cities of Cambridge and Boston. The program culminates in a new technology, designed and created by your own hands.
+                <p>The Applied Engineering & Robotics program begins with two-weeks of in-person learning with top thinkers from MIT and/or Harvard for a fun a challenging immersive experience in robotics and engineering, designed for an elite cohort of international students. This program offers half-day learning laboratory sessions and mentorship, and afternoon classes on product design, engineering design, and project management. Additionally, the participants will have the opportunity to travel and explore the cities of Cambridge and Boston. The program culminates in a new technology, designed and created with your own hands.<br><br>
 
-                    <br><br>Optional complementary online learning is available post-launch to help students continue to grow their projects and explore models of using their technologies to make an impact.</p>
+                    Optional complementary online learning is available post-launch to help students continue to grow their projects and explore models of using their technologies to make an impact.</p>
             </div>
             <div class="col-md-5" >
                 <div class="panel panel-primary" style="position: relative;top:48px">
@@ -135,7 +135,7 @@ include "header.php";
         <div class="row">
             <div class="col-sm-3">
                 <img src="image/icon/icon-explore.png" class="img img-responsive">
-                <h4><Span>Explore</Span>&nbsp;first-hand the principles of engineering and robotics
+                <h4><Span>Explore</Span>&nbsp;the principles of engineering and robotics first-hand
 
                 </h4>
             </div>
