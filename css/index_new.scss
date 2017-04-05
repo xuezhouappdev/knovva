@@ -3,6 +3,7 @@ $white: #fff;
 $primary: #f2184f;
 $black: #121212;
 $purple: #6c4a98;
+$lightprimary: lighten($primary,10);
 
 $color_shady_lady_approx: #a9a9a9;
 $gray: #000000;
@@ -236,6 +237,60 @@ div {
   }
 }
 
+
+.testimonial{
+
+
+  h2 {
+    text-align: center;
+    margin-bottom: 64px;
+  }
+
+  #myCarousel {
+    background: lighten($lightprimary,5);
+    color: white;
+
+
+
+    .carousel-inner {
+      .container {
+
+        padding: 48px 88px;
+        text-align: center;
+
+
+
+
+        [class*="col-"] {
+          padding: 24px;
+
+
+        }
+
+
+
+
+        h4 {
+
+          padding:32px 16px;
+        }
+
+
+
+
+      }
+
+
+
+    }
+
+
+
+  }
+
+
+
+}
 
 .post {
   text-align: center;

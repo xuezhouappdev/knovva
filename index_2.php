@@ -409,6 +409,87 @@ include "header.php";
 
 
 
+<div class="testimonial section">
+
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <div class="container">
+                    <div class="row">
+
+                        <h4>"Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better."
+                        </h4><br>
+                        <p>Student from Boston Latin Academy
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="item">
+                <div class="container">
+                    <div class="row">
+
+
+
+                        <h4>"They made learning fun and exciting! Knovva Academy showed something different, a different style of learning and discovering new concepts."</h4><br>
+                        <p>Student from Fenway High School
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="container">
+                    <div class="row">
+
+
+
+                        <h4>"I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy." </h4><br>
+                        <p>Student from Liuzhou High School</p>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="container">
+                    <div class="row">
+
+
+                        <h4>"I’m always trying to find programs to improve myself because I want to make an impact to the world or the people around me. At Knovva Academy, I got to develop new practical skills, build connection with different cultures, and understand the responsibility of being a global citizen. Thank you everyone." </h4>
+                        <p>Student from Dalian No. 24 High School</p>
+
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+</div>
 
 
 
