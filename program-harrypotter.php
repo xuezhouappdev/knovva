@@ -79,7 +79,7 @@ include "header.php";
 
                         <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>Literature</p>
                         <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Online</P>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;AGE: </b>Year 14 -18</p>
+                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;GRADES: </b>9 - 12</p>
 
 
                         <p><b><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;TIME: </b>Sep - Nov</p>

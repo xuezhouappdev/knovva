@@ -73,10 +73,10 @@ include "header.php";
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>Subject: &nbsp;</span>Business</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
                     </p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
                     <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>2 Weeks</p>
-                    <h5 style="text-align: center"><a href="program-sie.php" class="button_p">Read More</a></h5>
+                    <h5 style="text-align: center"><a href="program-entrepreneurship.php" class="button_p">Read More</a></h5>
 
                     <script>
                         $(document).ready(function(){
@@ -110,13 +110,13 @@ include "header.php";
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
                     </p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
 
 
                     <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
                         <span>Duration: &nbsp;</span>2 Weeks</p>
-                    <h5 style="text-align: center"> <a href="program-gai.php" class="button_p">Read More</a></h5>
+                    <h5 style="text-align: center"> <a href="program-globalaffairs.php" class="button_p">Read More</a></h5>
                 </div>
             </div>
 
@@ -130,11 +130,11 @@ include "header.php";
 
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
                     </p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
                     <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
                         <span>Duration: &nbsp;</span>2 Weeks</p>
-                    <h5 style="text-align: center"><a href="program-aer.php" class="button_p">Read More</a></h5>
+                    <h5 style="text-align: center"><a href="program-appliedengineering.php" class="button_p">Read More</a></h5>
                 </div>
             </div>
 
@@ -170,11 +170,11 @@ include "header.php";
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>American Culture</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
                     <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 Weeks</p>
 
-                    <h5 style="text-align: center"><a href="program_template.php" class="button_p">Read More</a></h5>
+                    <h5 style="text-align: center"><a href="program-landscapeofstudy.php" class="button_p">Read More</a></h5>
 
 
                 </div>
@@ -188,7 +188,7 @@ include "header.php";
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>American Culture</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
                     <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>3 Weeks</p>
 
@@ -202,7 +202,7 @@ include "header.php";
                     <h4><b>The Harry Potter Reading Group</b></h4>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Literature</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
                     <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>Sep - Nov</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 Weeks</p>
                     <br>
@@ -221,13 +221,13 @@ include "header.php";
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Literature</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
 
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
 
 
                     <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>Sep - Nov</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 Weeks</p>
 
-                    <h5 style="text-align: center"><a href="program-irg.php" class="button_p "  >Read More</a></h5>
+                    <h5 style="text-align: center"><a href="program-innotativereading.php" class="button_p "  >Read More</a></h5>
 
 
                 </div>

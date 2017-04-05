@@ -178,7 +178,7 @@ include "header.php";
 
 
             <div class="col-md-6" align="center">
-                <iframe width="100%" height="400px" src="https://www.youtube.com/embed/tkA69Yh5j2M"  allowfullscreen ></iframe>
+                <iframe width="100%" height="400px" src="https://www.youtube.com/embed/tkA69Yh5j2M?autoplay=0&showinfo=0"  ></iframe>
             </div>
         </div>
     </div>
@@ -276,7 +276,7 @@ include "header.php";
             <div class="col-sm-4" >
                 <div class="card">
                     <img class="img img-responsive " src="image/home/home-benifit3.png" >
-                    <h4><b>Customer Care</b></h4>
+                    <h4><b>Student Care</b></h4>
                     <p>We ensure a safespace for your ideas and always provide attentive assistance with students and parents, before, throughout, and after our programs.
                     </p>
                 </div>
@@ -309,10 +309,8 @@ include "header.php";
                 <div class="container">
                     <div class="row">
 
-                        <h4>"Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better."
+                        <h4>"Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better." - Student from Boston Latin Academy
                         </h4><br>
-                        <p>Student from Boston Latin Academy
-                        </p>
 
                     </div>
                 </div>
@@ -325,9 +323,8 @@ include "header.php";
 
 
 
-                        <h4>"They made learning fun and exciting! Knovva Academy showed something different, a different style of learning and discovering new concepts."</h4><br>
-                        <p>Student from Fenway High School
-                        </p>
+                        <h4>"They made learning fun and exciting! Knovva Academy showed something different, a different style of learning and discovering new concepts." - Student from Fenway High School</h4><br>
+
 
                     </div>
                 </div>
@@ -339,8 +336,7 @@ include "header.php";
 
 
 
-                        <h4>"I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy." </h4><br>
-                        <p>Student from Liuzhou High School</p>
+                        <h4>"I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy." - Student from Liuzhou High School</h4><br>
 
                     </div>
                 </div>
@@ -351,8 +347,8 @@ include "header.php";
                     <div class="row">
 
 
-                        <h4>"I’m always trying to find programs to improve myself because I want to make an impact to the world or the people around me. At Knovva Academy, I got to develop new practical skills, build connection with different cultures, and understand the responsibility of being a global citizen. Thank you everyone." </h4>
-                        <p>Student from Dalian No. 24 High School</p>
+                        <h4>"I’m always trying to find programs to improve myself because I want to make an impact to the world or the people around me. At Knovva Academy, I got to develop new practical skills, build connection with different cultures, and understand the responsibility of being a global citizen. Thank you everyone." - Student from Dalian No. 24 High School</h4>
+
 
                     </div>
                 </div>

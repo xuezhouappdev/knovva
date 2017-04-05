@@ -186,7 +186,7 @@ include "header.php";
 <div class="teacher section">
     <div class="container">
 
-        <h2>TEACHERS</h2>
+        <h2>ACADEMIC DESIGNERS</h2>
 
 
         <div class="row">
@@ -269,11 +269,12 @@ include "header.php";
 
 
 
-<!-- Testimonial -->
+
+
+
 <div class="testimonial section">
 
-
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <div id="myCarousel" class="carousel slide home-slider" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -288,10 +289,8 @@ include "header.php";
                 <div class="container">
                     <div class="row">
 
-                            <h4>"Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better."
-                            </h4><br>
-                            <p>Student from Boston Latin Academy
-                            </p>
+                        <h4>"Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better." - Student from Boston Latin Academy
+                        </h4><br>
 
                     </div>
                 </div>
@@ -304,9 +303,8 @@ include "header.php";
 
 
 
-                        <h4>"They made learning fun and exciting! Knovva Academy showed something different, a different style of learning and discovering new concepts."</h4><br>
-                            <p>Student from Fenway High School
-                            </p>
+                        <h4>"They made learning fun and exciting! Knovva Academy showed something different, a different style of learning and discovering new concepts." - Student from Fenway High School</h4><br>
+
 
                     </div>
                 </div>
@@ -318,8 +316,7 @@ include "header.php";
 
 
 
-                            <h4>"I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy." </h4><br>
-                            <p>Student from Liuzhou High School</p>
+                        <h4>"I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy." - Student from Liuzhou High School</h4><br>
 
                     </div>
                 </div>
@@ -330,8 +327,8 @@ include "header.php";
                     <div class="row">
 
 
-                            <h4>"I’m always trying to find programs to improve myself because I want to make an impact to the world or the people around me. At Knovva Academy, I got to develop new practical skills, build connection with different cultures, and understand the responsibility of being a global citizen. Thank you everyone." </h4>
-                            <p>Student from Dalian No. 24 High School</p>
+                        <h4>"I’m always trying to find programs to improve myself because I want to make an impact to the world or the people around me. At Knovva Academy, I got to develop new practical skills, build connection with different cultures, and understand the responsibility of being a global citizen. Thank you everyone." - Student from Dalian No. 24 High School</h4>
+
 
                     </div>
                 </div>
@@ -352,121 +349,34 @@ include "header.php";
     </div>
 </div>
 
-<!--bythenumbers -->
-<!--<div class="number section">-->
-<!---->
-<!--    <div class="container">-->
-<!--      <div class="row jsfade">-->
-<!--          <div class="col-sm-3">-->
-<!--                <h1>24</h1>-->
-<!--                <h4>LEARNERS</h4>-->
-<!--          </div>-->
-<!--          <div class="col-sm-3">-->
-<!--              <h1>24</h1>-->
-<!--              <h4>LEARNERS</h4>-->
-<!--          </div>-->
-<!--          <div class="col-sm-3">-->
-<!--              <h1>24</h1>-->
-<!--              <h4>LEARNERS</h4>-->
-<!--          </div>-->
-<!--          <div class="col-sm-3">-->
-<!--              <h1>24</h1>-->
-<!--              <h4>LEARNERS</h4>-->
-<!--          </div>-->
-<!--      </div>-->
-<!---->
-<!--        <div class="row">-->
-<!--         <a href="programs.php">Find A Program</a>-->
-<!--        </div>-->
-<!--    </div>-->
-<!---->
-<!---->
-<!--</div>-->
+
 
 <!-- partner -->
 <div class="partner section">
     <div class="container">
-        <h2>PARTNERS</h2>
-           <div class="row">
-               <div class="col-sm-3">
-                   <img src="image/partner/p-bps.png" class="img img-responsive">
-               </div>
-               <div class="col-sm-3">
-                   <img src="image/partner/p-nuvu.jpg" class="img img-responsive">
-               </div>
-               <div class="col-sm-3">
-                   <img src="image/partner/p-huceic.png" class="img img-responsive">
-               </div>
-
-               <div class="col-sm-3">
-                   <img src="image/partner/rola.jpg" class="img img-responsive">
-               </div>
-           </div>
+<!--        <h2>PARTNERS</h2>-->
+<!--           <div class="row">-->
+<!---->
+<!--               <div class="col-sm-4">-->
+<!--                   <img src="image/partner/p-huceic2.png" class="img img-responsive">-->
+<!--               </div>-->
+<!---->
+<!--               <div class="col-sm-4">-->
+<!--                   <img src="image/partner/p-nuvu.jpg" class="img img-responsive">-->
+<!--               </div>-->
+<!---->
+<!---->
+<!--               <div class="col-sm-4">-->
+<!--                   <img src="image/partner/p-rola.jpg" class="img img-responsive">-->
+<!--               </div>-->
+<!--           </div>-->
     <hr>
+
         <div class="row">
             <a href="programs.php">Find A Program</a>
         </div>
     </div>
 </div>
-
-
-
-<!--Counter-->
-<!--<div class="counter-div">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3">
-                <i class="fa fa-graduation-cap" aria-hidden="true"></i>
-            </div>
-            <div class="col-md-3">
-                <i class="fa fa-thumbs-up" aria-hidden="true"></i>
-            </div>
-            <div class="col-md-3">
-                <i class="fa fa-book" aria-hidden="true"></i>
-
-            </div>
-            <div class="col-md-3">
-                <i class="fa fa-trophy" aria-hidden="true"></i>
-
-            </div>
-        </div>
-
-
-        <div class="row">
-            <div class="col-md-3">
-                <span class="counter">5248</span>
-            </div>
-            <div class="col-md-3">
-                <span class="counter">675</span>
-            </div>
-            <div class="col-md-3">
-                <span class="counter">248</span>
-
-            </div>
-            <div class="col-md-3">
-                <span class="counter">24</span>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-3">
-                <h5>HAPPY STUDENTS</h5>
-            </div>
-            <div class="col-md-3">
-                <h5>OUR COURSES</h5>
-            </div>
-            <div class="col-md-3">
-                <h5>OUR TEACHERS</h5>
-            </div>
-            <div class="col-md-3">
-                <h5>AWARDS WON</h5>
-            </div>
-        </div>
-    </div>
-</div>-->
-
-
-
 
 
 
