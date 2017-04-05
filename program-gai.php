@@ -82,7 +82,7 @@ include "header.php";
                         <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston, MA</P>
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;AGE: </b>Year 14 -18</p>
                         <p><b><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;TIME: </b>July - August</p>
-                        <p><b><i class="fa fa-clock-o" aria-hidden="true"> </i>&nbsp;&nbsp;DURATION: </b>3 Weeks</p>
+                        <p><b><i class="fa fa-clock-o" aria-hidden="true"> </i>&nbsp;&nbsp;DURATION: </b>2 Weeks</p>
 <!--                <a data-toggle="modal" data-target="#myModal" > >> VIEW AGENDA</a>-->
                     </div>
                 </div>

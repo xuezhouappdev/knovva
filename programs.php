@@ -203,7 +203,7 @@ include "header.php";
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Literature</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>September - November</p>
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>Sep - Nov</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 Weeks</p>
                     <br>
                     <h5 style="text-align: center"><a href="program-harrypotter.php" class="button_p">Read More</a></h5>
@@ -224,7 +224,7 @@ include "header.php";
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
 
 
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>September - November</p>
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>Sep - Nov</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 Weeks</p>
 
                     <h5 style="text-align: center"><a href="program-irg.php" class="button_p "  >Read More</a></h5>
