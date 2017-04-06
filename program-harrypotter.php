@@ -57,7 +57,7 @@ include "header.php";
 <div class="about section">
     <div class="container">
         <ul class="breadcrumb">
-            <li><a href="index_2.php">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li><a href="programs.php">Program</a></li>
             <li><a href="#">The Harry Potter Reading Group</a></li>
         </ul>

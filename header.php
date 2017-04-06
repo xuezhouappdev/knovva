@@ -29,14 +29,14 @@ SEPERATELY-->
 
 
 
-              <a href="index_2.php"><img id="logo" src="image/logo-trim.png" class="img-responsive img" ></a>
+              <a href="index.php"><img id="logo" src="image/logo-trim.png" class="img-responsive img" ></a>
 
 
 
 
 
                 <ul id="menuitem" >
-                    <li><a href="index_2.php"> Home </a></li>
+                    <li><a href="index.php"> Home </a></li>
                     <li><a href="about.php"> About </a></li>
 
                     <li class="dropdown"> <!--programdropdown -->

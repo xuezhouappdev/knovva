@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/space.mp4" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/about/about-ourteam.jpg" afterPath="$PROJECT_DIR$/image/about/about-ourteam.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index_coming.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index_2.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/index_2.php" afterPath="$PROJECT_DIR$/../cn_knovva/index_2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index_new.scss" afterPath="$PROJECT_DIR$/css/index_new.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index_2.php" afterPath="$PROJECT_DIR$/index_2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/intro.js" afterPath="$PROJECT_DIR$/js/intro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-appliedengineering.php" afterPath="$PROJECT_DIR$/program-appliedengineering.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-entrepreneurship.php" afterPath="$PROJECT_DIR$/program-entrepreneurship.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-globalaffairs.php" afterPath="$PROJECT_DIR$/program-globalaffairs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-harrypotter.php" afterPath="$PROJECT_DIR$/program-harrypotter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-innotativereading.php" afterPath="$PROJECT_DIR$/program-innotativereading.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-landscapeofstudy.php" afterPath="$PROJECT_DIR$/program-landscapeofstudy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-socialmedia.php" afterPath="$PROJECT_DIR$/program-socialmedia.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,7 +57,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
@@ -62,19 +67,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index_2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index_2.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="78" column="71" lean-forward="false" selection-start-line="78" selection-start-column="70" selection-end-line="78" selection-end-column="71" />
+            <state relative-caret-position="225">
+              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
               <folding>
+                <element signature="e#7#34#0#PHP" expanded="true" />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1491444264000" expanded="false" signature="7149:7217" ph="..." />
+                <marker date="1491444741000" expanded="false" signature="7173:7241" ph="..." />
               </folding>
             </state>
           </provider>
@@ -226,8 +234,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="34" />
+    <option name="x" value="-13" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="739" />
   </component>
@@ -461,14 +469,7 @@
       <workItem from="1491228325855" duration="21664000" />
       <workItem from="1491348955989" duration="6707000" />
       <workItem from="1491398241202" duration="840000" />
-      <workItem from="1491402456391" duration="17379000" />
-    </task>
-    <task id="LOCAL-00026" summary="added triangle">
-      <created>1486245335890</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1486245335890</updated>
+      <workItem from="1491402456391" duration="17845000" />
     </task>
     <task id="LOCAL-00027" summary="fixed faq Jquery">
       <created>1486256361684</created>
@@ -806,14 +807,21 @@
       <option name="project" value="LOCAL" />
       <updated>1491436737137</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="fixed little things">
+      <created>1491444346786</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1491444346786</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231288000" />
+    <option name="totallyTimeSpent" value="231754000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="34" width="1280" height="739" extended-state="0" />
+    <frame x="-13" y="23" width="1280" height="739" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2184466" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
@@ -877,7 +885,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed title design" />
     <MESSAGE value="modified about page" />
     <MESSAGE value="added career page" />
     <MESSAGE value="updated career page" />
@@ -902,7 +909,8 @@
     <MESSAGE value="update copies" />
     <MESSAGE value="update slider on the homepage" />
     <MESSAGE value="changed the line height" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed the line height" />
+    <MESSAGE value="fixed little things" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed little things" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1114,7 +1122,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/index_coming.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-140">
           <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
@@ -1327,7 +1335,6 @@
           <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1358,27 +1365,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="78" column="71" lean-forward="false" selection-start-line="78" selection-start-column="70" selection-end-line="78" selection-end-column="71" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1491444264000" expanded="false" signature="7149:7217" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="85" column="441" lean-forward="false" selection-start-line="85" selection-start-column="432" selection-end-line="85" selection-end-column="441" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding>
+            <element signature="e#7#34#0#PHP" expanded="true" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1491444741000" expanded="false" signature="7173:7241" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
