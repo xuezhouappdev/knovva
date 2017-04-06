@@ -39,6 +39,7 @@ SEPERATELY-->
                     <li><a href="index.php"> Home </a></li>
                     <li><a href="about.php"> About </a></li>
 
+
                     <li class="dropdown"> <!--programdropdown -->
                         <a class="dropbtn" href="programs.php">Programs</a>
 
@@ -56,6 +57,7 @@ SEPERATELY-->
                         </div>
 
                     </li>
+                    <li><a href="blog.php"> Blog </a></li>
 <!--                    <li><a href="#"> Teacher </a></li>-->
 
                    <!-- <li><a href="gallery.php" class="disabled"> Gallery </a></li>-->

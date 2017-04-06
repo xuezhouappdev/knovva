@@ -219,7 +219,7 @@ include "header.php";
                     <img src="image/teachers/Abby.jpg" class="img-responsive " alt="Avatar"  >
 
                     <div class="overlay">
-                        <div class="text"><h5>Abby holds a Master’s degree in Public Policy from the Harvard Kennedy School of Government and a B.S. in Applied Economics from the Renmin University of China. In the past, she served as Co-Chair of the China Society at Harvard Kennedy School.</h5></div>
+                        <div class="text"><h5>Abby holds a Master's degree in Public Policy from Harvard Kennedy School of Government and a B.S. in Applied Economics from Renmin University of China. She served in the nonprofit EduRunner and organized summer programs for Chinese rural and migrant children.</h5></div>
                     </div>
 
                     <h4><b>Abby Hu</b></h4>
@@ -239,7 +239,7 @@ include "header.php";
                 <div class="card" >
                     <img src="image/teachers/neil.jpg" class="img-responsive " alt="Avatar"  >
                     <div class="overlay">
-                        <div class="text"><h5>Neilson is a Boston native that graduated with honors from the Sawyer Business School at Suffolk University, majored in global businessand management. He is also a certified ESL (English as Second Language) instructor.</h5>
+                        <div class="text"><h5>Neilson is a Boston native that graduated with honors from the Sawyer Business School at Suffolk University, majored in global business and management. He is also a certified ESL (English as Second Language) instructor.</h5>
                         </div>
                     </div>
                     <h4><b>Neilson Lam</b></h4>
