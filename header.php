@@ -57,7 +57,7 @@ SEPERATELY-->
                         </div>
 
                     </li>
-                    <li><a href="blog.php"> Blog </a></li>
+<!--                    <li><a href="blog.php"> Blog </a></li>-->
 <!--                    <li><a href="#"> Teacher </a></li>-->
 
                    <!-- <li><a href="gallery.php" class="disabled"> Gallery </a></li>-->

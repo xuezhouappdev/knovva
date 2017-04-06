@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/space.mp4" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/.idea/deployment.xml" afterPath="$PROJECT_DIR$/../cn_knovva/.idea/deployment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/about.php" afterPath="$PROJECT_DIR$/../cn_knovva/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/footer.php" afterPath="$PROJECT_DIR$/../cn_knovva/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/index_2.php" afterPath="$PROJECT_DIR$/../cn_knovva/index_2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-appliedengineering.php" afterPath="$PROJECT_DIR$/program-appliedengineering.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-entrepreneurship.php" afterPath="$PROJECT_DIR$/program-entrepreneurship.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-globalaffairs.php" afterPath="$PROJECT_DIR$/program-globalaffairs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-landscapeofstudy.php" afterPath="$PROJECT_DIR$/program-landscapeofstudy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programs.php" afterPath="$PROJECT_DIR$/programs.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,61 +40,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="program_template.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/program_template.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4573">
-              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+        <entry file="file://$PROJECT_DIR$/blog/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1063">
-              <caret line="182" column="16" lean-forward="false" selection-start-line="182" selection-start-column="16" selection-end-line="182" selection-end-column="133" />
-              <folding>
-                <element signature="e#7#34#0#PHP" expanded="true" />
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1491491084000" expanded="false" signature="7173:7241" ph="..." />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/header.php">
+      <file leaf-file-name="wp-blog-header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-blog-header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="59" column="58" lean-forward="false" selection-start-line="59" selection-start-column="58" selection-end-line="59" selection-end-column="58" />
-              <folding>
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog.php">
+      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/wp-config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="-15">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -106,30 +73,68 @@
       <file leaf-file-name="programs.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="60" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="292" selection-end-column="7" />
+            <state relative-caret-position="-704">
+              <caret line="130" column="118" lean-forward="false" selection-start-line="130" selection-start-column="118" selection-end-line="130" selection-end-column="118" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="programs.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/programs.css">
+      <file leaf-file-name="program-appliedengineering.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program-appliedengineering.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="205" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="260" selection-end-column="0" />
-              <folding>
-                <element signature="e#1680#1846#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="154">
+              <caret line="83" column="116" lean-forward="false" selection-start-line="83" selection-start-column="116" selection-end-line="83" selection-end-column="116" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="programbase.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/programbase.css">
+      <file leaf-file-name="program-entrepreneurship.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program-entrepreneurship.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="165" column="23" lean-forward="false" selection-start-line="165" selection-start-column="16" selection-end-line="165" selection-end-column="23" />
+            <state relative-caret-position="165">
+              <caret line="82" column="116" lean-forward="false" selection-start-line="82" selection-start-column="116" selection-end-line="82" selection-end-column="116" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="program-globalaffairs.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program-globalaffairs.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="81" column="116" lean-forward="false" selection-start-line="81" selection-start-column="116" selection-end-line="81" selection-end-column="116" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="program-harrypotter.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program-harrypotter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="81" column="116" lean-forward="false" selection-start-line="81" selection-start-column="116" selection-end-line="81" selection-end-column="116" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="program-landscapeofstudy.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/program-landscapeofstudy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="77" column="113" lean-forward="false" selection-start-line="77" selection-start-column="113" selection-end-line="77" selection-end-column="113" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="program-socialmedia.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program-socialmedia.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-80">
+              <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -230,13 +235,8 @@
         <option value="$PROJECT_DIR$/program-gai.php" />
         <option value="$PROJECT_DIR$/program-aer.php" />
         <option value="$PROJECT_DIR$/css/about.css" />
-        <option value="$PROJECT_DIR$/programs.php" />
-        <option value="$PROJECT_DIR$/program-appliedengineering.php" />
-        <option value="$PROJECT_DIR$/program-entrepreneurship.php" />
-        <option value="$PROJECT_DIR$/program-globalaffairs.php" />
         <option value="$PROJECT_DIR$/program-harrypotter.php" />
         <option value="$PROJECT_DIR$/program-innotativereading.php" />
-        <option value="$PROJECT_DIR$/program-landscapeofstudy.php" />
         <option value="$PROJECT_DIR$/css/about.scss" />
         <option value="$PROJECT_DIR$/css/program_template.css" />
         <option value="$PROJECT_DIR$/footer.php" />
@@ -245,8 +245,13 @@
         <option value="$PROJECT_DIR$/index_2.php" />
         <option value="$PROJECT_DIR$/about.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/blog.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/programs.php" />
+        <option value="$PROJECT_DIR$/program-appliedengineering.php" />
+        <option value="$PROJECT_DIR$/program-entrepreneurship.php" />
+        <option value="$PROJECT_DIR$/program-globalaffairs.php" />
+        <option value="$PROJECT_DIR$/program-landscapeofstudy.php" />
       </list>
     </option>
   </component>
@@ -261,8 +266,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="9" />
-    <option name="y" value="40" />
+    <option name="x" value="27" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="739" />
   </component>
@@ -308,20 +313,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="image" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -463,14 +454,7 @@
       <workItem from="1491402456391" duration="17891000" />
       <workItem from="1491445108553" duration="319000" />
       <workItem from="1491486148674" duration="589000" />
-      <workItem from="1491487487328" duration="4301000" />
-    </task>
-    <task id="LOCAL-00028" summary="seperated js from php">
-      <created>1486258153438</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1486258153438</updated>
+      <workItem from="1491487487328" duration="6276000" />
     </task>
     <task id="LOCAL-00029" summary="changed title design">
       <created>1486360330624</created>
@@ -808,17 +792,24 @@
       <option name="project" value="LOCAL" />
       <updated>1491444816168</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="updated the blog">
+      <created>1491503713506</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1491503713507</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237009000" />
+    <option name="totallyTimeSpent" value="238984000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="40" width="1280" height="739" extended-state="0" />
-    <editor active="true" />
+    <frame x="27" y="23" width="1280" height="739" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22815534" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22815534" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -879,7 +870,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added career page" />
     <MESSAGE value="updated career page" />
     <MESSAGE value="added contact page backend" />
     <MESSAGE value="added contact page backend(email )" />
@@ -904,45 +894,14 @@
     <MESSAGE value="changed the line height" />
     <MESSAGE value="fixed little things" />
     <MESSAGE value="replaced the index page" />
-    <option name="LAST_COMMIT_MESSAGE" value="replaced the index page" />
+    <MESSAGE value="updated the blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the blog" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/about.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/about.css.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/image/skyatlas2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1122,46 +1081,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program-appliedengineering.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="84" column="115" lean-forward="false" selection-start-line="84" selection-start-column="109" selection-end-line="84" selection-end-column="115" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program-entrepreneurship.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="83" column="116" lean-forward="false" selection-start-line="83" selection-start-column="116" selection-end-line="83" selection-end-column="116" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program-globalaffairs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="82" column="116" lean-forward="false" selection-start-line="82" selection-start-column="116" selection-end-line="82" selection-end-column="116" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program-harrypotter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="81" column="116" lean-forward="false" selection-start-line="81" selection-start-column="116" selection-end-line="81" selection-end-column="116" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program-landscapeofstudy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="78" column="116" lean-forward="false" selection-start-line="78" selection-start-column="116" selection-end-line="78" selection-end-column="116" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/program-innotativereading.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
@@ -1174,14 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program-socialmedia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1238,24 +1149,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="60" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="292" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="59" column="58" lean-forward="false" selection-start-line="59" selection-start-column="58" selection-end-line="59" selection-end-column="58" />
-          <folding>
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1063">
@@ -1284,6 +1177,104 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="59" column="62" lean-forward="false" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="62" />
+          <folding>
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-blog-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-704">
+          <caret line="130" column="118" lean-forward="false" selection-start-line="130" selection-start-column="118" selection-end-line="130" selection-end-column="118" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-appliedengineering.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="83" column="116" lean-forward="false" selection-start-line="83" selection-start-column="116" selection-end-line="83" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-entrepreneurship.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="82" column="116" lean-forward="false" selection-start-line="82" selection-start-column="116" selection-end-line="82" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-globalaffairs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="81" column="116" lean-forward="false" selection-start-line="81" selection-start-column="116" selection-end-line="81" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-harrypotter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="81" column="116" lean-forward="false" selection-start-line="81" selection-start-column="116" selection-end-line="81" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-socialmedia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-landscapeofstudy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="77" column="113" lean-forward="false" selection-start-line="77" selection-start-column="113" selection-end-line="77" selection-end-column="113" />
           <folding />
         </state>
       </provider>

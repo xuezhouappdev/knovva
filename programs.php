@@ -71,7 +71,7 @@ include "header.php";
                     <h4><b>Social Impact and Entrepreneurship</b></h4>
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>Subject: &nbsp;</span>Business</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, Massachusetts
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
                     <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
@@ -108,7 +108,7 @@ include "header.php";
                     <img src="image/program/global.jpg" alt="Avatar" style="width:100%">
                     <h4><b>Global Affairs Institute</b></h4>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, Massachusetts
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
 
@@ -128,7 +128,7 @@ include "header.php";
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Engineering</p>
 
 
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, Massachusetts
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
                     <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>

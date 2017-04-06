@@ -75,7 +75,7 @@ include "header.php";
                     <div class="panel-body">
 
                         <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>American Culture</p>
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston, MA</P>
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Online</P>
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;GRADES: </b>9 - 12</p>
                         <p><b><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;TIME: </b>July - August</p>
                         <p><b><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;&nbsp;DURATION: </b>7 Weeks</p>
