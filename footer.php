@@ -49,8 +49,8 @@
                 <ul>
                    <li><a href="index_2.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
-                   <!-- <li><a href="#">Teacher</a></li>-->
-                    <li><a href="career.php">Career</a></li>
+                    <li><a href="programs.php">Programs</a></li>
+<!--                    <li><a href="career.php">Career</a></li>-->
 
                    <!-- <li><a href="#">Blog</a></li>-->
                     <li><a href="contact.php">Contact</a></li>

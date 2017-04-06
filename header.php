@@ -48,8 +48,8 @@ SEPERATELY-->
                             <a href="program-appliedengineering.php">Applied Engineering & Robotics</a>
                             <a href="program-landscapeofstudy.php">Understanding the Landscape of Study</a>
                             <a href="program-socialmedia.php">U.S. Social Media Use and Electronic Correspondence</a>
-                            <a href="program-harrypotter.php">The Harry Potter Reading Group (Summer 2017) </a>
-                            <a href="program-innotativereading.php">The Innovation Reading Group: Creativity and Change in the New Millennium (Fall 2017)</a>
+                            <a href="program-harrypotter.php">The Harry Potter Reading Group</a>
+                            <a href="program-innotativereading.php">The Innovation Reading Group: Creativity and Change in the New Millennium </a>
 
 
 

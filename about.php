@@ -83,7 +83,7 @@ include "header.php";
             </div>
             <div class="col-md-6 ">
                 <h3>What We Do</h3>
-                <p>Catering to students from around the world, Knovva Academy utilizes online and in-person learning to challenge students’ expectations about education; we strive to provoke our students to ask, think, and learn content largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more; All of these subjects can help students uncover their own passions, and their own directions.
+                <p>Catering to students from around the world, Knovva Academy utilizes online and in-person learning to challenge students’ expectations about education; we strive to provoke our students to ask, think, and learn content largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more. All of these subjects can help students uncover their own passions, and their own directions.
 
                 </p>
                 <a href="programs.php">Our Programs</a>
@@ -98,7 +98,7 @@ include "header.php";
         <div class="row">
             <div class="col-md-6 ">
                 <h3>What We Value</h3>
-                <p>We maintain deep-seated relationships with our students and parents, both during and throughout our programs. We utilize in-person informational sessions, phone calls, digital media, and webinars to build a peer community of students and parents. Our dynamic team of native Mandarin, Spanish, and English speakers allows easy communication, and clarity of cultural expectations. Knovva Academy continues to receive high praise from parents who have felt the deep involvement of their children’ participation in our programs.
+                <p>We maintain deep-seated relationships with our students and parents, both during and throughout our programs. We utilize in-person informational sessions, phone calls, digital media, and webinars to build a peer community of students and parents. Our dynamic team of native Mandarin, Spanish, and English speakers allows easy communication, and clarity of cultural expectations. Knovva Academy continues to receive high praise from parents who have felt the deep involvement of their children’s participation in our programs.
                 </p>
             </div>
             <div class="col-md-6 ">
