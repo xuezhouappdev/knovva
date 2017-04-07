@@ -82,7 +82,7 @@ include "header.php";
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;GRADES: </b>9 - 12</p>
 
 
-               <a data-toggle="modal" data-target="#myModal" > >>VIEW SYLABUS</a>
+               <a data-toggle="modal" data-target="#myModal" > >>VIEW SYLLABUS</a>
                     </div>
                 </div>
             </div>

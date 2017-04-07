@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/program_sie.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/program_startup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/program_tech.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/footer.php" afterPath="$PROJECT_DIR$/../cn_knovva/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controller/sendemail.php" afterPath="$PROJECT_DIR$/controller/sendemail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/contact.css" afterPath="$PROJECT_DIR$/css/contact.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-appliedengineering.php" afterPath="$PROJECT_DIR$/program-appliedengineering.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-entrepreneurship.php" afterPath="$PROJECT_DIR$/program-entrepreneurship.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-globalaffairs.php" afterPath="$PROJECT_DIR$/program-globalaffairs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-harrypotter.php" afterPath="$PROJECT_DIR$/program-harrypotter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-innotativereading.php" afterPath="$PROJECT_DIR$/program-innotativereading.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-landscapeofstudy.php" afterPath="$PROJECT_DIR$/program-landscapeofstudy.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-socialmedia.php" afterPath="$PROJECT_DIR$/program-socialmedia.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programs.php" afterPath="$PROJECT_DIR$/programs.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -129,7 +115,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program-globalaffairs.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="program-globalaffairs.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/program-globalaffairs.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -145,8 +131,8 @@
       <file leaf-file-name="program-landscapeofstudy.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/program-landscapeofstudy.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="77" column="132" lean-forward="false" selection-start-line="77" selection-start-column="132" selection-end-line="77" selection-end-column="132" />
+            <state relative-caret-position="335">
+              <caret line="80" column="76" lean-forward="false" selection-start-line="80" selection-start-column="76" selection-end-line="80" selection-end-column="76" />
               <folding>
                 <element signature="e#2777#2783#0#HTML" expanded="true" />
                 <element signature="e#2784#2790#0#HTML" expanded="true" />
@@ -155,11 +141,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program-socialmedia.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="program-socialmedia.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/program-socialmedia.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="84" column="74" lean-forward="false" selection-start-line="84" selection-start-column="74" selection-end-line="84" selection-end-column="74" />
               <folding>
                 <element signature="e#2914#2920#0#HTML" expanded="true" />
                 <element signature="e#2921#2927#0#HTML" expanded="true" />
@@ -273,13 +259,13 @@
         <option value="$PROJECT_DIR$/about.php" />
         <option value="$PROJECT_DIR$/controller/sendemail.php" />
         <option value="$PROJECT_DIR$/program-innotativereading.php" />
-        <option value="$PROJECT_DIR$/program-landscapeofstudy.php" />
-        <option value="$PROJECT_DIR$/program-socialmedia.php" />
         <option value="$PROJECT_DIR$/program-appliedengineering.php" />
         <option value="$PROJECT_DIR$/program-globalaffairs.php" />
         <option value="$PROJECT_DIR$/program-harrypotter.php" />
         <option value="$PROJECT_DIR$/programs.php" />
         <option value="$PROJECT_DIR$/program-entrepreneurship.php" />
+        <option value="$PROJECT_DIR$/program-landscapeofstudy.php" />
+        <option value="$PROJECT_DIR$/program-socialmedia.php" />
       </list>
     </option>
   </component>
@@ -484,14 +470,7 @@
       <workItem from="1491486148674" duration="589000" />
       <workItem from="1491487487328" duration="8573000" />
       <workItem from="1491570838712" duration="4113000" />
-      <workItem from="1491576305448" duration="3240000" />
-    </task>
-    <task id="LOCAL-00030" summary="modified about page">
-      <created>1486390979631</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1486390979631</updated>
+      <workItem from="1491576305448" duration="3381000" />
     </task>
     <task id="LOCAL-00031" summary="added career page">
       <created>1486420637370</created>
@@ -829,11 +808,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491508634951</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="updated">
+      <created>1491580688642</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1491580688643</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="248634000" />
+    <option name="totallyTimeSpent" value="248775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-20" y="46" width="1280" height="739" extended-state="0" />
@@ -843,6 +829,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17310664" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24909091" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -853,7 +840,6 @@
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17310664" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1260,28 +1246,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program-landscapeofstudy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="77" column="132" lean-forward="false" selection-start-line="77" selection-start-column="132" selection-end-line="77" selection-end-column="132" />
-          <folding>
-            <element signature="e#2777#2783#0#HTML" expanded="true" />
-            <element signature="e#2784#2790#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program-socialmedia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-          <folding>
-            <element signature="e#2914#2920#0#HTML" expanded="true" />
-            <element signature="e#2921#2927#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programs.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
@@ -1325,6 +1289,28 @@
           <folding>
             <element signature="e#3037#3043#0#HTML" expanded="true" />
             <element signature="e#3044#3050#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-landscapeofstudy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="80" column="76" lean-forward="false" selection-start-line="80" selection-start-column="76" selection-end-line="80" selection-end-column="76" />
+          <folding>
+            <element signature="e#2777#2783#0#HTML" expanded="true" />
+            <element signature="e#2784#2790#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-socialmedia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="84" column="74" lean-forward="false" selection-start-line="84" selection-start-column="74" selection-end-line="84" selection-end-column="74" />
+          <folding>
+            <element signature="e#2914#2920#0#HTML" expanded="true" />
+            <element signature="e#2921#2927#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
