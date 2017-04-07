@@ -171,7 +171,7 @@ include "header.php";
                     <h4><b>Understanding the Landscape of Study</b></h4>
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Higher Education</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, MA, USA&nbsp;|&nbsp;Summer 2017 <br>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online&nbsp;|&nbsp;Summer 2017 <br>
 
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
@@ -191,7 +191,7 @@ include "header.php";
                     <h4><b>U.S. Social Media Use and Electronic Correspondence</b></h4>
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>American Culture, Arts of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Communication</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, MA, USA&nbsp;|&nbsp;Summer 2017 <br>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online&nbsp;|&nbsp;Summer 2017 <br>
 
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
@@ -207,7 +207,7 @@ include "header.php";
                     <img src="image/program/hary.jpg" alt="Avatar" style="width:100%">
                     <h4><b>The Harry Potter Reading Group</b></h4><br>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Literature, Fiction</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, MA, USA&nbsp;|&nbsp;Summer 2017 <br>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online&nbsp;|&nbsp;Summer 2017 <br>
 
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
@@ -226,7 +226,7 @@ include "header.php";
                     <h4><b>The Innovation Reading Group: Creativity and Change in the New Millennium</b></h4>
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Technology, Innovation</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, MA, USA&nbsp;|&nbsp;Fall 2017 <br>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online&nbsp;|&nbsp;Fall 2017 <br>
 
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>

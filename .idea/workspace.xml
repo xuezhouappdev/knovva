@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/leaf.jpg" afterPath="$PROJECT_DIR$/image/leaf.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/skyatlas2.jpg" afterPath="$PROJECT_DIR$/image/skyatlas2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-entrepreneurship.php" afterPath="$PROJECT_DIR$/program-entrepreneurship.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-globalaffairs.php" afterPath="$PROJECT_DIR$/program-globalaffairs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programs.php" afterPath="$PROJECT_DIR$/programs.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +43,8 @@
       <file leaf-file-name="programs.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="73" column="127" lean-forward="false" selection-start-line="73" selection-start-column="127" selection-end-line="73" selection-end-column="127" />
+            <state relative-caret-position="-491">
+              <caret line="228" column="115" lean-forward="false" selection-start-line="228" selection-start-column="115" selection-end-line="228" selection-end-column="115" />
               <folding>
                 <element signature="e#2496#2502#0#HTML" expanded="true" />
                 <element signature="e#2503#2509#0#HTML" expanded="true" />
@@ -50,26 +55,26 @@
                 <element signature="e#4130#4136#0#HTML" expanded="true" />
                 <element signature="e#4972#4978#0#HTML" expanded="true" />
                 <element signature="e#4979#4985#0#HTML" expanded="true" />
-                <element signature="e#6328#6334#0#HTML" expanded="true" />
-                <element signature="e#6335#6341#0#HTML" expanded="true" />
-                <element signature="e#7347#7353#0#HTML" expanded="true" />
-                <element signature="e#7354#7360#0#HTML" expanded="true" />
-                <element signature="e#8174#8180#0#HTML" expanded="true" />
-                <element signature="e#8181#8187#0#HTML" expanded="true" />
-                <element signature="e#9115#9121#0#HTML" expanded="true" />
-                <element signature="e#9122#9128#0#HTML" expanded="true" />
+                <element signature="e#6316#6322#0#HTML" expanded="true" />
+                <element signature="e#6323#6329#0#HTML" expanded="true" />
+                <element signature="e#7323#7329#0#HTML" expanded="true" />
+                <element signature="e#7330#7336#0#HTML" expanded="true" />
+                <element signature="e#8138#8144#0#HTML" expanded="true" />
+                <element signature="e#8145#8151#0#HTML" expanded="true" />
+                <element signature="e#9067#9073#0#HTML" expanded="true" />
+                <element signature="e#9074#9080#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program-entrepreneurship.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="program-entrepreneurship.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/program-entrepreneurship.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="83" column="359" lean-forward="false" selection-start-line="83" selection-start-column="359" selection-end-line="83" selection-end-column="359" />
+            <state relative-caret-position="180">
+              <caret line="76" column="44" lean-forward="true" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
               <folding>
-                <element signature="e#3711#3717#0#HTML" expanded="true" />
+                <element signature="e#3709#3715#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,11 +122,11 @@
       <file leaf-file-name="program-globalaffairs.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/program-globalaffairs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="81" column="125" lean-forward="false" selection-start-line="81" selection-start-column="125" selection-end-line="81" selection-end-column="125" />
+            <state relative-caret-position="255">
+              <caret line="80" column="141" lean-forward="false" selection-start-line="80" selection-start-column="141" selection-end-line="80" selection-end-column="141" />
               <folding>
-                <element signature="e#3037#3043#0#HTML" expanded="true" />
-                <element signature="e#3044#3050#0#HTML" expanded="true" />
+                <element signature="e#3060#3066#0#HTML" expanded="true" />
+                <element signature="e#3067#3073#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,16 +157,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="50" column="58" lean-forward="true" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+            <state relative-caret-position="105">
+              <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
               <folding>
-                <element signature="e#1259#1265#0#HTML" expanded="true" />
-                <element signature="e#1265#1271#0#HTML" expanded="true" />
-                <element signature="e#1271#1277#0#HTML" expanded="true" />
-                <element signature="e#1277#1283#0#HTML" expanded="true" />
+                <element signature="e#1268#1274#0#HTML" expanded="true" />
+                <element signature="e#1274#1280#0#HTML" expanded="true" />
+                <element signature="e#1280#1286#0#HTML" expanded="true" />
+                <element signature="e#1286#1292#0#HTML" expanded="true" />
+                <element signature="e#1292#1298#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -272,13 +278,13 @@
         <option value="$PROJECT_DIR$/controller/sendemail.php" />
         <option value="$PROJECT_DIR$/program-innotativereading.php" />
         <option value="$PROJECT_DIR$/program-appliedengineering.php" />
-        <option value="$PROJECT_DIR$/program-globalaffairs.php" />
         <option value="$PROJECT_DIR$/program-harrypotter.php" />
-        <option value="$PROJECT_DIR$/programs.php" />
-        <option value="$PROJECT_DIR$/program-entrepreneurship.php" />
         <option value="$PROJECT_DIR$/program-landscapeofstudy.php" />
         <option value="$PROJECT_DIR$/program-socialmedia.php" />
+        <option value="$PROJECT_DIR$/programs.php" />
         <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/program-globalaffairs.php" />
+        <option value="$PROJECT_DIR$/program-entrepreneurship.php" />
       </list>
     </option>
   </component>
@@ -293,8 +299,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-20" />
-    <option name="y" value="46" />
+    <option name="x" value="64" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="739" />
   </component>
@@ -338,7 +344,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="image" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -483,14 +489,7 @@
       <workItem from="1491486148674" duration="589000" />
       <workItem from="1491487487328" duration="8573000" />
       <workItem from="1491570838712" duration="4113000" />
-      <workItem from="1491576305448" duration="3746000" />
-    </task>
-    <task id="LOCAL-00032" summary="updated career page">
-      <created>1486434850670</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1486434850670</updated>
+      <workItem from="1491576305448" duration="4347000" />
     </task>
     <task id="LOCAL-00033" summary="updated career page">
       <created>1486442915103</created>
@@ -828,14 +827,21 @@
       <option name="project" value="LOCAL" />
       <updated>1491580830449</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="updated">
+      <created>1491581227130</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1491581227130</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="249140000" />
+    <option name="totallyTimeSpent" value="249741000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-20" y="46" width="1280" height="739" extended-state="0" />
+    <frame x="64" y="23" width="1280" height="739" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23624596" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
@@ -1251,53 +1257,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="73" column="127" lean-forward="false" selection-start-line="73" selection-start-column="127" selection-end-line="73" selection-end-column="127" />
-          <folding>
-            <element signature="e#2496#2502#0#HTML" expanded="true" />
-            <element signature="e#2503#2509#0#HTML" expanded="true" />
-            <element signature="e#2831#2837#0#HTML" expanded="true" />
-            <element signature="e#2849#2855#0#HTML" expanded="true" />
-            <element signature="e#2856#2862#0#HTML" expanded="true" />
-            <element signature="e#4123#4129#0#HTML" expanded="true" />
-            <element signature="e#4130#4136#0#HTML" expanded="true" />
-            <element signature="e#4972#4978#0#HTML" expanded="true" />
-            <element signature="e#4979#4985#0#HTML" expanded="true" />
-            <element signature="e#6328#6334#0#HTML" expanded="true" />
-            <element signature="e#6335#6341#0#HTML" expanded="true" />
-            <element signature="e#7347#7353#0#HTML" expanded="true" />
-            <element signature="e#7354#7360#0#HTML" expanded="true" />
-            <element signature="e#8174#8180#0#HTML" expanded="true" />
-            <element signature="e#8181#8187#0#HTML" expanded="true" />
-            <element signature="e#9115#9121#0#HTML" expanded="true" />
-            <element signature="e#9122#9128#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program-entrepreneurship.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="83" column="359" lean-forward="false" selection-start-line="83" selection-start-column="359" selection-end-line="83" selection-end-column="359" />
-          <folding>
-            <element signature="e#3711#3717#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program-globalaffairs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="81" column="125" lean-forward="false" selection-start-line="81" selection-start-column="125" selection-end-line="81" selection-end-column="125" />
-          <folding>
-            <element signature="e#3037#3043#0#HTML" expanded="true" />
-            <element signature="e#3044#3050#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/program-socialmedia.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1319,15 +1278,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/programs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-491">
+          <caret line="228" column="115" lean-forward="false" selection-start-line="228" selection-start-column="115" selection-end-line="228" selection-end-column="115" />
+          <folding>
+            <element signature="e#2496#2502#0#HTML" expanded="true" />
+            <element signature="e#2503#2509#0#HTML" expanded="true" />
+            <element signature="e#2831#2837#0#HTML" expanded="true" />
+            <element signature="e#2849#2855#0#HTML" expanded="true" />
+            <element signature="e#2856#2862#0#HTML" expanded="true" />
+            <element signature="e#4123#4129#0#HTML" expanded="true" />
+            <element signature="e#4130#4136#0#HTML" expanded="true" />
+            <element signature="e#4972#4978#0#HTML" expanded="true" />
+            <element signature="e#4979#4985#0#HTML" expanded="true" />
+            <element signature="e#6316#6322#0#HTML" expanded="true" />
+            <element signature="e#6323#6329#0#HTML" expanded="true" />
+            <element signature="e#7323#7329#0#HTML" expanded="true" />
+            <element signature="e#7330#7336#0#HTML" expanded="true" />
+            <element signature="e#8138#8144#0#HTML" expanded="true" />
+            <element signature="e#8145#8151#0#HTML" expanded="true" />
+            <element signature="e#9067#9073#0#HTML" expanded="true" />
+            <element signature="e#9074#9080#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="50" column="58" lean-forward="true" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+        <state relative-caret-position="105">
+          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
           <folding>
-            <element signature="e#1259#1265#0#HTML" expanded="true" />
-            <element signature="e#1265#1271#0#HTML" expanded="true" />
-            <element signature="e#1271#1277#0#HTML" expanded="true" />
-            <element signature="e#1277#1283#0#HTML" expanded="true" />
+            <element signature="e#1268#1274#0#HTML" expanded="true" />
+            <element signature="e#1274#1280#0#HTML" expanded="true" />
+            <element signature="e#1280#1286#0#HTML" expanded="true" />
+            <element signature="e#1286#1292#0#HTML" expanded="true" />
+            <element signature="e#1292#1298#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-globalaffairs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="80" column="141" lean-forward="false" selection-start-line="80" selection-start-column="141" selection-end-line="80" selection-end-column="141" />
+          <folding>
+            <element signature="e#3060#3066#0#HTML" expanded="true" />
+            <element signature="e#3067#3073#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-entrepreneurship.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="76" column="44" lean-forward="true" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
+          <folding>
+            <element signature="e#3709#3715#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
