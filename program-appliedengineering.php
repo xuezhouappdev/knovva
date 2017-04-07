@@ -78,13 +78,11 @@ include "header.php";
 
 
 
-
                         <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;SUBJECT: </b>Engineering</p>
 
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Cambridge, MA</P>
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Cambridge, MA, USA&nbsp;|&nbsp;Summer 2017</P>
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;&nbsp;GRADES: </b>9 - 12</p>
-                        <p><b><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;TIME: </b>July - August</p>
-                        <p><b><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;&nbsp;DURATION: </b>2 Weeks</p>
+
 <!--                <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>-->
 <!--                <P><i>Each week will include two one-hour lectures, preliminary readings & video, and discussion board.</i> </P>-->
 <!--                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>-->

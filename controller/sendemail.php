@@ -33,9 +33,10 @@ if(isset($_POST['contact_fn'])) {
     echo "Please make sure all the information is complete";
 
   }
+
   else {
     $from = $contact_email;
-    $to = "test@skyatlasintl.com";
+    $to = "xue.zhou@giantbugedu.com";
     $subject = "New Question from Prospective Client";
 
 

@@ -62,7 +62,7 @@ include "header.php";
         <div class="row">
             <div class="col-md-6 ">
                <h3>Who We Are</h3>
-                <p>Knovva Academy Inc. is an international education company with its headquarters in Cambridge, Massachusetts. Knovva Academy was founded by a group of friends, who wanted to collaborate after working in their respective industries of education, community development, television production, and public policy. They agreed upon a common purpose of supporting young people in their pursuit of personal, professional, and academic meaning.
+                <p>Knovva Academy is an international education company with its headquarters in Cambridge, Massachusetts. Knovva Academy was founded by a group of friends, who wanted to collaborate after working in their respective industries of education, community development, television production, and public policy. They agreed upon a common purpose of supporting young people in their pursuit of personal, professional, and academic meaning.
                 </p>
             </div>
             <div class="col-md-6 ">

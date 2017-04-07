@@ -70,12 +70,14 @@ include "header.php";
 
                     <h4><b>Social Impact and Entrepreneurship</b></h4>
 
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>Subject: &nbsp;</span>Business</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, Massachusetts
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>Subject: &nbsp;</span>Business, Social Science</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, MA, USA &nbsp;|&nbsp;Spring 2017<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nanjing, China &nbsp|&nbsp Winter 2017<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online&nbsp;|&nbsp;Spring 2018
+
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>2 Weeks</p>
+
+
                     <h5 style="text-align: center"><a href="program-entrepreneurship.php" class="button_p">Read More</a></h5>
 
                     <script>
@@ -107,15 +109,15 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/global.jpg" alt="Avatar" style="width:100%">
                     <h4><b>Global Affairs Institute</b></h4>
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, Massachusetts
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science, International Affairs </p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, MA, USA&nbsp;|&nbsp;Summer 2017 <br>
+
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
 
 
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
-                        <span>Duration: &nbsp;</span>2 Weeks</p>
+
+                    <br><br>
                     <h5 style="text-align: center"> <a href="program-globalaffairs.php" class="button_p">Read More</a></h5>
                 </div>
             </div>
@@ -128,12 +130,12 @@ include "header.php";
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Engineering</p>
 
 
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, Massachusetts
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, MA, USA&nbsp;|&nbsp;Summer 2017 <br>
+
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
-                        <span>Duration: &nbsp;</span>2 Weeks</p>
+                     <br><br>
+
                     <h5 style="text-align: center"><a href="program-appliedengineering.php" class="button_p">Read More</a></h5>
                 </div>
             </div>
@@ -168,12 +170,14 @@ include "header.php";
                     <img src="image/program/Landscape.jpg" alt="Avatar" style="width:100%">
                     <h4><b>Understanding the Landscape of Study</b></h4>
 
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>American Culture</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 Weeks</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Higher Education</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, MA, USA&nbsp;|&nbsp;Summer 2017 <br>
 
+                    </p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
+
+
+                    <br>
                     <h5 style="text-align: center"><a href="program-landscapeofstudy.php" class="button_p">Read More</a></h5>
 
 
@@ -186,11 +190,13 @@ include "header.php";
                     <img src="image/program/social.jpg" alt="Avatar" style="width:100%">
                     <h4><b>U.S. Social Media Use and Electronic Correspondence</b></h4>
 
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>American Culture</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>American Culture, Arts of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Communication</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, MA, USA&nbsp;|&nbsp;Summer 2017 <br>
+
+                    </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>3 Weeks</p>
+
+
 
                     <h5 style="text-align: center"><a href="program-socialmedia.php" class="button_p">Read More</a></h5>
                 </div>
@@ -199,12 +205,13 @@ include "header.php";
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/hary.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>The Harry Potter Reading Group</b></h4>
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Literature</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
+                    <h4><b>The Harry Potter Reading Group</b></h4><br>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Literature, Fiction</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, MA, USA&nbsp;|&nbsp;Summer 2017 <br>
+
+                    </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>Sep - Nov</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 Weeks</p>
+
                     <br>
                     <h5 style="text-align: center"><a href="program-harrypotter.php" class="button_p">Read More</a></h5>
                 </div>
@@ -218,14 +225,14 @@ include "header.php";
                     <img src="image/program/creativity.jpg" alt="Avatar" style="width:100%">
                     <h4><b>The Innovation Reading Group: Creativity and Change in the New Millennium</b></h4>
 
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Literature</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Technology, Innovation</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, MA, USA&nbsp;|&nbsp;Fall 2017 <br>
 
+                    </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
 
 
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>Sep - Nov</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 Weeks</p>
+
 
                     <h5 style="text-align: center"><a href="program-innotativereading.php" class="button_p "  >Read More</a></h5>
 

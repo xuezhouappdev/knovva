@@ -76,8 +76,8 @@ include "header.php";
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="phone">Phone</label>
-                                <input type="number" class="form-control" name="contact_phone"  placeholder="Phone" >
+                                <label for="phone">Phone*</label>
+                                <input type="number" class="form-control" name="contact_phone"  placeholder="Phone" required >
 
                             </div>
                         </div>
@@ -87,7 +87,7 @@ include "header.php";
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="form-group">
-                                <label for="message">Message</label>
+                                <label for="message">Message*</label>
                                 <textarea class="form-control" rows="11" name="contact_textarea" ></textarea>
                             </div>
                         </div>
