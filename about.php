@@ -51,7 +51,7 @@ include "header.php";
 <!--introtext-->
 <div class="header-about section">
     <div class="container">
-        <h1>This is your world. Connect with the world, connect with your future.</h1>
+        <h1>This is your world. Connect to a new generation of learning.</h1>
     </div>
 </div>
 
@@ -205,7 +205,7 @@ include "header.php";
                 <div class="card" >
                     <img src="image/teachers/pat.jpg" class="img-responsive " alt="Avatar"  >
                     <div class="overlay">
-                        <div class="text"><h5>Patricia holds a Master’s degree in Public Administration from Harvard Kennedy School and a Master in Corporate Law with an specialization in Public Services by Pontifical University at Peru. Ms. Lozada is an attorney specialized in Public Services and Public Administration.
+                        <div class="text"><h5>Patricia holds a Master’s degree in Public Administration from Harvard Kennedy School and a Master in Corporate Law with a specialization in Public Services by Pontifical University at Peru. Ms. Lozada is an attorney specialized in Public Services and Public Administration.
                             </h5></div>
                     </div>
                     <h4><b>Patricia Lozada</b></h4>

@@ -172,7 +172,7 @@ include "header.php";
               <h5 style="opacity: 0">ALL   ABOUT</h5>
               <h2>Discover the Possibilities with Knovva Academy</h2>
 <!--                <h4>Lorem ipsum dolor sit amet soluta saepe odit error, maxime praesentium sunt udiandae!</h4>-->
-                <p>Knovva Academy is inspired by the opportunity to prepare the next generation of young people to becoming engaged learners who pursue their own passions. Knovva Academy believes that by crossing boundaries of national, cultural, and disciplinary boundaries, young people will increase their capacities to engage with real-world challenges, and ready themselves to be proactive thinkers and doers in the twenty-first century.
+                <p>Knovva Academy is inspired by the opportunity to prepare the next generation of young people to become engaged learners who pursue their own passions. Knovva Academy believes that by crossing boundaries of national, cultural, and disciplinary boundaries, young people will increase their capacities to engage with real-world challenges, and ready themselves to be proactive thinkers and doers in the twenty-first century.
 
                 </p>
                 <a href="about.php">DISCOVER MORE</a>
@@ -267,7 +267,7 @@ include "header.php";
                 <div class="card">
                     <img class="img img-responsive " src="image/home/home-benefit2.png" >
                         <h4><b>International Student Base</b></h4>
-                        <p>We ensure a safespace for your ideas and always provide attentive assistance for students and parents, before, throughout, and after our programs.
+                        <p>We ensure a safe space for your ideas and always provide attentive assistance for students and parents, before, throughout, and after our programs.
 
                         </p>
                 </div>
