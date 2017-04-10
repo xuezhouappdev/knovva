@@ -20,6 +20,8 @@
 <!--NOTE! THIS IS FOR RESUING ON THE PAGES NOT INCLUDING INDEX PAGE, INDEX PAGE HAS A FULL-WIDTH BACKGROUND, WHICH SHOULD BE DEALT WITH
 SEPERATELY-->
 
+<?php include_once("analyticstracking.php") ?>
+
 <!--Header-->
 <div class="header">
     <div class="container">
