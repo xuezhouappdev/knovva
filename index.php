@@ -267,7 +267,7 @@ include "header.php";
                 <div class="card">
                     <img class="img img-responsive " src="image/home/home-benefit2.png" >
                         <h4><b>International Student Base</b></h4>
-                        <p>We ensure a safe space for your ideas and always provide attentive assistance for students and parents, before, throughout, and after our programs.
+                        <p>You will be able to meet many students coming from all over the world, including many parts of North America, South America, and Asia. This is your chance to become a global citizen and build friendships that will last a lifetime.
 
                         </p>
                 </div>
@@ -279,7 +279,7 @@ include "header.php";
                 <div class="card">
                     <img class="img img-responsive " src="image/home/home-benifit3.png" >
                     <h4><b>Student Care</b></h4>
-                    <p>We ensure a safespace for your ideas and always provide attentive assistance with students and parents, before, throughout, and after our programs.
+                    <p>We ensure a safe space for your ideas and always provide attentive assistance with students and parents, before, throughout, and after our programs.
                     </p>
                 </div>
             </div>

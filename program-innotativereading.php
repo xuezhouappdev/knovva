@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>The Innovation Reading Group: Creativity and Change in the New Millennium (Fall 2017)
+    <title>The Innovation Reading Group: Creativity and Change in the New Millennium
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
