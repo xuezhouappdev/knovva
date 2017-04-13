@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>The Harry Potter Reading Group
+    <title> Programs - The Harry Potter Reading Group   | Knovva
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -19,6 +19,8 @@
     <!-- sweet alert-->
     <script src="dist/sweetalert.min.js"></script>
 
+
+    <meta name="keywords" content="harry potter fan, harry potter reading group, harry potter online, harry potter high school, harry potter class, harry potter and sorcerer's stone" />
 
 
 </head>
@@ -66,7 +68,7 @@ include "header.php";
             <div class="col-md-7">
                 <h4>The Harry Potter Reading Group </h4>
                 <hr>
-                <p>The Harry Potter Reading Group is an online reading group for high school students interested in engaging with the Harry Potter novel series together under academic and literary guidance. Students will explore relevant sources of history and literature to enhance their creative and analytical thinking along side their familiarity with the imaginative and cultural constructions that led to the creation of this series. Through reading, multimedia, and discussion participants will learn about literary analysis and delve into the themes and ideas of this well-loved series.<br><br>
+                <p>The Harry Potter Reading Group is an online reading group for high school students and Harry Potter fans interested in engaging with the novel series together under academic and literary guidance. Students will explore relevant sources of history and literature to enhance their creative and analytical thinking along side their familiarity with the imaginative and cultural constructions that led to the creation of this series. Through reading, multimedia, and discussion participants will learn about literary analysis and delve into the themes and ideas of this well-loved series.<br><br>
 
                     Students will spend twelve weeks reading Harry Potter and the Sorcerer’s Stone. Designed for students of intermediate to advanced English skills, additional reading will be available for advanced students to engage in critical scholarship on Rowling’s writing and in the fantastical - Harry Potter series.</p>
             </div>
@@ -215,7 +217,7 @@ include "header.php";
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
-<script src="js/index.js"></script>
+
 
 
 </body>

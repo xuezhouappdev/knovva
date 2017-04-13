@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Understanding the Landscape of Study
+    <title>Programs - Understanding the Landscape of Study  | Knovva
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -20,7 +20,7 @@
     <script src="dist/sweetalert.min.js"></script>
 
 
-
+    <meta name="keywords" content="course offering, how do I choose major,interactive online course" />
 </head>
 
 
@@ -66,7 +66,7 @@ include "header.php";
             <div class="col-md-7">
                 <h4>Introduction to Higher Education Learning in the U.S: Understanding the Landscape of Study </h4>
                 <hr>
-                <p>This 7-week course will  help prospective international students understand the landscape of college learning in the U.S. Many colleges have thousands of course offerings and dozens of majors and academic concentrations; navigating this diverse selection of professional or academic trajectories can be challenging. This interactive Online Course is designed to help students understand the variety of Majors and Minors and college learning environments to prepare students to make wise, practical, and deliberate steps in their academic career.</p>
+                <p>This 7-week course will  help prospective international students understand the landscape of college learning in the U.S. Many colleges have thousands of course offerings and dozens of majors and academic concentrations to choose from; navigating this diverse selection of professional or academic trajectories can be challenging. This interactive Online Course is designed to help students understand the variety of Majors and Minors and college learning environments to prepare students to make wise, practical, and deliberate steps in their academic career.</p>
             </div>
             <div class="col-md-5" >
 
@@ -205,7 +205,7 @@ include "header.php";
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
-<script src="js/index.js"></script>
+
 
 
 </body>

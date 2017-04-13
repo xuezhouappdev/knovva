@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Applied Engineering & Robotics
+    <title>  Programs - Applied Engineering & Robotics | Knovva
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -20,6 +20,7 @@
     <script src="dist/sweetalert.min.js"></script>
 
 
+    <meta name="keywords" content="engineering robotics, class for teens, harvard, mit, ap robotics, applied learning, engineering for teens, summer enginerring, summer robotics program" />
 
 </head>
 
@@ -192,21 +193,9 @@ include "header.php";
 
 
 
-
-
-<!--<script>
-    swal({
-        title: "Error!",
-        text: "Here's my error message!",
-        type: "error",
-        confirmButtonText: "Cool"
-    });
-</script>-->
-
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
-<script src="js/index.js"></script>
+
 
 
 </body>

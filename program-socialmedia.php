@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title> U.S. Social Media Use and Electronic Correspondence
+    <title> Programs - U.S. Social Media Use and Electronic Correspondence  | Knovva
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -19,7 +19,7 @@
     <!-- sweet alert-->
     <script src="dist/sweetalert.min.js"></script>
 
-
+    <meta name="keywords" content="us social media, teen social media class, how to write an email, online peer class, life in the us" />
 
 </head>
 
@@ -66,7 +66,7 @@ include "header.php";
             <div class="col-md-7">
                 <h4>U.S. Social Media Use and Electronic Correspondence </h4>
                 <hr>
-                <p>This three week mini-course is a practical primer in the art of electronic correspondence in the United States. Do you know that most Americans have never used WeChat before? Ever wonder how your peers or colleagues communicate via twitter, facebook, or text message? Or, do you know the different ways an email should be written than a text? Understanding these different social media tools, and how best to use them will help you strengthen interpersonal and professional relationships in the United States. This learning will be both theoretical and practical, and will facilitate student life in the United States.</p>
+                <p>This three week mini-course is a practical primer in the art of electronic correspondence in the United States. Do you know that most Americans have never used WeChat before? Ever wonder how your peers or colleagues communicate via twitter, facebook, or text message? Do you know how to structure an email VS a text? Understanding these different social media tools, and how best to use them will help you strengthen interpersonal and professional relationships in the United States. This learning will be both theoretical and practical, and will facilitate student life in the United States.</p>
             </div>
             <div class="col-md-5" >
                 <div class="panel panel-primary" style="position: relative;top:48px">
@@ -211,7 +211,6 @@ include "header.php";
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
 <script src="js/index.js"></script>
-
 
 </body>
 </html>

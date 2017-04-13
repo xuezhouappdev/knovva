@@ -21,7 +21,9 @@
     <!-- sweet alert-->
     <script src="dist/sweetalert.min.js"></script>
 
+    <!-- Google KeyWord -->
 
+    <meta name="keywords" content="keyword1, keyword2, keyword3" />
 
 </head>
 

@@ -6,11 +6,9 @@
 
 
 
-    <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
 
-    <!--font-->
-    <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
+
+
     <link rel="stylesheet" href="css/footer.css">
 
 
@@ -24,10 +22,10 @@
                 <img src="image/logo-trim.png"  class="img-responsive">
             </div>
             <div class="col-lg-4">
-                <h4>Links</h4>
+                <h4 style="display: none">Links</h4>
             </div>
             <div class="col-lg-4">
-                <h4>Operating Hours</h4>
+                <h4 style="display: none">Operating Hours</h4>
             </div>
         </div>
         <div class="row ">

@@ -5,14 +5,15 @@
       <paths name="knovva.com">
         <serverdata>
           <mappings>
-            <mapping deploy="knovva" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="" local="" />
           </mappings>
         </serverdata>
       </paths>
       <paths name="localhost">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/knovva/" />
+            <mapping local="$PROJECT_DIR$" web="knovva" />
           </mappings>
         </serverdata>
       </paths>

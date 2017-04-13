@@ -1,10 +1,7 @@
-body, html {
-    height: 100%;
-    background-color: transparent;
-    position: relative;
 
 
-}
+
+
 
 .section {
     margin-top: 72px;
@@ -74,7 +71,7 @@ div.intro {
 
 
 .intro-text h1:after {
-    background:#ff3e68;
+    background:#6E539E;
     display: block;
     content: "";
     height: 2px;
@@ -88,7 +85,7 @@ div.intro {
 .intro-text a {
     font-size: 16px;
     color: white;
-    background-color: #F2184F;
+    background-color: #6E539E;
     padding: 8px 24px;
     top: 32px;
     position: relative;
@@ -120,7 +117,7 @@ div.intro {
 
 
 .onsite_p h2:after {
-    background:#ff3e68;
+    background:#6E539E;
     display: block;
     content: "";
     height: 4px;
@@ -148,19 +145,19 @@ div.intro {
 
 
 .card_p a {
-     background:#F2184F;
-     padding:8px 24px;
-     display: inline-block;
-     margin-bottom: 24px;
-     color: white;
+    background:#6E539E;
+    padding:8px 24px;
+    display: inline-block;
+    margin-bottom: 24px;
+    color: white;
     margin-top: 16px;
     transition: 1s ease-in-out;
 
 
- }
+}
 
 .card_p a:hover {
-    background:#6c4a98;
+    background: #D874BD;
     display: inline-block;
     color: white;
     text-decoration: none;
@@ -215,7 +212,7 @@ div.intro {
 
 
 .yearlong_p h2:after {
-    background:#ff3e68;
+    background:#6E539E;
     display: block;
     content: "";
     height: 4px;
@@ -244,7 +241,7 @@ div.intro {
 
 
 .online_p h2:after {
-    background:#ff3e68;
+    background:#6E539E;
     display: block;
     content: "";
     height: 4px;

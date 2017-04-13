@@ -1,0 +1,58 @@
+/*font*/
+
+
+
+body {
+
+}
+
+
+
+/*Header div*/
+
+nav #logo {
+    margin: 10px  12px 10px;
+    height: 36px;
+    display: inline;
+}
+
+
+nav {
+    z-index: 9999;
+    margin-bottom: 0;
+    border-radius: 0;
+    position: absolute;
+    top:0
+
+}
+
+
+
+
+.navbar {
+    border-radius: 0;
+}
+
+#myNavbar > ul li a:hover{
+    color:#F2184F;
+}
+
+
+
+#myNavbar > ul {
+    margin-top:4px;
+}
+
+
+.navbar-nav>li>.dropdown-menu {
+    background:#F2184F ;
+    margin-top: 4px;
+    border-radius: 0;
+    border: none;
+
+}
+
+.navbar-nav>li>.dropdown-menu li a{
+    color: white;
+}
+

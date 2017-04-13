@@ -21,7 +21,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Knovva Home</title>
+    <title>Teen Programs - Education | Knovva </title>
 
 
     <!-- CS -->
@@ -39,6 +39,11 @@
 
     <!--font-->
     <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
+
+
+    <!-- Google KeyWord -->
+    <meta name="keywords" content="teen programs, blended learning boston, online learning site, pre college programs, pre-college programs, global education" />
+
 
 
 
@@ -219,7 +224,7 @@ include "header.php";
                 <div class="card" style='background: url("image/home/home-program2.jpg") center center no-repeat;background-size: cover; '>
 
                     <h3>Online Programs</h3>
-                    <p>Knovva Academy provides a variety of interactive online courses that introduce topics outside of the school curriculum and connects you with other students around the world.
+                    <p>Knovva Academy provides a blend of interactive online and in-person courses that introduce topics outside of the school curriculum and connects you with other students around the world.
                     </p>
                     <div class="btnwrapper">
                         <br><br>
@@ -258,7 +263,7 @@ include "header.php";
                 <div class="card">
                     <img class="img img-responsive " src="image/home/home-benefit.png">
                     <h4><b>Innovative and Interactive Courses</b></h4>
-                    <p>You will be able to meet many students from all over the world, including many parts of North America, South America, and Asia. This is your chance to become a global citizen and build friendships that will last a lifetime.
+                    <p>Pursue what you love and choose from a variety of fun and engaging courses or blended learning experiences. Learn beyond the school curriculum and discover new ideas and concepts and develop skills for the twenty-first century.
 
                     </p>
                 </div>

@@ -19,7 +19,7 @@
   .header-about .container h1 {
     font-size: 30px;
     text-align: center;
-    color: #f54874; }
+    color: #6E539E; }
 
 .whatwedo .container p {
   text-align: justify;
@@ -28,13 +28,13 @@
   margin-top: 16px;
   padding-bottom: 32px; }
 .whatwedo .container a {
-  background: #f2184f;
+  background: #6E539E;
   padding: 8px 32px;
   color: white;
   transition: 0.4s linear;
   margin-top: 64px; }
   .whatwedo .container a:hover {
-    background: #6c4a98;
+    background: #D874BD;
     color: white;
     text-decoration: none;
     cursor: pointer; }
@@ -63,7 +63,7 @@
     .benifit .container .row .col-md-2 i {
       display: table-cell;
       font-size: 64px;
-      color: #f54874;
+      color: #8970b4;
       text-align: center;
       vertical-align: middle; }
 
@@ -71,7 +71,7 @@
   text-align: center;
   margin-bottom: 64px; }
 .testimonial #myCarousel {
-  background: #f2184f;
+  background: #6E539E;
   color: white; }
   .testimonial #myCarousel .carousel-inner .container {
     padding: 48px 88px;
@@ -81,6 +81,8 @@
     .testimonial #myCarousel .carousel-inner .container h4 {
       padding: 8px 16px;
       line-height: 24px; }
+    .testimonial #myCarousel .carousel-inner .container p {
+      text-align: center; }
 
 .ourstory .container p {
   padding-bottom: 32px;
@@ -89,13 +91,13 @@
   line-height: 24px;
   margin-top: 16px; }
 .ourstory .container a {
-  background: #f2184f;
+  background: #6E539E;
   padding: 8px 32px;
   color: white;
   transition: 0.4s linear;
   margin-top: 64px; }
   .ourstory .container a:hover {
-    background: #6c4a98;
+    background: #D874BD;
     color: white;
     text-decoration: none;
     cursor: pointer; }
@@ -117,7 +119,7 @@
       top: 0;
       left: 0;
       right: 0;
-      background-color: #f54874;
+      background-color: #6E539E;
       overflow: hidden;
       width: 65%;
       height: 0;
@@ -133,6 +135,9 @@
         -ms-transform: translate(-50%, -50%);
         width: 80%;
         text-align: left; }
+        .teacher .container .row .card .overlay .text h5 {
+          line-height: 15px;
+          font-size: 14px; }
     .teacher .container .row .card:hover {
       box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.29);
       cursor: pointer; }
@@ -152,7 +157,7 @@
       margin: 0 auto;
       padding: 32px 64px; }
     .partner .container .row a {
-      background: #f2184f;
+      background: #6E539E;
       padding: 8px 32px;
       color: white;
       transition: 0.4s linear;
@@ -160,7 +165,7 @@
       margin-top: 0px;
       display: inline-block; }
       .partner .container .row a:hover {
-        background: #6c4a98;
+        background: #D874BD;
         color: white;
         text-decoration: none;
         cursor: pointer; }

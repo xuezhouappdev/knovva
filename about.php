@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title> About
+    <title>  About | Knovva
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -23,6 +23,12 @@
     <!--<!-- Counter-->
     <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
     <script src="js/jquery.counterup.js"></script>
+
+
+    <!-- Google KeyWord -->
+
+    <meta name="keywords" content="online teen courses, global education, advanced learning, cambridge ma teen, boston startup, boston-based education, summer programs chinese" />
+
 
 
 </head>
@@ -83,7 +89,7 @@ include "header.php";
             </div>
             <div class="col-md-6 ">
                 <h3>What We Do</h3>
-                <p>Catering to students from around the world, Knovva Academy utilizes online and in-person learning to challenge students’ expectations about education; we strive to provoke our students to ask, think, and learn content largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more. All of these subjects can help students uncover their own passions, and their own directions.
+                <p>Catering to students from around the world, Knovva Academy utilizes  a mix of online and in-person courses (blend learning) for teens in order to challenge their expectations about education; we strive to provoke our students to ask, think, and learn content largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more. All of these subjects can help students uncover their own passions, and their own directions.
 
                 </p>
                 <a href="programs.php">Our Programs</a>
@@ -98,7 +104,7 @@ include "header.php";
         <div class="row">
             <div class="col-md-6 ">
                 <h3>What We Value</h3>
-                <p>We maintain deep-seated relationships with our students and parents, both during and throughout our programs. We utilize in-person informational sessions, phone calls, digital media, and webinars to build a peer community of students and parents. Our dynamic team of native Mandarin, Spanish, and English speakers allows easy communication, and clarity of cultural expectations. Knovva Academy continues to receive high praise from parents who have felt the deep involvement of their children’s participation in our programs.
+                <p>We maintain deep-seated relationships with our students and parents, both during and throughout our programs. We utilize in-person informational sessions, phone calls, digital media, and webinars to build a peer community of students and parents. Our dynamic team of native Mandarin, Spanish, and English speakers allows easy communication, and clarity of cultural expectations. Knovva Academy continues to receive high praise from parents who have felt the deep involvement of their children’s participation in our advanced learning programs.
                 </p>
             </div>
             <div class="col-md-6 ">
@@ -173,7 +179,7 @@ include "header.php";
             </div>
             <div class="col-md-6 ">
                 <h3>Our Team</h3>
-                <p>Our team has strong personal, professional, and academic experience in the field of education in North and South America, the Middle East, West Africa, and South East Asia. In addition, we partner with various educational graduate schools, and Boston-based educational organizations to support the development and enrichment of our programs with state-of-the-art and research-based programming. Our rich experience and strategic partnerships are the foundation for our team's ability to build successful programs that cater to our students around the world.
+                <p>Our team has strong personal, professional, and academic experience in the field of education in North and South America, the Middle East, West Africa, and South East Asia. In addition, we partner with various educational graduate schools, and Boston-based educational organizations to support the development and enrichment of our programs with state-of-the-art and research-based programming. Our rich experience and strategic partnerships are the foundation for our team's ability to build successful global education programs that cater to our students around the world.
 
                 </p>
                 <a href="programs.php">Our Programs</a>

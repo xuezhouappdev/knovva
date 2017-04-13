@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>The Innovation Reading Group: Creativity and Change in the New Millennium
+    <title>Programs - The Innovation Reading Group: Creativity and Change in the New Millennium  | Knovva
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -18,6 +18,9 @@
 
     <!-- sweet alert-->
     <script src="dist/sweetalert.min.js"></script>
+
+
+    <meta name="keywords" content="reading group, online reading group" />
 
 
 
@@ -219,7 +222,7 @@ include "header.php";
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
-<script src="js/index.js"></script>
+
 
 
 </body>
