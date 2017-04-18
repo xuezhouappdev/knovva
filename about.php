@@ -207,18 +207,19 @@ include "header.php";
 
                 </div>
             </div>
-            <div class="col-sm-4">
-                <div class="card" >
-                    <img src="image/teachers/pat.jpg" class="img-responsive " alt="Avatar"  >
-                    <div class="overlay">
-                        <div class="text"><h5>Patricia holds a Master’s degree in Public Administration from Harvard Kennedy School and a Master in Corporate Law with a specialization in Public Services by Pontifical University at Peru. Ms. Lozada is an attorney specialized in Public Services and Public Administration.
-                            </h5></div>
-                    </div>
-                    <h4><b>Patricia Lozada</b></h4>
 
-
-                </div>
-            </div>
+<!--            <div class="col-sm-4">-->
+<!--                <div class="card" >-->
+<!--                    <img src="image/teachers/pat.jpg" class="img-responsive " alt="Avatar"  >-->
+<!--                    <div class="overlay">-->
+<!--                        <div class="text"><h5>Patricia holds a Master’s degree in Public Administration from Harvard Kennedy School and a Master in Corporate Law with a specialization in Public Services by Pontifical University at Peru. Ms. Lozada is an attorney specialized in Public Services and Public Administration.-->
+<!--                            </h5></div>-->
+<!--                    </div>-->
+<!--                    <h4><b>Patricia Lozada</b></h4>-->
+<!---->
+<!---->
+<!--                </div>-->
+<!--            </div>-->
 
             <div class="col-sm-4">
                 <div class="card" >
@@ -237,9 +238,7 @@ include "header.php";
                 </div>
 
             </div>
-        </div>
 
-        <div class="row">
             <div class="col-sm-4">
 
                 <div class="card" >
@@ -254,22 +253,26 @@ include "header.php";
                 </div>
 
             </div>
-            <div class="col-sm-4">
-                <div class="card"  >
-                    <img src="image/teachers/chunxiao.jpg" class="img-responsive "alt="Avatar" >
-                    <div class="overlay">
-                        <div class="text"><h5>Chunxiao is a graduate student of the Language and Literacy Program at Harvard Graduate School of Education. She worked as a full-time language teacher in the New Oriental School and E-plus for K-12, BFSU.
-                            </h5></div>
-                    </div>
-                    <h4><b>Chunxiao Han</b></h4>
-
-
-                </div>
-
-            </div>
-
-
         </div>
+
+<!--        <div class="row">-->
+<!---->
+<!--            <div class="col-sm-4">-->
+<!--                <div class="card"  >-->
+<!--                    <img src="image/teachers/chunxiao.jpg" class="img-responsive "alt="Avatar" >-->
+<!--                    <div class="overlay">-->
+<!--                        <div class="text"><h5>Chunxiao is a graduate student of the Language and Literacy Program at Harvard Graduate School of Education. She worked as a full-time language teacher in the New Oriental School and E-plus for K-12, BFSU.-->
+<!--                            </h5></div>-->
+<!--                    </div>-->
+<!--                    <h4><b>Chunxiao Han</b></h4>-->
+<!---->
+<!---->
+<!--                </div>-->
+<!---->
+<!--            </div>-->
+<!---->
+<!---->
+<!--        </div>-->
     </div>
 </div>
 
