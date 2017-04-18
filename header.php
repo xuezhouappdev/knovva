@@ -53,7 +53,7 @@ SEPERATELY-->
                         <a class="dropbtn" href="programs">Programs</a>
 
                         <div class="dropdown-content"><!--programdropdown content -->
-                            <a href="program-entrepreneurship"> Social Innovation and Entrepreneurship </a>
+                            <a href="program-entrepreneurship"> Social Impact and Entrepreneurship </a>
                             <a href="program-globalaffairs"> Global Affairs Institute </a>
                             <a href="program-appliedengineering">Applied Engineering & Robotics</a>
                             <a href="program-landscapeofstudy">Understanding the Landscape of Study</a>
