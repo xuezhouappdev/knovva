@@ -1,20 +1,3 @@
-<?php
-
-//function authenticate() {
-//    if($_SERVER['PHP_AUTH_USER'] !=='admin' && $_SERVER['PHP_AUTH_PW'] !=='22233150' ) {
-//
-//        header('WWW-Authenticate: Basic realm="Only for internal use"');
-//        header('HTTP/1.0 401 Unauthorized');
-//        echo "error";
-//        exit;
-//    }
-//
-//}
-//
-//authenticate();
-
-?>
-
 
 
 <!DOCTYPE html>
@@ -27,6 +10,8 @@
     <!-- CS -->
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     <link rel="stylesheet" href="css/index_new.css">
 
 
@@ -57,7 +42,6 @@
 
 <?php
 include "header.php";
-
 
 ?>
 
@@ -98,55 +82,16 @@ include "header.php";
 
 ' >
 
-                <h1 style="font-size:32px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 40px">Connect To The World,<br>Connect To Your Future.</h1>
-                <a href="programs.php">DISCOVER OUR PROGRAMS</a>
+                <h1 style="font-size:32px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 40px">Connect To The World<br>Connect To Your Future</h1>
+                <a href="#programs"><i class="fa fa-arrow-circle-down" aria-hidden="true"></i>&nbsp;DISCOVER MORE</a>
             </div>
 
         </div>
 
-        <!--<div class="item" style='
-       background: url("image/home/home_brand4.jpg") center center no-repeat;
-       min-height: 100vh;
-       width: 100%;
-       -webkit-background-size: cover;
-       -moz-background-size: cover;
-       background-size: cover;
-       -o-background-size: cover;'>
-           <div class="slidertextwrapper" style='
-                   text-align: center;
-                   position: absolute;
-                   top: 50%;
-                   left: 50%;
-                   transform: translate(-50%, -50%);
-                   color: white;
 
-' >
-               <h1 style="font-size:50px;">Connect to the World, Connect to Your Future</h1>
-           </div>
-
-       </div>
-
-       <div class="item" style='
-       background: url("image/home/home_brand3.jpg") center center no-repeat;
-       min-height: 100vh;
-       width: 100%;
-       -webkit-background-size: cover;
-       -moz-background-size: cover;
-       background-size: cover;
-       -o-background-size: cover;'>
-           <div class="slidertextwrapper" style='
-                   text-align: center;
-                   position: absolute;
-                   top: 50%;
-                   left: 50%;
-                   transform: translate(-50%, -50%);
-                   color: white;
-
-' >
-               <h1 style="font-size:50px;">Connect to the World, Connect to Your Future</h1>
-           </div>
-
-       </div>-->
+         <script>
+             $('.fa.fa-arrow-circle-down').addClass('bounce');
+         </script>
 
 
 
@@ -177,10 +122,10 @@ include "header.php";
               <h5 style="opacity: 0">ALL   ABOUT</h5>
               <h2>Discover the Possibilities with Knovva Academy</h2>
 <!--                <h4>Lorem ipsum dolor sit amet soluta saepe odit error, maxime praesentium sunt udiandae!</h4>-->
-                <p>Knovva Academy is inspired by the opportunity to prepare the next generation of young people to become engaged learners who pursue their own passions. Knovva Academy believes that by crossing boundaries of national, cultural, and disciplinary boundaries, young people will increase their capacities to engage with real-world challenges, and ready themselves to be proactive thinkers and doers in the twenty-first century.
+                <p>Knovva Academy is inspired by the opportunity to prepare the next generation of young people to become engaged learners who pursue their own passions. Knovva Academy believes that by crossing national, cultural, and disciplinary boundaries, young people will increase their capacities to engage with real-world challenges, and ready themselves to be proactive thinkers and doers in the twenty-first century.
 
                 </p>
-                <a href="about.php">DISCOVER MORE</a>
+                <a href="about">DISCOVER MORE</a>
             </div>
 
 
@@ -195,7 +140,7 @@ include "header.php";
 
 
 <!--  program -->
-<div class="programnew jumbotron">
+<div class="programnew jumbotron" id="programs">
     <div class="container">
 
         <div class="row">
@@ -214,7 +159,7 @@ include "header.php";
                     <div class="btnwrapper" >
                         <br>
                         <br>
-                        <a href="programs.php">Read More</a>
+                        <a href="programs">Read More</a>
                     </div>
                 </div>
             </div>
@@ -481,7 +426,7 @@ include "header.php";
         <div class="row">
             <h2>Start learning with Knovva Academy.</h2>
             <p><i>We’ll help you every step of the way.</i></p>
-            <a href="applicationform.php">ENROLL NOW</a>
+            <a href="applicationform">ENROLL NOW</a>
         </div>
     </div>
 </div>

@@ -79,7 +79,7 @@ include "header.php";
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="phone">Phone*</label>
+                                <label for="phone">Phone</label>
                                 <input type="number" class="form-control" name="contact_phone"  placeholder="Phone" required >
 
                             </div>

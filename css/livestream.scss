@@ -1,0 +1,103 @@
+//colors
+
+$white: #fff;
+$primary: #6E539E;
+$dark:darken($primary,20%);
+$hover: #D874BD;
+
+
+
+
+.live {
+  background: $primary; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient($hover, $primary ); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient($hover, $primary); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient($hover, $primary); /* For Firefox 3.6 to 15 */
+  background: linear-gradient($hover, $primary); /* Standard syntax */
+
+
+  min-height: 500px;
+  width: 100%;
+  opacity: 0.8;
+  background-size: cover;
+  color: white;
+
+  margin-top: 56px;
+
+
+  .container {
+
+    padding: 32px;
+
+    h5 {
+      color:white;
+      z-index: 999;
+      margin-top: 11%;
+    }
+
+
+    .webinarform {
+
+
+      input {
+        display: inline-block;
+        border-radius: 0;
+        margin-right: 0;
+        padding-right: 0;
+
+      }
+
+      a {
+        margin-top: 8px;
+        padding: 8px 40px;
+        background: white;
+        border-radius: 0;
+        transition: all 0.3s linear ;
+        font-weight: 500;
+
+        &:hover {
+          background: #d0d0d0;
+          border: none;
+        }
+      }
+
+
+    }
+  }
+
+
+
+
+}
+
+.section {
+  margin-bottom: 32px;
+}
+
+.history {
+  .container {
+    text-align: center;
+
+    h2 {
+      margin-bottom: 48px;
+    }
+
+    .row {
+      img {
+        padding-bottom: 8px;
+        margin: 0 auto;
+      }
+
+      a {
+        color:black;
+        transition: all 0.5s linear;
+      }
+
+      a:hover {
+        color: $hover;
+        text-decoration: none;
+      }
+    }
+
+  }
+}

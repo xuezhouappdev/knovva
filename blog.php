@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 
 
-    <title>Programs
+    <title>Blog | Knovva
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -14,9 +14,7 @@
     <!--font-->
     <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
 
-    <!-- Program -->
-    <link rel="stylesheet" href="css/programs.css">
-    <link rel="stylesheet" href="dist/sweetalert.css">
+
 
     <!-- sweet alert-->
     <script src="dist/sweetalert.min.js"></script>
@@ -36,12 +34,25 @@ include "header.php";
 
 
 
+<!-- Banner-->
+<div class="banner">
+    <div class="container">
+        <div class="row">
+            <h1>Blog</h1>
+        </div>
+    </div>
+</div>
+
+
+
 
 <div class="blogwrapper">
 
-        <iframe src="blog"  onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" width="100%" scrolling="no" >
+        <iframe src="knovvablog"  onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" width="100%" scrolling="no" style="padding: 32px 64px;margin-bottom: 48px;border: none" >
 
         </iframe>
+
+    <hr>
 
 </div>
 

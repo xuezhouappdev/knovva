@@ -92,7 +92,7 @@ include "header.php";
                 <p>Catering to students from around the world, Knovva Academy utilizes  a mix of online and in-person courses (blend learning) for teens in order to challenge their expectations about education; we strive to provoke our students to ask, think, and learn content largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more. All of these subjects can help students uncover their own passions, and their own directions.
 
                 </p>
-                <a href="programs.php">Our Programs</a>
+                <a href="programs">Our Programs</a>
             </div>
         </div>
     </div>
@@ -182,7 +182,7 @@ include "header.php";
                 <p>Our team has strong personal, professional, and academic experience in the field of education in North and South America, the Middle East, West Africa, and South East Asia. In addition, we partner with various educational graduate schools, and Boston-based educational organizations to support the development and enrichment of our programs with state-of-the-art and research-based programming. Our rich experience and strategic partnerships are the foundation for our team's ability to build successful global education programs that cater to our students around the world.
 
                 </p>
-                <a href="programs.php">Our Programs</a>
+                <a href="programs">Our Programs</a>
             </div>
         </div>
     </div>
@@ -379,7 +379,7 @@ include "header.php";
     <hr>
 
         <div class="row">
-            <a href="programs.php">Find A Program</a>
+            <a href="programs">Find A Program</a>
         </div>
     </div>
 </div>

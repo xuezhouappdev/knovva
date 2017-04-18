@@ -45,13 +45,13 @@
             <div class="col-lg-4 footer-links">
 
                 <ul>
-                   <li><a href="index.php">Home</a></li>
-                    <li><a href="about.php">About</a></li>
-                    <li><a href="programs.php">Programs</a></li>
+                   <li><a href="index">Home</a></li>
+                    <li><a href="about">About</a></li>
+                    <li><a href="programs">Programs</a></li>
 <!--                    <li><a href="career.php">Career</a></li>-->
 
                    <!-- <li><a href="#">Blog</a></li>-->
-                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="contact">Contact</a></li>
 <!--                    <li><a href="faq.php">FAQ</a></li>-->
                 </ul>
 
@@ -69,7 +69,7 @@
 
                     <a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
                     <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                    <a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+                    <a href="https://www.youtube.com/channel/UCslKn9oMT1q3HPoXeTz3X2g "><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
                     <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 
 

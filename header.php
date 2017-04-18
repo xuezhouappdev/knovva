@@ -45,40 +45,30 @@ SEPERATELY-->
 
 
                 <ul id="menuitem" >
-                    <li><a href="index.php"> Home </a></li>
-                    <li><a href="about.php"> About </a></li>
+                    <li><a href="index"> Home </a></li>
+                    <li><a href="about"> About </a></li>
 
 
                     <li class="dropdown"> <!--programdropdown -->
-                        <a class="dropbtn" href="programs.php">Programs</a>
+                        <a class="dropbtn" href="programs">Programs</a>
 
                         <div class="dropdown-content"><!--programdropdown content -->
-                            <a href="program-entrepreneurship.php">Social Innovation and Entrepreneurship </a>
-                            <a href="program-globalaffairs.php">Global Affairs Institute </a>
-                            <a href="program-appliedengineering.php">Applied Engineering & Robotics</a>
-                            <a href="program-landscapeofstudy.php">Understanding the Landscape of Study</a>
-                            <a href="program-socialmedia.php">U.S. Social Media Use and Electronic Correspondence</a>
-                            <a href="program-harrypotter.php">The Harry Potter Reading Group</a>
-                            <a href="program-innotativereading.php">The Innovation Reading Group: Creativity and Change in the New Millennium </a>
-
-
-
+                            <a href="program-entrepreneurship"> Social Innovation and Entrepreneurship </a>
+                            <a href="program-globalaffairs"> Global Affairs Institute </a>
+                            <a href="program-appliedengineering">Applied Engineering & Robotics</a>
+                            <a href="program-landscapeofstudy">Understanding the Landscape of Study</a>
+                            <a href="program-socialmedia">U.S. Social Media Use and Electronic Correspondence</a>
+                            <a href="program-harrypotter">The Harry Potter Reading Group</a>
+                            <a href="program-innotativereading">The Innovation Reading Group: Creativity and Change in the New Millennium </a>
                         </div>
 
                     </li>
-                    <!--                    <li><a href="blog.php"> Blog </a></li>-->
-                    <!--                    <li><a href="#"> Teacher </a></li>-->
 
-                    <!-- <li><a href="gallery.php" class="disabled"> Gallery </a></li>-->
-                    <!--  <li><a href="career.php"> Career </a></li>-->
-                    <!--                    <li><a href="blog/" target="_blank"> Blog </a></li>-->
+                    <li><a href="blog"> Blog </a></li>
+<!--                    <li><a href="webinar"> Webinar </a></li>-->
 
-                    <li><a href="contact.php"> Contact </a></li>
-                    <li><a href="applicationform.php" style="border: solid 2px #3E4A5D;padding: 3px 12px 5px">Apply</a></li>
-                    <!--   <li><a href="faq.php"> FAQ </a></li>-->
-                    <!-- <li> <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a></li>-->
-
-<!--                    <li><i class="fa fa-bars" aria-hidden="true"></i></li>-->
+                    <li><a href="contact"> Contact </a></li>
+                    <li><a href="applicationform" style="background: #7c5eb2;padding: 8px 16px;border-radius: 5%;color: white"><i class="fa fa-hand-o-up" aria-hidden="true"></i>&nbsp;APPLY</a></li>
 
                 </ul>
 
@@ -108,7 +98,7 @@ SEPERATELY-->
         //alert(url)
 
         // passes on every "a" tag
-        $(".header ul >li >a").each(function() {
+        $(".header ul >li:not(:last-child) >a").each(function() {
             // checks if its the same on the address bar
 
 

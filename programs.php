@@ -59,10 +59,10 @@ include "header.php";
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/sie.jpg" alt="Avatar" style="width:100%" class="img img-responsive">
-                    <div class="sie-overlay" style="position: absolute;top:64px;left:0;padding:16px;background: #F2184F;transition: 0.5s linear;opacity:0;margin:0 15px">
+                    <div class="sie-overlay" style="position: absolute;top:64px;left:0;padding:16px;background: #6E539E;transition: 0.5s linear;opacity:0;margin:0 15px">
                           <p style="text-align: justify;color:white;margin-left:0">This course is also available for blended learning. It includes a combination of interactive online and blended year-long courses.</p>
                     </div>
-                    <h4 style="position: absolute;top:-7px;left:-9px"  id="hbr-btn"><span class="label label-primary" style="background: #f2184f;padding: 6px 16px;border-radius: 0;font-style:italic">BLENDED LEARNING</span></h4></h4>
+                    <h4 style="position: absolute;top:-7px;left:-9px"  id="hbr-btn"><span class="label label-primary" style="background: #6E539E;padding: 6px 16px;border-radius: 0;font-style:italic">BLENDED LEARNING</span></h4></h4>
 
                     <h4><b>Social Impact and Entrepreneurship</b></h4>
 
@@ -74,7 +74,7 @@ include "header.php";
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
 
 
-                    <h5 style="text-align: center"><a href="program-entrepreneurship.php" class="button_p">Read More</a></h5>
+                    <h5 style="text-align: center"><a href="program-entrepreneurship" class="button_p">Read More</a></h5>
 
                     <script>
                         $(document).ready(function(){
@@ -114,7 +114,7 @@ include "header.php";
 
 
                     <br><br>
-                    <h5 style="text-align: center"> <a href="program-globalaffairs.php" class="button_p">Read More</a></h5>
+                    <h5 style="text-align: center"> <a href="program-globalaffairs" class="button_p">Read More</a></h5>
                 </div>
             </div>
 
@@ -132,7 +132,7 @@ include "header.php";
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
                      <br><br>
 
-                    <h5 style="text-align: center"><a href="program-appliedengineering.php" class="button_p">Read More</a></h5>
+                    <h5 style="text-align: center"><a href="program-appliedengineering" class="button_p">Read More</a></h5>
                 </div>
             </div>
 
@@ -174,7 +174,7 @@ include "header.php";
 
 
                     <br>
-                    <h5 style="text-align: center"><a href="program-landscapeofstudy.php" class="button_p">Read More</a></h5>
+                    <h5 style="text-align: center"><a href="program-landscapeofstudy" class="button_p">Read More</a></h5>
 
 
                 </div>
@@ -194,7 +194,7 @@ include "header.php";
 
 
 
-                    <h5 style="text-align: center"><a href="program-socialmedia.php" class="button_p">Read More</a></h5>
+                    <h5 style="text-align: center"><a href="program-socialmedia" class="button_p">Read More</a></h5>
                 </div>
             </div>
 
@@ -209,7 +209,7 @@ include "header.php";
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
 
                     <br>
-                    <h5 style="text-align: center"><a href="program-harrypotter.php" class="button_p">Read More</a></h5>
+                    <h5 style="text-align: center"><a href="program-harrypotter" class="button_p">Read More</a></h5>
                 </div>
             </div>
 
@@ -230,7 +230,7 @@ include "header.php";
 
 
 
-                    <h5 style="text-align: center"><a href="program-innotativereading.php" class="button_p "  >Read More</a></h5>
+                    <h5 style="text-align: center"><a href="program-innotativereading" class="button_p "  >Read More</a></h5>
 
 
                 </div>

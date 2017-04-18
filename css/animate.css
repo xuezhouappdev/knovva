@@ -162,6 +162,9 @@
   animation-name: pulse;
 }
 
+
+
+
 @-webkit-keyframes rubberBand {
   from {
     -webkit-transform: scale3d(1, 1, 1);
