@@ -4,11 +4,18 @@
 
 /*BANNER */
 div.banner {
-    background: url("../image/leaf.jpg") center center no-repeat;
+    background: #D874BD; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#D874BD,  #6E539E ); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#D874BD,  #6E539E ); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#D874BD,  #6E539E ); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#D874BD,  #6E539E ); /* Standard syntax */
+
+
     min-height: 200px;
     width: 100%;
     opacity: 0.8;
     background-size: cover;
+    color: white;
 
 
 }
@@ -42,7 +49,7 @@ div#accordion.panel-group {
 }
 
 .questions i {
-    color:#ff3e68;
+    color:#6E539E;
 }
 
 
@@ -83,7 +90,7 @@ div.footer-contact{
 }
 
 .footer-contact span {
-    color:#ff3e68;
+    color:#6E539E;
     font-weight: 500;
 
 }
@@ -97,7 +104,11 @@ div.footer-contact{
 
 
 div.jumbotron {
-    background: #222222;
+    background: #6E539E;
+}
+
+.jumbotron h3 span {
+    color: #D874BD;
 }
 
 
