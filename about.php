@@ -20,9 +20,6 @@
     <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
 
 
-    <!--<!-- Counter-->
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
-    <script src="js/jquery.counterup.js"></script>
 
 
     <!-- Google KeyWord -->
