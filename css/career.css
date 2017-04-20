@@ -1,6 +1,12 @@
 .section {
   margin: 96px 0; }
 
+.icon .container .row {
+  text-align: center; }
+  .icon .container .row i {
+    font-size: 32px;
+    color: #6E539E; }
+
 .banner {
   background: #D874BD;
   /* For browsers that do not support gradients */
@@ -12,16 +18,120 @@
   /* For Firefox 3.6 to 15 */
   background: linear-gradient(#D874BD, #6E539E);
   /* Standard syntax */
-  min-height: 200px;
+  min-height: 450px;
   width: 100%;
   opacity: 0.8;
   background-size: cover;
   color: white; }
-  .banner h1 {
-    position: relative;
-    margin-top: 110px;
-    color: #fdfdfd;
-    border-left: 3px solid #f3f3f3;
-    padding-left: 7px; }
+  .banner .container {
+    padding: 0 80px; }
+    .banner .container h1 {
+      text-align: center;
+      color: white;
+      margin-top: 232px; }
+
+.department {
+  margin-bottom: 0px; }
+  .department .container {
+    text-align: center;
+    color: white; }
+    .department .container h3 {
+      color: black; }
+    .department .container .row:nth-child(3) div.col-md-4 {
+      height: 250px;
+      padding: 0;
+      margin: 0;
+      border: 4px solid white;
+      text-align: center;
+      overflow: hidden;
+      position: relative; }
+      .department .container .row:nth-child(3) div.col-md-4 div {
+        background-size: cover;
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        -moz-transition: all 0.3s linear;
+        -webkit-transition: all 0.3s linear;
+        transition: all 0.3s linear;
+        -moz-transform: scale(1, 1);
+        -webkit-transform: scale(1, 1);
+        transform: scale(1, 1);
+        z-index: -1; }
+      .department .container .row:nth-child(3) div.col-md-4 h4 {
+        margin-top: 120px;
+        text-shadow: gray 3px 3px 10px;
+        display: inline-block; }
+      .department .container .row:nth-child(3) div.col-md-4:hover > div {
+        -moz-transform: scale(1.1, 1.1);
+        -webkit-transform: scale(1.1, 1.1);
+        transform: scale(1.1, 1.1); }
+    .department .container .row:nth-child(3):hover {
+      cursor: pointer; }
+    .department .container .row:nth-child(4) div.col-md-4 {
+      height: 250px;
+      padding: 0;
+      margin: 0;
+      border: 4px solid white;
+      text-align: center;
+      overflow: hidden;
+      position: relative; }
+      .department .container .row:nth-child(4) div.col-md-4 div {
+        background-size: cover;
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        -moz-transition: all 0.3s linear;
+        -webkit-transition: all 03s linear;
+        transition: all 0.3s linear;
+        -moz-transform: scale(1, 1);
+        -webkit-transform: scale(1, 1);
+        transform: scale(1, 1);
+        z-index: -1; }
+        .department .container .row:nth-child(4) div.col-md-4 div:hover {
+          cursor: pointer; }
+      .department .container .row:nth-child(4) div.col-md-4 h4 {
+        margin-top: 120px;
+        text-shadow: gray 3px 3px 10px;
+        display: inline-block; }
+      .department .container .row:nth-child(4) div.col-md-4:hover > div {
+        -moz-transform: scale(1.1, 1.1);
+        -webkit-transform: scale(1.1, 1.1);
+        transform: scale(1.1, 1.1); }
+    .department .container .row:nth-child(4):hover {
+      cursor: pointer; }
+    .department .container p {
+      margin-top: 24px;
+      color: #6E539E; }
+      .department .container p a {
+        color: #6E539E; }
+
+.testimonial .container {
+  text-align: center;
+  padding: 0 64px; }
+  .testimonial .container h3 {
+    margin-bottom: 40px; }
+  .testimonial .container .row img {
+    margin: 0 auto;
+    padding: 8px; }
+
+.cta {
+  color: white;
+  background: #6E539E;
+  min-height: 220px;
+  margin-bottom: 0;
+  text-align: center; }
+  .cta .container h3 {
+    margin-top: 48px; }
+  .cta .container a {
+    display: inline-block;
+    margin-top: 40px;
+    color: black;
+    background: white;
+    padding: 8px 32px;
+    transition: all 0.3s linear; }
+    .cta .container a:hover {
+      color: white;
+      background: #D874BD;
+      text-decoration: none; }
 
 /*# sourceMappingURL=career.css.map */

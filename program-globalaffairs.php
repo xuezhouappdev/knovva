@@ -7,17 +7,17 @@
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" href="vendor/font-awesome-4.7.0/css/font-awesome.css">
 
     <!--font-->
     <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
 
     <!-- Program -->
     <link rel="stylesheet" href="css/program_template.css">
-    <link rel="stylesheet" href="dist/sweetalert.css">
+    <link rel="stylesheet" href="vendor/sweetalert/sweetalert.css">
 
     <!-- sweet alert-->
-    <script src="dist/sweetalert.min.js"></script>
+    <script src="vendor/sweetalert/sweetalert.min.js"></script>
 
 
     <meta name="keywords" content="global affairs, summer programs high school, summer programs, high school, international high school students, international politics, harvard scholar, global education" />

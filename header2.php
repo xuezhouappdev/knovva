@@ -6,7 +6,7 @@
 
     <!-- css -->
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" href="vendor/font-awesome-4.7.0/css/font-awesome.css">
     <link rel="stylesheet" href="css/header_2.css">
 
     <!--font-->
@@ -14,7 +14,7 @@
     <link href="https://fonts.googleapis.com/css?family=Anton|Noto+Sans|Seymour+One" rel="stylesheet">
 
     <!-- FA -->
-    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" href="vendor/font-awesome-4.7.0/css/font-awesome.css">
 
 
     <!-- JS -->

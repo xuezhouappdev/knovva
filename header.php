@@ -6,7 +6,7 @@
 
     <!-- css -->
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" href="vendor/font-awesome-4.7.0/css/font-awesome.css">
     <link rel="stylesheet" href="css/header.css">
 
     <!--font-->
@@ -64,7 +64,7 @@ SEPERATELY-->
 
                     </li>
 
-                    <li><a href="blog"> Blog </a></li>
+                    <li><a href="blog.php"> Blog </a></li>
 <!--                    <li><a href="webinar"> Webinar </a></li>-->
 
                     <li><a href="contact"> Contact </a></li>

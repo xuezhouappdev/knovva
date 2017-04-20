@@ -1,68 +1,98 @@
 //colors
+@import 'variables';
 
 $white: #fff;
-$primary: #6E539E;
+
 $dark:darken($primary,20%);
 $hover: #D874BD;
+
+
+section {
+  margin-bottom: 0px;
+}
+
 
 
 
 
 .live {
-  background: $primary; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient($hover, $primary ); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient($hover, $primary); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient($hover, $primary); /* For Firefox 3.6 to 15 */
-  background: linear-gradient($hover, $primary); /* Standard syntax */
-
-
+  background: white; /* For browsers that do not support gradients */
   min-height: 500px;
   width: 100%;
   opacity: 0.8;
   background-size: cover;
-  color: white;
+  margin-top: 104px;
+  margin-bottom: 48px;
+  a {
+    color:black;
+    transition: all 0.3s linear;
 
-  margin-top: 56px;
+
+    &:hover {
+      color:$primary;
+      text-decoration: none;
+    }
+  }
 
 
   .container {
-
     padding: 32px;
 
-    h5 {
-      color:white;
-      z-index: 999;
-      margin-top: 11%;
-    }
+
+     .col-md-8 {
+       iframe {
+         border: 2px solid gray ;
+         padding: 8px;
+         background: #242424;
 
 
-    .webinarform {
+       }
+
+     }
+
+     .col-md-4 {
+
+       .panel-default {
+         border: 1px solid  black;
+         max-height: 500px;
+         overflow: scroll;
 
 
-      input {
-        display: inline-block;
-        border-radius: 0;
-        margin-right: 0;
-        padding-right: 0;
+         .panel-heading {
+           background: $primary;
 
-      }
-
-      a {
-        margin-top: 8px;
-        padding: 8px 40px;
-        background: white;
-        border-radius: 0;
-        transition: all 0.3s linear ;
-        font-weight: 500;
-
-        &:hover {
-          background: #d0d0d0;
-          border: none;
-        }
-      }
+           background: -webkit-linear-gradient($purple,  $primary ); /* For Safari 5.1 to 6.0 */
+           background: -o-linear-gradient($purple,  $primary ); /* For Opera 11.1 to 12.0 */
+           background: -moz-linear-gradient($purple,  $primary ); /* For Firefox 3.6 to 15 */
+           background: linear-gradient($purple,  $primary ); /* Standard syntax */
 
 
-    }
+
+           border-color: $purple;
+           color:white;
+           text-align: center;
+         }
+
+         .panel-body {
+           .fa {
+             color: $primary;
+             font-size: 20px;
+
+           }
+
+
+
+         }
+
+       };
+
+
+
+
+
+     }
+
+
   }
 
 
@@ -70,34 +100,4 @@ $hover: #D874BD;
 
 }
 
-.section {
-  margin-bottom: 32px;
-}
 
-.history {
-  .container {
-    text-align: center;
-
-    h2 {
-      margin-bottom: 48px;
-    }
-
-    .row {
-      img {
-        padding-bottom: 8px;
-        margin: 0 auto;
-      }
-
-      a {
-        color:black;
-        transition: all 0.5s linear;
-      }
-
-      a:hover {
-        color: $hover;
-        text-decoration: none;
-      }
-    }
-
-  }
-}
