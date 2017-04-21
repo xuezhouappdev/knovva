@@ -1,85 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="updated alot">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/job/academic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videocollection.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controller/controller_program_sie.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controller/controller_program_startup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controller/controller_program_tech.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controller/testsend.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/HELP-US-OUT.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/css/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/hellifademo.otf" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/fonts/hellifademo.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/animated.less" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/less/animated.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/less/bordered-pulled.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/core.less" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/less/core.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/fixed-width.less" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/less/fixed-width.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/font-awesome.less" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/less/font-awesome.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/icons.less" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/less/icons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/larger.less" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/less/larger.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/list.less" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/less/list.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/mixins.less" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/less/mixins.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/path.less" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/less/path.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/less/rotated-flipped.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/screen-reader.less" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/less/screen-reader.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/stacked.less" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/less/stacked.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/variables.less" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/less/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_animated.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/scss/_animated.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_core.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/scss/_core.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/scss/_fixed-width.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/scss/_icons.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/scss/_larger.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_list.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/scss/_list.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_mixins.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/scss/_mixins.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_path.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/scss/_path.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/scss/_screen-reader.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_stacked.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/scss/_stacked.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/scss/_variables.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome-4.7.0/scss/font-awesome.scss" />
+    <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/webinar/dummy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/webinar/landing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jobs.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/dist/sweetalert-dev.js" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/dist/sweetalert-dev.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/dist/sweetalert.css" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/dist/sweetalert.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/dist/sweetalert.min.js" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/dist/sweetalert.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/HELP-US-OUT.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/fonts/hellifademo.otf" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/fonts/hellifademo.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/less/animated.less" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/less/animated.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/less/core.less" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/less/core.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/less/fixed-width.less" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/less/fixed-width.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/less/font-awesome.less" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/less/font-awesome.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/less/icons.less" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/less/icons.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/less/larger.less" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/less/larger.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/less/list.less" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/less/list.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/less/mixins.less" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/less/mixins.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/less/path.less" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/less/path.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/less/rotated-flipped.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/less/screen-reader.less" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/less/screen-reader.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/less/stacked.less" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/less/stacked.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/less/variables.less" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/less/variables.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/scss/_animated.scss" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/scss/_animated.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/scss/_core.scss" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/scss/_core.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/scss/_fixed-width.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/scss/_icons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/scss/_larger.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/scss/_list.scss" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/scss/_list.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/scss/_mixins.scss" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/scss/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/scss/_path.scss" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/scss/_path.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/scss/_stacked.scss" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/scss/_stacked.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/scss/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../cn_knovva/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/../cn_knovva/vendor/font-awesome-4.7.0/scss/font-awesome.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/about.php" afterPath="$PROJECT_DIR$/../cn_knovva/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/css/contact.css" afterPath="$PROJECT_DIR$/../cn_knovva/css/contact.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/applicationform.php" afterPath="$PROJECT_DIR$/../cn_knovva/applicationform.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/blog.php" afterPath="$PROJECT_DIR$/../cn_knovva/blog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/career.php" afterPath="$PROJECT_DIR$/../cn_knovva/career.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/contact.php" afterPath="$PROJECT_DIR$/../cn_knovva/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/css/index.css" afterPath="$PROJECT_DIR$/../cn_knovva/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/databaseform.php" afterPath="$PROJECT_DIR$/../cn_knovva/databaseform.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/faq.php" afterPath="$PROJECT_DIR$/../cn_knovva/faq.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/gallery.php" afterPath="$PROJECT_DIR$/../cn_knovva/gallery.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/header.php" afterPath="$PROJECT_DIR$/../cn_knovva/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/index.php" afterPath="$PROJECT_DIR$/../cn_knovva/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/index_comingsoon.php" afterPath="$PROJECT_DIR$/../cn_knovva/index_comingsoon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/index_old.html" afterPath="$PROJECT_DIR$/../cn_knovva/index_old.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/intro.php" afterPath="$PROJECT_DIR$/../cn_knovva/intro.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/js/test.cs.html" afterPath="$PROJECT_DIR$/../cn_knovva/js/test.cs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/program-aer.php" afterPath="$PROJECT_DIR$/../cn_knovva/program-aer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/program-gai.php" afterPath="$PROJECT_DIR$/../cn_knovva/program-gai.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/program-harrypotter.php" afterPath="$PROJECT_DIR$/../cn_knovva/program-harrypotter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/program-irg.php" afterPath="$PROJECT_DIR$/../cn_knovva/program-irg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/program-landscape.php" afterPath="$PROJECT_DIR$/../cn_knovva/program-landscape.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/program-sie.php" afterPath="$PROJECT_DIR$/../cn_knovva/program-sie.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/program-socialmedia.php" afterPath="$PROJECT_DIR$/../cn_knovva/program-socialmedia.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/programs.php" afterPath="$PROJECT_DIR$/../cn_knovva/programs.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applicationform.php" afterPath="$PROJECT_DIR$/applicationform.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.php" afterPath="$PROJECT_DIR$/blog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/career.php" afterPath="$PROJECT_DIR$/career.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/career_old.php" afterPath="$PROJECT_DIR$/career_old.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/career.css" afterPath="$PROJECT_DIR$/css/career.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/header.css" afterPath="$PROJECT_DIR$/css/header.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/livestream.scss" afterPath="$PROJECT_DIR$/css/livestream.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/databaseform.php" afterPath="$PROJECT_DIR$/databaseform.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/error.php" afterPath="$PROJECT_DIR$/error.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery.php" afterPath="$PROJECT_DIR$/gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header2.php" afterPath="$PROJECT_DIR$/header2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index_coming.php" afterPath="$PROJECT_DIR$/index_coming.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index_old.html" afterPath="$PROJECT_DIR$/index_old.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intro.php" afterPath="$PROJECT_DIR$/intro.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/test.cs.html" afterPath="$PROJECT_DIR$/js/test.cs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-appliedengineering.php" afterPath="$PROJECT_DIR$/program-appliedengineering.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-entrepreneurship.php" afterPath="$PROJECT_DIR$/program-entrepreneurship.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-globalaffairs.php" afterPath="$PROJECT_DIR$/program-globalaffairs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-harrypotter.php" afterPath="$PROJECT_DIR$/program-harrypotter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-innotativereading.php" afterPath="$PROJECT_DIR$/program-innotativereading.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-landscapeofstudy.php" afterPath="$PROJECT_DIR$/program-landscapeofstudy.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-socialmedia.php" afterPath="$PROJECT_DIR$/program-socialmedia.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programs.php" afterPath="$PROJECT_DIR$/programs.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webinar.php" afterPath="$PROJECT_DIR$/webinar.php" />
     </list>
     <ignored path="knovva.iws" />
@@ -112,8 +104,21 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="66" column="41" lean-forward="false" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+            <state relative-caret-position="377">
+              <caret line="70" column="197" lean-forward="false" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="197" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#2716#2722#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/header.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -147,11 +152,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="about.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/about.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="65" column="0" lean-forward="true" selection-start-line="59" selection-start-column="2" selection-end-line="65" selection-end-column="0" />
+              <folding>
+                <element signature="e#2722#2854#0" expanded="false" />
+                <element signature="e#4142#4487#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="career.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/career.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1815">
-              <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -164,35 +182,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="career.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/career.scss">
+      <file leaf-file-name="webinar.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webinar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="20" />
+            <state relative-caret-position="210">
+              <caret line="46" column="33" lean-forward="false" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
               <folding>
-                <element signature="e#3043#3147#0" expanded="false" />
-                <element signature="e#3172#3370#0" expanded="false" />
-                <element signature="e#3377#3828#0" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#2440#2446#0#HTML" expanded="true" />
+                <element signature="e#2593#2599#0#HTML" expanded="true" />
+                <element signature="e#3100#3106#0#HTML" expanded="true" />
+                <element signature="e#3289#3295#0#HTML" expanded="true" />
+                <element signature="e#3795#3801#0#HTML" expanded="true" />
+                <element signature="e#4020#4026#0#HTML" expanded="true" />
+                <element signature="e#4526#4532#0#HTML" expanded="true" />
+                <element signature="e#4751#4757#0#HTML" expanded="true" />
+                <element signature="e#5300#5306#0#HTML" expanded="true" />
+                <element signature="e#5525#5531#0#HTML" expanded="true" />
+                <element signature="e#6028#6034#0#HTML" expanded="true" />
+                <element signature="e#6253#6259#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webinar.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webinar.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="67" column="68" lean-forward="false" selection-start-line="67" selection-start-column="68" selection-end-line="67" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="livestream.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="livestream.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/livestream.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="55" column="18" lean-forward="false" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+            <state relative-caret-position="420">
+              <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -211,8 +231,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ROSS</find>
-      <find>childre</find>
       <find>;</find>
       <find>business</find>
       <find>input</find>
@@ -241,6 +259,8 @@
       <find>china</find>
       <find>fa-video-camera</find>
       <find>fa-play</find>
+      <find>600</find>
+      <find>Play Back</find>
     </findStrings>
     <replaceStrings>
       <replace>sm</replace>
@@ -249,6 +269,9 @@
       <replace>#6E539E</replace>
       <replace>fa-youtube-play</replace>
       <replace>fa-play</replace>
+      <replace>500</replace>
+      <replace>400</replace>
+      <replace>Watch Playback</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -262,7 +285,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/program-gai.php" />
         <option value="$PROJECT_DIR$/program-aer.php" />
         <option value="$PROJECT_DIR$/css/about.css" />
         <option value="$PROJECT_DIR$/index_2.php" />
@@ -293,7 +315,6 @@
         <option value="$PROJECT_DIR$/css/about.scss" />
         <option value="$PROJECT_DIR$/blog.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/css/header.css" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/controller/testsend.php" />
         <option value="$PROJECT_DIR$/controller/sendemail.php" />
@@ -304,15 +325,17 @@
         <option value="$PROJECT_DIR$/css/variables.scss" />
         <option value="$PROJECT_DIR$/about.php" />
         <option value="$PROJECT_DIR$/css/career.css" />
-        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/css/test.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/career.php" />
         <option value="$PROJECT_DIR$/programs.php" />
         <option value="$PROJECT_DIR$/program-entrepreneurship.php" />
+        <option value="$PROJECT_DIR$/jobs.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/css/header.css" />
         <option value="$PROJECT_DIR$/css/career.scss" />
-        <option value="$PROJECT_DIR$/webinar.php" />
         <option value="$PROJECT_DIR$/css/livestream.scss" />
+        <option value="$PROJECT_DIR$/webinar.php" />
       </list>
     </option>
   </component>
@@ -327,8 +350,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="36" />
-    <option name="y" value="33" />
+    <option name="x" value="16" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="739" />
   </component>
@@ -374,7 +397,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
+              <option name="myItemId" value="video" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -391,8 +414,18 @@
               <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="animate" />
+              <option name="myItemId" value="knovva" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="knovva" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -406,7 +439,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webinar" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -442,11 +479,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image/webinar" />
+      <recent name="$PROJECT_DIR$/image" />
       <recent name="$PROJECT_DIR$/vendor" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/image/job" />
-      <recent name="$PROJECT_DIR$/image" />
-      <recent name="$PROJECT_DIR$/image/post" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.intro.php">
@@ -561,14 +598,7 @@
       <workItem from="1492090969593" duration="13895000" />
       <workItem from="1492300343318" duration="20613000" />
       <workItem from="1492524925278" duration="19000000" />
-      <workItem from="1492650549668" duration="16630000" />
-    </task>
-    <task id="LOCAL-00046" summary="updated dummy blog">
-      <created>1490072121693</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1490072121693</updated>
+      <workItem from="1492650549668" duration="31202000" />
     </task>
     <task id="LOCAL-00047" summary="updated dummy blog">
       <created>1490102939378</created>
@@ -906,11 +936,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492537033909</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="updated alot">
+      <created>1492710687480</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1492710687481</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="344668000" />
+    <option name="totallyTimeSpent" value="359240000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -922,10 +959,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="33" width="1280" height="739" extended-state="0" />
+    <frame x="16" y="23" width="1280" height="739" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2645631" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2645631" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32766616" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1018,22 +1055,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/program-harrypotter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="185" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="185" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program-innotativereading.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="74" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/program-landscapeofstudy.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1143,13 +1164,6 @@
     <entry file="file://$PROJECT_DIR$/image/teachers/chunxiao.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controller/testsend.php">
@@ -1280,17 +1294,17 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1492695236000" expanded="true" signature="1028:1194" ph="{...}" />
-            <marker date="1492695236000" expanded="true" signature="3248:3251" ph="{...}" />
-            <marker date="1492695236000" expanded="true" signature="3281:3330" ph="{...}" />
-            <marker date="1492695236000" expanded="true" signature="3364:3391" ph="{...}" />
-            <marker date="1492695236000" expanded="true" signature="3417:3461" ph="{...}" />
-            <marker date="1492695236000" expanded="true" signature="3491:3519" ph="{...}" />
-            <marker date="1492695236000" expanded="true" signature="3555:3596" ph="{...}" />
-            <marker date="1492695236000" expanded="true" signature="3603:3708" ph="{...}" />
-            <marker date="1492695236000" expanded="true" signature="3730:3755" ph="{...}" />
-            <marker date="1492695236000" expanded="true" signature="3776:3925" ph="{...}" />
-            <marker date="1492695236000" expanded="true" signature="3954:4033" ph="{...}" />
+            <marker date="1492719987000" expanded="true" signature="1028:1194" ph="{...}" />
+            <marker date="1492719987000" expanded="true" signature="3248:3251" ph="{...}" />
+            <marker date="1492719987000" expanded="true" signature="3281:3330" ph="{...}" />
+            <marker date="1492719987000" expanded="true" signature="3364:3391" ph="{...}" />
+            <marker date="1492719987000" expanded="true" signature="3417:3461" ph="{...}" />
+            <marker date="1492719987000" expanded="true" signature="3491:3519" ph="{...}" />
+            <marker date="1492719987000" expanded="true" signature="3555:3596" ph="{...}" />
+            <marker date="1492719987000" expanded="true" signature="3603:3708" ph="{...}" />
+            <marker date="1492719987000" expanded="true" signature="3730:3755" ph="{...}" />
+            <marker date="1492719987000" expanded="true" signature="3776:3925" ph="{...}" />
+            <marker date="1492719987000" expanded="true" signature="3954:4033" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1311,17 +1325,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/about.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="e#2722#2854#0" expanded="false" />
-            <element signature="e#4142#4487#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1335,14 +1338,6 @@
             <element signature="e#1076#1082#0#HTML" expanded="true" />
             <element signature="e#1082#1088#0#HTML" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="66" column="41" lean-forward="false" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1378,21 +1373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/career.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1815">
-          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/intro.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-60">
@@ -1419,18 +1399,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webinar.php">
+    <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="67" column="68" lean-forward="false" selection-start-line="67" selection-start-column="68" selection-end-line="67" selection-end-column="68" />
+        <state relative-caret-position="377">
+          <caret line="70" column="197" lean-forward="false" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="197" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2716#2722#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/career.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="20" />
+        <state relative-caret-position="564">
+          <caret line="87" column="30" lean-forward="false" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
           <folding>
             <element signature="e#3043#3147#0" expanded="false" />
             <element signature="e#3172#3370#0" expanded="false" />
@@ -1439,11 +1430,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jobs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/about.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="59" selection-start-column="2" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#2722#2854#0" expanded="false" />
+            <element signature="e#4142#4487#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/webinar/landing.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/career.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/livestream.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="55" column="18" lean-forward="false" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        <state relative-caret-position="420">
+          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webinar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="46" column="33" lean-forward="false" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2440#2446#0#HTML" expanded="true" />
+            <element signature="e#2593#2599#0#HTML" expanded="true" />
+            <element signature="e#3100#3106#0#HTML" expanded="true" />
+            <element signature="e#3289#3295#0#HTML" expanded="true" />
+            <element signature="e#3795#3801#0#HTML" expanded="true" />
+            <element signature="e#4020#4026#0#HTML" expanded="true" />
+            <element signature="e#4526#4532#0#HTML" expanded="true" />
+            <element signature="e#4751#4757#0#HTML" expanded="true" />
+            <element signature="e#5300#5306#0#HTML" expanded="true" />
+            <element signature="e#5525#5531#0#HTML" expanded="true" />
+            <element signature="e#6028#6034#0#HTML" expanded="true" />
+            <element signature="e#6253#6259#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
