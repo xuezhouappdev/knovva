@@ -1,6 +1,9 @@
 i {
   cursor: pointer; }
 
+body {
+  position: relative; }
+
 div.sidertextwrapper {
   text-align: center;
   position: absolute;
@@ -224,5 +227,8 @@ div.programnew.jumbotron {
     background-color: #D874BD;
     color: #fff;
     text-decoration: none; }
+
+#myCarousel .slidertextwrapper a i {
+  font-size: 20px; }
 
 /*# sourceMappingURL=index_new.css.map */

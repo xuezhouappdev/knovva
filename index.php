@@ -7,32 +7,11 @@
     <title>Teen Programs - Education | Knovva </title>
 
 
-    <!-- CS -->
-    <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="vendor/font-awesome-4.7.0/css/font-awesome.css">
-
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <!-- cutome CS -->
     <link rel="stylesheet" href="css/index_new.css">
-
-
-
-
-    <!-- Jquery-->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-    <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
-
-
-    <!--font-->
-    <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
-
 
     <!-- Google KeyWord -->
     <meta name="keywords" content="teen programs, blended learning boston, online learning site, pre college programs, pre-college programs, global education" />
-
-
-
-
-
 
 
 
@@ -42,10 +21,7 @@
 
 <?php
 include "header.php";
-
 ?>
-
-
 
 
 <!-- top slider -->
@@ -55,14 +31,6 @@ include "header.php";
     <!-- Wrapper for slides -->
     <div class="carousel-inner home-slider" role="listbox">
 
-        <!-- Indicators -->
-        <!--  <ol class="carousel-indicators">
-              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-              <li data-target="#myCarousel" data-slide-to="1"></li>
-              <li data-target="#myCarousel" data-slide-to="2"></li>
-
-          </ol>
-      -->
 
         <div class="item active" style='
         background: url("image/skyatlas2.jpeg") center center no-repeat;
@@ -78,36 +46,43 @@ include "header.php";
                     top: 50%;
                     left: 50%;
                     transform: translate(-50%, -50%);
-                    color: white;
-
-' >
+                    color: white;'>
 
                 <h1 style="font-size:32px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 40px">Connect To The World<br>Connect To Your Future</h1>
-                <a href="#programs"><i class="fa fa-arrow-circle-down" aria-hidden="true"></i>&nbsp;DISCOVER MORE</a>
+                <a href="#programs" id="downbutton">  <i class="fa fa-arrow-circle-down animated infinite zoomIn" aria-hidden="true"></i>&nbsp;DISCOVER MORE</a>
             </div>
 
         </div>
 
 
          <script>
-             $('.fa.fa-arrow-circle-down').addClass('bounce');
+             $(document).ready(function(){
+                 $("#downbutton").on('click', function(event) {
+
+                     if(this.hash !=="") {
+                         event.preventDefault();
+
+                         var hash = this.hash;
+
+                         $('html, body').animate({
+                             scrollTop: $(hash).offset().top - 80
+                         }, 800, function(){
+
+                             // Add hash (#) to URL when done scrolling (default click behavior)
+                             window.location.hash = hash;
+                         });
+                     } //end if
+                 });
+
+
+             })
+
          </script>
 
 
 
 
     </div>
-
-    <!-- Left and right controls -->
-    <!--<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>-->
-
 
 
 </div>

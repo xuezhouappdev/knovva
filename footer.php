@@ -6,9 +6,6 @@
 
 
 
-
-
-
     <link rel="stylesheet" href="css/footer.css">
 
 
@@ -72,11 +69,6 @@
                     <a href="https://www.youtube.com/channel/UCslKn9oMT1q3HPoXeTz3X2g "><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
                     <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 
-
-
-
-
-
                 </div>
 
             </div>
@@ -94,10 +86,6 @@
     </div>
 
 </div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-<script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
-
 
 
 </body>

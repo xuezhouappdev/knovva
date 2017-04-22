@@ -55,7 +55,6 @@ include "header.php";
         </div>
 
         <div class="row">
-
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/sie.jpg" alt="Avatar" style="width:100%" class="img img-responsive">
@@ -80,7 +79,6 @@ include "header.php";
                         $(document).ready(function(){
 
                             $("#hbr-btn").hover(function(){
-
                                 $(".sie-overlay").css("opacity", "0.8");
                             }, function(){
                                 $(".sie-overlay").css("opacity", "0");

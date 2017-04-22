@@ -12,10 +12,6 @@ $gray_25: rgba(128, 128, 128, 0.25);
 
 
 
-
-
-
-
 @mixin btnstyle {
 
   cursor: pointer;
@@ -38,6 +34,11 @@ $gray_25: rgba(128, 128, 128, 0.25);
 i {
   cursor: pointer;
 }
+
+body {
+   position:relative;
+}
+
 
 div {
   &.sidertextwrapper {
@@ -395,6 +396,7 @@ div {
 .slidertextwrapper h1 {
   font-size: 60px;
 }
+
 #myCarousel > div > div > div > a {
   padding: 8px 32px;
   background-color: $primary;
@@ -409,5 +411,15 @@ div {
     background-color: $lightblack;
     color: $white;
     text-decoration: none;
+  }
+}
+
+#myCarousel {
+  .slidertextwrapper {
+    a {
+      i {
+        font-size: 20px;
+      }
+    }
   }
 }
