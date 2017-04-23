@@ -57,8 +57,8 @@ SEPERATELY-->
                             <a href="program-innotativereading">The Innovation Reading Group: Creativity and Change in the New Millennium </a>
                         </div>
                     </li>
-
-                    <li><a href="blog.php"> Blog </a></li>
+<!--                    <li><a href="webinar"> Webinar </a></li>-->
+                    <li><a href="blog.php"> Blog</a></li>
                     <li><a href="contact"> Contact </a></li>
                     <li><a href="applicationform" style="background: #7c5eb2;padding: 8px 16px;border-radius: 5%;color: white"><i class="fa fa-hand-o-up" aria-hidden="true"></i>&nbsp;APPLY</a></li>
                 </ul>

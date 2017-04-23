@@ -47,37 +47,64 @@
 
         <div class="herotext">
             <h1>Live Webinar</h1>
-            <a id="play">JOIN NOW</a>
+                    <a id="play">JOIN OUR LIVE</a>
+                    <a id="pastbutton" href="#pastwebinar">PAST WEBNIARS</a>
 
-            <!--control the video-->
             <script>
-                $("#play").click(function(){
-                    $(".banner").animate({
-                        "opacity": 0,
-                        "z-index" :"0"},1000);
-                });
+                $(document).ready(function() {
+
+                    <!--control the video-->
+                    $("#play").click(function(){
+                        $(".banner").animate({
+                            "opacity": 0,
+                            "z-index" :"0"},1000);
+                    });
+
+                    <!--control smoth scroll-->
+                    $("#pastbutton").on('click', function(event) {
+
+                        if(this.hash !=="") {
+                            event.preventDefault();
+
+                            var hash = this.hash;
+
+                            $('html, body').animate({
+                                scrollTop: $(hash).offset().top - 80
+                            }, 800, function(){
+
+                                // Add hash (#) to URL when done scrolling (default click behavior)
+                                window.location.hash = hash;
+                            });
+                        } //end if
+                    });
+
+
+
+                });//ready ends
+
+
             </script>
         </div>
     </div>
 
+
+
     <!-- Live-->
     <div class="live section" style="position: absolute;top:56px;">
         <div class="container">
-            <div class="row" style="height: 100vh">
-
+            <div class="row" style="height: 95vh">
                     <h5>Now Playing: </h5>
 <!--                     <iframe class="video" width="100%" height="75%" src="https://www.youtube.com/embed/9aaMnIRkK3k$showinfo=0" frameborder="1" allowfullscreen></iframe>-->
                 <embed height="80%" width="100%" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=9641357&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
             </div>
         </div>
     </div>
-
 </div>
 
 <hr>
 
 <!-- History-->
-<div class="history section">
+<div class="history section" id="pastwebinar">
     <div class="container">
         <h3>Past Webinars</h3>
         <div class="row">
