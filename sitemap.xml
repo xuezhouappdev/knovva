@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://knovva.com</loc>
+  <changefreq>hourly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://knovva.com/about</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://knovva.com/programs</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://knovva.com/program-entrepreneurship</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://knovva.com/program-globalaffairs</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://knovva.com/program-appliedengineering</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://knovva.com/program-landscapeofstudy</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://knovva.com/program-socialmedia</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://knovva.com/program-harrypotter</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://knovva.com/program-innotativereading</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://knovva.com/contact</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://knovva.com/applicationform</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

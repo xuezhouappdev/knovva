@@ -16,20 +16,108 @@
     <meta name="keywords" content="" />
 
 
-
-
 </head>
-
 
 <?php
 // include header
 include "header.php";
 ?>
 
+
 <body>
+<div class="banner section">
+    <div class="container">
+        <h1>We are hiring</h1>
+    </div>
+</div>
 
 
+<div class="jobs section">
+       <div class="container">
 
+            <div class="card" id="academic">
+                <div class="flag">
+                    Academic
+                </div>
+
+                <div class="text">
+                    <h4>Position One</h4>
+                    <p>Descriprion</p>
+                </div>
+
+            </div>
+
+           <div class="card" id="marketing">
+               <div class="flag">
+                   Marketing
+               </div>
+
+               <div class="text">
+                   <h4>Position One</h4>
+                   <p>Descriprion</p>
+               </div>
+
+           </div>
+
+           <div class="card " id="bd" style="height:300px;">
+               <div class="flag">
+                   Business Development
+               </div>
+
+               <div class="text">
+                   <h4>Position One</h4>
+                   <p>Descriprion</p>
+
+                   <h4>Position Two</h4>
+                   <p>Descriprion</p>
+
+                   <h4>Position Three</h4>
+                   <p>Descriprion</p>
+               </div>
+
+           </div>
+
+           <div class="card" id="sales">
+               <div class="flag">
+                   Sales
+               </div>
+
+               <div class="text">
+                   <h4>Position One</h4>
+                   <p>Descriprion</p>
+               </div>
+
+           </div>
+
+           <div class="card" id="it">
+               <div class="flag">
+                  I.T
+               </div>
+
+               <div class="text">
+                   <h4>Position One</h4>
+                   <p>Descriprion</p>
+               </div>
+
+           </div>
+
+           <div class="card" id="executive">
+               <div class="flag">
+                   Executive
+               </div>
+
+               <div class="text">
+                   <h4>Position One</h4>
+                   <p>Descriprion</p>
+               </div>
+
+           </div>
+
+
+        </div>
+
+
+</div>
 
 
 

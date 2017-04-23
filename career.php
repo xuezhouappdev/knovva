@@ -68,23 +68,30 @@ include "header.php";
         <p>Sub title here</p>
         <div class="row">
 
+            <a href="jobs#academic">
             <div class="col-md-4"  >
                 <div style="background: url('image/job/academic.jpg') no-repeat center center;background-size: cover">
                 </div>
                 <h4>Academic</h4>
             </div>
+            </a>
 
+            <a href="jobs#marketing">
             <div class="col-md-4" >
                 <div style="background: url('image/job/market.jpg') no-repeat bottom left;background-size:cover;">
 
                 </div>
                 <h4>Marketing</h4>
             </div>
+            </a>
+
+            <a href="jobs#bd">
             <div class="col-md-4" >
                 <div style="background: url('image/job/bd.jpg') no-repeat center center;background-size:cover;">
                 </div>
                 <h4>Business Development</h4>
             </div>
+            </a>
 
 
         </div>
@@ -92,21 +99,30 @@ include "header.php";
 
 
         <div class="row">
+
+            <a href="jobs#sales">
             <div class="col-md-4" >
                 <div style="background: url('image/job/marketing.jpg') no-repeat center center;background-size:cover;"></div>
                 <h4>Sales</h4>
             </div>
+            </a>
+
+            <a href="jobs#it">
             <div class="col-md-4" >
                 <div style="background: url('image/job/technology.jpg') no-repeat center center;background-size:cover;" ></div>
                 <h4>Info Tech</h4>
             </div>
+            </a>
+
+            <a href="jobs#executive">
             <div class="col-md-4">
                 <div style="background: url('image/job/executive.jpg') no-repeat center center;background-size:cover;"></div>
                 <h4>Exeutive</h4>
             </div>
+            </a>
         </div>
 
-        <p><a> >> See all positions</a></p>
+        <p><a href="jobs"> >> See all positions</a></p>
     </div>
 
 

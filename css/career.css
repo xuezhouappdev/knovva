@@ -1,6 +1,9 @@
 .section {
   margin: 96px 0; }
 
+a {
+  text-decoration: none; }
+
 .icon .container .row {
   text-align: center; }
   .icon .container .row i {
@@ -104,6 +107,8 @@
       color: #6E539E; }
       .department .container p a {
         color: #6E539E; }
+    .department .container a {
+      color: white; }
 
 .testimonial .container {
   text-align: center;

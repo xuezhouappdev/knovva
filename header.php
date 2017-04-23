@@ -14,8 +14,9 @@
 
 
     <!--Google font-->
-    <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
+
     <link href="https://fonts.googleapis.com/css?family=Anton|Noto+Sans|Seymour+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet">
 
 
 
@@ -36,7 +37,7 @@ SEPERATELY-->
 <?php include_once("analyticstracking.php") ?>
 
 
-<div class="header">
+<div class="header" style="z-index: 999">
     <div class="container">
         <div class="navbar-fixed-top">
             <div class="row">
