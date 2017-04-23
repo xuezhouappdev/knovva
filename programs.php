@@ -263,6 +263,15 @@ include "header.php";
 
 
 
+<script>
+    $(function () {
+        $('html,body').animate({
+            scrollTop: $(window.location.hash).offset().top-100
+        },800);
+
+    })
+</script>
+
 
 <div class="footer-wrapper">
     <?php
