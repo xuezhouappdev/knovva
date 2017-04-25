@@ -13,7 +13,6 @@ $gray_25: rgba(128, 128, 128, 0.25);
 
 
 @mixin btnstyle {
-
   cursor: pointer;
   padding: 8px 32px;
   transition: 0.4s linear;
@@ -24,8 +23,6 @@ $gray_25: rgba(128, 128, 128, 0.25);
   &:hover {
     text-decoration: none;
     background:$lightblack;
-
-
   }
 }
 
@@ -72,9 +69,6 @@ div {
     background: $white;
   }
 }
-
-
-
 
 
 .about {

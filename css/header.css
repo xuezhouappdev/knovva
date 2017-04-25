@@ -184,7 +184,7 @@ div.navbar-fixed-top {
 }
 
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 900px) {
     .header.responsive ul >li:not(:last-child) a {
         display: block;
         float: none;

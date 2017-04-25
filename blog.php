@@ -4,20 +4,10 @@
     <meta charset="UTF-8">
 
 
-    <title>Blog | Knovva
-    </title>
-
-    <link rel="stylesheet" href="vendor/bootstrap-3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="vendor/font-awesome-4.7.0/css/font-awesome.css">
-
-    <!--font-->
-    <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
+    <title>Blog | Knovva</title>
 
 
 
-    <!-- sweet alert-->
-    <script src="vendor/sweetalert/sweetalert.min.js"></script>
 
     <!-- Google KeyWord -->
 
@@ -25,7 +15,7 @@
 
 </head>
 
-<body data-spy="scroll" data-target=".header" data-offset="300">
+<body>
 
 <?php
 // include header
@@ -35,10 +25,25 @@ include "header.php";
 
 
 <!-- Banner-->
-<div class="banner">
+<div class="banner" style="background: #D874BD; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#D874BD,  #6E539E ); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#D874BD,  #6E539E ); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#D874BD,  #6E539E ); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#D874BD,  #6E539E ); /* Standard syntax */
+
+
+  min-height: 200px;
+  width: 100%;
+  opacity: 0.8;
+  background-size: cover;
+  color: white;">
     <div class="container">
         <div class="row">
-            <h1>Blog</h1>
+            <h1 style="position: relative;
+    margin-top: 110px;
+    color: #fdfdfd;
+    border-left: 3px solid #f3f3f3;
+    padding-left: 7px;">Blog</h1>
         </div>
     </div>
 </div>
@@ -48,7 +53,7 @@ include "header.php";
 
 <div class="blogwrapper">
 
-        <iframe src="knovvablog"  onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" width="100%" scrolling="no" style="padding: 32px 64px;margin-bottom: 48px;border: none" >
+        <iframe src="knovvablog"  onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" width="100%" scrolling="no" style="padding: 16px 64px 32px;margin-bottom: 48px;border: none" >
 
         </iframe>
 
@@ -82,10 +87,6 @@ include "header.php";
     });
 </script>-->
 
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-<script src="vendor/bootstrap-3.3.7/js/bootstrap.min.js"></script>
-<script src="js/index.js"></script>
 
 
 </body>
