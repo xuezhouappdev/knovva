@@ -5,19 +5,10 @@
     <title>  Programs - Applied Engineering & Robotics | Knovva
     </title>
 
-    <link rel="stylesheet" href="vendor/bootstrap-3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="vendor/font-awesome-4.7.0/css/font-awesome.css">
 
-    <!--font-->
-    <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
 
     <!-- Program -->
     <link rel="stylesheet" href="css/program_template.css">
-    <link rel="stylesheet" href="vendor/sweetalert/sweetalert.css">
-
-    <!-- sweet alert-->
-    <script src="vendor/sweetalert/sweetalert.min.js"></script>
 
 
     <meta name="keywords" content="engineering robotics, class for teens, harvard, mit, ap robotics, applied learning, engineering for teens, summer enginerring, summer robotics program" />
@@ -191,10 +182,6 @@ include "header.php";
 </div>
 
 
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-<script src="vendor/bootstrap-3.3.7/js/bootstrap.min.js"></script>
 
 
 

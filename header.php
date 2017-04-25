@@ -56,15 +56,30 @@ SEPERATELY-->
                             <a href="program-socialmedia">U.S. Social Media Use and Electronic Correspondence</a>
                             <a href="program-harrypotter">The Harry Potter Reading Group</a>
                             <a href="program-innotativereading">The Innovation Reading Group: Creativity and Change in the New Millennium </a>
+                            <a href="program-digitalcrossroads.php">The Digital Crossroads of East and West</a>
                         </div>
                     </li>
 <!--                    <li><a href="webinar"> Webinar </a></li>-->
                     <li><a href="blog.php"> Blog</a></li>
                     <li><a href="contact"> Contact </a></li>
                     <li><a href="applicationform" style="background: #7c5eb2;padding: 8px 16px;border-radius: 5%;color: white"><i class="fa fa-hand-o-up" aria-hidden="true"></i>&nbsp;APPLY</a></li>
+                    <li class="icon"><a href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
                 </ul>
+
             </div>
         </div>
+    </div>
+
+
+    <!--side nav-->
+    <div class="sidenav" id="mySidenav">
+        <a href="javascript:void(0);" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="index">Home</a>
+        <a href="about">About</a>
+        <a href="programs">Programs</a>
+        <a href="blog.php">Blogs</a>
+        <a href="contact">Contact</a>
+        <a href="applicationform">Apply</a>
     </div>
 </div>
 
@@ -82,6 +97,15 @@ SEPERATELY-->
             }
         });
     });
+
+    function openNav () {
+        document.getElementById("mySidenav").style.width ="100%";
+    }
+
+    function closeNav () {
+        document.getElementById("mySidenav").style.width ="0%";
+    }
+
 
 
 

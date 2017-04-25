@@ -34,7 +34,7 @@ include "header.php";
 
         <div class="item active" style='
         background: url("image/skyatlas2.jpeg") center center no-repeat;
-        min-height: 110vh;
+        min-height: 100vh;
         width: 100%;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -47,12 +47,15 @@ include "header.php";
                     left: 50%;
                     transform: translate(-50%, -50%);
                     color: white;'>
-
                 <h1 style="font-size:32px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 40px">Connect To The World<br>Connect To Your Future</h1>
-                <a href="#programs" id="downbutton">  <i class="fa fa-arrow-circle-down animated infinite zoomIn" aria-hidden="true"></i>&nbsp;DISCOVER MORE</a>
+                <a href="programs">DISCOVER MORE</a>
+
+
             </div>
 
+
         </div>
+
 
 
          <script>
@@ -75,14 +78,24 @@ include "header.php";
                  });
 
 
+
+
+
+
              })
 
          </script>
 
+    </div>
 
+    <div class="row textwrapper" style="">
 
+            <h4 >Scroll For More</h4>
+            <h5 style=""><a href="#programs" id="downbutton"><i class="fa fa-chevron-down animated infinite fadeInUp" aria-hidden="true"></i></a></h5>
 
     </div>
+
+
 
 
 </div>
@@ -100,7 +113,7 @@ include "header.php";
                 <p>Knovva Academy is inspired by the opportunity to prepare the next generation of young people to become engaged learners who pursue their own passions. Knovva Academy believes that by crossing national, cultural, and disciplinary boundaries, young people will increase their capacities to engage with real-world challenges, and ready themselves to be proactive thinkers and doers in the twenty-first century.
 
                 </p>
-                <a href="about">DISCOVER MORE</a>
+                <a href="about">DISCOVER PROGRAMS</a>
             </div>
 
 
@@ -148,7 +161,7 @@ include "header.php";
                     </p>
                     <div class="btnwrapper">
                         <br><br>
-                        <a href="programs.php#onlineprogram">Read More</a>
+                        <a href="programs.php#onlineprogram" id="onlinebutton">Read More</a>
                     </div>
                 </div>
             </div>

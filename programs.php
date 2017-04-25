@@ -136,6 +136,28 @@ include "header.php";
 
         </div>
 
+        <div class="row">
+            <div class="col-md-4">
+
+
+
+                <div class="card_p">
+                    <img src="image/program/digitalcross.jpg" alt="Avatar" style="width:100%">
+                    <h4><b>The Digital Crossroads of East and West</b></h4>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science, International Affairs </p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Qingdao, China&nbsp;|&nbsp;Summer 2017 <br>
+
+                    </p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>High school students</p>
+
+
+
+                    <br><br>
+                    <h5 style="text-align: center"> <a href="program-digitalcrossroads" class="button_p">Read More</a></h5>
+                </div>
+            </div>
+        </div>
+
 
 
     </div>

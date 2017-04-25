@@ -407,7 +407,7 @@ div {
 
 #myCarousel > div > div > div > a {
   padding: 8px 32px;
-  background-color: $primary;
+  border: 2px solid white;
   color: $white;
   display: inline-block;
   margin-top: 32px;
@@ -428,6 +428,25 @@ div {
       i {
         font-size: 20px;
       }
+    }
+  }
+
+  .textwrapper {
+    text-align: center;
+    position: relative;
+    bottom: 75px;
+
+    h4 {
+      color: white;
+      font-weight: 300;
+      font-size: 16px;
+    }
+
+    i {
+      color: white;
+      font-size: 18px;
+      margin-top: 0;
+      padding-top: 0;
     }
   }
 }
