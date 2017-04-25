@@ -126,6 +126,7 @@ div.navbar-fixed-top {
 .sidenav {
     height:100%;
     width:0;
+    max-width: 100%;
     position: fixed;
     z-index: 1;
     top:0;
@@ -159,12 +160,13 @@ div.navbar-fixed-top {
 
 
     .sidenav a {
-        padding: 8px 8px 8px 32px;
+        padding: 8px 8px 8px 8px;
         text-decoration: none;
         color: #696969;
         display: block;
         transition: 0.3s;
         font-size: 25px;
+        margin-left: -6px;
     }
 
     .sidenav a:hover {

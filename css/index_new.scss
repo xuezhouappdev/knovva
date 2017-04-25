@@ -423,6 +423,8 @@ div {
 }
 
 #myCarousel {
+  width: 100%;
+  overflow-x: hidden;
   .slidertextwrapper {
     a {
       i {

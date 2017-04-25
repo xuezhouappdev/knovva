@@ -235,20 +235,23 @@ div.programnew.jumbotron {
     color: #fff;
     text-decoration: none; }
 
-#myCarousel .slidertextwrapper a i {
-  font-size: 20px; }
-#myCarousel .textwrapper {
-  text-align: center;
-  position: relative;
-  bottom: 75px; }
-  #myCarousel .textwrapper h4 {
-    color: white;
-    font-weight: 300;
-    font-size: 16px; }
-  #myCarousel .textwrapper i {
-    color: white;
-    font-size: 18px;
-    margin-top: 0;
-    padding-top: 0; }
+#myCarousel {
+  width: 100%;
+  overflow-x: hidden; }
+  #myCarousel .slidertextwrapper a i {
+    font-size: 20px; }
+  #myCarousel .textwrapper {
+    text-align: center;
+    position: relative;
+    bottom: 75px; }
+    #myCarousel .textwrapper h4 {
+      color: white;
+      font-weight: 300;
+      font-size: 16px; }
+    #myCarousel .textwrapper i {
+      color: white;
+      font-size: 18px;
+      margin-top: 0;
+      padding-top: 0; }
 
 /*# sourceMappingURL=index_new.css.map */

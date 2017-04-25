@@ -37,12 +37,12 @@ include "header.php";
 
             <div class="card" id="academic">
                 <div class="flag">
-                    Academic
+                    Academic Operations
                 </div>
 
                 <div class="text">
                     <h4>Position One</h4>
-                    <p>Descriprion</p>
+                    <p>Description</p>
                 </div>
 
             </div>
@@ -54,7 +54,7 @@ include "header.php";
 
                <div class="text">
                    <h4>Position One</h4>
-                   <p>Descriprion</p>
+                   <p>Description</p>
                </div>
 
            </div>
@@ -66,25 +66,25 @@ include "header.php";
 
                <div class="text">
                    <h4>Position One</h4>
-                   <p>Descriprion</p>
+                   <p>Description</p>
 
                    <h4>Position Two</h4>
-                   <p>Descriprion</p>
+                   <p>Description</p>
 
                    <h4>Position Three</h4>
-                   <p>Descriprion</p>
+                   <p>Description</p>
                </div>
 
            </div>
 
            <div class="card" id="sales">
                <div class="flag">
-                   Sales
+                   Product
                </div>
 
                <div class="text">
                    <h4>Position One</h4>
-                   <p>Descriprion</p>
+                   <p>Description</p>
                </div>
 
            </div>
@@ -96,7 +96,7 @@ include "header.php";
 
                <div class="text">
                    <h4>Position One</h4>
-                   <p>Descriprion</p>
+                   <p>Description</p>
                </div>
 
            </div>
@@ -108,7 +108,7 @@ include "header.php";
 
                <div class="text">
                    <h4>Position One</h4>
-                   <p>Descriprion</p>
+                   <p>Description</p>
                </div>
 
            </div>

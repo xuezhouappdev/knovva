@@ -72,7 +72,7 @@ include "header.php";
             <div class="col-md-4"  >
                 <div style="background: url('image/job/academic.jpg') no-repeat center center;background-size: cover">
                 </div>
-                <h4>Academic</h4>
+                <h4>Academic Operations</h4>
             </div>
             </a>
 
@@ -103,7 +103,7 @@ include "header.php";
             <a href="jobs#sales">
             <div class="col-md-4" >
                 <div style="background: url('image/job/marketing.jpg') no-repeat center center;background-size:cover;"></div>
-                <h4>Sales</h4>
+                <h4>Product</h4>
             </div>
             </a>
 
@@ -117,7 +117,7 @@ include "header.php";
             <a href="jobs#executive">
             <div class="col-md-4">
                 <div style="background: url('image/job/executive.jpg') no-repeat center center;background-size:cover;"></div>
-                <h4>Exeutive</h4>
+                <h4>Executive</h4>
             </div>
             </a>
         </div>

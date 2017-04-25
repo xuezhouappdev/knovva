@@ -159,8 +159,6 @@ div.intro {
     color: white;
     margin-top: 16px;
     transition: 1s ease-in-out;
-
-
 }
 
 .card_p a:hover {
@@ -192,9 +190,6 @@ div.intro {
 .card_p h4{
     margin-left: 24px;
     margin-right: 24px;
-
-
-
 }
 
 
@@ -205,35 +200,6 @@ div.intro {
 }
 
 
-/*yearlong*/
-.yearlong_p h2 {
-    text-align: center;
-    padding: 8px 32px 32px;
-    margin-bottom: 24px;
-}
-
-.yearlong_p .row {
-    margin: 0px 0 16px;
-}
-
-
-
-.yearlong_p h2:after {
-    background:#6E539E;
-    display: block;
-    content: "";
-    height: 4px;
-    left: 15px;
-    width: 70px;
-    text-align: center;
-    margin: 10px auto 10px;
-}
-
-
-
-
-
-
 /*online*/
 .online_p h2 {
     text-align: center;
@@ -242,7 +208,7 @@ div.intro {
 }
 
 .online_p .row {
-    margin: 0px 0 16px;
+    margin-bottom: 16px;
 }
 
 .onsite_p .row {

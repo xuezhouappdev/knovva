@@ -213,6 +213,12 @@ div.intro {
 }
 
 
+.timeline .tab-content{
+    padding: 8px 64px;
+}
+
+
+
 /*teacher*/
 div.teacher h2 {
 

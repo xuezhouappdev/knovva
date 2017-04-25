@@ -9,8 +9,6 @@
 
     <!-- Program -->
     <link rel="stylesheet" href="css/program_template.css">
-
-
     <meta name="keywords" content="" />
 
 </head>
@@ -167,15 +165,11 @@ include "header.php";
         <hr>
 
         <div class="tab-content">
-
-
             <div id="menu1" class="tab-pane fade in active">
-
                 <p>Arrive into Beijing, settle into hotels.</p>
             </div>
 
             <div id="menu2" class="tab-pane fade">
-
                 <p>Students participate in ice-breaker activities, learning more deeply about each other and program staff. American students will be provided with their cameras and introduction to the final project. Students will start by visiting important historical and political sites around Beijing, such as the forbidden city and the Summer Palace. </p>
             </div>
 

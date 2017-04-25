@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=1">
     <title>Knovva Header</title>
 
     <!-- vendor css -->
@@ -104,6 +105,7 @@ SEPERATELY-->
 
     function closeNav () {
         document.getElementById("mySidenav").style.width ="0%";
+
     }
 
 
