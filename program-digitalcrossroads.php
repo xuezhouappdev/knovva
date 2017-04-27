@@ -22,6 +22,7 @@ include "header.php";
 <body>
 
 <!--CS-->
+
 <div class="intro section" id="banner" style="background:url('image/program/digitalcross.jpg');  background-size: cover;width: 100%;
     background-position: center;
     -webkit-background-size: cover;
@@ -36,9 +37,7 @@ include "header.php";
                 <a href="contact">Request for More Information</a>
             </div>
         </div>
-
     </div>
-
 </div>
 
 
