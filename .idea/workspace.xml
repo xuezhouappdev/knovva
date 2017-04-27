@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="updated jobs page on shadow">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/career/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/career/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/career/3.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/css/.sass-cache/d590eaf32bfeb4e7ffd2c3cf21bf61334e499976/about.scssc" afterPath="$PROJECT_DIR$/../cn_knovva/css/.sass-cache/d590eaf32bfeb4e7ffd2c3cf21bf61334e499976/about.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cn_knovva/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/css/about.css" afterPath="$PROJECT_DIR$/../cn_knovva/css/about.css" />
@@ -13,13 +10,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/css/header.css" afterPath="$PROJECT_DIR$/../cn_knovva/css/header.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/css/livestream.css" afterPath="$PROJECT_DIR$/../cn_knovva/css/livestream.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/career.php" afterPath="$PROJECT_DIR$/career.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controller/sendemail.php" afterPath="$PROJECT_DIR$/controller/sendemail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/contact.css" afterPath="$PROJECT_DIR$/css/contact.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/header.css" afterPath="$PROJECT_DIR$/css/header.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-digitalcrossroads.php" afterPath="$PROJECT_DIR$/program-digitalcrossroads.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programs.php" afterPath="$PROJECT_DIR$/programs.php" />
     </list>
     <ignored path="knovva.iws" />
@@ -101,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/contact.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="70" column="14" lean-forward="false" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
+            <state relative-caret-position="258">
+              <caret line="73" column="1" lean-forward="true" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -147,11 +137,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="programs.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="programs.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/programs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="241" column="109" lean-forward="false" selection-start-line="241" selection-start-column="109" selection-end-line="241" selection-end-column="109" />
+            <state relative-caret-position="156">
+              <caret line="147" column="150" lean-forward="false" selection-start-line="147" selection-start-column="150" selection-end-line="147" selection-end-column="150" />
               <folding />
             </state>
           </provider>
@@ -270,12 +260,12 @@
         <option value="$PROJECT_DIR$/career.php" />
         <option value="$PROJECT_DIR$/css/header.css" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/programs.php" />
         <option value="$PROJECT_DIR$/program-digitalcrossroads.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/controller/sendemail.php" />
         <option value="$PROJECT_DIR$/css/contact.css" />
+        <option value="$PROJECT_DIR$/programs.php" />
       </list>
     </option>
   </component>
@@ -530,14 +520,7 @@
       <workItem from="1493126013014" duration="13164000" />
       <workItem from="1493178715055" duration="47000" />
       <workItem from="1493215438316" duration="7525000" />
-      <workItem from="1493268401024" duration="5005000" />
-    </task>
-    <task id="LOCAL-00056" summary="home page updated">
-      <created>1490968488677</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1490968488678</updated>
+      <workItem from="1493268401024" duration="5497000" />
     </task>
     <task id="LOCAL-00057" summary="update a lot">
       <created>1491023486315</created>
@@ -875,11 +858,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493261583484</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="updated digital program page">
+      <created>1493311815710</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1493311815712</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="423515000" />
+    <option name="totallyTimeSpent" value="424007000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -955,7 +945,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated program page and program details page" />
     <MESSAGE value="updaed about" />
     <MESSAGE value="updaed a lot" />
     <MESSAGE value="added btn  on home" />
@@ -980,7 +969,8 @@
     <MESSAGE value="updated smoth scroll" />
     <MESSAGE value="updated jobs page on shadow" />
     <MESSAGE value="updated header and program details page" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated header and program details page" />
+    <MESSAGE value="updated digital program page" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated digital program page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1268,14 +1258,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="241" column="109" lean-forward="false" selection-start-line="241" selection-start-column="109" selection-end-line="241" selection-end-column="109" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-420">
@@ -1330,14 +1312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="94" column="82" lean-forward="false" selection-start-line="94" selection-start-column="82" selection-end-line="94" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controller/sendemail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1350,8 +1324,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/contact.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="70" column="14" lean-forward="false" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
+        <state relative-caret-position="258">
+          <caret line="73" column="1" lean-forward="true" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="94" column="82" lean-forward="false" selection-start-line="94" selection-start-column="82" selection-end-line="94" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="147" column="150" lean-forward="false" selection-start-line="147" selection-start-column="150" selection-end-line="147" selection-end-column="150" />
           <folding />
         </state>
       </provider>

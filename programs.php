@@ -145,7 +145,7 @@ include "header.php";
                     <img src="image/program/digitalcross.jpg" alt="Avatar" style="width:100%">
                     <h4><b>The Digital Crossroads of East and West</b></h4>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science, International Affairs </p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Qingdao, China&nbsp;|&nbsp;Summer 2017 <br>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Qingdao, China&nbsp;|&nbsp;Aug 8th - 18th, 2017 <br>
 
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>High school students</p>
@@ -208,12 +208,8 @@ include "header.php";
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>American Culture, Arts of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Communication</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online&nbsp;|&nbsp;Summer 2017 <br>
-
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
-
-
-
                     <h5 style="text-align: center"><a href="program-socialmedia" class="button_p">Read More</a></h5>
                 </div>
             </div>
