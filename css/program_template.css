@@ -20,9 +20,7 @@ a, a:hover{
 div.intro {
     height: 450px;
     background-size: cover;
-
-    margin-top: 50px;
-
+    margin-top: 0px;
     width: 100%;
     background-position: center;
     -webkit-background-size: cover;
@@ -30,8 +28,6 @@ div.intro {
     background-size: cover;
     -o-background-size: cover;
     margin-bottom: 40px
-
-
 }
 
 
@@ -39,7 +35,7 @@ div.intro {
 .intro-text {
     text-align: center;
     position: relative;
-    top:140px;
+    top:170px;
     color: white;
 
 

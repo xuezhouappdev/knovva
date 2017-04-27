@@ -40,7 +40,7 @@ SEPERATELY-->
 
 <div class="header" style="z-index: 999">
     <div class="container">
-        <div class="navbar-fixed-top">
+        <div class="navbar-fixed-top" id="mynav">
             <div class="row">
                 <a href="index.php"><img id="logo" src="image/logo-trim.png" class="img-responsive img" ></a>
                 <ul id="menuitem" >
@@ -94,7 +94,7 @@ SEPERATELY-->
         $(".header ul >li:not(:last-child) >a").each(function() {
             // checks if its the same on the address bar
             if(url === (this.href)) {
-                $(this).css({"color":"#6e539e","font-weight":"500"});
+                $(this).css({"color":"#6E539E","font-weight":"400"});
             }
         });
     });
@@ -107,6 +107,20 @@ SEPERATELY-->
         document.getElementById("mySidenav").style.width ="0%";
 
     }
+
+
+    //scroll to control the navigation
+    $(window).scroll(function(){
+        if($(document).scrollTop() > 30) {
+
+           $('#mynav').addClass("add");
+
+        }
+        else {
+            $('#mynav').removeClass("add");
+        }
+
+    });
 
 
 

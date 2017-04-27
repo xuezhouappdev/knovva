@@ -143,7 +143,7 @@ include "header.php";
 <div class="timeline section">
 
     <div class="container">
-        <h3>Schedule</h3>
+        <h3>Sample Itinerary</h3>
         <hr>
 
         <div class="daylist col-md-12" style="text-align: center">
