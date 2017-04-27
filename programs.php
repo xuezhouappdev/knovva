@@ -102,7 +102,7 @@ include "header.php";
 
                 <div class="card_p">
                     <img src="image/program/global.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>Global Affairs Institute</b></h4>
+                    <h4><b>Global Affairs Institute</b></h4><br>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science, International Affairs </p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, MA, USA
 
@@ -112,7 +112,7 @@ include "header.php";
 
 
 
-                    <br><br>
+                    <br>
                     <h5 style="text-align: center"> <a href="program-globalaffairs" class="button_p">Read More</a></h5>
                 </div>
             </div>
@@ -189,6 +189,7 @@ include "header.php";
                     <img src="image/program/Landscape.jpg" alt="Avatar" style="width:100%">
                     <h4><b>Understanding the Landscape of Study</b></h4>
 
+                    <br>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Higher Education</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;<span>Location: &nbsp;</span>Online<br>
                     </p>
@@ -196,7 +197,7 @@ include "header.php";
                     <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
 
 
-                    <br><br>
+                    <br>
                     <h5 style="text-align: center"><a href="program-landscapeofstudy" class="button_p">Read More</a></h5>
 
 
