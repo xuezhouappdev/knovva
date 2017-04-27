@@ -72,7 +72,7 @@ include "header.php";
                         <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;SUBJECT: </b>Political Science</p>
 
                         <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Qingdao, China&nbsp;|&nbsp; Aug 08 - Aug 18, 2017</P>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;&nbsp;GRADES: </b>High school students</p>
+                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;&nbsp;GRADES: </b>High School Students</p>
 
                         <!--                <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>-->
                         <!--                <P><i>Each week will include two one-hour lectures, preliminary readings & video, and discussion board.</i> </P>-->
@@ -181,7 +181,7 @@ include "header.php";
             <div id="menu4" class="tab-pane fade">
 
                 <p>
-                    Qingdao is the next stop; flying over in the morning and settling into their new dorms for the coming week. Students will tour the partner school and campus. Students meet with fellow Chinese students, for a dinner and meet-and greet activities.
+                    Qingdao is the next stop; flying over in the morning and settling into their new dorms for the coming week. Students will tour the partner school and campus. Students meet with fellow Chinese students, for a dinner and meet-and greet activities. First workshop on storytelling will be offered.
                 </p>
             </div>
 
