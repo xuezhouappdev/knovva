@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
+    <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="updated programs page from 3 - 4 per row">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cn_knovva/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/contact.php" afterPath="$PROJECT_DIR$/../cn_knovva/contact.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/css/header.css" afterPath="$PROJECT_DIR$/../cn_knovva/css/header.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/header.php" afterPath="$PROJECT_DIR$/../cn_knovva/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-digitalcrossroads.php" afterPath="$PROJECT_DIR$/program-digitalcrossroads.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,11 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-421">
-              <caret line="59" column="92" lean-forward="false" selection-start-line="59" selection-start-column="92" selection-end-line="59" selection-end-column="92" />
+            <state relative-caret-position="120">
+              <caret line="51" column="89" lean-forward="false" selection-start-line="51" selection-start-column="89" selection-end-line="51" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -88,7 +88,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program-digitalcrossroads.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="program-digitalcrossroads.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/program-digitalcrossroads.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
@@ -116,7 +116,7 @@
       <file leaf-file-name="programs.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="636">
               <caret line="199" column="24" lean-forward="false" selection-start-line="199" selection-start-column="24" selection-end-line="199" selection-end-column="24" />
               <folding>
                 <element signature="e#2421#2427#0#HTML" expanded="true" />
@@ -193,7 +193,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>U.S</find>
       <find>or</find>
       <find>over</find>
       <find>hover</find>
@@ -222,6 +221,7 @@
       <find>feature</find>
       <find>facts</find>
       <find>digital</find>
+      <find>grades</find>
       <find>global</find>
     </findStrings>
     <replaceStrings>
@@ -296,9 +296,9 @@
         <option value="$PROJECT_DIR$/controller/sendemail.php" />
         <option value="$PROJECT_DIR$/css/contact.css" />
         <option value="$PROJECT_DIR$/contact.php" />
-        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/programs.php" />
         <option value="$PROJECT_DIR$/program-digitalcrossroads.php" />
+        <option value="$PROJECT_DIR$/header.php" />
       </list>
     </option>
   </component>
@@ -539,14 +539,7 @@
       <workItem from="1493126013014" duration="13164000" />
       <workItem from="1493178715055" duration="47000" />
       <workItem from="1493215438316" duration="7525000" />
-      <workItem from="1493268401024" duration="12422000" />
-    </task>
-    <task id="LOCAL-00062" summary="update a lot">
-      <created>1491247895807</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1491247895807</updated>
+      <workItem from="1493268401024" duration="12682000" />
     </task>
     <task id="LOCAL-00063" summary="update a lot">
       <created>1491262082734</created>
@@ -884,11 +877,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493323553814</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="updated programs page from 3 - 4 per row">
+      <created>1493323707125</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1493323707125</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="430932000" />
+    <option name="totallyTimeSpent" value="431192000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1305,14 +1305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-421">
-          <caret line="59" column="92" lean-forward="false" selection-start-line="59" selection-start-column="92" selection-end-line="59" selection-end-column="92" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webinar.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="430">
@@ -1347,9 +1339,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/program-digitalcrossroads.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3096#3102#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/programs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="636">
           <caret line="199" column="24" lean-forward="false" selection-start-line="199" selection-start-column="24" selection-end-line="199" selection-end-column="24" />
           <folding>
             <element signature="e#2421#2427#0#HTML" expanded="true" />
@@ -1402,16 +1407,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program-digitalcrossroads.php">
+    <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3096#3102#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="51" column="89" lean-forward="false" selection-start-line="51" selection-start-column="89" selection-end-line="51" selection-end-column="89" />
+          <folding />
         </state>
       </provider>
     </entry>
