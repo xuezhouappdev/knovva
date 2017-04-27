@@ -7,7 +7,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/css/header.css" afterPath="$PROJECT_DIR$/../cn_knovva/css/header.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/header.php" afterPath="$PROJECT_DIR$/../cn_knovva/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programs.php" afterPath="$PROJECT_DIR$/programs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-digitalcrossroads.php" afterPath="$PROJECT_DIR$/program-digitalcrossroads.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,13 +88,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program-digitalcrossroads.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="program-digitalcrossroads.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/program-digitalcrossroads.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="96">
+              <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#3096#3102#0#HTML" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -112,7 +113,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="programs.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="programs.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programs.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -296,8 +297,8 @@
         <option value="$PROJECT_DIR$/css/contact.css" />
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/header.php" />
-        <option value="$PROJECT_DIR$/program-digitalcrossroads.php" />
         <option value="$PROJECT_DIR$/programs.php" />
+        <option value="$PROJECT_DIR$/program-digitalcrossroads.php" />
       </list>
     </option>
   </component>
@@ -538,14 +539,7 @@
       <workItem from="1493126013014" duration="13164000" />
       <workItem from="1493178715055" duration="47000" />
       <workItem from="1493215438316" duration="7525000" />
-      <workItem from="1493268401024" duration="12318000" />
-    </task>
-    <task id="LOCAL-00061" summary="update a lot">
-      <created>1491234329197</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1491234329198</updated>
+      <workItem from="1493268401024" duration="12422000" />
     </task>
     <task id="LOCAL-00062" summary="update a lot">
       <created>1491247895807</created>
@@ -883,11 +877,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493323431083</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="updated programs page from 3 - 4 per row">
+      <created>1493323553814</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1493323553814</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="430828000" />
+    <option name="totallyTimeSpent" value="430932000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1328,18 +1329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program-digitalcrossroads.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controller/sendemail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1409,6 +1398,19 @@
             <element signature="n#div#2;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#7401#7407#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-digitalcrossroads.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3096#3102#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
