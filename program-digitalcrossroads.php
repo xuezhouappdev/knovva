@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>  Programs - The Digital Crossroads of East and West | Knovva
+    <title>  Programs - Model G20 Summer ProgramG | Knovva
     </title>
 
 
@@ -32,7 +32,7 @@ include "header.php";
         <div class="row">
 
             <div class="intro-text">
-                <h1>The Digital Crossroads of East and West </h1>
+                <h1>Model G20 Summer Program</h1>
                 <a href="contact">Request for More Information</a>
             </div>
         </div>
@@ -49,14 +49,14 @@ include "header.php";
         <ul class="breadcrumb">
             <li><a href="index.php">Home</a></li>
             <li><a href="programs.php">Program</a></li>
-            <li><a href="#">The Digital Crossroads of East and West </a></li>
+            <li><a href="#">Model G20 Summer Program</a></li>
         </ul>
 
         <div class="row">
             <div class="col-md-7">
-                <h4>The Digital Crossroads of East and West </h4>
+                <h4>Model G20 Summer Program</h4>
                 <hr>
-                <p>The CrossRoads program is intended as an additional learning opportunity for alumni of the 2017 MG20 Youth Leadership Summit held in Cambridge, Massachusetts. The MG20 was organized to support high schools learn about international relations, politics and open up their considerations to future academic and professional pathways. While the MG20 focused on macro-topics and themes of global relations, the Crossroads program invites students to consider the factors that shape global politics on a local level. Qingdao will be the case-study, and the intersections of east and west will the focus.<br><br>
+                <p>The Model G20 Summer Program program is intended as an additional learning opportunity for alumni of the 2017 MG20 Youth Leadership Summit held in Cambridge, Massachusetts. The MG20 was organized to support high schools learn about international relations, politics and open their considerations to future academic and professional pathways. While the MG20 focused on macro-topics and themes of global relations, the Crossroads program invites students to consider the factors that shape global politics on a local level. Qingdao will be the case-study, and the intersections of east and west will the focus.<br><br>
 
                     During the MG20, students learned about some of the most pressing realities facing the world today: global sustainability, economic development, and security. In CrossRoads, students will explore these same themes, on a local level and in an international context. By understanding the social, economic and environmental realities in the city of Qingdao, students will walk away with parallel knowledge in their own home cities and its implications for the development of future global relationships.
                 </p>
@@ -187,37 +187,39 @@ include "header.php";
 
             <div id="menu5" class="tab-pane fade">
 
-                <p>Starting with the cultural roots of these societies, students will participate in workshops exploring the cultural foundations of their respective nations. They will take a day-trip to explore the birthplace of Taosim on Mount Lao, and learn about the historical roots of Chinese culture. A scholarly presentation in the evening will look at the parallel influence of ancient Greek Philosophy and Christianity in the west.</p>
+                <p>Starting with the cultural roots of these societies, students will participate in classes exploring the cultural foundations of their respective nations. They will take a day-trip to explore the birthplace of Taosim on Mount Lao, and learn about the historical roots of Chinese culture. A scholarly presentation in the evening will look at the parallel influence of ancient Greek Philosophy and Christianity in the west-- the underlying stories of our societies. </p>
             </div>
 
             <div id="menu6" class="tab-pane fade">
 
-                <p>Valuing the arts, cultural expression, contemporary and ancient, students will explore both the theory of traditional Chinese art and its place in contemporary society; this will include an exploration of the art and architecture of Zhanshan Temple. The meaning of expression will be explored in eastern and western context. Students will begin tinkering with multimedia tools and exploring how their own stories can be expressed. </p>
+                <p>Valuing the arts, cultural expression, contemporary and ancient, students will explore both the theory of traditional Chinese art and its place in contemporary society; this will include an exploration of the art and architecture of Zhanshan Temple. The meaning of expression will be explored in eastern and western context. Students will continue to explore the meaning of stories across different mediums, and they will begin tinkering with multimedia tools and exploring how their own stories can be expressed. </p>
             </div>
 
             <div id="menu7" class="tab-pane fade">
 
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                <p>
+                    Students will start their day with lectures on the intersection between China and the western world. Particular focus will concentrate on on the city of Qingdao, and will include a tour of the city’s downtown. Focus will be on the economic and cultural interchange, for future promise and concern. Students will be invited to spend more time filming, photographing, and capturing the realities on the ground. Evening discussion will offer an opportunity to find common parallels between Qingdao and Boston, MA. For dinner, students will enjoy local Qingdao food.
+                </p>
             </div>
 
             <div id="menu8" class="tab-pane fade">
 
-                <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                <p>Next, the group will visit the Badaguan Scenic Area, and enjoy the beautiful comforts of coastal China. Additionally, they take this time to learn about the environmental beauties and challenges facing the region. How is the drinking water? The fisheries? The forests?  Students will learn from local nonprofit leaders about the work they’re doing to support the present environmental challenges of the region and its relationship to global interests.  </p>
             </div>
 
             <div id="menu9" class="tab-pane fade">
 
-                <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                <p>Intensive digital storytelling workshops will be offered-- how to use different types of picture and video editing tools, and the underlying structures of stories. There will be special allotted time made for collaboration between international cohorts to collaborate in their chosen medium. A fun evening around campus will include a BBQ dinner and storytelling session. </p>
             </div>
 
             <div id="menu10" class="tab-pane fade">
 
-                <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                <p>A final day of digital workshopping and storytelling creation. A closing dinner with final presentations, and then final goodbyes before packing up and heading back east. </p>
             </div>
 
             <div id="menu11" class="tab-pane fade">
 
-                <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                <p>Quick stop, Beijing, and then back the States to retell the compelling stories of their time in Qingdao.</p>
             </div>
         </div>
     </div>
@@ -227,46 +229,46 @@ include "header.php";
 
 
 <!-- FEATURES-->
-<div class="features section">
-    <div class="container">
-        <div class="row">
-            <h2>YOUR EXPERIENCE INCLUDES</h2>
-        </div>
-
-        <div class="row">
-            <div class="col-md-3">
-                <img src="image/icon/icon-explore.png" class="img img-responsive">
-                <h4><Span>Explore</Span>&nbsp;the principles of engineering and robotics first-hand
-
-                </h4>
-            </div>
-            <div class="col-md-3">
-                <img src="image/icon/icon-connect.png" class="img img-responsive">
-                <h4><Span>Connect </Span>&nbsp; with a peer network passionate about creative construction
-
-
-
-                </h4>
-            </div>
-            <div class="col-md-3">
-                <img src="image/icon/icon-learn.png" class="img img-responsive">
-                <h4><Span>Learn</Span>&nbsp;practical soft-skills that facilitate the process of engineering
-
-
-                </h4>
-            </div>
-            <div class="col-md-3">
-                <img src="image/icon/icon-build.png" class="img img-responsive">
-                <h4><Span>Build</Span>&nbsp;something! And have fun while you do it
-
-
-                </h4>
-            </div>
-
-
-        </div>
-    </div>
-</div>
+<!--<div class="features section">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <h2>YOUR EXPERIENCE INCLUDES</h2>-->
+<!--        </div>-->
+<!---->
+<!--        <div class="row">-->
+<!--            <div class="col-md-3">-->
+<!--                <img src="image/icon/icon-explore.png" class="img img-responsive">-->
+<!--                <h4><Span>Explore</Span>&nbsp;the principles of engineering and robotics first-hand-->
+<!---->
+<!--                </h4>-->
+<!--            </div>-->
+<!--            <div class="col-md-3">-->
+<!--                <img src="image/icon/icon-connect.png" class="img img-responsive">-->
+<!--                <h4><Span>Connect </Span>&nbsp; with a peer network passionate about creative construction-->
+<!---->
+<!---->
+<!---->
+<!--                </h4>-->
+<!--            </div>-->
+<!--            <div class="col-md-3">-->
+<!--                <img src="image/icon/icon-learn.png" class="img img-responsive">-->
+<!--                <h4><Span>Learn</Span>&nbsp;practical soft-skills that facilitate the process of engineering-->
+<!---->
+<!---->
+<!--                </h4>-->
+<!--            </div>-->
+<!--            <div class="col-md-3">-->
+<!--                <img src="image/icon/icon-build.png" class="img img-responsive">-->
+<!--                <h4><Span>Build</Span>&nbsp;something! And have fun while you do it-->
+<!---->
+<!---->
+<!--                </h4>-->
+<!--            </div>-->
+<!---->
+<!---->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
 
 
 

@@ -100,7 +100,7 @@ include "header.php";
                                     <option value="U.S. Social Media Use and Electronic Correspondence">U.S. Social Media Use and Electronic Correspondence</option>
                                     <option value="The Harry Potter Reading Group">The Harry Potter Reading Group</option>
                                     <option value="The Innovation Reading Group: Creativity and Change in the New Millennium">The Innovation Reading Group: Creativity and Change in the New Millennium</option>
-                                    <option value="The Digital Crossroads of East and West">The Digital Crossroads of East and West</option>
+                                    <option value="The Digital Crossroads of East and West">Model G20 Summer Program</option>
                                 </select>
                             </div>
                         </div>

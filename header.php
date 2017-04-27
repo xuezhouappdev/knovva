@@ -57,7 +57,7 @@ SEPERATELY-->
                             <a href="program-socialmedia">U.S. Social Media Use and Electronic Correspondence</a>
                             <a href="program-harrypotter">The Harry Potter Reading Group</a>
                             <a href="program-innotativereading">The Innovation Reading Group: Creativity and Change in the New Millennium </a>
-                            <a href="program-digitalcrossroads.php">The Digital Crossroads of East and West</a>
+                            <a href="program-digitalcrossroads.php">Model G20 Summer Program</a>
                         </div>
                     </li>
 <!--                    <li><a href="webinar"> Webinar </a></li>-->
