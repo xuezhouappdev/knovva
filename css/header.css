@@ -145,14 +145,32 @@ a:hover {
 
 }
 
+.sidenav a {
+    padding: 8px 8px 8px 8px;
+    text-decoration: none;
+    color: #696969;
+    display: block;
+    transition: 0.3s;
+    font-size: 25px;
+    margin-left: -6px;
+}
+
+.sidenav a:hover {
+    color: #ede6e8;
+}
+
+
+.sidenav .closebtn {
+    right:25px;
+    font-size:36px;
+}
+
 
 
 @media screen and (max-width: 900px) {
-
     .header ul >li:not(:last-child) {
         display: none;
     }
-
     .header ul li.icon {
         display: block;
         float: right;
@@ -161,32 +179,7 @@ a:hover {
         font-size: 18px;
     }
 
-
     /*site nav*/
-
-
-    .sidenav a {
-        padding: 8px 8px 8px 8px;
-        text-decoration: none;
-        color: #696969;
-        display: block;
-        transition: 0.3s;
-        font-size: 25px;
-        margin-left: -6px;
-    }
-
-    .sidenav a:hover {
-        color: #ede6e8;
-    }
-
-
-    .sidenav .closebtn {
-        right:25px;
-        font-size:36px;
-    }
-
-
-
 }
 
 
@@ -197,6 +190,4 @@ a:hover {
         position:relative;
     }
 }
-
-
 

@@ -90,11 +90,36 @@ include "header.php";
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="form-group">
+                                <label for="program">Program: </label>
+                                <select name="contact_program">
+                                    <option value="N/A">Please select your program</option>
+                                    <option value="Social Impact and Entrepreneurship">Social Impact and Entrepreneurship</option>
+                                    <option value="Global Affairs Institute">Global Affairs Institute</option>
+                                    <option value="Applied Engineering & Robotics">Applied Engineering & Robotics</option>
+                                    <option value="Understanding the Landscape of Study">Understanding the Landscape of Study</option>
+                                    <option value="U.S. Social Media Use and Electronic Correspondence">U.S. Social Media Use and Electronic Correspondence</option>
+                                    <option value="The Harry Potter Reading Group">The Harry Potter Reading Group</option>
+                                    <option value="The Innovation Reading Group: Creativity and Change in the New Millennium">The Innovation Reading Group: Creativity and Change in the New Millennium</option>
+                                    <option value="The Digital Crossroads of East and West">The Digital Crossroads of East and West</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group">
                                 <label for="message">Message*</label>
                                 <textarea class="form-control" rows="11" name="contact_textarea" ></textarea>
                             </div>
                         </div>
                     </div>
+
+
+
+
 
                     <div class="row">
                         <div class="col-sm-12">

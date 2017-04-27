@@ -240,14 +240,11 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/creativity.jpg" alt="Avatar" style="width:100%">
                     <h4><b>The Innovation Reading Group: Creativity and Change in the New Millennium</b></h4>
-
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Technology, Innovation</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online&nbsp;|&nbsp;Fall 2017 <br>
 
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
-
-
 
 
                     <h5 style="text-align: center"><a href="program-innotativereading" class="button_p "  >Read More</a></h5>

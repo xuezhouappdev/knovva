@@ -33,7 +33,7 @@ include "header.php";
 
             <div class="intro-text">
                 <h1>The Digital Crossroads of East and West </h1>
-                <a href="applicationform.php">ENROLL NOW</a>
+                <a href="contact">Request for More Information</a>
             </div>
         </div>
 
@@ -71,7 +71,7 @@ include "header.php";
 
                         <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;SUBJECT: </b>Political Science</p>
 
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Qingdao, China&nbsp;|&nbsp;Summer 2017</P>
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Qingdao, China&nbsp;|&nbsp; Aug 08 - Aug 18, 2017</P>
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;&nbsp;GRADES: </b>High school students</p>
 
                         <!--                <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>-->
@@ -278,7 +278,7 @@ include "header.php";
         <div class="row">
             <h2>Start learning with Knovva Academy.</h2>
             <p><i>We’ll help you every step of the way.</i></p>
-            <a href="applicationform.php">ENROLL NOW</a>
+            <a href="contact">Request for More Information</a>
         </div>
     </div>
 </div>

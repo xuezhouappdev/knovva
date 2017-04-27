@@ -40,7 +40,7 @@ SEPERATELY-->
 
 <div class="header" style="z-index: 999">
     <div class="container">
-        <div class="navbar-fixed-top" id="mynav">
+        <div class="navbar-fixed-top homepage" id="mynav">
             <div class="row">
                 <a href="index.php"><img id="logo" src="image/logo-trim.png" class="img-responsive img" ></a>
                 <ul id="menuitem" >
@@ -62,6 +62,7 @@ SEPERATELY-->
                     </li>
 <!--                    <li><a href="webinar"> Webinar </a></li>-->
                     <li><a href="blog.php"> Blog</a></li>
+                    <li><a href="career"> Career </a></li>
                     <li><a href="contact"> Contact </a></li>
                     <li><a href="applicationform" style="background: #7c5eb2;padding: 8px 16px;border-radius: 5%;color: white"><i class="fa fa-hand-o-up" aria-hidden="true"></i>&nbsp;APPLY</a></li>
                     <li class="icon"><a href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
@@ -78,7 +79,7 @@ SEPERATELY-->
         <a href="index">Home</a>
         <a href="about">About</a>
         <a href="programs">Programs</a>
-        <a href="blog.php">Blogs</a>
+        <a href="blog.php">Blog</a>
         <a href="contact">Contact</a>
         <a href="applicationform">Apply</a>
     </div>
@@ -114,7 +115,6 @@ SEPERATELY-->
         if($(document).scrollTop() > 30) {
 
            $('#mynav').addClass("add");
-
         }
         else {
             $('#mynav').removeClass("add");

@@ -135,13 +135,13 @@ include "header.php";
         <h3>We Love Our People</h3>
         <div class="row">
             <div class="col-md-4">
-               <img class="img img-respponsive" src="http://placehold.it/350x200">
+               <img class="img img-responsive" src="image/career/1.jpg">
             </div>
             <div class="col-md-4">
-                <img class="img img-respponsive" src="http://placehold.it/350x200">
+                <img class="img img-responsive" src="image/career/3.jpg">
             </div>
             <div class="col-md-4">
-                <img class="img img-respponsive" src="http://placehold.it/350x200">
+                <img class="img img-responsive" src="image/career/2.jpg">
             </div>
         </div>
     </div>
