@@ -235,10 +235,17 @@ include "header.php";
             <li data-target="#myCarousel2" data-slide-to="3"></li>
         </ol>
 
+        <h4 style="">- WHAT OUR STUDENTS SAY - </h4>
+
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
+
+
+
             <div class="item active">
                 <div class="container">
+
+
                     <div class="row">
 
                         <h4>"Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better." <br><br>
@@ -252,6 +259,7 @@ include "header.php";
 
             <div class="item">
                 <div class="container">
+
                     <div class="row">
 
 
@@ -266,6 +274,7 @@ include "header.php";
 
             <div class="item">
                 <div class="container">
+
                     <div class="row">
                         <h4>"I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy." </h4>
                         <h5>- Participant from Liuzhou High School</h5><br>
@@ -276,6 +285,7 @@ include "header.php";
 
             <div class="item">
                 <div class="container">
+
                     <div class="row">
 
 
@@ -291,11 +301,11 @@ include "header.php";
         </div>
 
         <!-- Left and right controls -->
-        <a class="left carousel-control" href="#myCarousel2" role="button" data-slide="prev">
+        <a class="left carousel-control" href="#myCarousel2" role="button" data-slide="prev" style="background: transparent">
             <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
         </a>
-        <a class="right carousel-control" href="#myCarousel2" role="button" data-slide="next">
+        <a class="right carousel-control" href="#myCarousel2" role="button" data-slide="next" style="background: transparent">
             <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
         </a>

@@ -11,12 +11,6 @@
 
 
 
-    <!-- Google KeyWord -->
-
-    <meta name="keywords" content="online teen courses, global education, advanced learning, cambridge ma teen, boston startup, boston-based education, summer programs chinese" />
-
-
-
 </head>
 
 
@@ -24,6 +18,11 @@
 // include header
 include "header.php";
 ?>
+
+<!-- Google KeyWord -->
+
+<meta name="keywords" content="online teen courses, global education, advanced learning, cambridge ma teen, boston startup, boston-based education, summer programs chinese" />
+
 
 <body>
 

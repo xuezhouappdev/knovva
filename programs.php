@@ -142,7 +142,7 @@ include "header.php";
 
                 <div class="card_p">
                     <img src="image/program/digitalcross.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>The Digital Crossroads of East and West</b></h4>
+                    <h4><b>Model G20 Summer Program</b></h4>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science, International Affairs </p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Qingdao, China
                     </p>

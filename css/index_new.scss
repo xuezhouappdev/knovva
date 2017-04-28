@@ -255,8 +255,15 @@ div {
   }
 
   #myCarousel2 {
-    background: $primary;
+    background: lighten($primary,15%);
     color: white;
+
+    &>h4 {
+      text-align: center;
+      position: relative;
+      top:38px;
+
+    }
 
 
 
@@ -298,7 +305,17 @@ div {
 
     }
 
+    .carousel-control {
+       a {
+        background: transparent;
+       }
 
+      hr {
+        padding: 0;
+        margin: 0;
+        opacity: 0.6;
+      }
+    }
 
   }
 
