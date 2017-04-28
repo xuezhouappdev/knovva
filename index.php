@@ -16,7 +16,7 @@
 
 
 </head>
-<body >
+<body>
 
 
 <?php
@@ -241,8 +241,9 @@ include "header.php";
                 <div class="container">
                     <div class="row">
 
-                        <h4>"Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better." - Participant from Boston Latin School
-                        </h4><br>
+                        <h4>"Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better." <br><br>
+                            <h5>- Participant from Boston Latin School</h5>
+                        <br>
 
                     </div>
                 </div>
@@ -255,8 +256,19 @@ include "header.php";
 
 
 
-                        <h4>"They made learning fun and exciting! Knovva Academy showed something different, a different style of learning and discovering new concepts." - Participant from Fenway High School</h4><br>
+                        <h4>"They made learning fun and exciting! Knovva Academy showed something different, a different style of learning and discovering new concepts." </h4>
+                        <h5>- Participant from Fenway High School</h5><br>
 
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="container">
+                    <div class="row">
+                        <h4>"I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy." </h4>
+                        <h5>- Participant from Liuzhou High School</h5><br>
 
                     </div>
                 </div>
@@ -267,19 +279,8 @@ include "header.php";
                     <div class="row">
 
 
-
-                        <h4>"I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy." - Participant from Liuzhou High School</h4><br>
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="item">
-                <div class="container">
-                    <div class="row">
-
-
-                        <h4>"I’m always trying to find programs to improve myself because I want to make an impact to the world or the people around me. At Knovva Academy, I got to develop new practical skills, build connection with different cultures, and understand the responsibility of being a global citizen. Thank you everyone." - Participant from Dalian No. 24 High School</h4>
+                        <h4>"I’m always trying to find programs to improve myself because I want to make an impact to the world or the people around me. At Knovva Academy, I got to develop new practical skills, build connection with different cultures, and understand the responsibility of being a global citizen. Thank you everyone." </h4>
+                        <h5>- Participant from Dalian No. 24 High School</h5>
 
 
                     </div>
