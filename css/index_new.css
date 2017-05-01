@@ -73,6 +73,7 @@ div.programnew.jumbotron {
       margin: 16px auto 32px;
       text-align: center; }
   .programnew .container .row .col-md-5 .card {
+    border-radius: 10px;
     text-align: center;
     padding: 18px;
     background-color: rgba(128, 128, 128, 0.25);
