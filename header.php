@@ -92,7 +92,7 @@ SEPERATELY-->
         // this will get the full URL at the address bar
         var url = window.location.href;
         // passes on every "a" tag
-        $(".header ul >li:not(:last-child) >a").each(function() {
+        $(".header ul >li:not(:nth-last-child(2)) >a").each(function() {
             // checks if its the same on the address bar
             if(url === (this.href)) {
                 $(this).css({"color":"#6E539E","font-weight":"400"});
