@@ -56,19 +56,16 @@
             <div class="col-lg-4 footer-hours">
 
                 <ul>
-                    <li>Mon - Fri:   9:00am - 5:00pm</li>
-                    <li>Sat - Sun:   Closed</li>
+                    <li>Mon - Sun:   9:00am - 5:00pm</li>
+<!--                    <li>Sat - Sun:   Closed</li>-->
                 </ul>
 
                 <div class="col-lg-12 social" style="text-align: center">
-
                     <br>
-
                     <a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
                     <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                     <a href="https://www.youtube.com/channel/UCwkpuaI46XUopl9tNGli4fw"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
                     <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-
                 </div>
 
             </div>
@@ -77,7 +74,6 @@
 
 
         <div class="row">
-
             <div class="col-lg-12">
                 <h6>2017 Knovva Academy </h6>
             </div>
