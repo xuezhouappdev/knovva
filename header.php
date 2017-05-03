@@ -25,6 +25,10 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
     <script src="vendor/bootstrap-3.3.7/js/bootstrap.min.js"></script>
 
+    <link rel="icon"
+          type="image/png"
+          href="favicon.png">
+
 
 
 
@@ -62,9 +66,9 @@ SEPERATELY-->
                     </li>
 <!--                    <li><a href="webinar"> Webinar </a></li>-->
                     <li><a href="blog.php"> Blog</a></li>
-                    <li><a href="career"> Career </a></li>
+<!--                    <li><a href="career"> Career </a></li>-->
                     <li><a href="contact"> Contact </a></li>
-                    <li><a href="applicationform" style="background: #7c5eb2;padding: 8px 16px;border-radius: 5%;color: white"><i class="fa fa-hand-o-up" aria-hidden="true"></i>&nbsp;APPLY</a></li>
+                    <li ><a href="applicationform" style="color: white" class="cta">&nbsp;I'm Interested</a></li>
                     <li class="icon"><a href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
                 </ul>
 

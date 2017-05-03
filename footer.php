@@ -45,7 +45,7 @@
                    <li><a href="index">Home</a></li>
                     <li><a href="about">About</a></li>
                     <li><a href="programs">Programs</a></li>
-<!--                    <li><a href="career.php">Career</a></li>-->
+                    <li><a href="career.php">Career</a></li>
 
                    <!-- <li><a href="#">Blog</a></li>-->
                     <li><a href="contact">Contact</a></li>
@@ -55,8 +55,9 @@
             </div>
             <div class="col-lg-4 footer-hours">
 
+                <hr>
                 <ul>
-                    <li>Mon - Sun:   9:00am - 5:00pm</li>
+<!--                    <li>Mon - Sun:   9:00am - 5:00pm</li>-->
 <!--                    <li>Sat - Sun:   Closed</li>-->
                 </ul>
 

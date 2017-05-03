@@ -47,7 +47,8 @@ include "header.php";
                     left: 50%;
                     transform: translate(-50%, -50%);
                     color: white;'>
-                <h1 style="font-size:32px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 40px">Connect To The World<br>Connect To Your Future</h1>
+                <h1 style="font-size:30px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 40px">Modern Global Education Programs</h1>
+                <h4>Together, we can reinvent education for the 21st century</h4>
                 <a href="programs">DISCOVER MORE</a>
             </div>
         </div>

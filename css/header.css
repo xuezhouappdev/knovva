@@ -1,9 +1,5 @@
 /*font*/
 
-font-family{
-
-}
-
 
 a:hover {
     cursor: pointer;
@@ -57,6 +53,24 @@ a:hover {
     color:#6E539E;
     text-decoration: none;
 }
+
+
+.header li a.cta {
+    background: #7c5eb2;
+    padding: 8px 16px;
+    border-radius: 5%;
+    transition: all 0.3s linear;
+}
+
+
+
+.header li a.cta:hover {
+    background: #D874BD;
+
+}
+
+
+
 
 
 
