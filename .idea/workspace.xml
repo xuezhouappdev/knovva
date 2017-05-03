@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/.sass-cache/af8db7854e001350f04fd4616b2beb83bd47d229/index_new.scssc" afterPath="$PROJECT_DIR$/css/.sass-cache/af8db7854e001350f04fd4616b2beb83bd47d229/index_new.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favicon.png" afterPath="$PROJECT_DIR$/favicon.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/header.css" afterPath="$PROJECT_DIR$/css/header.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index_new.css" afterPath="$PROJECT_DIR$/css/index_new.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index_new.css.map" afterPath="$PROJECT_DIR$/css/index_new.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index_new.scss" afterPath="$PROJECT_DIR$/css/index_new.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,15 +71,15 @@
       <file leaf-file-name="index_new.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/index_new.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="420" column="1" lean-forward="false" selection-start-line="420" selection-start-column="1" selection-end-line="420" selection-end-column="1" />
+            <state relative-caret-position="97">
+              <caret line="411" column="35" lean-forward="true" selection-start-line="411" selection-start-column="35" selection-end-line="412" selection-end-column="20" />
               <folding>
                 <element signature="e#1055#1563#0" expanded="false" />
                 <element signature="e#2949#3731#0" expanded="false" />
                 <element signature="e#3995#4329#0" expanded="false" />
                 <element signature="e#4512#5040#0" expanded="false" />
                 <element signature="e#5057#5605#0" expanded="false" />
-                <element signature="e#6166#6562#0" expanded="false" />
+                <element signature="e#6165#6561#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -485,14 +477,7 @@
       <workItem from="1493268401024" duration="15211000" />
       <workItem from="1493387106530" duration="6484000" />
       <workItem from="1493651934470" duration="2198000" />
-      <workItem from="1493747160872" duration="4027000" />
-    </task>
-    <task id="LOCAL-00070" summary="update slider on the homepage">
-      <created>1491407506071</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1491407506071</updated>
+      <workItem from="1493747160872" duration="4413000" />
     </task>
     <task id="LOCAL-00071" summary="update slider on the homepage">
       <created>1491415933730</created>
@@ -830,11 +815,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493750031008</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="updated favicon and header cta">
+      <created>1493833090420</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1493833090420</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="446430000" />
+    <option name="totallyTimeSpent" value="446816000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -911,7 +903,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="replaced the index page" />
     <MESSAGE value="updated the blog" />
     <MESSAGE value="updated" />
     <MESSAGE value="updated GA" />
@@ -936,7 +927,8 @@
     <MESSAGE value="updated new application form and header active status" />
     <MESSAGE value="updated footer time" />
     <MESSAGE value="updated online live chat API on index page" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated online live chat API on index page" />
+    <MESSAGE value="updated favicon and header cta" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated favicon and header cta" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1301,15 +1293,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index_new.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="420" column="1" lean-forward="false" selection-start-line="420" selection-start-column="1" selection-end-line="420" selection-end-column="1" />
+        <state relative-caret-position="97">
+          <caret line="411" column="35" lean-forward="true" selection-start-line="411" selection-start-column="35" selection-end-line="412" selection-end-column="20" />
           <folding>
             <element signature="e#1055#1563#0" expanded="false" />
             <element signature="e#2949#3731#0" expanded="false" />
             <element signature="e#3995#4329#0" expanded="false" />
             <element signature="e#4512#5040#0" expanded="false" />
             <element signature="e#5057#5605#0" expanded="false" />
-            <element signature="e#6166#6562#0" expanded="false" />
+            <element signature="e#6165#6561#0" expanded="false" />
           </folding>
         </state>
       </provider>
