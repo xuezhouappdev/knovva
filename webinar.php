@@ -8,22 +8,12 @@
 
 
 
-
-
-    <?php
-    include "header.php";
-    ?>
-
     <!-- CS -->
     <link rel="stylesheet" href="css/livestream.css">
-
-    <!--ainimate -->
-    <link rel="stylesheet" href="vendor/animate/animate.css">
 
     <!-- lightbox -->
     <link rel="stylesheet" href="vendor/fancybox-3.0/dist/jquery.fancybox.min.css" />
     <script src="vendor/fancybox-3.0/dist/jquery.fancybox.js"></script>
-
 
 
     <!-- Google KeyWord -->
@@ -32,8 +22,12 @@
 
 
 </head>
-<body >
 
+<?php
+include "header.php";
+?>
+
+<body >
 
 
 

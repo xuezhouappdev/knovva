@@ -16,12 +16,13 @@
 
 
 </head>
-<body>
-
-
 <?php
 include "header.php";
 ?>
+
+<body>
+
+
 
 
 <!-- top slider -->

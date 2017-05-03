@@ -10,13 +10,14 @@
     <meta name="keywords" content="keyword1, keyword2, keyword3" />
 
 </head>
-
-<body>
-
 <?php
 // include header
 include "header.php";
 ?>
+
+
+<body>
+
 
 
 
