@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
     </list>
@@ -36,11 +35,11 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="255">
               <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#3217#3223#0#HTML" expanded="true" />
+                <element signature="e#3259#3265#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -249,8 +248,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-192" />
-    <option name="y" value="64" />
+    <option name="x" value="2" />
+    <option name="y" value="60" />
     <option name="width" value="1280" />
     <option name="height" value="607" />
   </component>
@@ -478,14 +477,7 @@
       <workItem from="1493268401024" duration="15211000" />
       <workItem from="1493387106530" duration="6484000" />
       <workItem from="1493651934470" duration="2198000" />
-      <workItem from="1493747160872" duration="4824000" />
-    </task>
-    <task id="LOCAL-00073" summary="update slider on the homepage">
-      <created>1491435875686</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1491435875687</updated>
+      <workItem from="1493747160872" duration="5026000" />
     </task>
     <task id="LOCAL-00074" summary="changed the line height">
       <created>1491436737137</created>
@@ -823,11 +815,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493833850901</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="updated favicon">
+      <created>1493834145818</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1493834145818</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="447227000" />
+    <option name="totallyTimeSpent" value="447429000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -839,7 +838,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-192" y="64" width="1280" height="607" extended-state="0" />
+    <frame x="2" y="60" width="1280" height="607" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32605177" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
@@ -1298,11 +1297,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="255">
           <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3217#3223#0#HTML" expanded="true" />
+            <element signature="e#3259#3265#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
