@@ -248,8 +248,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="y" value="59" />
+    <option name="x" value="90" />
+    <option name="y" value="62" />
     <option name="width" value="1280" />
     <option name="height" value="607" />
   </component>
@@ -477,14 +477,7 @@
       <workItem from="1493268401024" duration="15211000" />
       <workItem from="1493387106530" duration="6484000" />
       <workItem from="1493651934470" duration="2198000" />
-      <workItem from="1493747160872" duration="4413000" />
-    </task>
-    <task id="LOCAL-00071" summary="update slider on the homepage">
-      <created>1491415933730</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1491415933730</updated>
+      <workItem from="1493747160872" duration="4560000" />
     </task>
     <task id="LOCAL-00072" summary="update slider on the homepage">
       <created>1491416082333</created>
@@ -822,11 +815,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493833090420</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="updated favicon">
+      <created>1493833712214</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1493833712214</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="446816000" />
+    <option name="totallyTimeSpent" value="446963000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -838,7 +838,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="59" width="1280" height="607" extended-state="0" />
+    <frame x="90" y="62" width="1280" height="607" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32605177" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
@@ -903,7 +903,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="updated the blog" />
     <MESSAGE value="updated" />
     <MESSAGE value="updated GA" />
     <MESSAGE value="updaed email" />
@@ -928,7 +927,8 @@
     <MESSAGE value="updated footer time" />
     <MESSAGE value="updated online live chat API on index page" />
     <MESSAGE value="updated favicon and header cta" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated favicon and header cta" />
+    <MESSAGE value="updated favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated favicon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
