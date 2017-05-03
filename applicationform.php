@@ -6,13 +6,14 @@
     </title>
 
 </head>
-
-<body>
-
 <?php
 // include header
 include "header.php";
 ?>
+
+
+<body>
+
 
 
 
