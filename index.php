@@ -334,20 +334,20 @@ include "header.php";
                     <div class="container">
                         <div class="row">
                             <div class="col-md-3">
-                                <img class="img-responsive img img-thumbnail" src="image/post/cambridge.jpg">
+                                <a href="http://finance.yahoo.com/news/cambridge-education-foundation-attracts-big-120100747.html"><img class="img-responsive img img-thumbnail" src="image/post/cambridge.jpg"></a>
                                 <p><a href="http://finance.yahoo.com/news/cambridge-education-foundation-attracts-big-120100747.html">Cambridge Education Foundation Attracts Big Names and International Students</a></p>
                             </div>
                             <div class="col-md-3">
-                                <img class="img-responsive img img-thumbnail" src="image/post/fenway.jpg">
-                                <p><a href="http://www.fenwayhs.org/2017/02/28/fenway-students-at-2017-model-g20-summit/">Fenway Students at 2017 Model G20 Summit</a></p>
+                                <a href="http://www.fenwayhs.org/2017/02/28/fenway-students-at-2017-model-g20-summit/"><img class="img-responsive img img-thumbnail" src="image/post/fenway.jpg"></a>
+                                <p><a >Fenway Students at 2017 Model G20 Summit</a></p>
                             </div>
                             <div class="col-md-3">
-                                <img class="img-responsive img img-thumbnail" src="image/post/5g20.jpg">
-                                <p><a href="http://www.bls.org/apps/news/show_news.jsp?REC_ID=442233&id=10">Five Students Participate in Model G20 Summit</a></p>
+                                <a href="http://www.bls.org/apps/news/show_news.jsp?REC_ID=442233&id=10"><img class="img-responsive img img-thumbnail" src="image/post/5g20.jpg"></a>
+                                <p><a >Five Students Participate in Model G20 Summit</a></p>
                             </div>
                             <div class="col-md-3">
-                                <img class="img-responsive img img-thumbnail" src="image/post/triptochina.jpg">
-                                <p><a href="http://www.modelg20.org/single-post/2016/12/12/Our-Inspiration-Trip-to-China">Our Inspirational Trip to China</a></p>
+                                <a href="http://www.modelg20.org/single-post/2016/12/12/Our-Inspiration-Trip-to-China"><img class="img-responsive img img-thumbnail" src="image/post/triptochina.jpg"></a>
+                                <p><a >Our Inspirational Trip to China</a></p>
                             </div>
                         </div>
                     </div>
