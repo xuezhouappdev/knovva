@@ -55,42 +55,20 @@ include "header.php";
         <div class="row">
             <div class="col-md-3">
                 <div class="card_p">
-                    <img src="image/program/sie.jpg" alt="Avatar" style="width:100%" class="img img-responsive">
-                    <div class="sie-overlay" style="position: absolute;top:64px;left:0;padding:16px;background: #6E539E;transition: 0.5s linear;opacity:0;margin:0 15px">
-                          <p style="text-align: justify;color:white;margin-left:0">This course is also available for blended learning. It includes a combination of interactive online and blended year-long courses.</p>
-                    </div>
-                    <h4 style="position: absolute;top:-7px;left:-9px"  id="hbr-btn"><span class="label label-primary" style="background: #6E539E;padding: 6px 16px;border-radius: 0;font-style:italic">BLENDED LEARNING</span></h4></h4>
-
-                    <h4><b>Social Impact and Entrepreneurship</b></h4>
-
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>Subject: &nbsp;</span>Business, Social Science</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, USA&nbsp;|<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qingdao, China &nbsp|&nbsp <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online<br>
-
+                    <img src="image/program/digitalcross.jpg" alt="Avatar" style="width:100%">
+                    <h4><b>Model G20 Summer Program</b></h4>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science, International Affairs </p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Qingdao, China
                     </p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>Spring 2017 - Spring 2018 </p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>Aug 8th - 18th, 2017</p>
                     <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
 
 
-                    <h5 style="text-align: center"><a href="program-entrepreneurship" class="button_p">Read More</a></h5>
 
-                    <script>
-                        $(document).ready(function(){
-
-                            $("#hbr-btn").hover(function(){
-                                $(".sie-overlay").css("opacity", "0.8");
-                            }, function(){
-                                $(".sie-overlay").css("opacity", "0");
-                            });
-
-
-                        });
-
-
-
-
-                    </script>
-
+                    <br>
+                    <h5 style="text-align: center"> <a href="program-digitalcrossroads" class="button_p">Read More</a></h5>
                 </div>
+
             </div>
 
 
@@ -135,22 +113,42 @@ include "header.php";
             </div>
 
             <div class="col-md-3">
-
-
-
                 <div class="card_p">
-                    <img src="image/program/digitalcross.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>Model G20 Summer Program</b></h4>
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science, International Affairs </p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Qingdao, China
+                    <img src="image/program/sie.jpg" alt="Avatar" style="width:100%" class="img img-responsive">
+                    <div class="sie-overlay" style="position: absolute;top:64px;left:0;padding:16px;background: #6E539E;transition: 0.5s linear;opacity:0;margin:0 15px">
+                        <p style="text-align: justify;color:white;margin-left:0">This course is also available for blended learning. It includes a combination of interactive online and blended year-long courses.</p>
+                    </div>
+                    <h4 style="position: absolute;top:-7px;left:-9px"  id="hbr-btn"><span class="label label-primary" style="background: #6E539E;padding: 6px 16px;border-radius: 0;font-style:italic">BLENDED LEARNING</span></h4></h4>
+
+                    <h4><b>Social Impact and Entrepreneurship</b></h4>
+
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>Subject: &nbsp;</span>Business, Social Science</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Cambridge, USA&nbsp;|<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qingdao, China &nbsp|&nbsp <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online<br>
+
                     </p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>Aug 8th - 18th, 2017</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>Spring 2017 - Spring 2018 </p>
                     <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
 
 
+                    <h5 style="text-align: center"><a href="program-entrepreneurship" class="button_p">Read More</a></h5>
 
-                    <br>
-                    <h5 style="text-align: center"> <a href="program-digitalcrossroads" class="button_p">Read More</a></h5>
+                    <script>
+                        $(document).ready(function(){
+
+                            $("#hbr-btn").hover(function(){
+                                $(".sie-overlay").css("opacity", "0.8");
+                            }, function(){
+                                $(".sie-overlay").css("opacity", "0");
+                            });
+
+
+                        });
+
+
+
+
+                    </script>
+
                 </div>
             </div>
 

@@ -27,16 +27,11 @@
         </div>
         <div class="row ">
             <div class="col-lg-4 footer-address">
-
-
                 <ul>
                     <li><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp&nbsp&nbsp<P><a href="https://www.google.com/maps/place/222+Third+St,+Cambridge,+MA+02142/@42.367156,-71.0823859,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370bb6afb650b:0x7bf7a9af0f3613cd!8m2!3d42.3671521!4d-71.0801972" target="_blank">222 3rd Street, 3150, Cambridge, MA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02142</a></P></li>
                     <li><i class="fa fa-phone" aria-hidden="true"></i>&nbsp&nbsp<p><a href="callto:6175777770">617-577-7770</a></p> </li>
                     <li> <i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp<p><a href="mailto:info@knovva.com">&nbsp;info@knovva.com</a></p> </li>
-
                 </ul>
-
-
             </div>
 
             <div class="col-lg-4 footer-links">
@@ -54,7 +49,6 @@
 
             </div>
             <div class="col-lg-4 footer-hours">
-
                 <hr>
                 <ul>
 <!--                    <li>Mon - Sun:   9:00am - 5:00pm</li>-->

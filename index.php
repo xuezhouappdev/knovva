@@ -35,6 +35,7 @@ include "header.php";
 
         <div class="item active" style='
         background: url("image/skyatlas2.jpeg") center center no-repeat;
+
         min-height: 100vh;
         width: 100%;
         -webkit-background-size: cover;
