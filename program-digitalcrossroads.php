@@ -165,109 +165,141 @@ include "header.php";
 
         <div class="tab-content">
             <div id="menu1" class="tab-pane fade in active">
-                <p>Arrive into Beijing, settle into hotels.</p>
+                <div class="wrapper">
+                        <h5>Day 1 (Aug. 7-8)</h5>
+                        <p>Arrive into Beijing, settle into hotels. Students participate in ice-breaker activities, learning more deeply about each other and program staff. Students explore historical and political sites around Beijing, such as the forbidden city and the Summer Palace.
+                        </p>
+
+                </div>
             </div>
 
             <div id="menu2" class="tab-pane fade">
-                <p>Students participate in ice-breaker activities, learning more deeply about each other and program staff. American students will be provided with their cameras and introduction to the final project. Students will start by visiting important historical and political sites around Beijing, such as the forbidden city and the Summer Palace. </p>
+                <div class="wrapper">
+                    <h5>Day 2 (Aug 9)
+                    </h5>
+                    <p>Explore Beijing urban parks and learn about the Chinese government’s history and relationship to environmental initiatives. Students will also be offered a short primer on conversational Mandarin. Additionally, they will venture into the old city, and enjoy traditional Beijing dishes. </p>
+
+                </div>
+
             </div>
 
             <div id="menu3" class="tab-pane fade">
+                <div class="wrapper">
+                    <h5>Day 3 (Aug 10)
 
-                <p>Students will visit Tsinghua University, the MIT of China, and hear lectures from scholars on the historical, social and political development of the country. Students will also be offered a short primer on conversational Mandarin. Additionally, they will venture into the old city, and enjoy traditional Beijing dishes. </p>
+                    </h5>
+                    <p>Students will visit Tsinghua University, the MIT of China, and hear lectures from scholars on the historical, social and political development of the country. They will learn about current academic research and initiatives addressing national and international environmental issues in the country’s capital. </p>
+
+                </div>
+
             </div>
 
             <div id="menu4" class="tab-pane fade">
 
-                <p>
-                    Qingdao is the next stop; flying over in the morning and settling into their new dorms for the coming week. Students will tour the partner school and campus. Students meet with fellow Chinese students, for a dinner and meet-and greet activities. First workshop on storytelling will be offered.
-                </p>
+                <div class="wrapper">
+                    <h5>Day 4 (Aug 11)
+
+                    </h5>
+                    <p>Qingdao is the next stop; flying over in the morning and settling into their new dorms for the coming week. Students will tour the partner school and campus. Students meet with fellow Chinese students for a dinner and meet-and greet activities. Reflection on MG20 and global cooperation, and students will be introduced to the final project goals for summer seminar. </p>
+                </div>
+
             </div>
 
             <div id="menu5" class="tab-pane fade">
 
-                <p>Starting with the cultural roots of these societies, students will participate in classes exploring the cultural foundations of their respective nations. They will take a day-trip to explore the birthplace of Taosim on Mount Lao, and learn about the historical roots of Chinese culture. A scholarly presentation in the evening will look at the parallel influence of ancient Greek Philosophy and Christianity in the west-- the underlying stories of our societies. </p>
+                <div class="wrapper">
+                    <h5>Day 5 (Aug 12)
+                    </h5>
+                    <p>Students will take a day-trip to explore the birthplace of Daosim on Mount Lao, and learn about the historical roots of Chinese understanding of nature. Along the way students will be able to learn about the local flora and fauna of the region.
+                    </p>
+
+                </div>
+
             </div>
 
             <div id="menu6" class="tab-pane fade">
+                <div class="wrapper">
+                    <h5>Day 6 (Aug 13)
+                    </h5>
+                    <p>Students will visit Zhanshan Temple, and learn about traditional Buddhist approaches to the environment. Additional studies will focus on Buddhist environmental writings and literature on environmental ethics. In addition, students will explore the former German Colony and learn about the German-colonial and Protestant lens of nature.</p>
 
-                <p>Valuing the arts, cultural expression, contemporary and ancient, students will explore both the theory of traditional Chinese art and its place in contemporary society; this will include an exploration of the art and architecture of Zhanshan Temple. The meaning of expression will be explored in eastern and western context. Students will continue to explore the meaning of stories across different mediums, and they will begin tinkering with multimedia tools and exploring how their own stories can be expressed. </p>
+                </div>
+
             </div>
 
             <div id="menu7" class="tab-pane fade">
+                <div class="wrapper">
+                    <h5>Day 7 (Aug 14)
 
-                <p>
-                    Students will start their day with lectures on the intersection between China and the western world. Particular focus will concentrate on on the city of Qingdao, and will include a tour of the city’s downtown. Focus will be on the economic and cultural interchange, for future promise and concern. Students will be invited to spend more time filming, photographing, and capturing the realities on the ground. Evening discussion will offer an opportunity to find common parallels between Qingdao and Boston, MA. For dinner, students will enjoy local Qingdao food.
-                </p>
+                    </h5>
+                    <p>Students will tour of the city’s downtown, focus on the economic vitality of the port city. Students will be introduced to its centrality of marine economies, fisheries, and policy affecting both the economy and environment of the region. They’ll learn about the challenges of marine ecology and its interconnection to the marine economy.  For dinner, students will enjoy local seafood.
+                    </p>
+
+                </div>
+
             </div>
 
             <div id="menu8" class="tab-pane fade">
+                <div class="wrapper">
+                    <h5>Day 8 (Aug 15)
 
-                <p>Next, the group will visit the Badaguan Scenic Area, and enjoy the beautiful comforts of coastal China. Additionally, they take this time to learn about the environmental beauties and challenges facing the region. How is the drinking water? The fisheries? The forests?  Students will learn from local nonprofit leaders about the work they’re doing to support the present environmental challenges of the region and its relationship to global interests.  </p>
+                    </h5>
+                    <p>Next, the group will visit the Badaguan Scenic Area, and enjoy the beautiful comforts of coastal China. They will learn from leading experts of water and marine wildlife to understand what lies behind the beautify of the site. They additionally will hear from local policy experts on the importance of maintaining an environmentally protected and tourist destination, like this one.
+                    </p>
+
+                </div>
+
             </div>
 
             <div id="menu9" class="tab-pane fade">
+                <div class="wrapper">
+                    <h5>Day 9 (Aug 16)
 
-                <p>Intensive digital storytelling workshops will be offered-- how to use different types of picture and video editing tools, and the underlying structures of stories. There will be special allotted time made for collaboration between international cohorts to collaborate in their chosen medium. A fun evening around campus will include a BBQ dinner and storytelling session. </p>
+                    </h5>
+                    <p>Students will spend time with scholars from China Ocean University, learning about local conservation trends in the field and efforts by local and national government to affect local environment. Open discussion will analyze how national and international policy influences the environmental reality of Qingdao.
+                    </p>
+
+                </div>
+
             </div>
 
             <div id="menu10" class="tab-pane fade">
+                <div class="wrapper">
+                    <h5>Day 10 (Aug 17)
 
-                <p>A final day of digital workshopping and storytelling creation. A closing dinner with final presentations, and then final goodbyes before packing up and heading back east. </p>
+                    </h5>
+                    <p>Students will learn in workshops about traditional and digital storytelling. There will be special allotted time made for collaboration between international cohorts to collaborate in their chosen medium to tell a story about sustainability. A fun evening around campus will include a BBQ dinner and storytelling session. </p>
+
+                </div>
+
             </div>
 
             <div id="menu11" class="tab-pane fade">
+                <div class="wrapper">
+                    <h5>Day 11 (Aug 18)
+                    </h5>
+                    <p>A final day of digital workshopping and storytelling creation. Students will present their concerns and suggestion to a final panelist of Chinese researchers and policy thinkers to affect global sustainability. A closing dinner and then final goodbyes before packing up and heading back west.
+                    </p>
 
-                <p>Quick stop, Beijing, and then back the States to retell the compelling stories of their time in Qingdao.</p>
+                </div>
+
+            </div>
+
+            <div id="menu12" class="tab-pane fade">
+                <div class="wrapper">
+                    <h5>Day 12 (Aug 19)
+
+                    </h5>
+                    <p> Quick stop, Beijing, and then back the States to retell the compelling stories of Qingdao and work to support the health of our planet.
+                    </p>
+
+                </div>
+
             </div>
         </div>
     </div>
 </div>
 
-
-
-
-<!-- FEATURES-->
-<!--<div class="features section">-->
-<!--    <div class="container">-->
-<!--        <div class="row">-->
-<!--            <h2>YOUR EXPERIENCE INCLUDES</h2>-->
-<!--        </div>-->
-<!---->
-<!--        <div class="row">-->
-<!--            <div class="col-md-3">-->
-<!--                <img src="image/icon/icon-explore.png" class="img img-responsive">-->
-<!--                <h4><Span>Explore</Span>&nbsp;the principles of engineering and robotics first-hand-->
-<!---->
-<!--                </h4>-->
-<!--            </div>-->
-<!--            <div class="col-md-3">-->
-<!--                <img src="image/icon/icon-connect.png" class="img img-responsive">-->
-<!--                <h4><Span>Connect </Span>&nbsp; with a peer network passionate about creative construction-->
-<!---->
-<!---->
-<!---->
-<!--                </h4>-->
-<!--            </div>-->
-<!--            <div class="col-md-3">-->
-<!--                <img src="image/icon/icon-learn.png" class="img img-responsive">-->
-<!--                <h4><Span>Learn</Span>&nbsp;practical soft-skills that facilitate the process of engineering-->
-<!---->
-<!---->
-<!--                </h4>-->
-<!--            </div>-->
-<!--            <div class="col-md-3">-->
-<!--                <img src="image/icon/icon-build.png" class="img img-responsive">-->
-<!--                <h4><Span>Build</Span>&nbsp;something! And have fun while you do it-->
-<!---->
-<!---->
-<!--                </h4>-->
-<!--            </div>-->
-<!---->
-<!---->
-<!--        </div>-->
-<!--    </div>-->
-<!--</div>-->
 
 
 
