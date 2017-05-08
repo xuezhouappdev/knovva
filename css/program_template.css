@@ -386,6 +386,43 @@ body > div.about.section > div > div > div.col-md-5 > div {
 }
 
 
+/*GALLERY */
+.gallery .container h3 {
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+
+/*testomonial */
+.testimonial h2 {
+    text-align: center;
+    margin-bottom: 64px; }
+.testimonial #myCarousel2 {
+    background: #9681bd;
+    color: white; }
+.testimonial #myCarousel2 > h4 {
+    text-align: center;
+    position: relative;
+    top: 38px; }
+.testimonial #myCarousel2 .carousel-inner .container {
+    padding: 48px 88px;
+    text-align: center; }
+.testimonial #myCarousel2 .carousel-inner .container [class*="col-"] {
+    padding: 24px; }
+.testimonial #myCarousel2 .carousel-inner .container h4 {
+    padding: 8px 16px;
+    font-weight: normal;
+    line-height: 26px; }
+.testimonial #myCarousel2 .carousel-inner .container p {
+    text-align: center; }
+.testimonial #myCarousel2 .carousel-control a {
+    background: transparent; }
+.testimonial #myCarousel2 .carousel-control hr {
+    padding: 0;
+    margin: 0;
+    opacity: 0.6; }
+
+
 
 
 

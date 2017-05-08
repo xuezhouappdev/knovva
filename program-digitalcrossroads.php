@@ -11,6 +11,9 @@
     <link rel="stylesheet" href="css/program_template.css">
     <meta name="keywords" content="" />
 
+    <!-- LightWidget WIDGET -->
+    <script src="//lightwidget.com/widgets/lightwidget.js"></script>
+
 </head>
 
 
@@ -302,6 +305,114 @@ include "header.php";
 
 
 
+
+
+<!-- Testimonial -->
+<div class="testimonial section">
+
+    <div id="myCarousel2" class="carousel slide home-slider" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel2" data-slide-to="1"></li>
+            <li data-target="#myCarousel2" data-slide-to="2"></li>
+
+        </ol>
+
+        <h4 style="">- WHAT OUR STUDENTS SAY - </h4>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+
+
+
+            <div class="item active">
+                <div class="container">
+
+
+                    <div class="row">
+
+                        <h4>"The first minute I walked in, as soon as it started, there was a speech, and that speech sent shivers down my spine." <br>
+                            <h5>- Adelene J. </h5>
+                            <br>
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="item">
+                <div class="container">
+
+                    <div class="row">
+
+
+
+                        <h4>"It’s a beautiful opportunity that GiantBug Foundation gives young high school students to meet new people." </h4>
+                        <h5>- Federico R. </h5><br>
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="container">
+
+                    <div class="row">
+                        <h4>"I can't express enough that these skills are crucial for negotiation." </h4>
+                        <h5>- Zhuofan B.</h5><br>
+
+                    </div>
+                </div>
+            </div>
+
+<!--            <div class="item">-->
+<!--                <div class="container">-->
+<!---->
+<!--                    <div class="row">-->
+<!--                        <div class="col-md-4 col-md-offset-2">-->
+<!--                            <img src="http://placehold.it/100x100" alt="Avatar" class="img img-responsive">-->
+<!--                        </div>-->
+<!--                        <div class="col-md-8">-->
+<!--                            <p><span>Chris Fox.</span> CEO at Mighty Schools.</p>-->
+<!--                            <p>John Doe saved us from a web disaster.</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!---->
+<!---->
+<!---->
+<!--                </div>-->
+<!--            </div>-->
+
+
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel2" role="button" data-slide="prev" style="background: transparent">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel2" role="button" data-slide="next" style="background: transparent">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+</div>
+
+
+
+<!-- gallery -->
+<div class="gallery section" >
+    <div class="container">
+
+        <iframe  src="//lightwidget.com/widgets/80186830546957d39a1e253b799113ad.html" scrolling="no" allowtransparency="true" class="lightwidget-widget"
+                 style="width: 55%; border: 0; overflow: hidden; margin: 0px auto;display: block">
+        </iframe>
+
+    </div>
+
+</div>
 
 
 
