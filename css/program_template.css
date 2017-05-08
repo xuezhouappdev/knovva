@@ -377,6 +377,7 @@ body > div.about.section > div > div > div.col-md-5 > div {
     box-shadow: 2px 2px 20px 2px rgba(110, 83, 158, 0.27);
     width: 85%;
     margin: 32px auto 16px;
+    border-radius: 0px 15px 0px 15px;
 }
 
 

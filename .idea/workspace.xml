@@ -102,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/css/program_template.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="301">
-              <caret line="377" column="13" lean-forward="false" selection-start-line="377" selection-start-column="13" selection-end-line="377" selection-end-column="13" />
+              <caret line="379" column="34" lean-forward="false" selection-start-line="379" selection-start-column="34" selection-end-line="379" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -488,14 +488,7 @@
       <workItem from="1493747160872" duration="6809000" />
       <workItem from="1493909996150" duration="12980000" />
       <workItem from="1494250439053" duration="2101000" />
-      <workItem from="1494266708886" duration="1931000" />
-    </task>
-    <task id="LOCAL-00085" summary="updated">
-      <created>1491838303324</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1491838303324</updated>
+      <workItem from="1494266708886" duration="2375000" />
     </task>
     <task id="LOCAL-00086" summary="updated GA">
       <created>1491839309987</created>
@@ -833,11 +826,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494269981999</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="updated the agendar for g20 program">
+      <created>1494270218473</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1494270218473</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="466224000" />
+    <option name="totallyTimeSpent" value="466668000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1312,7 +1312,7 @@
     <entry file="file://$PROJECT_DIR$/css/program_template.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
-          <caret line="377" column="13" lean-forward="false" selection-start-line="377" selection-start-column="13" selection-end-line="377" selection-end-column="13" />
+          <caret line="379" column="34" lean-forward="false" selection-start-line="379" selection-start-column="34" selection-end-line="379" selection-end-column="34" />
           <folding />
         </state>
       </provider>
