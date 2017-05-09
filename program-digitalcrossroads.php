@@ -26,22 +26,40 @@ include "header.php";
 
 <!--CS-->
 
-<div class="intro section" id="banner" style="background:url('image/program/digitalcross.jpg');  background-size: cover;width: 100%;
-    background-position: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
+<div class="video-wrapper">
+    <div class="video-container">
+        <video preload="auto" autoplay="autoplay" loop ="loop"  poster="image/program/digitalcross.jpg" width="100%" muted>
+            <source src="video/g20-landing.mp4" type="video/mp4">
+        </video><!-- end of video-->
+    </div> <!-- end of video container-->
 
-    -o-background-size: cover;">
-    <div class="container">
-        <div class="row">
-
-            <div class="intro-text">
-                <h1>Model G20 Summer Program</h1>
-                <a href="contact">Request for More Information</a>
-            </div>
+    <div class="text-container" style="position: absolute;top:0;left:0;width: 100%">
+        <div class="container intro-text">
+            <h1 style="text-align: center;margin-top: 8%">Model G20 Summer Program</h1>
+            <a style="text-align: center; " href="contact">Request for More Information</a>
         </div>
     </div>
 </div>
+
+
+
+
+
+<!--<div class="intro section" id="banner" style="background:url('image/program/digitalcross.jpg');  background-size: cover;width: 100%;-->
+<!--    background-position: center;-->
+<!--    -webkit-background-size: cover;-->
+<!--    -moz-background-size: cover;-->
+<!--    -o-background-size: cover;">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!---->
+<!--            <div class="intro-text">-->
+<!--                <h1>Model G20 Summer Program</h1>-->
+<!--                <a href="contact">Request for More Information</a>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
 
 
 
