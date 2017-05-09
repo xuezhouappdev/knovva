@@ -361,7 +361,7 @@ include "header.php";
                         </div>
 
                         <div class="col-md-9">
-                            <h4>"It’s a beautiful opportunity that GiantBug Foundation gives young high school students to meet new people." </h4>
+                            <h4>"It’s a beautiful opportunity that Knovva Academy gives young high school students to meet new people." </h4>
                             <h5> - Federico R. </h5>
                         </div>
 
