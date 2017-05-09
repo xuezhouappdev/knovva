@@ -168,7 +168,6 @@ include "header.php";
 
         <div class="daylist col-md-12" style="text-align: center">
             <ul class="nav nav-pills" style="display: inline-block;">
-
                 <li class="active"><a data-toggle="pill" href="#menu1">Day 1</a></li>
                 <li><a data-toggle="pill" href="#menu2">Day 2</a></li>
                 <li><a data-toggle="pill" href="#menu3">Day 3</a></li>
@@ -190,7 +189,6 @@ include "header.php";
                         <h5>Day 1 (Aug. 7-8)</h5>
                         <p>Arrive into Beijing, settle into hotels. Students participate in ice-breaker activities, learning more deeply about each other and program staff. Students explore historical and political sites around Beijing, such as the forbidden city and the Summer Palace.
                         </p>
-
                 </div>
             </div>
 
@@ -199,7 +197,6 @@ include "header.php";
                     <h5>Day 2 (Aug 9)
                     </h5>
                     <p>Explore Beijing urban parks and learn about the Chinese government’s history and relationship to environmental initiatives. Students will also be offered a short primer on conversational Mandarin. Additionally, they will venture into the old city, and enjoy traditional Beijing dishes. </p>
-
                 </div>
 
             </div>
@@ -243,7 +240,6 @@ include "header.php";
                     <h5>Day 6 (Aug 13)
                     </h5>
                     <p>Students will visit Zhanshan Temple, and learn about traditional Buddhist approaches to the environment. Additional studies will focus on Buddhist environmental writings and literature on environmental ethics. In addition, students will explore the former German Colony and learn about the German-colonial and Protestant lens of nature.</p>
-
                 </div>
 
             </div>
@@ -251,11 +247,9 @@ include "header.php";
             <div id="menu7" class="tab-pane fade">
                 <div class="wrapper">
                     <h5>Day 7 (Aug 14)
-
                     </h5>
                     <p>Students will tour of the city’s downtown, focus on the economic vitality of the port city. Students will be introduced to its centrality of marine economies, fisheries, and policy affecting both the economy and environment of the region. They’ll learn about the challenges of marine ecology and its interconnection to the marine economy.  For dinner, students will enjoy local seafood.
                     </p>
-
                 </div>
 
             </div>
@@ -263,11 +257,9 @@ include "header.php";
             <div id="menu8" class="tab-pane fade">
                 <div class="wrapper">
                     <h5>Day 8 (Aug 15)
-
                     </h5>
                     <p>Next, the group will visit the Badaguan Scenic Area, and enjoy the beautiful comforts of coastal China. They will learn from leading experts of water and marine wildlife to understand what lies behind the beautify of the site. They additionally will hear from local policy experts on the importance of maintaining an environmentally protected and tourist destination, like this one.
                     </p>
-
                 </div>
 
             </div>
@@ -275,11 +267,9 @@ include "header.php";
             <div id="menu9" class="tab-pane fade">
                 <div class="wrapper">
                     <h5>Day 9 (Aug 16)
-
                     </h5>
                     <p>Students will spend time with scholars from China Ocean University, learning about local conservation trends in the field and efforts by local and national government to affect local environment. Open discussion will analyze how national and international policy influences the environmental reality of Qingdao.
                     </p>
-
                 </div>
 
             </div>
@@ -337,7 +327,7 @@ include "header.php";
 
         </ol>
 
-        <h4 style="">- WHAT OUR STUDENTS SAY - </h4>
+
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
@@ -347,39 +337,53 @@ include "header.php";
             <div class="item active">
                 <div class="container">
 
+                    <div class="row" style="padding: 8px 64px">
+                        <div class="col-md-3" style="text-align: center">
+                            <img class="img img-responsive img-rounded" src="http://placehold.it/120x120" style="margin: 0 auto">
+                        </div>
 
-                    <div class="row">
+                        <div class="col-md-9">
+                            <h4>"The first minute I walked in, as soon as it started, there was a speech, and that speech sent shivers down my spine."</h4>
+                            <h5>- Adelene J.</h5>
+                        </div>
 
-                        <h4>"The first minute I walked in, as soon as it started, there was a speech, and that speech sent shivers down my spine." <br>
-                            <h5>- Adelene J. </h5>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="item">
+                <div class="container">
+
+                    <div class="row" style="padding: 8px 64px">
+                        <div class="col-md-3" style="text-align: center">
+                            <img class="img img-responsive img-rounded" src="http://placehold.it/120x120" style="margin: 0 auto">
+                        </div>
+
+                        <div class="col-md-9">
+                            <h4>"It’s a beautiful opportunity that GiantBug Foundation gives young high school students to meet new people." </h4>
+                            <h5> - Federico R. </h5>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="container">
+
+                    <div class="row" style="padding: 8px 64px">
+                        <div class="col-md-3" style="text-align: center">
+                            <img class="img img-responsive img-rounded" src="http://placehold.it/120x120" style="margin: 0 auto">
+                        </div>
+
+                        <div class="col-md-9">
+
+                            <h4>"I can't express enough that these skills are crucial for negotiation." </h4>
                             <br>
-
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="item">
-                <div class="container">
-
-                    <div class="row">
-
-
-
-                        <h4>"It’s a beautiful opportunity that GiantBug Foundation gives young high school students to meet new people." </h4>
-                        <h5>- Federico R. </h5><br>
-
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="item">
-                <div class="container">
-
-                    <div class="row">
-                        <h4>"I can't express enough that these skills are crucial for negotiation." </h4>
-                        <h5>- Zhuofan B.</h5><br>
+                            <h5>- Zhuofan B.</h5>
+                        </div>
 
                     </div>
                 </div>
@@ -444,7 +448,6 @@ include "header.php";
         </div>
     </div>
 </div>
-
 
 
 
