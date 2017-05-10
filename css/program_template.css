@@ -437,4 +437,37 @@ body > div.about.section > div > div > div.col-md-5 > div {
 }
 
 
+/*G20 VP */
+.values .container .fa {
+     display: block;
+     text-align: center;
+     font-size: 72px;
+     margin: 32px 0 32px;
+    color: #6E539E;
+
+}
+
+.values .container h3 {
+     margin-bottom: 32px;
+     text-align: center;
+ }
+
+.values .container h3:after {
+    content: "";
+    width:50px;
+    display: block;
+    height: 3px;
+    background: #6E539E;
+    margin: 12px auto;
+}
+
+.values .container h4 {
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 18px;
+}
+
+.values .container ul {
+    margin-left: 8px;
+}
 

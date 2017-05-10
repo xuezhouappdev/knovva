@@ -4,6 +4,7 @@
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="updated the video for">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cn_knovva/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/program_template.css" afterPath="$PROJECT_DIR$/css/program_template.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-digitalcrossroads.php" afterPath="$PROJECT_DIR$/program-digitalcrossroads.php" />
     </list>
     <ignored path="knovva.iws" />
@@ -36,10 +37,9 @@
       <file leaf-file-name="index_new.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index_new.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3825">
-              <caret line="415" column="24" lean-forward="false" selection-start-line="415" selection-start-column="24" selection-end-line="415" selection-end-column="24" />
+            <state relative-caret-position="254">
+              <caret line="96" column="21" lean-forward="true" selection-start-line="90" selection-start-column="4" selection-end-line="96" selection-end-column="21" />
               <folding>
-                <element signature="e#1055#1563#0" expanded="false" />
                 <element signature="e#2949#3731#0" expanded="false" />
                 <element signature="e#3995#4329#0" expanded="false" />
                 <element signature="e#4512#5040#0" expanded="false" />
@@ -74,16 +74,30 @@
       <file leaf-file-name="program-digitalcrossroads.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/program-digitalcrossroads.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5824">
-              <caret line="40" column="93" lean-forward="false" selection-start-line="40" selection-start-column="93" selection-end-line="40" selection-end-column="93" />
+            <state relative-caret-position="251">
+              <caret line="479" column="16" lean-forward="true" selection-start-line="479" selection-start-column="16" selection-end-line="479" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="program_template.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/program_template.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="457" column="19" lean-forward="true" selection-start-line="457" selection-start-column="19" selection-end-line="457" selection-end-column="19" />
+              <folding>
+                <element signature="e#5805#5857#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -107,18 +121,6 @@
             <state relative-caret-position="101">
               <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="program_template.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/program_template.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="430" column="20" lean-forward="false" selection-start-line="430" selection-start-column="4" selection-end-line="430" selection-end-column="20" />
-              <folding>
-                <element signature="e#5805#5857#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -166,7 +168,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>academic de</find>
       <find>nanjing</find>
       <find>china</find>
       <find>fa-video-camera</find>
@@ -196,6 +197,7 @@
       <find>modern</find>
       <find>apply</find>
       <find>recent</find>
+      <find>after</find>
     </findStrings>
     <replaceStrings>
       <replace>sm</replace>
@@ -257,7 +259,6 @@
         <option value="$PROJECT_DIR$/css/contact.css" />
         <option value="$PROJECT_DIR$/about.php" />
         <option value="$PROJECT_DIR$/vendor/bootstrap-3.3.7/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/css/index_new.scss" />
         <option value="$PROJECT_DIR$/blog.php" />
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/applicationform.php" />
@@ -270,6 +271,7 @@
         <option value="$PROJECT_DIR$/webinar.php" />
         <option value="$PROJECT_DIR$/css/livestream.scss" />
         <option value="$PROJECT_DIR$/css/index_new.css" />
+        <option value="$PROJECT_DIR$/css/index_new.scss" />
         <option value="$PROJECT_DIR$/css/program_template.css" />
         <option value="$PROJECT_DIR$/program-digitalcrossroads.php" />
       </list>
@@ -286,8 +288,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-15" />
-    <option name="y" value="23" />
+    <option name="x" value="4" />
+    <option name="y" value="27" />
     <option name="width" value="1280" />
     <option name="height" value="739" />
   </component>
@@ -345,25 +347,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="image" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="image" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="program" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -540,14 +524,7 @@
       <workItem from="1494300199077" duration="1899000" />
       <workItem from="1494341839752" duration="2287000" />
       <workItem from="1494360085278" duration="3091000" />
-      <workItem from="1494423416745" duration="4204000" />
-    </task>
-    <task id="LOCAL-00093" summary="updated career structue">
-      <created>1492529577514</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1492529577514</updated>
+      <workItem from="1494423416745" duration="7187000" />
     </task>
     <task id="LOCAL-00094" summary="updated our team picture">
       <created>1492537033908</created>
@@ -885,11 +862,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494427361550</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="updated the video for g20">
+      <created>1494428506373</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1494428506373</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="481932000" />
+    <option name="totallyTimeSpent" value="484915000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -901,10 +885,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-15" y="23" width="1280" height="739" extended-state="0" />
-    <editor active="false" />
+    <frame x="4" y="27" width="1280" height="739" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31634304" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31634304" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -966,7 +950,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="updated programs page from 3 - 4 per row" />
     <MESSAGE value="comment out the dropdown menu in header" />
     <MESSAGE value="updated the testinomials on home and about" />
     <MESSAGE value="updated custom fonts and testimonial in the front page" />
@@ -991,7 +974,8 @@
     <MESSAGE value="updated the video for" />
     <MESSAGE value="updated g20page video mask and testimomial iamges" />
     <MESSAGE value="updated the video" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated the video" />
+    <MESSAGE value="updated the video for g20" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the video for g20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1279,20 +1263,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index_new.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3825">
-          <caret line="415" column="24" lean-forward="false" selection-start-line="415" selection-start-column="24" selection-end-line="415" selection-end-column="24" />
-          <folding>
-            <element signature="e#1055#1563#0" expanded="false" />
-            <element signature="e#2949#3731#0" expanded="false" />
-            <element signature="e#3995#4329#0" expanded="false" />
-            <element signature="e#4512#5040#0" expanded="false" />
-            <element signature="e#6165#6561#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/index_new.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2190">
@@ -1335,16 +1305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/program_template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="430" column="20" lean-forward="false" selection-start-line="430" selection-start-column="4" selection-end-line="430" selection-end-column="20" />
-          <folding>
-            <element signature="e#5805#5857#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
@@ -1363,18 +1323,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/index_new.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="96" column="21" lean-forward="true" selection-start-line="90" selection-start-column="4" selection-end-line="96" selection-end-column="21" />
+          <folding>
+            <element signature="e#2949#3731#0" expanded="false" />
+            <element signature="e#3995#4329#0" expanded="false" />
+            <element signature="e#4512#5040#0" expanded="false" />
+            <element signature="e#6165#6561#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/program_template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="457" column="19" lean-forward="true" selection-start-line="457" selection-start-column="19" selection-end-line="457" selection-end-column="19" />
+          <folding>
+            <element signature="e#5805#5857#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/program-digitalcrossroads.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5824">
-          <caret line="40" column="93" lean-forward="false" selection-start-line="40" selection-start-column="93" selection-end-line="40" selection-end-column="93" />
+        <state relative-caret-position="251">
+          <caret line="479" column="16" lean-forward="true" selection-start-line="479" selection-start-column="16" selection-end-line="479" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
