@@ -28,8 +28,8 @@ include "header.php";
 
 <div class="video-wrapper">
     <div class="video-container">
-        <video preload="auto" autoplay="autoplay" loop ="loop"  poster="video/video-cover.png" width="100%" muted>
-            <source src="video/g20-landing.mp4" type="video/mp4">
+        <video preload="auto" autoplay="autoplay" loop ="loop" src="video/g20-landing.mp4" type="video/mp4" poster="video/video-cover.png" width="100%" muted>
+            <source >
         </video><!-- end of video-->
 
 
