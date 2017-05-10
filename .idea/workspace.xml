@@ -61,16 +61,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="webinar.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webinar.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,8 +74,8 @@
       <file leaf-file-name="program-digitalcrossroads.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/program-digitalcrossroads.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+            <state relative-caret-position="-5824">
+              <caret line="40" column="93" lean-forward="false" selection-start-line="40" selection-start-column="93" selection-end-line="40" selection-end-column="93" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -99,11 +89,33 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2700">
+              <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="315" selection-end-column="6" />
+              <folding>
+                <marker date="1494012606000" expanded="false" signature="5417:5485" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="program_template.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/program_template.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="407" column="14" lean-forward="false" selection-start-line="407" selection-start-column="14" selection-end-line="407" selection-end-column="14" />
+            <state relative-caret-position="369">
+              <caret line="430" column="20" lean-forward="false" selection-start-line="430" selection-start-column="4" selection-end-line="430" selection-end-column="20" />
               <folding>
                 <element signature="e#5805#5857#0" expanded="false" />
               </folding>
@@ -528,14 +540,7 @@
       <workItem from="1494300199077" duration="1899000" />
       <workItem from="1494341839752" duration="2287000" />
       <workItem from="1494360085278" duration="3091000" />
-      <workItem from="1494423416745" duration="3196000" />
-    </task>
-    <task id="LOCAL-00092" summary="updated faq page style">
-      <created>1492525960393</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1492525960393</updated>
+      <workItem from="1494423416745" duration="4204000" />
     </task>
     <task id="LOCAL-00093" summary="updated career structue">
       <created>1492529577514</created>
@@ -873,11 +878,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494427140805</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="updated the video">
+      <created>1494427361550</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1494427361550</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="480924000" />
+    <option name="totallyTimeSpent" value="481932000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -890,9 +902,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-15" y="23" width="1280" height="739" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31634304" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31634304" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -954,7 +966,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="updated modelg20 page" />
     <MESSAGE value="updated programs page from 3 - 4 per row" />
     <MESSAGE value="comment out the dropdown menu in header" />
     <MESSAGE value="updated the testinomials on home and about" />
@@ -979,7 +990,8 @@
     <MESSAGE value="updated the testmonial structure on g20 page" />
     <MESSAGE value="updated the video for" />
     <MESSAGE value="updated g20page video mask and testimomial iamges" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated g20page video mask and testimomial iamges" />
+    <MESSAGE value="updated the video" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the video" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1227,14 +1239,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="77" column="10" lean-forward="false" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-154">
@@ -1299,16 +1303,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3039">
-          <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="315" selection-end-column="6" />
-          <folding>
-            <marker date="1494012606000" expanded="false" signature="5417:5485" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webinar.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1320">
@@ -1343,18 +1337,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/program_template.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="407" column="14" lean-forward="false" selection-start-line="407" selection-start-column="14" selection-end-line="407" selection-end-column="14" />
+        <state relative-caret-position="369">
+          <caret line="430" column="20" lean-forward="false" selection-start-line="430" selection-start-column="4" selection-end-line="430" selection-end-column="20" />
           <folding>
             <element signature="e#5805#5857#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="315" selection-end-column="6" />
+          <folding>
+            <marker date="1494012606000" expanded="false" signature="5417:5485" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/program-digitalcrossroads.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        <state relative-caret-position="-5824">
+          <caret line="40" column="93" lean-forward="false" selection-start-line="40" selection-start-column="93" selection-end-line="40" selection-end-column="93" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
