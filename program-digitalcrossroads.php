@@ -28,12 +28,17 @@ include "header.php";
 
 <div class="video-wrapper">
     <div class="video-container">
-        <video preload="auto" autoplay="autoplay" loop ="loop"  poster="image/program/digitalcross.jpg" width="100%" muted>
+        <video preload="auto" autoplay="autoplay" loop ="loop"  poster="video/video-cover.png" width="100%" muted>
             <source src="video/g20-landing.mp4" type="video/mp4">
         </video><!-- end of video-->
+
+
     </div> <!-- end of video container-->
 
-    <div class="text-container" style="position: absolute;top:0;left:0;width: 100%">
+    <div class="videofilter" style="opacity: 0.4;background: black;position: absolute;width: 100%;top:0;left:0;z-index: 98;height: 85vh">
+    </div>
+
+    <div class="text-container" style="position: absolute;top:0;left:0;width: 100%;z-index: 99">
         <div class="container intro-text">
             <h1 style="text-align: center;margin-top: 8%">Model G20 Summer Program</h1>
             <a style="text-align: center; " href="contact">Request for More Information</a>
@@ -42,24 +47,6 @@ include "header.php";
 </div>
 
 
-
-
-
-<!--<div class="intro section" id="banner" style="background:url('image/program/digitalcross.jpg');  background-size: cover;width: 100%;-->
-<!--    background-position: center;-->
-<!--    -webkit-background-size: cover;-->
-<!--    -moz-background-size: cover;-->
-<!--    -o-background-size: cover;">-->
-<!--    <div class="container">-->
-<!--        <div class="row">-->
-<!---->
-<!--            <div class="intro-text">-->
-<!--                <h1>Model G20 Summer Program</h1>-->
-<!--                <a href="contact">Request for More Information</a>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</div>-->
 
 
 
@@ -339,7 +326,7 @@ include "header.php";
 
                     <div class="row" style="padding: 8px 64px">
                         <div class="col-md-3" style="text-align: center">
-                            <img class="img img-responsive img-rounded" src="http://placehold.it/120x120" style="margin: 0 auto">
+                            <img class="img img-responsive img-rounded" src="image/program/t1.png" style="margin: 0 auto;border-radius: 50%; border:2px white solid">
                         </div>
 
                         <div class="col-md-9">
@@ -357,9 +344,8 @@ include "header.php";
 
                     <div class="row" style="padding: 8px 64px">
                         <div class="col-md-3" style="text-align: center">
-                            <img class="img img-responsive img-rounded" src="http://placehold.it/120x120" style="margin: 0 auto">
+                            <img class="img img-responsive img-rounded" src="image/program/t2.png" style="margin: 0 auto;border-radius: 50%; border:2px white solid">
                         </div>
-
                         <div class="col-md-9">
                             <h4>"It’s a beautiful opportunity that Knovva Academy gives young high school students to meet new people." </h4>
                             <h5> - Federico R. </h5>
@@ -375,7 +361,7 @@ include "header.php";
 
                     <div class="row" style="padding: 8px 64px">
                         <div class="col-md-3" style="text-align: center">
-                            <img class="img img-responsive img-rounded" src="http://placehold.it/120x120" style="margin: 0 auto">
+                            <img class="img img-responsive img-rounded" src="image/program/t3.png" style="margin: 0 auto;border-radius: 50%; border:2px white solid">
                         </div>
 
                         <div class="col-md-9">
