@@ -393,6 +393,19 @@ body > div.about.section > div > div > div.col-md-5 > div {
 }
 
 
+/*Gallery*/
+.gallery .container h3:after {
+
+    background:#6E539E ;
+
+    height: 3px;
+    content: "";
+    width:50px;
+    display: block;
+    margin: 12px auto;
+}
+
+
 /*testomonial */
 .testimonial h2 {
     text-align: center;
@@ -421,6 +434,8 @@ body > div.about.section > div > div > div.col-md-5 > div {
     padding: 0;
     margin: 0;
     opacity: 0.6; }
+
+
 
 
 

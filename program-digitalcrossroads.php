@@ -480,6 +480,7 @@ include "header.php";
 <!-- gallery -->
 <div class="gallery section" >
     <div class="container">
+        <h3>Instagram Feeds</h3>
 
         <iframe  src="//lightwidget.com/widgets/e12adb63295d53459fe2522a8ee0af39.html"  scrolling="no" allowtransparency="true" class="lightwidget-widget" scrolling="no" allowtransparency="true" class="lightwidget-widget"
                  style="width: 100%; border: 0; overflow: hidden; margin: 0px auto;display: block">
