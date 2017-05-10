@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="updated the video for">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/program-digitalcrossroads.php" afterPath="$PROJECT_DIR$/program-g20summer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cn_knovva/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/program_template.css" afterPath="$PROJECT_DIR$/css/program_template.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-digitalcrossroads.php" afterPath="$PROJECT_DIR$/program-digitalcrossroads.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,8 +70,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program-digitalcrossroads.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/program-digitalcrossroads.php">
+      <file leaf-file-name="program-g20summer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program-g20summer.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
               <caret line="482" column="11" lean-forward="false" selection-start-line="482" selection-start-column="11" selection-end-line="482" selection-end-column="11" />
@@ -524,14 +523,7 @@
       <workItem from="1494300199077" duration="1899000" />
       <workItem from="1494341839752" duration="2287000" />
       <workItem from="1494360085278" duration="3091000" />
-      <workItem from="1494423416745" duration="7816000" />
-    </task>
-    <task id="LOCAL-00095" summary="updated alot">
-      <created>1492710687480</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1492710687481</updated>
+      <workItem from="1494423416745" duration="8073000" />
     </task>
     <task id="LOCAL-00096" summary="updated webinar page">
       <created>1492752027230</created>
@@ -869,11 +861,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494438106696</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="updated the instagram feeds title">
+      <created>1494439914831</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1494439914832</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="485544000" />
+    <option name="totallyTimeSpent" value="485801000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -886,9 +885,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="27" width="1280" height="739" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31634304" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31634304" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -950,7 +949,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="updated the testinomials on home and about" />
     <MESSAGE value="updated custom fonts and testimonial in the front page" />
     <MESSAGE value="updated cards border radius" />
     <MESSAGE value="updated new application form and header active status" />
@@ -975,7 +973,8 @@
     <MESSAGE value="updated the video" />
     <MESSAGE value="updated the video for g20" />
     <MESSAGE value="updated the G20 pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated the G20 pages" />
+    <MESSAGE value="updated the instagram feeds title" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the instagram feeds title" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1336,7 +1335,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program-digitalcrossroads.php">
+    <entry file="file://$PROJECT_DIR$/program-g20summer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="482" column="11" lean-forward="false" selection-start-line="482" selection-start-column="11" selection-end-line="482" selection-end-column="11" />
