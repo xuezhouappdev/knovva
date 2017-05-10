@@ -42,7 +42,9 @@ include "header.php";
         <div class="container intro-text">
             <h1 style="text-align: center;margin-top: 8%">Model G20 Summer Program</h1>
 <!--            <a style="text-align: center; " href="contact">Request for More Information</a>-->
-            <div data-id="ca83c822d0" class="livechat_button"><a href="https://www.livechatinc.com/customer-service-software/?partner=lc_8790441&amp;utm_source=chat_button">customer service software</a></div>
+<!--            <div data-id="ca83c822d0" class="livechat_button"><a href="https://www.livechatinc.com/customer-service-software/?partner=lc_8790441&amp;utm_source=chat_button">customer service software</a></div>-->
+            <a href="#" onclick="LC_API.open_chat_window();return false;">Request for More Information</a>
+
         </div>
     </div>
 
@@ -501,7 +503,7 @@ include "header.php";
         <div class="row">
             <h2>Start learning with Knovva Academy.</h2>
             <p><i>We’ll help you every step of the way.</i></p>
-            <a href="contact">Request for More Information</a>
+            <a href="#" onclick="LC_API.open_chat_window();return false;">Request for More Information</a>
         </div>
     </div>
 </div>
