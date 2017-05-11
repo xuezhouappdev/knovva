@@ -41,9 +41,10 @@ include "header.php";
     <div class="text-container" style="position: absolute;top:0;left:0;width: 100%;z-index: 0">
         <div class="container intro-text">
             <h1 style="text-align: center;margin-top: 8%">Model G20 Summer Program</h1>
-<!--            <a style="text-align: center; " href="contact">Request for More Information</a>-->
+
+            <a style="text-align: center; " href="contact">Enroll Now</a>
 <!--            <div data-id="ca83c822d0" class="livechat_button"><a href="https://www.livechatinc.com/customer-service-software/?partner=lc_8790441&amp;utm_source=chat_button">customer service software</a></div>-->
-            <a href="#" onclick="LC_API.open_chat_window();return false;">Request for More Information</a>
+            <a href="#" onclick="LC_API.open_chat_window();return false;">More Details </a>
 
         </div>
     </div>
@@ -94,7 +95,7 @@ include "header.php";
 
                         <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;SUBJECT: </b>Political Science</p>
 
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Qingdao, China&nbsp;|&nbsp; Aug 08 - Aug 18, 2017</P>
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Qingdao, China&nbsp;|&nbsp; Aug 08 - Aug 19, 2017</P>
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;&nbsp;GRADES: </b>9 - 12</p>
 
                         <!--                <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>-->
@@ -147,7 +148,7 @@ include "header.php";
 <!--VP-->
 <div class="values section">
     <div class="container">
-        <h3>Value Proposition</h3>
+        <h3>Value Propositions</h3>
 
         <div class="row">
             <div class="col-md-3">
@@ -218,6 +219,7 @@ include "header.php";
 
 
 
+
 <!-- timeline-->
 <div class="timeline section">
 
@@ -238,6 +240,7 @@ include "header.php";
                 <li><a data-toggle="pill" href="#menu9">Day 9</a></li>
                 <li><a data-toggle="pill" href="#menu10">Day 10</a></li>
                 <li><a data-toggle="pill" href="#menu11">Day 11</a></li>
+                <li><a data-toggle="pill" href="#menu12">Day 12</a></li>
             </ul>
         </div>
         <hr>
@@ -366,11 +369,65 @@ include "header.php";
                 </div>
 
             </div>
+
+
+
         </div>
     </div>
 </div>
 
 
+<!--teachers -->
+<div class="teachingstaff section">
+    <div class="container">
+        <h3>Teaching Staffs</h3>
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="teacher-card">
+                    <img src="http://www.placehold.it/200X250" class="img img-responsive">
+                    <div class="bio-overlay" >
+                        <h5>Justin Hartley - Teaching Staff</h5>
+                        <p>Justin Hartley is a specialist in Leadership, communication, politics and memory improvement.
+                            He is in-house faculty in Leadership and Communications at the Center for Asia Leadership, Research Fellow at Harvard’s Center for Public Leadership as well as a Teaching Assistant at the Harvard Kennedy School in “Authentic Leadership” and its most popular course, “The Making of a Politician”. </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="teacher-card">
+                    <img src="http://www.placehold.it/200X250" class="img img-responsive">
+                    <div class="bio-overlay">
+                        <h5>Adel Gamar - Teaching Staff</h5>
+                        <p>Adel Gamar is a former Policy Fellow at Harvard Law School and Head
+
+                            Teaching Fellow at Harvard Kennedy School where he focused on
+
+                            constitutional law, educational policy, and executive leadership
+
+                            development. He is driven to forge effective collaborations among
+
+                            business, government, and non-profit sectors while creating lasting and
+
+                            impactful solutions. </p>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="teacher-card">
+                    <img src="http://www.placehold.it/200X250" class="img img-responsive">
+                    <div class="bio-overlay">
+                        <h5>Neilson Lam - Teaching Staff</h5>
+                        <p>Neilson is a Boston native that graduated with honors from the Sawyer Business School at Suffolk University, majored in global business and management. He is also a certified ESL (English as Second Language) instructor.</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 

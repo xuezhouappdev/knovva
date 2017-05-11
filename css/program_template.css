@@ -483,6 +483,86 @@ body > div.about.section > div > div > div.col-md-5 > div {
 }
 
 .values .container ul {
-    margin-left: 8px;
+    margin: 0 auto;
 }
+
+.values .container ul li {
+
+}
+
+/*teaching staff*/
+
+.teachingstaff .container{
+    margin-bottom: 64px;
+}
+
+
+.teachingstaff .container h3{
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+
+.teachingstaff .container h3:after{
+    background: #6E539E;
+    display: block;
+    text-align: center;
+    height:3px;
+    width:40px;
+    content: "";
+    margin: 18px auto 0;
+}
+
+.teachingstaff .container .teacher-card img{
+    margin: 0 auto;
+}
+
+.teachingstaff .container .teacher-card .bio-overlay{
+    position: absolute;
+    top: 5%;
+    left: 0;
+    right: 0;
+    background-color: #6E539E;
+    overflow: hidden;
+    width: 95%;
+    height: 0%;
+    transition: .5s ease;
+    margin: 0 auto;
+
+
+
+
+}
+
+
+.teachingstaff .container .teacher-card:hover .bio-overlay{
+
+    height: 90%;
+    cursor: pointer;
+
+
+}
+
+
+
+
+
+.teachingstaff .container .teacher-card .bio-overlay h5 {
+    text-align: center;
+    color: white;
+}
+
+
+.teachingstaff .container .teacher-card .bio-overlay p {
+    padding: 8px 24px;
+    color: white;
+    text-align: justify;
+}
+
+
+
+
+
+
+
 
