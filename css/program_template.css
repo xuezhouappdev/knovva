@@ -514,8 +514,11 @@ body > div.about.section > div > div > div.col-md-5 > div {
 }
 
 .teachingstaff .container .teacher-card img{
-    margin: 0 auto;
+    margin: 0 auto 8px;
+
+
 }
+
 
 .teachingstaff .container .teacher-card .bio-overlay{
     position: absolute;
@@ -537,7 +540,7 @@ body > div.about.section > div > div > div.col-md-5 > div {
 
 .teachingstaff .container .teacher-card:hover .bio-overlay{
 
-    height: 90%;
+    height: 88%;
     cursor: pointer;
 
 
