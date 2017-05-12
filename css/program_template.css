@@ -513,24 +513,36 @@ body > div.about.section > div > div > div.col-md-5 > div {
     margin: 18px auto 0;
 }
 
+
+.teachingstaff .container .teacher-card h5{
+    text-align: center;
+    margin-top: 16px;
+
+}
+
 .teachingstaff .container .teacher-card img{
     margin: 0 auto 8px;
 
+    max-width: 70%;
+    box-shadow: 5px 5px 10px gray;
 
 }
 
 
+
+
 .teachingstaff .container .teacher-card .bio-overlay{
     position: absolute;
-    top: 5%;
+    top: 0%;
     left: 0;
     right: 0;
     background-color: #6E539E;
     overflow: hidden;
-    width: 95%;
+    width: 70%;
     height: 0%;
     transition: .5s ease;
     margin: 0 auto;
+
 
 
 
@@ -540,7 +552,7 @@ body > div.about.section > div > div > div.col-md-5 > div {
 
 .teachingstaff .container .teacher-card:hover .bio-overlay{
 
-    height: 88%;
+    height: 91%;
     cursor: pointer;
 
 
@@ -548,18 +560,18 @@ body > div.about.section > div > div > div.col-md-5 > div {
 
 
 
-
-
-.teachingstaff .container .teacher-card .bio-overlay h5 {
-    text-align: center;
-    color: white;
-}
-
-
 .teachingstaff .container .teacher-card .bio-overlay p {
     padding: 8px 24px;
     color: white;
     text-align: justify;
+    display: block;
+    vertical-align: middle;
+
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
 

@@ -182,14 +182,13 @@ include "header.php";
 
         <div class="row">
             <div class="col-sm-4">
-                <div class="card"  >
+                <div class="card">
                     <img src="image/teachers/Ross.jpg" class="img-responsive "alt="Avatar" >
+
                     <div class="overlay">
                         <div class="text"><h5>Ross completed his Master’s degree at the Harvard’s Graduate School of Education. He has worked in remote lands, like in the Arctic Circle and in the Chihuahuan desert, and also worked in cityscapes in the U.S., like at the Johns Hopkins University School of Medicine in Baltimore and at Harvard's Psychology Department in Cambridge. </h5></div>
                     </div>
                     <h4><b>Ross Weissman</b></h4>
-
-
                 </div>
             </div>
 
