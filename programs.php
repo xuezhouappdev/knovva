@@ -66,7 +66,7 @@ include "header.php";
 
 
                     <br>
-                    <h5 style="text-align: center"> <a href="program-g20summer.php" class="button_p">Read More</a></h5>
+                    <h5 style="text-align: center"> <a href="#" class="button_p">Read More</a></h5>
                 </div>
 
             </div>
