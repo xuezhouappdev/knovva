@@ -148,7 +148,7 @@ include "header.php";
 <!--VP-->
 <div class="values section">
     <div class="container">
-        <h3>Value Propositions</h3>
+        <h3>Benefits</h3>
 
         <div class="row">
             <div class="col-md-3">
