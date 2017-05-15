@@ -38,9 +38,14 @@ include "header.php";
     <div class="videofilter" style="opacity: 0.4;background: black;position: absolute;width: 100%;top:0;left:0;z-index: 0;height: 90vh;margin-top: -5vh">
     </div>
 
-    <div class="text-container" style="position: absolute;top:0;left:0;width: 100%;z-index: 0">
+    <div class="text-container" style="position: absolute;width: 100%;z-index: 0;text-align: center;
+
+    top: 18%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;">
         <div class="container intro-text">
-            <h1 style="text-align: center;margin-top: 8%">Model G20 Summer Program</h1>
+            <h1 style="text-align: center;">Model G20 Summer Program</h1>
 
             <a style="text-align: center; " href="applicationform.php">Enroll Now</a>
 <!--            <div data-id="ca83c822d0" class="livechat_button"><a href="https://www.livechatinc.com/customer-service-software/?partner=lc_8790441&amp;utm_source=chat_button">customer service software</a></div>-->
