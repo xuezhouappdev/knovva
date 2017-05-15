@@ -378,59 +378,59 @@ include "header.php";
 
 
 <!--teachers -->
-<div class="teachingstaff section">
-    <div class="container">
-        <h3>Teaching Staffs</h3>
-
-        <div class="row">
-            <div class="col-md-4">
-                <div class="teacher-card">
-                    <img src="image/program/g20-justin.jpg" class="img img-responsive" >
-                    <div class="bio-overlay" >
-
-                        <p>Justin Hartley is a specialist in Leadership, communication, politics and memory improvement.
-                            He is in-house faculty in Leadership and Communications at the Center for Asia Leadership, Research Fellow at Harvard’s Center for Public Leadership as well as a Teaching Assistant at the Harvard Kennedy School in “Authentic Leadership” and its most popular course, “The Making of a Politician”. </p>
-                    </div>
-                    <h5>Justin Hartley - Teaching Staff</h5>
-                </div>
-            </div>
-
-            <div class="col-md-4">
-                <div class="teacher-card">
-                    <img src="image/program/g20-adel.jpg" class="img img-responsive">
-                    <div class="bio-overlay">
-
-                        <p>Adel Gamar is a former Policy Fellow at Harvard Law School and Head
-
-                            Teaching Fellow at Harvard Kennedy School where he focused on
-
-                            constitutional law, educational policy, and executive leadership
-
-                            development. He is driven to forge effective collaborations among
-
-                            business, government, and non-profit sectors while creating lasting and
-
-                            impactful solutions. </p>
-
-                    </div>
-                    <h5>Justin Hartley - Teaching Staff</h5>
-                </div>
-            </div>
-
-            <div class="col-md-4">
-                <div class="teacher-card">
-                    <img src="image/program/g20-neilson.jpg" class="img img-responsive" >
-                    <div class="bio-overlay">
-
-                        <p>Neilson is a Boston native that graduated with honors from the Sawyer Business School at Suffolk University, majored in global business and management. He is also a certified ESL (English as Second Language) instructor.</p>
-
-                    </div>
-                    <h5>Neilson Lam - Teaching Staff</h5>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+<!--<div class="teachingstaff section">-->
+<!--    <div class="container">-->
+<!--        <h3>Teaching Staffs</h3>-->
+<!---->
+<!--        <div class="row">-->
+<!--            <div class="col-md-4">-->
+<!--                <div class="teacher-card">-->
+<!--                    <img src="image/program/g20-justin.jpg" class="img img-responsive" >-->
+<!--                    <div class="bio-overlay" >-->
+<!---->
+<!--                        <p>Justin Hartley is a specialist in Leadership, communication, politics and memory improvement.-->
+<!--                            He is in-house faculty in Leadership and Communications at the Center for Asia Leadership, Research Fellow at Harvard’s Center for Public Leadership as well as a Teaching Assistant at the Harvard Kennedy School in “Authentic Leadership” and its most popular course, “The Making of a Politician”. </p>-->
+<!--                    </div>-->
+<!--                    <h5>Justin Hartley - Teaching Staff</h5>-->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="col-md-4">-->
+<!--                <div class="teacher-card">-->
+<!--                    <img src="image/program/g20-adel.jpg" class="img img-responsive">-->
+<!--                    <div class="bio-overlay">-->
+<!---->
+<!--                        <p>Adel Gamar is a former Policy Fellow at Harvard Law School and Head-->
+<!---->
+<!--                            Teaching Fellow at Harvard Kennedy School where he focused on-->
+<!---->
+<!--                            constitutional law, educational policy, and executive leadership-->
+<!---->
+<!--                            development. He is driven to forge effective collaborations among-->
+<!---->
+<!--                            business, government, and non-profit sectors while creating lasting and-->
+<!---->
+<!--                            impactful solutions. </p>-->
+<!---->
+<!--                    </div>-->
+<!--                    <h5>Justin Hartley - Teaching Staff</h5>-->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="col-md-4">-->
+<!--                <div class="teacher-card">-->
+<!--                    <img src="image/program/g20-neilson.jpg" class="img img-responsive" >-->
+<!--                    <div class="bio-overlay">-->
+<!---->
+<!--                        <p>Neilson is a Boston native that graduated with honors from the Sawyer Business School at Suffolk University, majored in global business and management. He is also a certified ESL (English as Second Language) instructor.</p>-->
+<!---->
+<!--                    </div>-->
+<!--                    <h5>Neilson Lam - Teaching Staff</h5>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
 
 
 
