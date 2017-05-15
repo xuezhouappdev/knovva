@@ -78,14 +78,16 @@ include "header.php";
 <!--                <p>Join an international cohort of students, journey to Qingdao, a city of 9 million in northeast China, and explore the dynamics of international sustainability. Build friendships and deepen international understandings, while exploring the scenic views of the Yellow Sea and the current environmental realities that shape it.-->
 <!--                </p>-->
 
-                <h5><i>Program Description:</i>
+                <h5 style="    border-left: 4px solid #6E539E;
+    padding-left: 8px;"><i>Program Description:</i>
                 </h5>
                 <p>The Global Sustainability in Action program is intended to provide a local look to the global issues addressed at the 2017 MG20 Youth Leadership Summit held in Cambridge, Massachusetts. The MG20 was organized to support high schools learn about international relations, politics and open up their considerations to future academic and professional paths. While the MG20 focused on macro-topics and themes of sustainability and economic development, the GSA program invites students to consider the factors that shape global realities on a local level. Qingdao will be the case-study, and sustainability will be the focus.
 
                 </p>
 
                 <br>
-                <h5><i>Making an Impact:</i></h5>
+                <h5 style="    border-left: 4px solid #6E539E;
+    padding-left: 8px;"><i>Making an Impact:</i></h5>
                 <p>As a culminating project of the GSA program, students will be asked to tell a story, expressing an element of the environmental they wish to impact, whether through the lens of a politician, global citizen or future scientists. During the course of this program, students will be provided with tools of storytelling -- digital cameras, pens and papers-- to capture local needs, and to tell a story to the world in order to impact it.
 
                     Change on the local or international stage, begins by bearing witness to need. The next step is to communicate that need with the world. Stories can be told in many different ways: with statistics, words, pictures, video etc. All stories, no matter their form, require attention to detail, to the people and to the setting to convey its meaning and message. We want to provide students a platform to reflect on their learnings from the MG20, now in a local context, across intersecting cultures, and then to tell a story to promote change for the betterment of the world. </p>
