@@ -51,8 +51,8 @@ SEPERATELY-->
                 <ul id="menuitem" >
                     <li><a href="index"> Home </a></li>
                     <li><a href="about"> About </a></li>
-                    <li class="dropdown"> <!--programdropdown -->
-                        <a class="dropbtn" href="programs">Programs</a>
+                    <li > <!--programdropdown -->
+                        <a href="programs">Programs</a>
 
 <!--                        <div class="dropdown-content"><!--programdropdown content -->
 <!--                            <a href="program-entrepreneurship"> Social Impact and Entrepreneurship </a>-->
@@ -69,9 +69,20 @@ SEPERATELY-->
                     <li><a href="blog.php"> Blog</a></li>
 <!--                    <li><a href="career"> Career </a></li>-->
                     <li><a href="contact"> Contact </a></li>
-                    <li ><a href="applicationform" style="color: white" class="cta">&nbsp;I'm Interested</a></li>
+                    <li id="dropdown"><a class="cta" style="color: white"><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp;
+                                Apply Now </a>
+                        <div class="dropdown-content">
+                            <a href="applicationform.php">Model G20 Summer Program</a>
+                            <a href="applicationform-aer.php">Applied Engineering & Robotics</a>
+                        </div>
+                    </li>
+
                     <li class="icon"><a href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
                 </ul>
+
+
+
+
 
             </div>
         </div>
@@ -86,7 +97,9 @@ SEPERATELY-->
         <a href="programs">Programs</a>
         <a href="blog.php">Blog</a>
         <a href="contact">Contact</a>
-        <a href="applicationform">Apply</a>
+        <a href="applicationform"><p>Enroll - Model G20 Summer Program</p></a>
+        <a href="applicationform-aer"><p>Enroll - Applied Engineering & Robotics Program</p></a>
+
     </div>
 </div>
 

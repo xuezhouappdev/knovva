@@ -43,7 +43,7 @@ include "header.php";
 
        <div class="intro-text">
            <h1>Understanding the Landscape of Study</h1>
-           <a href="applicationform.php">ENROLL NOW</a>
+           <a href="#">ENROLL NOW</a>
        </div>
    </div>
 
@@ -173,7 +173,7 @@ include "header.php";
         <div class="row">
              <h2>READY TO TAKE YOUR SYLLABUS ABROAD?</h2>
              <p><i>We’ll help you every step of the way.</i></p>
-              <a href="applicationform.php">ENROLL NOW</a>
+              <a href="#">ENROLL NOW</a>
         </div>
     </div>
 </div>

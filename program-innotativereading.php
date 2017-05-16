@@ -46,7 +46,7 @@ include "header.php";
 
             <div class="intro-text">
                 <h1>Creativity and Change in the New Millennium </h1>
-                <a href="applicationform.php">ENROLL NOW</a>
+                <a href="#">ENROLL NOW</a>
             </div>
         </div>
 
@@ -190,7 +190,7 @@ include "header.php";
         <div class="row">
             <h2>Start learning with Knovva Academy.</h2>
             <p><i>We’ll help you every step of the way.</i></p>
-            <a href="applicationform.php">ENROLL NOW</a>
+            <a href="#">ENROLL NOW</a>
         </div>
     </div>
 </div>

@@ -43,7 +43,7 @@ include "header.php";
 
             <div class="intro-text">
                 <h1>U.S. Social Media Use and Electronic Correspondence</h1>
-                <a href="applicationform.php">ENROLL NOW</a>
+                <a href="#">ENROLL NOW</a>
             </div>
         </div>
 
@@ -178,7 +178,7 @@ include "header.php";
             <h2>Start learning with Knovva Academy.
             </h2>
             <p><i>We’ll help you every step of the way.</i></p>
-            <a href="applicationform.php">ENROLL NOW</a>
+            <a href="#">ENROLL NOW</a>
         </div>
     </div>
 </div>
