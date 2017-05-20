@@ -35,7 +35,7 @@ include "header.php";
 
             <div class="intro-text">
                 <h1>Applied Engineering & Robotics </h1>
-                <a href="applicationform-aer.php">ENROLL NOW</a>
+                <a href="http://info.knovva.com/applied-engineering-and-robotics">ENROLL NOW</a>
             </div>
         </div>
 

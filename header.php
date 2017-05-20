@@ -66,15 +66,15 @@ SEPERATELY-->
 <!--                        </div>-->
                     </li>
 <!--                    <li><a href="webinar"> Webinar </a></li>-->
-                    <li><a href="blog.php"> Blog</a></li>
+                    <li><a href="http://blog.knovva.com/"> Blog</a></li>
 <!--                    <li><a href="career"> Career </a></li>-->
-                    <li><a href="contact"> Contact </a></li>
-                    <li id="dropdown"><a class="cta" style="color: white"><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp;
-                                Apply Now </a>
-                        <div class="dropdown-content">
-                            <a href="applicationform.php">Model G20 Summer Program</a>
-                            <a href="applicationform-aer.php">Applied Engineering & Robotics</a>
-                        </div>
+                    <li><a href="http://info.knovva.com/contact-us"> Contact </a></li>
+                    <li id="dropdown"><a class="cta" style="color: white" href="http://info.knovva.com/general-application"><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp;
+                                I'm interested </a>
+<!--                        <div class="dropdown-content">-->
+<!--                            <a href="applicationform.php">Model G20 Summer Program</a>-->
+<!--                            <a href="applicationform-aer.php">Applied Engineering & Robotics</a>-->
+<!--                        </div>-->
                     </li>
 
                     <li class="icon"><a href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
