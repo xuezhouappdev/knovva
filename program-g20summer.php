@@ -102,7 +102,7 @@ include "header.php";
 
                         <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;SUBJECT: </b>Political Science</p>
 
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Qingdao, China&nbsp;|&nbsp; Aug 08 - Aug 19, 2017</P>
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Qingdao, China&nbsp;|&nbsp; Jul 31 - Aug 13, 2017</P>
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;&nbsp;GRADES: </b>9 - 12</p>
 
                         <!--                <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>-->
@@ -255,7 +255,7 @@ include "header.php";
         <div class="tab-content">
             <div id="menu1" class="tab-pane fade in active">
                 <div class="wrapper">
-                        <h5>Day 1 (Aug. 7-8)</h5>
+                        <h5>Day 1 </h5>
                         <p>Arrive into Beijing, settle into hotels. Students participate in ice-breaker activities, learning more deeply about each other and program staff. Students explore historical and political sites around Beijing, such as the forbidden city and the Summer Palace.
                         </p>
                 </div>
@@ -263,7 +263,7 @@ include "header.php";
 
             <div id="menu2" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 2 (Aug 9)
+                    <h5>Day 2
                     </h5>
                     <p>Explore Beijing urban parks and learn about the Chinese government’s history and relationship to environmental initiatives. Students will also be offered a short primer on conversational Mandarin. Additionally, they will venture into the old city, and enjoy traditional Beijing dishes. </p>
                 </div>
@@ -272,7 +272,7 @@ include "header.php";
 
             <div id="menu3" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 3 (Aug 10)
+                    <h5>Day 3
 
                     </h5>
                     <p>Students will visit Tsinghua University, the MIT of China, and hear lectures from scholars on the historical, social and political development of the country. They will learn about current academic research and initiatives addressing national and international environmental issues in the country’s capital. </p>
@@ -284,7 +284,7 @@ include "header.php";
             <div id="menu4" class="tab-pane fade">
 
                 <div class="wrapper">
-                    <h5>Day 4 (Aug 11)
+                    <h5>Day 4
 
                     </h5>
                     <p>Qingdao is the next stop; flying over in the morning and settling into their new dorms for the coming week. Students will tour the partner school and campus. Students meet with fellow Chinese students for a dinner and meet-and greet activities. Reflection on MG20 and global cooperation, and students will be introduced to the final project goals for summer seminar. </p>
@@ -295,7 +295,7 @@ include "header.php";
             <div id="menu5" class="tab-pane fade">
 
                 <div class="wrapper">
-                    <h5>Day 5 (Aug 12)
+                    <h5>Day 5
                     </h5>
                     <p>Students will take a day-trip to explore the birthplace of Daosim on Mount Lao, and learn about the historical roots of Chinese understanding of nature. Along the way students will be able to learn about the local flora and fauna of the region.
                     </p>
@@ -306,7 +306,7 @@ include "header.php";
 
             <div id="menu6" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 6 (Aug 13)
+                    <h5>Day 6
                     </h5>
                     <p>Students will visit Zhanshan Temple, and learn about traditional Buddhist approaches to the environment. Additional studies will focus on Buddhist environmental writings and literature on environmental ethics. In addition, students will explore the former German Colony and learn about the German-colonial and Protestant lens of nature.</p>
                 </div>
@@ -315,7 +315,7 @@ include "header.php";
 
             <div id="menu7" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 7 (Aug 14)
+                    <h5>Day 7
                     </h5>
                     <p>Students will tour of the city’s downtown, focus on the economic vitality of the port city. Students will be introduced to its centrality of marine economies, fisheries, and policy affecting both the economy and environment of the region. They’ll learn about the challenges of marine ecology and its interconnection to the marine economy.  For dinner, students will enjoy local seafood.
                     </p>
@@ -325,7 +325,7 @@ include "header.php";
 
             <div id="menu8" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 8 (Aug 15)
+                    <h5>Day 8
                     </h5>
                     <p>Next, the group will visit the Badaguan Scenic Area, and enjoy the beautiful comforts of coastal China. They will learn from leading experts of water and marine wildlife to understand what lies behind the beautify of the site. They additionally will hear from local policy experts on the importance of maintaining an environmentally protected and tourist destination, like this one.
                     </p>
@@ -335,7 +335,7 @@ include "header.php";
 
             <div id="menu9" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 9 (Aug 16)
+                    <h5>Day 9
                     </h5>
                     <p>Students will spend time with scholars from China Ocean University, learning about local conservation trends in the field and efforts by local and national government to affect local environment. Open discussion will analyze how national and international policy influences the environmental reality of Qingdao.
                     </p>
@@ -345,7 +345,7 @@ include "header.php";
 
             <div id="menu10" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 10 (Aug 17)
+                    <h5>Day 10
 
                     </h5>
                     <p>Students will learn in workshops about traditional and digital storytelling. There will be special allotted time made for collaboration between international cohorts to collaborate in their chosen medium to tell a story about sustainability. A fun evening around campus will include a BBQ dinner and storytelling session. </p>
@@ -356,7 +356,7 @@ include "header.php";
 
             <div id="menu11" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 11 (Aug 18)
+                    <h5>Day 11
                     </h5>
                     <p>A final day of digital workshopping and storytelling creation. Students will present their concerns and suggestion to a final panelist of Chinese researchers and policy thinkers to affect global sustainability. A closing dinner and then final goodbyes before packing up and heading back west.
                     </p>
@@ -367,7 +367,7 @@ include "header.php";
 
             <div id="menu12" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 12 (Aug 19)
+                    <h5>Day 12
 
                     </h5>
                     <p> Quick stop, Beijing, and then back the States to retell the compelling stories of Qingdao and work to support the health of our planet.
