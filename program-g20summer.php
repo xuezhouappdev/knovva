@@ -102,8 +102,9 @@ include "header.php";
 
                         <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;SUBJECT: </b>Political Science</p>
 
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Qingdao, China&nbsp;|&nbsp; Jul 31 - Aug 13, 2017</P>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;&nbsp;GRADES: </b>9 - 12</p>
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp;LOCATION: </b>Qingdao, China&nbsp;|&nbsp; Jul 31 - Aug 13, 2017</P>
+                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;GRADES: </b>9 - 12</p>
+                        <p><b><i class="fa fa-money" aria-hidden="true"></i>&nbsp;&nbsp;PRICE: </b>$3300 (included $500 deposit)</p>
 
                         <!--                <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>-->
                         <!--                <P><i>Each week will include two one-hour lectures, preliminary readings & video, and discussion board.</i> </P>-->
