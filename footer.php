@@ -40,7 +40,7 @@
                     <li><a href="programs">Programs</a></li>
 <!--                    <li><a href="career.php">Career</a></li>-->
 
-                   <!-- <li><a href="#">Blog</a></li>-->
+                    <li><a href="http://blog.knovva.com">Blog</a></li>
                     <li><a href="contact">Contact</a></li>
 <!--                    <li><a href="faq.php">FAQ</a></li>-->
                 </ul>
