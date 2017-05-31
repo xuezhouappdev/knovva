@@ -1,0 +1,26 @@
+.main {
+  margin-top: 72px;
+  text-align: center; }
+  .main i {
+    margin-top: 100px;
+    display: block;
+    color: #449d44;
+    font-size: 100px; }
+  .main h1 {
+    margin-top: 64px;
+    font-weight: bold; }
+  .main h5 {
+    font-size: 18px; }
+  .main a {
+    background: #6E539E;
+    color: white;
+    padding: 8px 32px;
+    display: inline-block;
+    margin-bottom: 96px;
+    margin-top: 12px; }
+    .main a:hover {
+      background: #8970b4;
+      color: white;
+      text-decoration: none; }
+
+/*# sourceMappingURL=thankyou.css.map */
