@@ -95,10 +95,10 @@ SEPERATELY-->
         <a href="index">Home</a>
         <a href="about">About</a>
         <a href="programs">Programs</a>
-        <a href="blog.php">Blog</a>
-        <a href="contact">Contact</a>
-        <a href="applicationform"><p>Enroll - Model G20 Summer Program</p></a>
-        <a href="applicationform-aer"><p>Enroll - Applied Engineering & Robotics Program</p></a>
+        <a href="blog.knovva.com">Blog</a>
+        <a href="http://info.knovva.com/contact-us">Contact</a>
+        <a href="http://info.knovva.com/general-application"><p>Apply</p></a>
+
 
     </div>
 </div>
