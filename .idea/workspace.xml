@@ -36,8 +36,8 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="102" column="10" lean-forward="true" selection-start-line="102" selection-start-column="10" selection-end-line="102" selection-end-column="10" />
+            <state relative-caret-position="150">
+              <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#3381#3387#0#HTML" expanded="true" />
@@ -510,14 +510,7 @@
       <workItem from="1495680390894" duration="288000" />
       <workItem from="1495771734653" duration="291000" />
       <workItem from="1496186298587" duration="1461000" />
-      <workItem from="1496249326962" duration="3274000" />
-    </task>
-    <task id="LOCAL-00117" summary="updated footer time">
-      <created>1493747921950</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1493747921952</updated>
+      <workItem from="1496249326962" duration="3336000" />
     </task>
     <task id="LOCAL-00118" summary="updated online live chat API on index page">
       <created>1493750031008</created>
@@ -855,11 +848,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496284914072</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="updated knovva mobile menu">
+      <created>1496285154228</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1496285154229</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="520727000" />
+    <option name="totallyTimeSpent" value="520789000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -936,7 +936,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="updated the testmonial structure on g20 page" />
     <MESSAGE value="updated the video for" />
     <MESSAGE value="updated g20page video mask and testimomial iamges" />
     <MESSAGE value="updated the video" />
@@ -961,7 +960,8 @@
     <MESSAGE value="updated thank you page" />
     <MESSAGE value="updated knovva blog" />
     <MESSAGE value="updated knovva footer: contact" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated knovva footer: contact" />
+    <MESSAGE value="updated knovva mobile menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated knovva mobile menu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1348,8 +1348,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="102" column="10" lean-forward="true" selection-start-line="102" selection-start-column="10" selection-end-line="102" selection-end-column="10" />
+        <state relative-caret-position="150">
+          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#3381#3387#0#HTML" expanded="true" />

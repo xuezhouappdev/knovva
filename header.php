@@ -95,7 +95,7 @@ SEPERATELY-->
         <a href="index">Home</a>
         <a href="about">About</a>
         <a href="programs">Programs</a>
-        <a href="blog.knovva.com">Blog</a>
+        <a href="http://blog.knovva.com">Blog</a>
         <a href="http://info.knovva.com/contact-us">Contact</a>
         <a href="http://info.knovva.com/general-application"><p>Apply</p></a>
 
