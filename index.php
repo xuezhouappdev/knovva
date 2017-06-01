@@ -420,7 +420,7 @@ include "header.php";
         <div class="row">
             <h2>Start learning with Knovva Academy.</h2>
             <p><i>We’ll help you every step of the way.</i></p>
-            <a href="applicationform">ENROLL NOW</a>
+            <a href="http://info.knovva.com/general-application">ENROLL NOW</a>
         </div>
     </div>
 </div>

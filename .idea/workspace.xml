@@ -4,7 +4,7 @@
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="updated knovva footer: contact">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cn_knovva/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +33,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -88,13 +88,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1781">
-              <caret line="446" column="0" lean-forward="true" selection-start-line="446" selection-start-column="0" selection-end-line="446" selection-end-column="0" />
+            <state relative-caret-position="74">
+              <caret line="417" column="34" lean-forward="true" selection-start-line="417" selection-start-column="34" selection-end-line="417" selection-end-column="34" />
               <folding>
-                <marker date="1494012606000" expanded="false" signature="5417:5485" ph="..." />
+                <marker date="1496285451000" expanded="false" signature="5417:5485" ph="..." />
               </folding>
             </state>
           </provider>
@@ -239,7 +239,6 @@
         <option value="$PROJECT_DIR$/vendor/bootstrap-3.3.7/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/blog.php" />
         <option value="$PROJECT_DIR$/applicationform.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/webinar.php" />
         <option value="$PROJECT_DIR$/css/livestream.scss" />
@@ -264,6 +263,7 @@
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -510,14 +510,7 @@
       <workItem from="1495680390894" duration="288000" />
       <workItem from="1495771734653" duration="291000" />
       <workItem from="1496186298587" duration="1461000" />
-      <workItem from="1496249326962" duration="3336000" />
-    </task>
-    <task id="LOCAL-00118" summary="updated online live chat API on index page">
-      <created>1493750031008</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1493750031008</updated>
+      <workItem from="1496249326962" duration="3463000" />
     </task>
     <task id="LOCAL-00119" summary="updated favicon and header cta">
       <created>1493833090420</created>
@@ -855,11 +848,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496285154229</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="updated knovva footer: contact">
+      <created>1496285209061</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1496285209062</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="520789000" />
+    <option name="totallyTimeSpent" value="520916000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -959,9 +959,9 @@
     <MESSAGE value="updated price info on g2o page" />
     <MESSAGE value="updated thank you page" />
     <MESSAGE value="updated knovva blog" />
-    <MESSAGE value="updated knovva footer: contact" />
     <MESSAGE value="updated knovva mobile menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated knovva mobile menu" />
+    <MESSAGE value="updated knovva footer: contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated knovva footer: contact" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1315,16 +1315,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1781">
-          <caret line="446" column="0" lean-forward="true" selection-start-line="446" selection-start-column="0" selection-end-line="446" selection-end-column="0" />
-          <folding>
-            <marker date="1494012606000" expanded="false" signature="5417:5485" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
@@ -1353,6 +1343,16 @@
           <folding>
             <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#3381#3387#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="417" column="34" lean-forward="true" selection-start-line="417" selection-start-column="34" selection-end-line="417" selection-end-column="34" />
+          <folding>
+            <marker date="1496285451000" expanded="false" signature="5417:5485" ph="..." />
           </folding>
         </state>
       </provider>
