@@ -166,7 +166,7 @@ include "header.php";
         <div class="row">
             <h2>Start learning with Knovva Academy.</h2>
             <p><i>We’ll help you every step of the way.</i></p>
-            <a href="applicationform-aer.php">ENROLL NOW</a>
+            <a href="http://info.knovva.com/applied-engineering-and-robotics">ENROLL NOW</a>
         </div>
     </div>
 </div>

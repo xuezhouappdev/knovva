@@ -4,7 +4,7 @@
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="updated knovva footer: contact">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cn_knovva/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cn_knovva/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-appliedengineering.php" afterPath="$PROJECT_DIR$/program-appliedengineering.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,7 +88,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="74">
@@ -120,11 +120,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program-appliedengineering.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="program-appliedengineering.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/program-appliedengineering.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <state relative-caret-position="30">
+              <caret line="160" column="0" lean-forward="true" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -255,7 +255,6 @@
         <option value="$PROJECT_DIR$/program-innotativereading.php" />
         <option value="$PROJECT_DIR$/program-landscapeofstudy.php" />
         <option value="$PROJECT_DIR$/program-socialmedia.php" />
-        <option value="$PROJECT_DIR$/program-appliedengineering.php" />
         <option value="$PROJECT_DIR$/programs.php" />
         <option value="$PROJECT_DIR$/program-g20summer.php" />
         <option value="$PROJECT_DIR$/thankyou.php" />
@@ -264,6 +263,7 @@
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/program-appliedengineering.php" />
       </list>
     </option>
   </component>
@@ -510,14 +510,7 @@
       <workItem from="1495680390894" duration="288000" />
       <workItem from="1495771734653" duration="291000" />
       <workItem from="1496186298587" duration="1461000" />
-      <workItem from="1496249326962" duration="3463000" />
-    </task>
-    <task id="LOCAL-00119" summary="updated favicon and header cta">
-      <created>1493833090420</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1493833090420</updated>
+      <workItem from="1496249326962" duration="3646000" />
     </task>
     <task id="LOCAL-00120" summary="updated favicon">
       <created>1493833712214</created>
@@ -855,11 +848,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496285209062</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="updated enroll now on the home page">
+      <created>1496285465081</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1496285465081</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="520916000" />
+    <option name="totallyTimeSpent" value="521099000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -936,7 +936,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="updated the video for" />
     <MESSAGE value="updated g20page video mask and testimomial iamges" />
     <MESSAGE value="updated the video" />
     <MESSAGE value="updated the video for g20" />
@@ -961,7 +960,8 @@
     <MESSAGE value="updated knovva blog" />
     <MESSAGE value="updated knovva mobile menu" />
     <MESSAGE value="updated knovva footer: contact" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated knovva footer: contact" />
+    <MESSAGE value="updated enroll now on the home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated enroll now on the home page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1265,14 +1265,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program-appliedengineering.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/program-g20summer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1354,6 +1346,14 @@
           <folding>
             <marker date="1496285451000" expanded="false" signature="5417:5485" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-appliedengineering.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="160" column="0" lean-forward="true" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
