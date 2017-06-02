@@ -16,6 +16,55 @@
 
 </head>
 
+<style>
+
+      #itinarey li {
+        display: inline-block;
+        float: none;
+    }
+
+
+      .video-wrapper >div.text-container {
+          position: absolute;
+          width: 100%;z-index: 0;
+          text-align: center;
+
+          top: 18%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          color: white;
+      }
+
+
+     @media only screen and (max-width: 769px) {
+       div.video-wrapper {
+
+
+           background: #d1d1d1;
+       }
+
+         body > div.video-wrapper > div.text-container > div > h1 {
+             font-size: 20px;
+         }
+
+          .video-wrapper > div.text-container {
+             top: -4%;
+
+         }
+
+         .video-container {
+             width: 100%;
+             height:inherit;
+             top: 0%;
+             left: 0%;
+             overflow: hidden;
+             object-fit: contain;
+             margin-bottom: 48px;
+             margin-top: 0.5vh;
+         }
+    }
+
+</style>
 
 <?php
 // include header
@@ -38,12 +87,7 @@ include "header.php";
 <!--    <div class="videofilter" style="opacity: 0.4;background: black;position: absolute;width: 100%;top:0;left:0;z-index: 0;height: 90vh;margin-top: -5vh">-->
 <!--    </div>-->
 
-    <div class="text-container" style="position: absolute;width: 100%;z-index: 0;text-align: center;
-
-    top: 18%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;">
+    <div class="text-container" id="video-text"style="">
         <div class="container intro-text">
             <h1 style="text-align: center;">Model G20 Summer Program</h1>
 
@@ -125,11 +169,11 @@ include "header.php";
                         </div>
                         <div class="modal-body">
                             <ul class="agenda">
-                                <li><b>Day 1 (Aug. 8): </b><br>Arrive into Beijing, settle into hotels.</li>
-                                <li><b>Day 2 (Aug 9) : </b><br>
+                                <li><b>Day &nbsp;1 (Aug. 8): </b><br>Arrive into Beijing, settle into hotels.</li>
+                                <li><b>Day &nbsp;2 (Aug 9) : </b><br>
                                     Students participate in ice-breaker activities, learning more deeply about each other and program staff. American students will be provided with their cameras and introduction to the final project. Students will start by visiting important historical and political sites around Beijing, such as the forbidden city and the Summer Palace.
                                 </li>
-                                <li><b>Day 3 (Aug 10): </b><br>
+                                <li><b>Day &nbsp;3 (Aug 10): </b><br>
                                     Students will visit Tsinghua University, the MIT of China, and hear lectures from scholars on the historical, social and political development of the country. Students will also be offered a short primer on conversational Mandarin. Additionally, they will venture into the old city, and enjoy traditional Beijing dishes.
                                 </li>
 
@@ -236,7 +280,7 @@ include "header.php";
         <hr>
 
         <div class="daylist col-md-12" style="text-align: center">
-            <ul class="nav nav-pills" style="display: inline-block;">
+            <ul class="nav nav-pills" id="itinarey" style="display: inline-block;">
                 <li class="active"><a data-toggle="pill" href="#menu1">Day 1</a></li>
                 <li><a data-toggle="pill" href="#menu2">Day 2</a></li>
                 <li><a data-toggle="pill" href="#menu3">Day 3</a></li>
@@ -256,7 +300,7 @@ include "header.php";
         <div class="tab-content">
             <div id="menu1" class="tab-pane fade in active">
                 <div class="wrapper">
-                        <h5>Day 1 </h5>
+                        <h5>Day &nbsp;1 </h5>
                         <p>Arrive into Beijing, settle into hotels. Students participate in ice-breaker activities, learning more deeply about each other and program staff. Students explore historical and political sites around Beijing, such as the forbidden city and the Summer Palace.
                         </p>
                 </div>
@@ -264,7 +308,7 @@ include "header.php";
 
             <div id="menu2" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 2
+                    <h5>Day &nbsp;2
                     </h5>
                     <p>Explore Beijing urban parks and learn about the Chinese government’s history and relationship to environmental initiatives. Students will also be offered a short primer on conversational Mandarin. Additionally, they will venture into the old city, and enjoy traditional Beijing dishes. </p>
                 </div>
@@ -273,7 +317,7 @@ include "header.php";
 
             <div id="menu3" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 3
+                    <h5>Day &nbsp;3
 
                     </h5>
                     <p>Students will visit Tsinghua University, the MIT of China, and hear lectures from scholars on the historical, social and political development of the country. They will learn about current academic research and initiatives addressing national and international environmental issues in the country’s capital. </p>
@@ -285,7 +329,7 @@ include "header.php";
             <div id="menu4" class="tab-pane fade">
 
                 <div class="wrapper">
-                    <h5>Day 4
+                    <h5>Day &nbsp;4
 
                     </h5>
                     <p>Qingdao is the next stop; flying over in the morning and settling into their new dorms for the coming week. Students will tour the partner school and campus. Students meet with fellow Chinese students for a dinner and meet-and greet activities. Reflection on MG20 and global cooperation, and students will be introduced to the final project goals for summer seminar. </p>
@@ -296,7 +340,7 @@ include "header.php";
             <div id="menu5" class="tab-pane fade">
 
                 <div class="wrapper">
-                    <h5>Day 5
+                    <h5>Day &nbsp;5
                     </h5>
                     <p>Students will take a day-trip to explore the birthplace of Daosim on Mount Lao, and learn about the historical roots of Chinese understanding of nature. Along the way students will be able to learn about the local flora and fauna of the region.
                     </p>
@@ -307,7 +351,7 @@ include "header.php";
 
             <div id="menu6" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 6
+                    <h5>Day &nbsp;6
                     </h5>
                     <p>Students will visit Zhanshan Temple, and learn about traditional Buddhist approaches to the environment. Additional studies will focus on Buddhist environmental writings and literature on environmental ethics. In addition, students will explore the former German Colony and learn about the German-colonial and Protestant lens of nature.</p>
                 </div>
@@ -316,7 +360,7 @@ include "header.php";
 
             <div id="menu7" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 7
+                    <h5>Day &nbsp;7
                     </h5>
                     <p>Students will tour of the city’s downtown, focus on the economic vitality of the port city. Students will be introduced to its centrality of marine economies, fisheries, and policy affecting both the economy and environment of the region. They’ll learn about the challenges of marine ecology and its interconnection to the marine economy.  For dinner, students will enjoy local seafood.
                     </p>
@@ -326,7 +370,7 @@ include "header.php";
 
             <div id="menu8" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 8
+                    <h5>Day &nbsp;8
                     </h5>
                     <p>Next, the group will visit the Badaguan Scenic Area, and enjoy the beautiful comforts of coastal China. They will learn from leading experts of water and marine wildlife to understand what lies behind the beautify of the site. They additionally will hear from local policy experts on the importance of maintaining an environmentally protected and tourist destination, like this one.
                     </p>
@@ -336,7 +380,7 @@ include "header.php";
 
             <div id="menu9" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 9
+                    <h5>Day &nbsp;9
                     </h5>
                     <p>Students will spend time with scholars from China Ocean University, learning about local conservation trends in the field and efforts by local and national government to affect local environment. Open discussion will analyze how national and international policy influences the environmental reality of Qingdao.
                     </p>
