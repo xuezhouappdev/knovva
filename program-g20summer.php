@@ -28,15 +28,15 @@ include "header.php";
 
 <div class="video-wrapper">
     <div class="video-container">
-        <video preload="auto" autoplay="autoplay" loop ="loop" src="video/g20-landing.mp4"  poster="video/video-cover.png" width="100%" muted >
-            <source >
+        <video preload="auto" autoplay="autoplay" loop ="loop" src="video/g20-landing2.mp4"  poster="video/video-cover.png" width="100%" muted >
+
         </video><!-- end of video-->
 
 
     </div> <!-- end of video container-->
 
-    <div class="videofilter" style="opacity: 0.4;background: black;position: absolute;width: 100%;top:0;left:0;z-index: 0;height: 90vh;margin-top: -5vh">
-    </div>
+<!--    <div class="videofilter" style="opacity: 0.4;background: black;position: absolute;width: 100%;top:0;left:0;z-index: 0;height: 90vh;margin-top: -5vh">-->
+<!--    </div>-->
 
     <div class="text-container" style="position: absolute;width: 100%;z-index: 0;text-align: center;
 
