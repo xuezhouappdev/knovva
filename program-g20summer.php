@@ -26,9 +26,9 @@
 
       .video-wrapper >div.text-container {
           position: absolute;
-          width: 100%;z-index: 0;
+          width: 100%;
+          z-index: 0;
           text-align: center;
-
           top: 18%;
           left: 50%;
           transform: translate(-50%, -50%);
