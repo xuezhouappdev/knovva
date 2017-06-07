@@ -36,9 +36,9 @@
       line-height: 20px; }
     .main .container input:nth-child(6) {
       border-radius: 0;
-      width: 30%;
-      border: none; }
+      width: 30%; }
     .main .container #apply-btn {
+      border: none;
       display: inline-block;
       padding: 4px 18px;
       border-radius: 0;
