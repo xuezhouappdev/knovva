@@ -49,6 +49,20 @@ include "header.php";
         <p class="msg" style="display: inline-block;margin-left: 24px;"></p>
 
 
+        <!--paypal-->
+        <div class="row paypal" style="margin-top: 12px">
+
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" id="paypalid" value="MHJDB83H5QA6N">
+                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
+
+
+
+        </div>
+
                     <script>
                         $("#apply-btn").click(function(){
 
@@ -57,8 +71,9 @@ include "header.php";
 
                             if (userinput == "2017SUMMER") {
 
-                                $("#paypalid").val("AMTRE4W2QYQMQ");
                                 $(".msg").html("<span style='color:green'>Promotion code successfully applied</span>");
+                                $("#paypalid").val("QCMRK24QMB7S2");
+
 
                             }
                             else
@@ -68,19 +83,7 @@ include "header.php";
 
 
 
-        <!--paypal-->
-        <div class="row paypal" style="margin-top: 12px">
 
-            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="MHJDB83H5QA6N">
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-            </form>
-
-
-
-        </div>
 
 
         <h4>2. Wire transfers/electronic payment: </h4>
