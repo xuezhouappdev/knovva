@@ -54,8 +54,8 @@
       <file leaf-file-name="payment.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/payment.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+            <state relative-caret-position="341">
+              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -519,14 +519,7 @@
       <workItem from="1496417210616" duration="5537000" />
       <workItem from="1496439447545" duration="1465000" />
       <workItem from="1496677072017" duration="4780000" />
-      <workItem from="1496802771041" duration="5819000" />
-    </task>
-    <task id="LOCAL-00131" summary="updated hover header">
-      <created>1493931659638</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1493931659639</updated>
+      <workItem from="1496802771041" duration="5914000" />
     </task>
     <task id="LOCAL-00132" summary="change position of MG20 and SIE">
       <created>1494012613089</created>
@@ -864,11 +857,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496852334932</updated>
     </task>
-    <option name="localTasksCounter" value="180" />
+    <task id="LOCAL-00180" summary="updated">
+      <created>1496852457650</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1496852457650</updated>
+    </task>
+    <option name="localTasksCounter" value="181" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="538961000" />
+    <option name="totallyTimeSpent" value="539056000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -945,7 +945,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="hide the teachers blocks at this moment" />
     <MESSAGE value="updated teacher's profile on the g20" />
     <MESSAGE value="hided g20 links" />
     <MESSAGE value="link the g20 page, hiding the teacher staff" />
@@ -970,7 +969,8 @@
     <MESSAGE value="updated PROMOTION" />
     <MESSAGE value="updated promotion code to 3" />
     <MESSAGE value="updated knovva footer: contact" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated knovva footer: contact" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1341,8 +1341,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1496852433000" expanded="true" signature="808:851" ph="{...}" />
-            <marker date="1496852433000" expanded="true" signature="1124:1172" ph="{...}" />
+            <marker date="1496852527000" expanded="true" signature="808:851" ph="{...}" />
+            <marker date="1496852527000" expanded="true" signature="1144:1216" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1364,8 +1364,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/payment.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        <state relative-caret-position="341">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
           <folding />
         </state>
       </provider>
