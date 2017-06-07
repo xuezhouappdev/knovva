@@ -54,8 +54,8 @@
       <file leaf-file-name="payment.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/payment.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+            <state relative-caret-position="405">
+              <caret line="54" column="6" lean-forward="false" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -519,14 +519,7 @@
       <workItem from="1496417210616" duration="5537000" />
       <workItem from="1496439447545" duration="1465000" />
       <workItem from="1496677072017" duration="4780000" />
-      <workItem from="1496802771041" duration="5650000" />
-    </task>
-    <task id="LOCAL-00129" summary="updated homepage image links">
-      <created>1493923566782</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1493923566782</updated>
+      <workItem from="1496802771041" duration="5711000" />
     </task>
     <task id="LOCAL-00130" summary="updated hubspot on header.php">
       <created>1493926668432</created>
@@ -864,11 +857,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496852134463</updated>
     </task>
-    <option name="localTasksCounter" value="178" />
+    <task id="LOCAL-00178" summary="updated knovva footer: contact">
+      <created>1496852276119</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1496852276120</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="538792000" />
+    <option name="totallyTimeSpent" value="538853000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -959,7 +959,6 @@
     <MESSAGE value="updated thank you page" />
     <MESSAGE value="updated knovva blog" />
     <MESSAGE value="updated knovva mobile menu" />
-    <MESSAGE value="updated knovva footer: contact" />
     <MESSAGE value="updated enroll now on the home page" />
     <MESSAGE value="updated aer enroll now btn" />
     <MESSAGE value="removed live chat" />
@@ -970,7 +969,8 @@
     <MESSAGE value="updated payment page" />
     <MESSAGE value="updated PROMOTION" />
     <MESSAGE value="updated promotion code to 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated promotion code to 3" />
+    <MESSAGE value="updated knovva footer: contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated knovva footer: contact" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1341,8 +1341,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1496852258000" expanded="true" signature="808:851" ph="{...}" />
-            <marker date="1496852258000" expanded="true" signature="1148:1196" ph="{...}" />
+            <marker date="1496852319000" expanded="true" signature="808:851" ph="{...}" />
+            <marker date="1496852319000" expanded="true" signature="1124:1172" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1364,8 +1364,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/payment.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        <state relative-caret-position="405">
+          <caret line="54" column="6" lean-forward="false" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
           <folding />
         </state>
       </provider>
