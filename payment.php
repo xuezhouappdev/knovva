@@ -42,7 +42,7 @@ include "header.php";
         <h3>Payment Option</h3>
 
 
-        <h4>1. Paypal (Preferred)</h4>
+        <h4>1. PayPal (Preferred)</h4>
         <p>Promotion Code (If any)</p>
         <input type="text" class="form-control" id="promotion_code" style="width: 20%;height:80%;display: inline-block">
         <a class="btn btn-primary" id="apply-btn">Apply</a>
