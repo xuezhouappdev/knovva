@@ -34,7 +34,7 @@
     .main .container p {
       font-size: 16px;
       line-height: 20px; }
-    .main .container input {
+    .main .container input:nth-child(6) {
       border-radius: 0;
       width: 30%; }
     .main .container #apply-btn {

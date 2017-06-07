@@ -6,7 +6,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/payment.css" afterPath="$PROJECT_DIR$/css/payment.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/payment.scss" afterPath="$PROJECT_DIR$/css/payment.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/payment.php" afterPath="$PROJECT_DIR$/payment.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,10 +34,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="payment.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="payment.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/payment.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="255">
               <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -52,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="payment.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="payment.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/payment.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+            <state relative-caret-position="270">
+              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -251,8 +250,8 @@
         <option value="$PROJECT_DIR$/analyticstracking.php" />
         <option value="$PROJECT_DIR$/program-g20summer.php" />
         <option value="$PROJECT_DIR$/payment-page.php" />
-        <option value="$PROJECT_DIR$/css/payment.scss" />
         <option value="$PROJECT_DIR$/payment.php" />
+        <option value="$PROJECT_DIR$/css/payment.scss" />
       </list>
     </option>
   </component>
@@ -520,14 +519,7 @@
       <workItem from="1496417210616" duration="5537000" />
       <workItem from="1496439447545" duration="1465000" />
       <workItem from="1496677072017" duration="4780000" />
-      <workItem from="1496802771041" duration="5494000" />
-    </task>
-    <task id="LOCAL-00128" summary="added hotjar code on program page">
-      <created>1493910611774</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1493910611774</updated>
+      <workItem from="1496802771041" duration="5650000" />
     </task>
     <task id="LOCAL-00129" summary="updated homepage image links">
       <created>1493923566782</created>
@@ -865,11 +857,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496844534238</updated>
     </task>
-    <option name="localTasksCounter" value="177" />
+    <task id="LOCAL-00177" summary="updated promotion code to 3">
+      <created>1496852134463</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1496852134463</updated>
+    </task>
+    <option name="localTasksCounter" value="178" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="538636000" />
+    <option name="totallyTimeSpent" value="538792000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -946,7 +945,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="updated G20 page" />
     <MESSAGE value="hide the teachers blocks at this moment" />
     <MESSAGE value="updated teacher's profile on the g20" />
     <MESSAGE value="hided g20 links" />
@@ -971,7 +969,8 @@
     <MESSAGE value="updated price" />
     <MESSAGE value="updated payment page" />
     <MESSAGE value="updated PROMOTION" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated PROMOTION" />
+    <MESSAGE value="updated promotion code to 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated promotion code to 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1342,23 +1341,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1496850790000" expanded="true" signature="808:851" ph="{...}" />
-            <marker date="1496850790000" expanded="true" signature="1135:1183" ph="{...}" />
+            <marker date="1496852258000" expanded="true" signature="808:851" ph="{...}" />
+            <marker date="1496852258000" expanded="true" signature="1148:1196" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/payment.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/payment.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="255">
           <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1368,6 +1359,14 @@
             <marker date="1496850790000" expanded="true" signature="2529:2540" ph="..." />
             <marker date="1496850790000" expanded="true" signature="2791:2800" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/payment.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
