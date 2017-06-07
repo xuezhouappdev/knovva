@@ -70,17 +70,20 @@ include "header.php";
                             //alert(userinput);
 
                             if (userinput == "2017SUMMER") {
-
                                 $(".msg").html("<span style='color:green'>Promotion code successfully applied</span>");
-                                $("#paypalid").val("QCMRK24QMB7S2");
-
+                                $("#paypalid").val("QCMRK24QMB7S2");    //2500
 
                             }
-                            else
+                            else if(userinput == "G20ALUMN") {
+                                $(".msg").html("<span style='color:green'>Promotion code successfully applied</span>");
+                                $("#paypalid").val("SMYSHJ75KDCKL");  //2800
+                            }
+                            else {
                                 $(".msg").html("<span style='color:red'>Not valid</span>");
+                                $('#promotion_code').val('');
+                            }
                         })
                     </script>
-
 
 
 

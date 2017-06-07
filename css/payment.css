@@ -34,13 +34,14 @@
     .main .container p {
       font-size: 16px;
       line-height: 20px; }
-    .main .container .row:nth-child(1) input {
+    .main .container input {
       border-radius: 0;
       width: 30%; }
-    .main .container .row:nth-child(1) a {
+    .main .container #apply-btn {
       margin-top: 32px;
       display: inline-block;
       padding: 4px 18px;
-      border-radius: 0; }
+      border-radius: 0;
+      background: #6E539E; }
 
 /*# sourceMappingURL=payment.css.map */

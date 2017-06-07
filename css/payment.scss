@@ -1,3 +1,4 @@
+@import "variables";
 
 .banner {
   background: #D874BD; /* For browsers that do not support gradients */
@@ -44,24 +45,24 @@
       line-height: 20px;
     }
 
-    .row:nth-child(1) {
-      input {
-        border-radius: 0;
 
+    input {
+        border-radius: 0;
         width: 30%;
       }
 
-      a {
+    #apply-btn {
         margin-top: 32px;
         display: inline-block;
         padding: 4px 18px;
         border-radius: 0;
+        background: $primary;
       }
 
       .msg {
 
       }
-    }
+
 
 
   }
