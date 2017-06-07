@@ -1,0 +1,46 @@
+.banner {
+  background: #D874BD;
+  /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#D874BD, #6E539E);
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#D874BD, #6E539E);
+  /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#D874BD, #6E539E);
+  /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#D874BD, #6E539E);
+  /* Standard syntax */
+  min-height: 200px;
+  width: 100%;
+  opacity: 0.8;
+  background-size: cover;
+  color: white; }
+  .banner h1 {
+    position: relative;
+    margin-top: 110px;
+    color: #fdfdfd;
+    border-left: 3px solid #f3f3f3;
+    padding-left: 7px; }
+
+.main {
+  margin-top: 64px;
+  margin-bottom: 64px; }
+  .main .container {
+    margin: 0 auto;
+    width: 90%; }
+    .main .container h3 {
+      margin-bottom: 32px; }
+    .main .container h4 {
+      font-weight: bold; }
+    .main .container p {
+      font-size: 16px;
+      line-height: 20px; }
+    .main .container .row:nth-child(1) input {
+      border-radius: 0;
+      width: 30%; }
+    .main .container .row:nth-child(1) a {
+      margin-top: 32px;
+      display: inline-block;
+      padding: 4px 18px;
+      border-radius: 0; }
+
+/*# sourceMappingURL=payment.css.map */
