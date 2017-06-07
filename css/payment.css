@@ -42,5 +42,7 @@
       padding: 4px 18px;
       border-radius: 0;
       background: #6E539E; }
+      .main .container #apply-btn:hover {
+        background: #8970b4; }
 
 /*# sourceMappingURL=payment.css.map */
