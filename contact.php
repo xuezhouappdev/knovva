@@ -46,98 +46,25 @@ include "header.php";
         <div class="row">
 
             <div class="col-sm-7" >
-                <form method="POST" action=""  id="contactemailform" style="border-right: 2px solid  rgba(146,146,146,0.1);padding-right: 24px">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <h5 id="error" style="color:red;">
-                            </h5>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <div class="form-group">
-                                <label for="firstname">First Name*</label>
-                                <input type="text" class="form-control" name="contact_fn"  placeholder="First Name" >
 
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="form-group">
-                                <label for="lastname">Last Name*</label>
-                                <input type="text" class="form-control" name="contact_ln"  placeholder="Last Name" >
+                <!--[if lte IE 8]>
+                <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+                <![endif]-->
+                <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+                <script>
+                    hbspt.forms.create({
+                        portalId: '3274947',
+                        formId: '4c0aeafa-c332-4674-80e7-9cf8695a3d37'
+                    });
+                </script>
 
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <div class="form-group">
-                                <label for="email">Email*</label>
-                                <input type="email" class="form-control" name="contact_email" placeholder="Email" >
-
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="form-group">
-                                <label for="phone">Phone</label>
-                                <input type="number" class="form-control" name="contact_phone"  placeholder="Phone"  >
-
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <div class="form-group">
-                                <label for="program">Program: </label>
-                                <select name="contact_program">
-                                    <option value="N/A">Please select your program</option>
-                                    <option value="Social Impact and Entrepreneurship">Social Impact and Entrepreneurship</option>
-                                    <option value="Global Affairs Institute">Global Affairs Institute</option>
-                                    <option value="Applied Engineering & Robotics">Applied Engineering & Robotics</option>
-                                    <option value="Understanding the Landscape of Study">Understanding the Landscape of Study</option>
-                                    <option value="U.S. Social Media Use and Electronic Correspondence">U.S. Social Media Use and Electronic Correspondence</option>
-                                    <option value="The Harry Potter Reading Group">The Harry Potter Reading Group</option>
-                                    <option value="The Innovation Reading Group: Creativity and Change in the New Millennium">The Innovation Reading Group: Creativity and Change in the New Millennium</option>
-                                    <option value="The Digital Crossroads of East and West">Model G20 Summer Program</option>
-                                </select>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <div class="form-group">
-                                <label for="message">Message*</label>
-                                <textarea class="form-control" rows="11" name="contact_textarea" ></textarea>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-
-
-                    <div class="row">
-                        <div class="col-sm-12">
-
-
-                            <button type="submit" name="submit" id="contact-submit-btn" class="btn btn-default">SEND</button>
-                        </div>
-                    </div>
-
-                </form>
             </div>
             <div class="col-sm-5">
                <h5>  <i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp <a href="https://www.google.com/maps/place/222+Third+St,+Cambridge,+MA+02142/@42.367156,-71.0823859,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370bb6afb650b:0x7bf7a9af0f3613cd!8m2!3d42.3671521!4d-71.0801972" target="_blank">222 3rd Street, Suite 3150, Cambridge, MA 02142</a></h5>
                 <h5><i class="fa fa-phone" aria-hidden="true"></i>&nbsp <a href="callto:6175777770">&nbsp617-577-7770</a></h5>
                <h5> <i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp<a href="mailto:info@knovva.com">&nbsp;info@knovva.com</a></h5>
 
-                <div id="map" style="top:25px;"></div>
+                <div id="map" style="top:15px;"></div>
 
                 <script src="js/contact-map.js"></script>
             </div>

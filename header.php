@@ -85,7 +85,7 @@ SEPERATELY-->
 <!--                    <li><a href="webinar"> Webinar </a></li>-->
                     <li><a href="http://blog.knovva.com/"> Blog</a></li>
 <!--                    <li><a href="career"> Career </a></li>-->
-                    <li><a href="http://info.knovva.com/contact-us"> Contact </a></li>
+                    <li><a href="contact"> Contact </a></li>
                     <li id="dropdown"><a class="cta" style="color: white" href="http://info.knovva.com/general-application"><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp;
                                 I'm interested </a>
 <!--                        <div class="dropdown-content">-->
@@ -113,7 +113,7 @@ SEPERATELY-->
         <a href="about">About</a>
         <a href="programs">Programs</a>
         <a href="http://blog.knovva.com">Blog</a>
-        <a href="http://info.knovva.com/contact-us">Contact</a>
+        <a href="contact">Contact</a>
         <a href="http://info.knovva.com/general-application"><p>Apply</p></a>
 
 

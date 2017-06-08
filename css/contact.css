@@ -121,8 +121,8 @@ div.map {
     color: white;
 }
 
-.col-sm-5 {
-    margin-top: 32px;
+.col-sm-6 .h5 a {
+   color: black;
 }
 
 #contact-submit-btn {
@@ -165,4 +165,23 @@ body > div.map > div > div > div.col-sm-5 > h5 > i {
     width: 100%;
     border-radius: 0;
     padding: 4px;
+}
+
+
+#hsForm_4c0aeafa-c332-4674-80e7-9cf8695a3d37 > div > div.actions > input {
+    cursor: pointer;
+    padding: 8px 32px;
+    transition: 0.4s linear;
+    background: #6e539e;
+    color: white;
+    border-radius: 0; box-shadow: none;
+    border-color:transparent;
+    font-weight: normal;
+    text-transform: uppercase;
+
+}
+
+#hsForm_4c0aeafa-c332-4674-80e7-9cf8695a3d37 > div > div.actions > input:hover {
+    text-decoration: none;
+    background:#D874BD;
 }
