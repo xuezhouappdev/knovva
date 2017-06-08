@@ -24,27 +24,24 @@
 .main {
   margin-top: 64px;
   margin-bottom: 64px; }
-  .main .container {
-    margin: 0 auto;
-    width: 90%; }
-    .main .container h3 {
-      margin-bottom: 32px; }
-    .main .container h4 {
-      font-weight: bold; }
-    .main .container p {
-      font-size: 16px;
-      line-height: 20px; }
-    .main .container input:nth-child(6) {
-      border-radius: 0;
-      width: 30%; }
-    .main .container #apply-btn {
-      border: none;
-      display: inline-block;
-      padding: 4px 18px;
-      border-radius: 0;
-      background: #6E539E;
-      margin-left: 8px; }
-      .main .container #apply-btn:hover {
-        background: #8970b4; }
+  .main .container h3 {
+    margin-bottom: 32px; }
+  .main .container h4 {
+    font-weight: bold; }
+  .main .container p {
+    font-size: 16px;
+    line-height: 20px; }
+  .main .container input:nth-child(6) {
+    border-radius: 0;
+    width: 30%; }
+  .main .container #apply-btn {
+    border: none;
+    display: inline-block;
+    padding: 4px 18px;
+    border-radius: 0;
+    background: #6E539E;
+    margin-left: 8px; }
+    .main .container #apply-btn:hover {
+      background: #8970b4; }
 
 /*# sourceMappingURL=payment.css.map */

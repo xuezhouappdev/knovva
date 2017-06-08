@@ -36,10 +36,16 @@ include "header.php";
 
 <div class="main">
     <div class="container">
+        <div class="row">
+            <p>Knovva Academy accepts applications on a rolling basis and enrollment is on a first-come, first-serve basis. Your spot in this program will not be reserved until payment has been made. You will receive a receipt and confirmation email upon payment.If you have any questions, please email us at: info@knovva.com</p>
+        </div>
 
-        <p>Knovva Academy accepts applications on a rolling basis and enrollment is on a first-come, first-serve basis. Your spot in this program will not be reserved until payment has been made. You will receive a receipt and confirmation email upon payment.If you have any questions, please email us at: info@knovva.com</p>
+
         <hr>
-        <h3>Payment Option</h3>
+        <div class="row">
+            <h3>Payment Option</h3>
+        </div>
+
 
 
         <h4>1. PayPal (Preferred)</h4>
