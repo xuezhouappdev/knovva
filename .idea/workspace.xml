@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/payment-instruction.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/contact.css" afterPath="$PROJECT_DIR$/css/contact.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/payment.php" afterPath="$PROJECT_DIR$/payment.php" />
     </list>
     <ignored path="knovva.iws" />
@@ -69,13 +67,13 @@
       <file leaf-file-name="payment.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/payment.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+            <state relative-caret-position="60">
+              <caret line="39" column="190" lean-forward="false" selection-start-line="39" selection-start-column="190" selection-end-line="39" selection-end-column="190" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1497023258000" expanded="true" signature="2478:2489" ph="..." />
-                <marker date="1497023258000" expanded="true" signature="2771:2782" ph="..." />
-                <marker date="1497023258000" expanded="true" signature="3033:3042" ph="..." />
+                <marker date="1497027980000" expanded="true" signature="2482:2493" ph="..." />
+                <marker date="1497027980000" expanded="true" signature="2775:2786" ph="..." />
+                <marker date="1497027980000" expanded="true" signature="3037:3046" ph="..." />
               </folding>
             </state>
           </provider>
@@ -94,7 +92,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>digital</find>
       <find>global</find>
       <find>grades</find>
       <find>The dig</find>
@@ -124,6 +121,7 @@
       <find>if an</find>
       <find>paypa;</find>
       <find>map</find>
+      <find>for more</find>
     </findStrings>
     <replaceStrings>
       <replace>sm</replace>
@@ -449,14 +447,7 @@
       <workItem from="1496417210616" duration="5537000" />
       <workItem from="1496439447545" duration="1465000" />
       <workItem from="1496677072017" duration="4780000" />
-      <workItem from="1496802771041" duration="11532000" />
-    </task>
-    <task id="LOCAL-00138" summary="updated the testmonial structure on g20 page">
-      <created>1494363249898</created>
-      <option name="number" value="00138" />
-      <option name="presentableId" value="LOCAL-00138" />
-      <option name="project" value="LOCAL" />
-      <updated>1494363249898</updated>
+      <workItem from="1496802771041" duration="11762000" />
     </task>
     <task id="LOCAL-00139" summary="updated the video for">
       <created>1494363400169</created>
@@ -794,11 +785,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496965343465</updated>
     </task>
-    <option name="localTasksCounter" value="187" />
+    <task id="LOCAL-00187" summary="updated payment instruction">
+      <created>1497023278988</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1497023278988</updated>
+    </task>
+    <option name="localTasksCounter" value="188" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="544674000" />
+    <option name="totallyTimeSpent" value="544904000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -875,7 +873,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="updated individual forms for MG20 and aer" />
     <MESSAGE value="updated arron's version" />
     <MESSAGE value="hide career" />
     <MESSAGE value="updated price info on g2o page" />
@@ -900,7 +897,8 @@
     <MESSAGE value="  m" />
     <MESSAGE value="updated margin on payment page" />
     <MESSAGE value="embed the HB contact form" />
-    <option name="LAST_COMMIT_MESSAGE" value="embed the HB contact form" />
+    <MESSAGE value="updated payment instruction" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated payment instruction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1287,13 +1285,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/payment.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        <state relative-caret-position="60">
+          <caret line="39" column="190" lean-forward="false" selection-start-line="39" selection-start-column="190" selection-end-line="39" selection-end-column="190" />
           <folding>
             <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1497023258000" expanded="true" signature="2478:2489" ph="..." />
-            <marker date="1497023258000" expanded="true" signature="2771:2782" ph="..." />
-            <marker date="1497023258000" expanded="true" signature="3033:3042" ph="..." />
+            <marker date="1497027980000" expanded="true" signature="2482:2493" ph="..." />
+            <marker date="1497027980000" expanded="true" signature="2775:2786" ph="..." />
+            <marker date="1497027980000" expanded="true" signature="3037:3046" ph="..." />
           </folding>
         </state>
       </provider>

@@ -43,7 +43,7 @@ include "header.php";
 
         <hr>
         <div class="row">
-            <h3>Payment Option <span style="font-size: 14px;margin-left: 4px">(Please click <a href="documentation/payment-instruction.pdf">here </a>for more instructions)</span></h3>
+            <h3>Payment Option <span style="font-size: 14px;margin-left: 4px">(Please click <a href="documentation/payment-instruction.pdf">here </a>for detailed instructions)</span></h3>
 
         </div>
 
