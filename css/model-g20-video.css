@@ -113,7 +113,7 @@ a, a:hover{
 
 
 
-#hsForm_dac6027a-36c7-42e0-b0b5-a5f9d7cfa4f5 > fieldset:nth-child(1) > div.hs_firstname.field.hs-form-field > ul > li > label,#hsForm_dac6027a-36c7-42e0-b0b5-a5f9d7cfa4f5 > fieldset:nth-child(1) > div.hs_lastname.field.hs-form-field > ul > li > label,#hsForm_dac6027a-36c7-42e0-b0b5-a5f9d7cfa4f5 > fieldset:nth-child(2) > div.hs_email.field.hs-form-field > ul > li > label {
+#hsForm_dac6027a-36c7-42e0-b0b5-a5f9d7cfa4f5 > fieldset:nth-child(1) > div.hs_firstname.field.hs-form-field > ul > li > label,#hsForm_dac6027a-36c7-42e0-b0b5-a5f9d7cfa4f5 > fieldset:nth-child(1) > div.hs_lastname.field.hs-form-field > ul > li > label,#hsForm_dac6027a-36c7-42e0-b0b5-a5f9d7cfa4f5 > fieldset:nth-child(2) > div.hs_email.field.hs-form-field > ul > li > label,#hsForm_dac6027a-36c7-42e0-b0b5-a5f9d7cfa4f5 > fieldset:nth-child(3) > div > ul > li > label {
     color: red;
 }
 

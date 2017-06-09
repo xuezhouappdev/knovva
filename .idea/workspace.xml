@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-g20summer.php" afterPath="$PROJECT_DIR$/program-g20summer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/model-g20-video.css" afterPath="$PROJECT_DIR$/css/model-g20-video.css" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,7 +57,7 @@
       <file leaf-file-name="payment.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/payment.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="585">
               <caret line="39" column="190" lean-forward="false" selection-start-line="39" selection-start-column="190" selection-end-line="39" selection-end-column="190" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -81,27 +81,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="model-g20-video.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="model-g20-video.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/model-g20-video.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="90" column="24" lean-forward="true" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
+            <state relative-caret-position="93">
+              <caret line="115" column="465" lean-forward="false" selection-start-line="115" selection-start-column="465" selection-end-line="115" selection-end-column="465" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program_template.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/program_template.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="582" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="program-g20summer.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="program-g20summer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/program-g20summer.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
@@ -231,8 +221,8 @@
         <option value="$PROJECT_DIR$/css/contact.css" />
         <option value="$PROJECT_DIR$/payment.php" />
         <option value="$PROJECT_DIR$/model-g20-application.php" />
-        <option value="$PROJECT_DIR$/css/model-g20-video.css" />
         <option value="$PROJECT_DIR$/program-g20summer.php" />
+        <option value="$PROJECT_DIR$/css/model-g20-video.css" />
       </list>
     </option>
   </component>
@@ -482,14 +472,7 @@
       <workItem from="1496417210616" duration="5537000" />
       <workItem from="1496439447545" duration="1465000" />
       <workItem from="1496677072017" duration="4780000" />
-      <workItem from="1496802771041" duration="14542000" />
-    </task>
-    <task id="LOCAL-00141" summary="updated the video">
-      <created>1494427361550</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1494427361550</updated>
+      <workItem from="1496802771041" duration="14791000" />
     </task>
     <task id="LOCAL-00142" summary="updated the video for g20">
       <created>1494428506373</created>
@@ -827,11 +810,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497033768828</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <task id="LOCAL-00190" summary="updated model 20 applicaiton form on knovv.com instead of info.knovva.com">
+      <created>1497033845668</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1497033845668</updated>
+    </task>
+    <option name="localTasksCounter" value="191" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="547684000" />
+    <option name="totallyTimeSpent" value="547933000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1280,27 +1270,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/payment.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="39" column="190" lean-forward="false" selection-start-line="39" selection-start-column="190" selection-end-line="39" selection-end-column="190" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1497027980000" expanded="true" signature="2482:2493" ph="..." />
-            <marker date="1497027980000" expanded="true" signature="2775:2786" ph="..." />
-            <marker date="1497027980000" expanded="true" signature="3037:3046" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/program_template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="582" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
@@ -1327,14 +1296,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/model-g20-video.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="90" column="24" lean-forward="true" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/program-g20summer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1343,6 +1304,35 @@
             <element signature="n#style#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="190" lean-forward="false" selection-start-line="39" selection-start-column="190" selection-end-line="39" selection-end-column="190" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1497027980000" expanded="true" signature="2482:2493" ph="..." />
+            <marker date="1497027980000" expanded="true" signature="2775:2786" ph="..." />
+            <marker date="1497027980000" expanded="true" signature="3037:3046" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/program_template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="582" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/model-g20-video.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="115" column="465" lean-forward="false" selection-start-line="115" selection-start-column="465" selection-end-line="115" selection-end-column="465" />
+          <folding />
         </state>
       </provider>
     </entry>
