@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/model-g20-video.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model-g20-application.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-g20summer.php" afterPath="$PROJECT_DIR$/program-g20summer.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -82,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="model-g20-video.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="model-g20-video.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/model-g20-video.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -102,14 +101,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program-g20summer.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="program-g20summer.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/program-g20summer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="10" column="56" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="10" selection-end-column="59" />
+            <state relative-caret-position="126">
+              <caret line="93" column="75" lean-forward="false" selection-start-line="93" selection-start-column="75" selection-end-line="93" selection-end-column="75" />
               <folding>
                 <element signature="n#style#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
@@ -149,7 +147,6 @@
       <find>program</find>
       <find>i'm</find>
       <find>cta</find>
-      <find>enroll</find>
       <find>requ</find>
       <find>day</find>
       <find>video</find>
@@ -159,6 +156,7 @@
       <find>paypa;</find>
       <find>for more</find>
       <find>map</find>
+      <find>enroll</find>
     </findStrings>
     <replaceStrings>
       <replace>sm</replace>
@@ -225,7 +223,6 @@
         <option value="$PROJECT_DIR$/program-appliedengineering.php" />
         <option value="$PROJECT_DIR$/css/program_template.css" />
         <option value="$PROJECT_DIR$/analyticstracking.php" />
-        <option value="$PROJECT_DIR$/program-g20summer.php" />
         <option value="$PROJECT_DIR$/payment-page.php" />
         <option value="$PROJECT_DIR$/css/payment.scss" />
         <option value="$PROJECT_DIR$/footer.php" />
@@ -235,6 +232,7 @@
         <option value="$PROJECT_DIR$/payment.php" />
         <option value="$PROJECT_DIR$/model-g20-application.php" />
         <option value="$PROJECT_DIR$/css/model-g20-video.css" />
+        <option value="$PROJECT_DIR$/program-g20summer.php" />
       </list>
     </option>
   </component>
@@ -484,14 +482,7 @@
       <workItem from="1496417210616" duration="5537000" />
       <workItem from="1496439447545" duration="1465000" />
       <workItem from="1496677072017" duration="4780000" />
-      <workItem from="1496802771041" duration="14448000" />
-    </task>
-    <task id="LOCAL-00140" summary="updated g20page video mask and testimomial iamges">
-      <created>1494427140805</created>
-      <option name="number" value="00140" />
-      <option name="presentableId" value="LOCAL-00140" />
-      <option name="project" value="LOCAL" />
-      <updated>1494427140805</updated>
+      <workItem from="1496802771041" duration="14542000" />
     </task>
     <task id="LOCAL-00141" summary="updated the video">
       <created>1494427361550</created>
@@ -829,11 +820,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497027986438</updated>
     </task>
-    <option name="localTasksCounter" value="189" />
+    <task id="LOCAL-00189" summary="updated model 20 applicaiton form on knovv.com instead of info.knovva.com">
+      <created>1497033768828</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1497033768828</updated>
+    </task>
+    <option name="localTasksCounter" value="190" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="547590000" />
+    <option name="totallyTimeSpent" value="547684000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -910,7 +908,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="updated arron's version" />
     <MESSAGE value="hide career" />
     <MESSAGE value="updated price info on g2o page" />
     <MESSAGE value="updated thank you page" />
@@ -935,7 +932,8 @@
     <MESSAGE value="updated margin on payment page" />
     <MESSAGE value="embed the HB contact form" />
     <MESSAGE value="updated payment instruction" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated payment instruction" />
+    <MESSAGE value="updated model 20 applicaiton form on knovv.com instead of info.knovva.com" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated model 20 applicaiton form on knovv.com instead of info.knovva.com" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1295,18 +1293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program-g20summer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="10" column="56" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="10" selection-end-column="59" />
-          <folding>
-            <element signature="n#style#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/program_template.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1346,6 +1332,17 @@
         <state relative-caret-position="102">
           <caret line="90" column="24" lean-forward="true" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-g20summer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="93" column="75" lean-forward="false" selection-start-line="93" selection-start-column="75" selection-end-line="93" selection-end-column="75" />
+          <folding>
+            <element signature="n#style#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
