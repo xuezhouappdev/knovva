@@ -185,3 +185,10 @@ body > div.map > div > div > div.col-sm-5 > h5 > i {
     text-decoration: none;
     background:#D874BD;
 }
+
+.hs-form-4c0aeafa-c332-4674-80e7-9cf8695a3d37_c997ff57-f7a8-4397-bc51-92b9297c25ac fieldset {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    max-width: 600px;
+}

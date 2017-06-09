@@ -37,13 +37,14 @@ include "header.php";
 <div class="main">
     <div class="container">
         <div class="row">
-            <p>Knovva Academy accepts applications on a rolling basis and enrollment is on a first-come, first-serve basis. Your spot in this program will not be reserved until payment has been made. You will receive a receipt and confirmation email upon payment.If you have any questions, please email us at: info@knovva.com</p>
+            <p>Knovva Academy accepts applications on a rolling basis and enrollment is on a first-come, first-serve basis. Your spot in this program will not be reserved until payment has been made. You will receive a receipt and confirmation email upon payment.If you have any questions, please email us at: info@knovva.com.</p>
         </div>
 
 
         <hr>
         <div class="row">
-            <h3>Payment Option</h3>
+            <h3>Payment Option <span style="font-size: 14px;margin-left: 4px">(Please click <a href="documentation/payment-instruction.pdf">here </a>for more instructions)</span></h3>
+
         </div>
 
 
