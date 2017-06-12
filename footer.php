@@ -59,7 +59,7 @@
                     <a href="https://www.facebook.com/Knovva"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
                     <a href="https://www.instagram.com/knovvaacademy/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                     <a href="https://www.youtube.com/channel/UCwkpuaI46XUopl9tNGli4fw"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
-                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a href="https://twitter.com/knovva_academy"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                 </div>
 
             </div>
