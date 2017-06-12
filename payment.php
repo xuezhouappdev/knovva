@@ -85,6 +85,10 @@ include "header.php";
                                 $(".msg").html("<span style='color:green'>Promotion code successfully applied</span>");
                                 $("#paypalid").val("SMYSHJ75KDCKL");  //2800
                             }
+                            else if(userinput == "FIFTYCENTS") {
+                                $(".msg").html("<span style='color:green'>Promotion code successfully applied</span>");
+                                $("#paypalid").val("FBSG3V5CU5JQ4");
+                            }//TEST $1
                             else {
                                 $(".msg").html("<span style='color:red'>Not valid</span>");
                                 $('#promotion_code').val('');
