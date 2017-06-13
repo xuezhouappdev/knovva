@@ -81,21 +81,31 @@ include "header.php";
 <!-- body part -->
 <div class="main">
     <div class="container">
-        <h1>The Copy is Pending</h1>
+        <h1>Model G20 Summer Program Webinar Registration</h1>
         <div class="row">
             <div class="col-md-6">
-                <p>Join like-minded high-school students from around the world for the Model G20 Summer Program in Qingdao, China. Together you'll discover modern China and see how your ideas can change the face of buinesses and sustanability in the area through feild studies and hands-on projects. <br><br>Expanding your horizons to China means that you will not only learn about buisness and sustanability from a different vantage point, but you'll also build your cultural repertoire, boosting cross-cultural communication skills - a must-have for employers today. </p>
-                <p><b>Build 21st Century Skills through Hands-On Learning in China</b></p>
                 <ul>
-                    <li>Language Development and Cross-Cultural Communication Skills</li>
-                    <li>International Networking</li>
-                    <li>Learn about Global Sustainability and Policy </li>
-                    <li>Boost Research & Analytical Skills</li>
+                    <li><b>Subject: </b>Political Science & Sustainability</li>
+                    <li><b>Time: </b>July 31 – Aug 13, 2017</li>
+                    <li><b>Location: </b>Political Science & Sustainability</li>
+                    <li><b>Grades: </b>9 – 12</li>
                 </ul>
+                <p>Interested in attending our Model G20 Summer program? Have questions about the program and itinerary? Join us for a webinar and we will answer all of your questions about our Model G20 Program: Global Sustainability in Action. We’ll also release an exclusive discount code for webinar attendees!
+                </p>
+                <p><b>Learn about:</b></p>
+                <ul>
+                    <li>Program Curriculum & Design</li>
+                    <li>Day-to-Day Schedule</li>
+                    <li>Events, Highlights, and Speakers</li>
+                    <li>Risk Management, Safety, and Medical Concerns</li>
+                </ul>
+
+                <p>Can’t make it? No worries! Register and we’ll send you a link to the recording.
+                </p>
             </div>
 
 
-            <div class="col-md-6"> <!--HB FORM EMBED-->
+            <div class="col-md-5 col-md-offset-1"> <!--HB FORM EMBED-->
 
                 <!--[if lte IE 8]>
                 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>

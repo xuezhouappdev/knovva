@@ -49,6 +49,8 @@ a, a:hover{
 }
 
 
+
+
 /*video for g20 */
 .video-container {
     width: 100%;
@@ -79,6 +81,18 @@ a, a:hover{
     line-height: 24px;
 }
 
+.main .container .row .col-md-6 ul:nth-child(1) {
+    margin-top: 48px;
+    text-decoration: none;
+    list-style: none;
+    left: 0;
+    margin-left: -36px;
+}
+
+
+.main .col-md-5 {
+    margin-top: 40px;
+}
 
 
 /*form fields*/
