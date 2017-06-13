@@ -4,7 +4,6 @@
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MG20-webinar-application.php" afterPath="$PROJECT_DIR$/MG20-webinar-application.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/model-g20-webinar.css" afterPath="$PROJECT_DIR$/css/model-g20-webinar.css" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,8 +95,8 @@
       <file leaf-file-name="MG20-webinar-application.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MG20-webinar-application.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="90" column="35" lean-forward="false" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
+            <state relative-caret-position="30">
+              <caret line="83" column="62" lean-forward="true" selection-start-line="83" selection-start-column="62" selection-end-line="83" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -492,14 +491,7 @@
       <workItem from="1496439447545" duration="1465000" />
       <workItem from="1496677072017" duration="4780000" />
       <workItem from="1496802771041" duration="15573000" />
-      <workItem from="1497275856355" duration="6607000" />
-    </task>
-    <task id="LOCAL-00149" summary="hide the teachers blocks at this moment">
-      <created>1494510330007</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1494510330007</updated>
+      <workItem from="1497275856355" duration="6689000" />
     </task>
     <task id="LOCAL-00150" summary="updated teacher's profile on the g20">
       <created>1494597872317</created>
@@ -837,11 +829,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497377615891</updated>
     </task>
-    <option name="localTasksCounter" value="198" />
+    <task id="LOCAL-00198" summary="updated weibinar application form">
+      <created>1497387714366</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1497387714367</updated>
+    </task>
+    <option name="localTasksCounter" value="199" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="555322000" />
+    <option name="totallyTimeSpent" value="555404000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1349,8 +1348,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MG20-webinar-application.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="90" column="35" lean-forward="false" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
+        <state relative-caret-position="30">
+          <caret line="83" column="62" lean-forward="true" selection-start-line="83" selection-start-column="62" selection-end-line="83" selection-end-column="62" />
           <folding />
         </state>
       </provider>

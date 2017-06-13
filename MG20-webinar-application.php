@@ -82,6 +82,7 @@ include "header.php";
 <div class="main">
     <div class="container">
         <h1>Model G20 Summer Program Webinar Registration</h1>
+        <hr>
         <div class="row">
             <div class="col-md-6">
                 <ul>
