@@ -18,8 +18,13 @@ $("#apply-btn").click(function(){
     }
     else if(userinput == "MG20WEBINAR") {
         $(".msg").html("<span style='color:green'>Promotion code successfully applied</span>");
-        $("#paypalid").val("JHAVWD7A6N2TG");  //3000
-    }//TEST $1
+        $("#paypalid").val("JHAVWD7A6N2TG");  //WEBINAR 3000
+    }
+
+    else if(userinput == "KSA2017") {
+        $(".msg").html("<span style='color:green'>Promotion code successfully applied</span>");
+        $("#paypalid").val("FMDRW8ZPU4KXN");  // KSA 3000
+    }
 
     else if(userinput == "FIFTYCENTS") {
         $(".msg").html("<span style='color:green'>Promotion code successfully applied</span>");
@@ -31,4 +36,5 @@ $("#apply-btn").click(function(){
         $('#promotion_code').val('');
     }
 });
+
 
