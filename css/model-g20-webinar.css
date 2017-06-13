@@ -82,7 +82,7 @@ a, a:hover{
 }
 
 .main .container .row .col-md-6 ul:nth-child(1) {
-    margin-top: 48px;
+    margin-top: 36px;
     text-decoration: none;
     list-style: none;
     left: 0;
@@ -91,7 +91,7 @@ a, a:hover{
 
 
 .main .col-md-5 {
-    margin-top: 40px;
+    margin-top: 28px;
 }
 
 
