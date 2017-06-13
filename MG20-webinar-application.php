@@ -81,7 +81,7 @@ include "header.php";
 <!-- body part -->
 <div class="main">
     <div class="container">
-        <h1>Be a 21st Century Global Citizen</h1>
+        <h1>The Copy is Pending</h1>
         <div class="row">
             <div class="col-md-6">
                 <p>Join like-minded high-school students from around the world for the Model G20 Summer Program in Qingdao, China. Together you'll discover modern China and see how your ideas can change the face of buinesses and sustanability in the area through feild studies and hands-on projects. <br><br>Expanding your horizons to China means that you will not only learn about buisness and sustanability from a different vantage point, but you'll also build your cultural repertoire, boosting cross-cultural communication skills - a must-have for employers today. </p>
