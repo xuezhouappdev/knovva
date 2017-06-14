@@ -15,6 +15,15 @@
 
 
 
+    <style>
+        h5.animated.flash {
+            -webkit-animation-duration: 2.5s;
+            -moz-animation-duration: 2.5s;
+            animation-duration: 2.5s;
+
+        }
+    </style>
+
 </head>
 <?php
 include "header.php";
@@ -33,7 +42,7 @@ include "header.php";
     <div class="carousel-inner home-slider" role="listbox">
 
         <div class="notice" style="background:#6c44c3; position: absolute; top:60px;width:100%; z-index: 100;opacity: 0.7">
-            <h5 style="padding: 0px;margin: 9px;display: block;text-align: center;color: white">Model G20 Summer Program Webinar: Exclusive Discount for Attendees! June 20th - 22nd, 12:30 - 1:00 PM EST</h5>
+            <h5 class="animated  flash infinite" style="padding: 0px;margin: 9px;display: block;text-align: center;color: white;">Model G20 Summer Program Webinar: Exclusive Discount for Attendees! June 20th - 22nd, 12:30 PM - 1:00 PM EST</h5>
         </div>
 
 
