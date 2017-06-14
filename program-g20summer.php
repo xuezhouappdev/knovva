@@ -91,7 +91,7 @@ include "header.php";
         <div class="container intro-text">
             <h1 style="text-align: center;">Model G20 Summer Program</h1>
 
-            <a style="text-align: center; " href="model-g20-application.php">Enroll Now</a>
+            <a style="text-align: center; " href="http://info.knovva.com/model-g20-application">Enroll Now</a>
 <!--            <div data-id="ca83c822d0" class="livechat_button"><a href="https://www.livechatinc.com/customer-service-software/?partner=lc_8790441&amp;utm_source=chat_button">customer service software</a></div>-->
 <!--            <a href="#" onclick="LC_API.open_chat_window();return false;">More Details </a>-->
 
