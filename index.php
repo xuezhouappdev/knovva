@@ -17,9 +17,9 @@
 
     <style>
         h5.animated.flash {
-            -webkit-animation-duration: 2.5s;
-            -moz-animation-duration: 2.5s;
-            animation-duration: 2.5s;
+            -webkit-animation-duration: 3.5s;
+            -moz-animation-duration: 3.5s;
+            animation-duration: 3.5s;
 
         }
 
