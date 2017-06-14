@@ -64,7 +64,7 @@ SEPERATELY-->
 <div class="header" style="z-index: 999">
     <div class="container">
         <div class="navbar-fixed-top homepage" id="mynav">
-            <div class="row">
+            <div class="row" style="height: inherit">
                 <a href="index.php"><img id="logo" src="image/logo-trim.png" class="img-responsive img" ></a>
                 <ul id="menuitem" >
                     <li><a href="index"> Home </a></li>
@@ -137,7 +137,10 @@ SEPERATELY-->
     });
 
     function openNav () {
+
+
         document.getElementById("mySidenav").style.width ="100%";
+
     }
 
     function closeNav () {
