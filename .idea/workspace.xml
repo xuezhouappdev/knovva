@@ -124,12 +124,12 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <state relative-caret-position="585">
+              <caret line="45" column="110" lean-forward="false" selection-start-line="45" selection-start-column="110" selection-end-line="45" selection-end-column="110" />
               <folding>
                 <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#STYLE#0;n#a#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1497450321000" expanded="false" signature="6086:6154" ph="..." />
+                <marker date="1497450944000" expanded="false" signature="6089:6157" ph="..." />
               </folding>
             </state>
           </provider>
@@ -517,14 +517,7 @@
       <workItem from="1496677072017" duration="4780000" />
       <workItem from="1496802771041" duration="15573000" />
       <workItem from="1497275856355" duration="14088000" />
-      <workItem from="1497446613728" duration="1991000" />
-    </task>
-    <task id="LOCAL-00156" summary="changed g20 page updates">
-      <created>1494880511744</created>
-      <option name="number" value="00156" />
-      <option name="presentableId" value="LOCAL-00156" />
-      <option name="project" value="LOCAL" />
-      <updated>1494880511745</updated>
+      <workItem from="1497446613728" duration="2239000" />
     </task>
     <task id="LOCAL-00157" summary="updated instagram social">
       <created>1494941846474</created>
@@ -862,11 +855,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497448727666</updated>
     </task>
-    <option name="localTasksCounter" value="205" />
+    <task id="LOCAL-00205" summary="updated index line">
+      <created>1497450362839</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1497450362840</updated>
+    </task>
+    <option name="localTasksCounter" value="206" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="564794000" />
+    <option name="totallyTimeSpent" value="565042000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1367,12 +1367,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        <state relative-caret-position="585">
+          <caret line="45" column="110" lean-forward="false" selection-start-line="45" selection-start-column="110" selection-end-line="45" selection-end-column="110" />
           <folding>
             <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#STYLE#0;n#a#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1497450321000" expanded="false" signature="6086:6154" ph="..." />
+            <marker date="1497450944000" expanded="false" signature="6089:6157" ph="..." />
           </folding>
         </state>
       </provider>
