@@ -69,7 +69,7 @@ include "header.php";
         </div>
 
 
-        <script src="js/pageload.js"> </script>
+        <script src="js/pageload0.js"> </script>
 
 
 
