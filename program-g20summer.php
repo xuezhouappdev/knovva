@@ -92,10 +92,15 @@ include "header.php";
             <h1 style="text-align: center;">Model G20 Summer Program</h1>
 
             <a style="text-align: center; " href="http://info.knovva.com/model-g20-application">Enroll Now</a>
+            <a style="text-align: center; " href="MG20-webinar-application">Register for Webinar</a>
 <!--            <div data-id="ca83c822d0" class="livechat_button"><a href="https://www.livechatinc.com/customer-service-software/?partner=lc_8790441&amp;utm_source=chat_button">customer service software</a></div>-->
 <!--            <a href="#" onclick="LC_API.open_chat_window();return false;">More Details </a>-->
 
         </div>
+    </div>
+
+    <div class="notice" style="background:#6c44c3; position: absolute; top:60px;width:100%; z-index: 99;opacity: 0.7">
+        <h5 class=" flash infinite" style="padding: 0px;margin: 9px;display: block;text-align: center;color: white;"><a href="MG20-webinar-application.php" STYLE="color: white;text-decoration: underline">Model G20 Summer Program Webinar:</a> Exclusive Discount for Attendees! June 20th - 22nd, 12:30 PM - 1:00 PM EST</h5>
     </div>
 
 
