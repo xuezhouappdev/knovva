@@ -125,16 +125,13 @@ include "header.php";
                 <h5 style="    border-left: 4px solid #6E539E;
     padding-left: 8px;"><i>Program Description:</i>
                 </h5>
-                <p>The Global Sustainability in Action program is intended to provide a local look to the global issues addressed at the 2017 MG20 Youth Leadership Summit held in Cambridge, Massachusetts. The MG20 was organized to support high schools learn about international relations, politics and open up their considerations to future academic and professional paths. While the MG20 focused on macro-topics and themes of sustainability and economic development, the GSA program invites students to consider the factors that shape global realities on a local level. Qingdao will be the case-study, and sustainability will be the focus.
-
+                <p>The Global Sustainability in Action program is intended to provide a local look at the global issues addressed at the 2017 Model G20 Youth Leadership Summit held this past winter in Cambridge, MA. Model G20 was organized to support high schools to learn about international relations, politics, and to open students' minds to future academic and professional paths. While the Summit focused on macroeconomics and global sustainability, the summer program invites students to consider the microeconomic factors that shape global realities on a local level.
                 </p>
 
                 <br>
                 <h5 style="    border-left: 4px solid #6E539E;
     padding-left: 8px;"><i>Making an Impact:</i></h5>
-                <p>As a culminating project of the GSA program, students will be asked to tell a story, expressing an element of the environmental they wish to impact, whether through the lens of a politician, global citizen or future scientists. During the course of this program, students will be provided with tools of storytelling -- digital cameras, pens and papers-- to capture local needs, and to tell a story to the world in order to impact it.
-
-                    Change on the local or international stage, begins by bearing witness to need. The next step is to communicate that need with the world. Stories can be told in many different ways: with statistics, words, pictures, video etc. All stories, no matter their form, require attention to detail, to the people and to the setting to convey its meaning and message. We want to provide students a platform to reflect on their learnings from the MG20, now in a local context, across intersecting cultures, and then to tell a story to promote change for the betterment of the world. </p>
+                <p>As a culminating project for the Global Sustainability in Action program, students will be tasked to tell a story expressing an element of the environment they wish to impact through the lens of a politician, global citizen, or future scientist. Students will be provided with tools necessary to research, build a case, present their findings and tell this story, giving students the platform they need to create change in a local community, for the betterment of the world as a whole.</p>
             </div>
             <div class="col-md-5" >
                 <div class="panel panel-primary" style="position: relative;top:48px">
