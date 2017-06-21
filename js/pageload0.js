@@ -22,6 +22,11 @@ $("#apply-btn").click(function(){
         $("#paypalid").val("FMDRW8ZPU4KXN");  // KSA 3000
     }
 
+    else if(userinput == "E2XFG6VK9RXUN") {
+        $(".msg").html("<span style='color:green'>Promotion code successfully applied</span>");
+        $("#paypalid").val("FMDRW8ZPU4KXN");  // MG20SUMMER 3000
+    }
+
 
     else if(userinput == "SOFFER") {
         $(".msg").html("<span style='color:green'>Promotion code successfully applied</span>");
