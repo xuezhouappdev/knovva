@@ -64,30 +64,19 @@ include "header.php";
 <body>
 
 <!--CS-->
-<div class="video-wrapper">
-    <div class="video-container">
-        <video preload="auto" autoplay="autoplay" loop ="loop" src="video/g20-landing2.mp4"  poster="video/video-cover.png" width="100%" muted >
-        </video><!-- end of video-->
-    </div> <!-- end of video container-->
 
-    <div class="text-container" id="video-text"style="">
-        <div class="container intro-text">
-            <h1 style="text-align: center;">Model G20 Webinar Application</h1>
-            <a style="text-align: center; " href="program-g20summer.php">More Details</a>
-        </div>
-    </div>
-</div>
+
 
 <!-- body part -->
-<div class="main">
+<div class="main" >
     <div class="container">
-        <h1>Model G20 Summer Program Webinar Registration (For Parents or Delegates) </h1>
+        <h1>Model G20 Summer Program on Boarding Webinar </h1>
         <hr>
         <div class="row">
             <div class="col-md-6">
                 <ul>
                     <li><b>Subject: </b>Political Science & Sustainability</li>
-                    <li><b>Time: </b>July 31 – Aug 13, 2017</li>
+                    <li><b>Time: </b>Aug 1 – Aug 13, 2017</li>
                     <li><b>Location: </b>Beijing, China  |  Qingdao, China </li>
                     <li><b>Grades: </b>9 – 12</li>
                 </ul>
@@ -101,8 +90,7 @@ include "header.php";
                     <li>Risk Management, Safety, and Medical Concerns</li>
                 </ul>
 
-                <p>Can’t make it? No worries! Register and we’ll send you a link to the recording.
-                </p>
+
             </div>
 
 

@@ -64,6 +64,10 @@ a, a:hover{
 }
 
 
+.main {
+    margin-top: 96px;
+}
+
 /*form text*/
 .main h1 {
     font-size: 30px;

@@ -92,16 +92,16 @@ include "header.php";
             <h1 style="text-align: center;">Model G20 Summer Program</h1>
 
             <a style="text-align: center; " href="http://info.knovva.com/model-g20-application">Enroll Now</a>
-            <a style="text-align: center; " href="MG20-webinar-application">Register for Webinar</a>
+            <a style="text-align: center; " href="MG20-webinar-application2">Register for Webinar</a>
 <!--            <div data-id="ca83c822d0" class="livechat_button"><a href="https://www.livechatinc.com/customer-service-software/?partner=lc_8790441&amp;utm_source=chat_button">customer service software</a></div>-->
 <!--            <a href="#" onclick="LC_API.open_chat_window();return false;">More Details </a>-->
 
         </div>
     </div>
 
-    <div class="notice" style="background:#6c44c3; position: absolute; top:60px;width:100%; z-index: 99;opacity: 0.7">
-        <h5 class=" flash infinite" style="padding: 0px;margin: 9px;display: block;text-align: center;color: white;"><a href="MG20-webinar-application.php" STYLE="color: white;text-decoration: underline">Model G20 Summer Program Webinar:</a> Exclusive Discount for Attendees! June 20th - 22nd, 12:30 PM - 1:00 PM EST</h5>
-    </div>
+<!--    <div class="notice" style="background:#6c44c3; position: absolute; top:60px;width:100%; z-index: 99;opacity: 0.7">-->
+<!--        <h5 class=" flash infinite" style="padding: 0px;margin: 9px;display: block;text-align: center;color: white;"><a href="MG20-webinar-application.php" STYLE="color: white;text-decoration: underline">Model G20 Summer Program Webinar:</a> Exclusive Discount for Attendees! June 20th - 22nd, 12:30 PM - 1:00 PM EST</h5>-->
+<!--    </div>-->
 
 
 </div>
@@ -148,9 +148,9 @@ include "header.php";
 
                         <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;SUBJECT: </b>Political Science</p>
 
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp;LOCATION: </b>Qingdao, China&nbsp;|&nbsp; Jul 31 - Aug 13, 2017</P>
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp;LOCATION: </b>Qingdao, China&nbsp;|&nbsp; Aug 1 - Aug 13, 2017</P>
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;GRADES: </b>9 - 12</p>
-                        <p><b><i class="fa fa-money" aria-hidden="true"></i>&nbsp;&nbsp;PRICE: </b>$3300</p>
+                        <p><b><i class="fa fa-money" aria-hidden="true"></i>&nbsp;&nbsp;PRICE: </b>$3,300</p>
 
                         <!--                <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>-->
                         <!--                <P><i>Each week will include two one-hour lectures, preliminary readings & video, and discussion board.</i> </P>-->
