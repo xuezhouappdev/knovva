@@ -60,7 +60,7 @@ include "header.php";
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science, International Affairs </p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Qingdao, China
                     </p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July 31th - Aug 13th, 2017</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>Aug 1st - Aug 13th, 2017</p>
                     <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>Grades: &nbsp;</span>9 - 12</p>
 
 
