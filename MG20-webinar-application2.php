@@ -70,7 +70,7 @@ include "header.php";
 <!-- body part -->
 <div class="main" >
     <div class="container">
-        <h1>Model G20 Summer Program on Boarding Webinar </h1>
+        <h1>Model G20 Summer Program Onboarding Webinar </h1>
         <hr>
         <div class="row">
             <div class="col-md-6">
