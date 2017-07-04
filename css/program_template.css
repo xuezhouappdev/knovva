@@ -54,6 +54,7 @@ div.intro {
     top: 32px;
     position: relative;
     transition: 2s ease;
+    border-radius: 0;
 
 }
 
