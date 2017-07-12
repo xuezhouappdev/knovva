@@ -119,8 +119,8 @@
       <file leaf-file-name="MG20-webinar-application2.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MG20-webinar-application2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+            <state relative-caret-position="230">
+              <caret line="80" column="47" lean-forward="false" selection-start-line="80" selection-start-column="47" selection-end-line="80" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -533,14 +533,7 @@
       <workItem from="1499085618459" duration="926000" />
       <workItem from="1499181149836" duration="1248000" />
       <workItem from="1499436170336" duration="99000" />
-      <workItem from="1499874195892" duration="574000" />
-    </task>
-    <task id="LOCAL-00173" summary="updated chatting code">
-      <created>1496677792387</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1496677792389</updated>
+      <workItem from="1499874195892" duration="608000" />
     </task>
     <task id="LOCAL-00174" summary="updated price">
       <created>1496771043917</created>
@@ -878,11 +871,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499874361219</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="changed grates time">
+      <created>1499874844934</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1499874844934</updated>
+    </task>
+    <option name="localTasksCounter" value="223" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="579560000" />
+    <option name="totallyTimeSpent" value="579594000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1380,8 +1380,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MG20-webinar-application2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        <state relative-caret-position="230">
+          <caret line="80" column="47" lean-forward="false" selection-start-line="80" selection-start-column="47" selection-end-line="80" selection-end-column="47" />
           <folding />
         </state>
       </provider>
