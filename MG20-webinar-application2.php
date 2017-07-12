@@ -78,7 +78,7 @@ include "header.php";
                     <li><b>Subject: </b>Political Science & Sustainability</li>
                     <li><b>Program Date: </b>Aug 1 – Aug 13, 2017</li>
                     <li><b>Location: </b>Beijing, China  |  Qingdao, China </li>
-                    <li><b>Time: </b> Jul 14th ---- 9:00 AM - 9:45 AM (EST) </li>
+                    <li><b>Time: </b> Jul 14th 9:00 AM - 9:45 AM (EST) </li>
                 </ul>
                 <p>Interested in attending our Model G20 Summer program? Have questions about the program and itinerary? Join us for a webinar and we will answer all of your questions about our Model G20 Program: Global Sustainability in Action. We’ll also release an exclusive discount code for webinar attendees!
                 </p>
